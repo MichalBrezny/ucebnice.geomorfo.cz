@@ -48,9 +48,7 @@ Vývoj zemského reliéfu můžeme sledovat v různém časovém měřítku. Ně
 
 ## Zachování hmoty v krajině
 
-{::comment}
-Tohle potřebuje trochu přepsat
-{:/endcomment}
+[//]: # Tohle potřebuje trochu přepsat
 
 Georeliéf je dynamickým systémem, skrz který dochází k přesunům hmoty. Hmota nikde nemizí, jen je přemisťována z jednoho místa na druhé. Když se sesune část svahu, dojde k přesunu hmoty z horní části svahu k jeho úpatí. V odlučné oblasti materiál chybí, v akumulační zóně naopak hmoty přibylo. Pro určitou část zemského povrchu za danou dobu platí: 
 $$ I-O= \delta S$$

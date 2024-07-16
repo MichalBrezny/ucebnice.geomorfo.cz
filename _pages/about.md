@@ -2,6 +2,7 @@
 title: O učebnici
 layout: page
 permalink: /o-ucebnici
+published: false
 ---
 
 Online verze Základů geomorfologie

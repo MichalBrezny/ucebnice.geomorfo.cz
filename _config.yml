@@ -8,8 +8,8 @@ description:      Elektronická učebnice geomorfologie
 version:          0.2
 gitbook_version:  3.2.3
 
-url:              'https://ucebnice.geomorpho.cz'
-baseurl:          '/ucebnice.geomorpho.cz/'
+#url:              https://ucebnice.geomorpho.cz
+baseurl:          /ucebnice
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself

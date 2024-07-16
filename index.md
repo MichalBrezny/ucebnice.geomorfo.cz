@@ -1,8 +1,9 @@
 ---
 layout: home
+permalink: /index
 ---
 
 # Vítejte na na stránkách geomorfologické učebnice!
 
-![Badlands](/_assests/badlands.JPG)
+![Badlands](/assets/badlands.JPG)
 

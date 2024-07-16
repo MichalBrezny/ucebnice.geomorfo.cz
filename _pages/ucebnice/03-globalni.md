@@ -8,23 +8,12 @@ permalink: /ucebnice/globalni-geomorfologie
 
 ## Zemský plášť a kůra
 
-Země se sestává ze tří hlavních částí: **zemského jádra**, **pláště** a
-**kůry** (Obr.
-[\[fig:stavba_zeme\]](#fig:stavba_zeme){reference-type="ref"
-reference="fig:stavba_zeme"}). Hranice mezi jednotlivými částmi byly
-zjištěné studiem průchodu zemětřesných vln zemským tělesem. Na těchto
-hranicích se totiž výrazně mění chování zemětřesných vln či skrz hranici
-nemohou prostupovat. Rozhraní mezi zemskou kůrou a pláštěm tvoří
-Mohorovičičova diskontinuita (zkráceně Moho). Pod kontinenty se nachází
-v průměrné hloubce 35 km, pod oceány v pouhých 5--10 km pod oceánským
-dnem. Zemská kůra tedy nemá všude stejnou tloušťku. Mocnost **Oceánské
-kůry** je 5--10 km. Skládá se hlavně z bazaltové a tenké sedimentární
-vrstvy. **Kontinentální kůra** je daleko mocnější, v průměru má okolo 35
-km avšak pod některými pohořími může dosahovat i 70 km.
+Země se sestává ze tří hlavních částí: **zemského jádra**, **pláště** a **kůry** ([Obr. 1](fig:stavba_zeme)). Hranice mezi jednotlivými částmi byly zjištěné studiem průchodu zemětřesných vln zemským tělesem. Na těchto hranicích se totiž výrazně mění chování zemětřesných vln či skrz hranici nemohou prostupovat. Rozhraní mezi zemskou kůrou a pláštěm tvoří Mohorovičičova diskontinuita (zkráceně Moho). Pod kontinenty se nachází v průměrné hloubce 35 km, pod oceány v pouhých 5--10 km pod oceánským dnem. Zemská kůra tedy nemá všude stejnou tloušťku. Mocnost **Oceánské kůry** je 5--10 km. Skládá se hlavně z bazaltové a tenké sedimentární vrstvy. **Kontinentální kůra** je daleko mocnější, v průměru má okolo 35 km avšak pod některými pohořími může dosahovat i 70 km.
 
-::: figure*
-![image](./tectonic/Earth_cutaway_schematic-en.pdf){width="\\textwidth"}
-:::
+<figure>
+  <img src="./tectonic/Earth_cutaway_schematic-en.svg" alt="image">
+  <figcaption>{Průřez Zemí (není v měřítku) (zdroj: USGS, volné dílo, via Wikimedia Commons)</figcaption>
+</figure>
 
 ## Teorie deskové tektoniky
 

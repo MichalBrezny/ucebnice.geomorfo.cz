@@ -1,0 +1,21 @@
+---
+title: Klimatická geomorfologie
+layout: page
+permalink: /ucebnice/klimaticka
+published: false
+---
+
+
+::: table*
+  Morfoklimatická zóna             Průměrná roční teplota         Průměrné roční srážky             Důležitost geomorfologických procesů
+  -------------------------------- ------------------------------ --------------------------------- ------------------------------------------------------------------------------------------------------------------------------------
+  Humidní tropická                 [\\(20-30\\)]{.math .inline}   [\\(\>1500\\)]{.math .inline}     Velká úroveň chemického zvětrávání, mechanické zvětrávání je omezené,
+  Tropické (období deště, sucha)   [\\(20-30\\)]{.math .inline}   [\\(600-1500\\)]{.math .inline}   Chemické zvětrávání aktivní během vlhkých period, mechanické zvětrávání nízké až střední
+  Tropická semi-aridní             [\\(10-30\\)]{.math .inline}   [\\(300-600\\)]{.math .inline}    Chemické zvětrávání střední až nízké, mechanické zvětrávání je lokálně aktivní
+  Tropické aridní                  [\\(10-30\\)]{.math .inline}   [\\(0-300\\)]{.math .inline}      Mechanické zvětrávání vysoké, minimální chemické zvětrávání
+  Humidní střední zem. šířky       [\\(0-20\\)]{.math .inline}    [\\(400-1800\\)]{.math .inline}   Chemické zvětrávání střední,
+  Suché kontinentální              [\\(0-10\\)]{.math .inline}    [\\(100-400\\)]{.math .inline}    Chemické zvětrávání nízké až střední
+  Periglaciální                    [\\(\<0\\)]{.math .inline}     [\\(100-1000\\)]{.math .inline}   Velice silné mechanické zvětrávání, chemické zvětrávání je nízké až střední
+  Glaciální                        [\\(\<0\\)]{.math .inline}     [\\(0-1000\\)]{.math .inline}     Vysoké mechanické zvětrávání, chemické zvětrávání nízké
+  Azonální horské zóny             Vysoce variabilní              Vysoce variabilní                 Rychlosti všech procesů se značně mění s nadmořskou výškou; mechanická, glaciální eroze je výrazná ve vysokých nadmořských výškách
+:::

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="324.39mm" height="254.33mm" version="1.1" viewBox="0 0 324.39 254.33" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <marker id="marker1694" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 2.96 .4)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1624" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 2.96 .4)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1279" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 2.96 .4)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1221" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 2.96 .4)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1162" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 2.96 .4)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <linearGradient id="linearGradient2173">
+   <stop stop-color="#ffd788" offset="0"/>
+   <stop stop-color="#edd19a" offset=".58629"/>
+   <stop stop-color="#e48c65" offset=".83756"/>
+   <stop stop-color="#bdb499" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1277">
+   <stop stop-color="#bbb6a6" offset="0"/>
+   <stop stop-color="#bbb6a6" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1244">
+   <stop stop-color="#948c72" offset="0"/>
+   <stop stop-color="#bbb6a6" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath848">
+   <use width="100%" height="100%" xlink:href="#path815"/>
+  </clipPath>
+  <clipPath id="clipPath4277">
+   <path d="m18.174-5.5491-81.25 198.85-81.25-198.85" fill="none" stroke="#4d493b" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers fill stroke"/>
+  </clipPath>
+  <radialGradient id="radialGradient1014" cx="-2.4343" cy="146.06" r="163.9" gradientTransform="matrix(.95935 -.40478 .28487 .67516 -44.96 63.623)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2173"/>
+  <linearGradient id="linearGradient1246" x1="-36.047" x2="-30.537" y1="15.56" y2="34.319" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1244"/>
+  <linearGradient id="linearGradient1271" x1="-42.094" x2="-42.189" y1="16.733" y2="20.276" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1277"/>
+  <linearGradient id="linearGradient1308" x1="-30.094" x2="-30.424" y1="15.882" y2="17.3" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1277"/>
+  <linearGradient id="linearGradient1389" x1="-18.66" x2="-18.754" y1="25.71" y2="26.371" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1277"/>
+  <linearGradient id="linearGradient1420" x1="-42.094" x2="-42.189" y1="16.733" y2="20.276" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bbb6a6" offset="0"/>
+   <stop stop-color="#948c72" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3870" cx="168.18" cy="177.36" r="67.598" gradientTransform="matrix(2.3396 6.7972e-8 -6.7776e-8 2.3329 -225.3 -236.41)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2173"/>
+  <filter id="filter3932" color-interpolation-filters="sRGB">
+   <feColorMatrix values="1 0 0 -0.04 -0 0 1 0 -0.04 -0 0 0 1 -0.04 -0 0 0 0 1 0"/>
+  </filter>
+  <clipPath id="clipPath1909">
+   <path d="m66.262-123.24-129.34 316.54-129.7-317.42" fill="none" stroke="#4d493b" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers fill stroke"/>
+  </clipPath>
+  <radialGradient id="radialGradient1169" cx="-199.36" cy="185.12" r="57.693" gradientTransform="matrix(1 0 0 1.1142 0 -21.142)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4d493b" offset="0"/>
+   <stop stop-color="#4d493b" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient1803" cx="-180.91" cy="399.41" r="63.78" gradientTransform="matrix(.80095 -.61459 .61459 .80095 -293.34 -245.97)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ceffcd" offset="0"/>
+   <stop stop-color="#edd19a" offset=".54014"/>
+   <stop stop-color="#e48d65" offset="1"/>
+  </radialGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(260.05 1.9232)">
+  <path d="m-130.88 28.752 3.9475 11.694-22.367 5.7218-0.20022-2.0526 16.444-14.085z" fill="#948c72"/>
+  <path d="m-134.38 24.214 2.104 5.1491" fill="#51c7ef" stroke="#1191bc" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers fill stroke"/>
+  <g transform="matrix(.90132 0 0 .90132 -14.571 4.069)" clip-path="url(#clipPath4277)" fill="#948c72" stroke-width="1.1095">
+   <path d="m-137.38 31.067c8.0181-3.5636 16.036-7.1273 22.852-9.6218 6.8153-2.4945 12.428-3.92 19.199-5.2562 6.7706-1.3363 14.7-2.5836 22.147-2.6386 7.4472-0.05498 14.413 1.0823 20.089 1.5029 5.6754 0.42062 10.06 0.12468 14.445-0.17127l54.147 53.335-163.57-15.502 10.691-21.649z" fill="#948c72" stroke="#494538" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1095"/>
+  </g>
+  <path d="m-151.72 46.023 19.45-16.66" fill="none" stroke="#4d493b" stroke-linecap="square" stroke-linejoin="round" style="paint-order:markers fill stroke"/>
+  <path d="m-134.38 24.214-19.264 16.489 6.7259 17.087 85.978-16.187 19.11-26.727c-7.1954-1.5324-14.508-2.5148-21.853-2.9357-12.52-0.71762-25.118 0.19983-37.447 2.491-11.379 2.1146-22.54 5.3985-33.25 9.7832z" fill="#aae4f7" fill-opacity=".89252"/>
+  <g transform="matrix(.90132 0 0 .90132 -14.571 4.0689)" clip-path="url(#clipPath4277)" fill="none" stroke-width="1.1095">
+   <circle cx="-63.076" cy="193.3" r="184.77" fill="none" stroke="#1191bc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1095" style="paint-order:markers fill stroke"/>
+  </g>
+  <g>
+   <path d="m-7.698 22.336-10.489 15.988s-41.105 7.3705-41.294 6.9926c-0.18899-0.37798 2.2106-23.344 2.2106-23.344l37.101-2.1311z" fill="url(#linearGradient1246)" style="paint-order:markers fill stroke"/>
+   <path d="m-7.698 22.336-6.1208 14.98-19.45 16.66-2.2953-0.56931 5.1757-14.992 3.2405 0.58128z" fill="#736c57"/>
+   <path d="m-13.819 37.316-23.22 56.827-19.45 16.66-3.1204-1.2085 20.865-56.94 5.4626 1.3188z" fill="url(#radialGradient1014)" filter="url(#filter3932)" style="paint-order:markers fill stroke"/>
+   <path d="m-37.038 94.143-20.611 50.443-19.45 16.66 15.572-52.329 4.6741 1.7387z" fill="#cecece"/>
+   <path d="m-57.649 144.59-13.773 33.707-19.45 16.66 13.773-33.707z" fill="#ababab"/>
+   <path d="m-66.06 27.29c1.0591-1.6767 2.1179-3.3531 3.5449-4.6478s3.2227-2.2084 4.7188-3.0903c1.496-0.8819 2.6932-1.7325 3.7955-2.2994 1.1023-0.56687 2.1105-0.85042 3.327-1.4087s2.6423-1.3916 4.0679-2.2248c0.93676-0.64719 1.8738-1.2946 2.7042-1.5079 0.83042-0.21326 1.5551 0.0073 2.3898 0.10176 0.83464 0.09447 1.7798 0.06296 2.819 0.12595 1.0392 0.06299 2.1735 0.22053 3.5277 0.75591 1.3542 0.53538 2.9294 1.449 4.898 2.0632 1.9686 0.61419 4.3311 0.92919 6.5517 0.96067 2.2205 0.03148 4.2996-0.22053 5.9689-0.29926 1.6693-0.07872 2.9294 0.01578 3.8741 0.5826 0.94474 0.56682 1.5748 1.6065 2.5514 2.6743 0.9766 1.0679 2.2996 2.1639 3.6226 3.26" fill="url(#linearGradient1246)" stroke="#494538" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers fill stroke"/>
+   <path d="m-33.269 53.976 19.45-16.66-1.882 4.6059-19.45 16.66-5.01-2.0622 1.6298-4.9965z" fill="#ada281"/>
+  </g>
+  <g transform="matrix(.90132 0 0 .90132 -34.021 20.729)" clip-path="url(#clipPath1909)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1095">
+   <circle cx="-63.076" cy="193.3" r="184.77" fill="#51c7ef" fill-opacity=".30841" stroke="#1191bc" stroke-width="1.1095" style="paint-order:markers fill stroke"/>
+   <g>
+    <path d="m-137.38 31.067c8.0181-3.5636 16.036-7.1273 22.852-9.6218 6.8153-2.4945 12.428-3.92 19.199-5.2562 6.7706-1.3363 14.7-2.5836 23.475-2.7172s18.397 0.84641 23.643 0.9878c5.2457 0.14139 6.1152-0.55536 6.985-1.2523 0 0 5.6761-5.9272 5.6761-5.9272l5.703-3.2503 6.8387-4.4738c0.48318 1.0715 0.96629 2.1429 1.7269 3.4749s1.7986 2.9242 2.6555 4.2392c0.85694 1.315 1.5327 2.3525 2.2086 3.3901l3.8525-1.5091 3.2072-2.4054s2.6727 5.0781 2.6727 5.0781l0.93025 3.9079s4.4151-0.63388 4.4151-0.63388c0.60757 1.5708 1.215 3.1413 4.0218 4.1315 2.8068 0.99014 7.811 1.3991 12.816 1.8081v47.18l-163.57-15.502 10.691-21.649z" fill="#948c72" stroke="#494538" stroke-width="1.1095"/>
+    <g>
+     <path d="m0.82005 36.884c43.019-2.2259 88.44-4.5761 78.385 46.761-10.055 51.337-88.999 187.55-139.09 210.06-50.089 22.518-126.12-53.514-133.78-102.06s27.886-105.03 61.448-158.37c5.7478-3.0134 11.496-6.0271 19.647-8.7119 8.1515-2.6849 18.707-5.0413 28.935-6.1564 10.228-1.1151 20.129-0.98892 30.492 1.9307 10.363 2.9196 21.187 8.6326 28.489 10.746s11.825 0.33372 14.197 0.47456c2.3717 0.14084 4.8128 2.2496 6.6332 3.4041s3.23 1.5362 4.6397 1.918z" fill="#bdb499" stroke="#494538" stroke-width="1.1095" style="paint-order:markers fill stroke"/>
+     <path transform="matrix(1.1095 0 0 1.1095 -249.67 -3.4826)" d="m123.01 114.66-12.817-79.225c4.4522-1.9298 8.9047-3.8598 15.418-5.7378 6.5132-1.878 15.089-3.7045 23.474-4.3503 8.3854-0.64587 16.582-0.11131 22.573 0.8464 5.9912 0.95771 9.7776 2.3386 13.831 4.1093 4.0535 1.7706 8.3745 3.9311 12.64 5.312 4.2652 1.3809 8.4748 1.9822 11.448 2.1715 2.9734 0.18929 4.7107-0.03345 6.8922 0.43134 2.1815 0.46479 4.8082 1.6173 7.4346 2.7698l19.45-16.66 1.0348 95.696" fill="url(#radialGradient3870)" stroke="#968961" stroke-width="1" style="paint-order:markers fill stroke"/>
+     <circle cx="-63.076" cy="193.3" r="100.86" fill="#ececec" stroke="#8d8d8d" stroke-width="1.1095" style="paint-order:markers fill stroke"/>
+     <circle cx="-63.076" cy="193.3" r="40.399" fill="#bfbfbf" stroke="#727272" stroke-width="1.1095" style="paint-order:markers fill stroke"/>
+    </g>
+   </g>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round">
+   <path d="m-153.83 40.873 19.45-16.66-19.45 16.66 2.1039 5.149" fill="#51c7ef" stroke="#1191bc" style="paint-order:markers fill stroke"/>
+   <path d="m-151.72 46.023 60.853 148.93" fill="none" stroke="#4d493b" style="paint-order:markers fill stroke"/>
+   <path id="path815" d="m-133.84 209.53a63.78 63.78 0 0 1-75.433 37.199 63.78 63.78 0 0 1-46.727-69.932 63.78 63.78 0 0 1 63.234-55.455v63.78z" fill="url(#radialGradient1803)" stroke="url(#radialGradient1169)" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers fill stroke"/>
+  </g>
+  <g clip-path="url(#clipPath848)" stroke-linecap="round" stroke-linejoin="round">
+   <circle cx="-192.77" cy="185.12" r="34.78" fill="#ececec" stroke="#8d8d8d" style="paint-order:markers fill stroke"/>
+   <circle cx="-192.77" cy="185.12" r="12.78" fill="#bfbfbf" stroke="#727272" style="paint-order:markers fill stroke"/>
+  </g>
+  <g fill="none">
+   <path d="m-192.77 121.34a63.78 63.78 0 0 0-63.234 55.455 63.78 63.78 0 0 0 46.727 69.932 63.78 63.78 0 0 0 75.432-37.199l-58.924-24.408z" stroke="#4d493b" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers fill stroke" xlink:href="#path815"/>
+   <g stroke="#000" stroke-dasharray="1, 1" stroke-width=".5">
+    <path d="m-151.72 46.023-41.184 75.317 42.511-72.069"/>
+    <path d="m-192.77 150.34 67.513-39.536"/>
+    <path d="m-192.77 172.34 88.123-11.094"/>
+   </g>
+   <path d="m-27.148 38.996 19.45-16.66" stroke="#4d493b" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers fill stroke"/>
+  </g>
+  <path d="m-56.488 110.8 19.45-16.66" fill="#bfbfbf" stroke="#8d8d8d" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers fill stroke"/>
+  <path d="m-77.099 161.25 19.45-16.66" fill="#ececec" stroke="#727272" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers fill stroke"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path d="m-90.872 194.95 19.45-16.66" stroke="#4d493b" style="paint-order:markers fill stroke"/>
+   <path d="m-33.269 53.976 19.45-16.66" stroke="#494538" style="paint-order:markers fill stroke"/>
+   <path transform="translate(-259.05 17.59)" d="m223.9 40.992 19.45-16.66-19.45 16.66z" stroke="#968961" style="paint-order:markers fill stroke"/>
+   <path d="m-71.422 178.29 63.726-155.96" stroke="#4d493b" style="paint-order:markers fill stroke"/>
+  </g>
+  <g stroke="#494538" stroke-linecap="round" stroke-linejoin="round">
+   <path d="m-54.756 20.328c1.4173 0.23481 2.8344 0.46959 3.9523 0.98062 1.1179 0.51104 1.9369 1.2986 2.693 1.7238 0.75607 0.42523 1.449 0.48823 2.252 0.64569s1.7168 0.40953 2.63 0.66147" fill="#948c72" style="paint-order:markers fill stroke"/>
+   <path d="m-48.979 19.486c0.87127-0.43056 1.7005-0.94606 2.4722-1.5368 0.85656-0.65571 1.6429-1.4041 2.5391-2.0045 0.66378-0.4447 1.3841-0.80487 2.1382-1.0691l1.9377-0.7684 1.0531 0.6923 0.75097 1.6129c0.40183 0.30665 0.76243 0.66725 1.0691 1.0691 0.4734 0.62033 0.81481 1.3336 1.0691 2.0713 0.15632 0.45356 0.28112 0.9186 0.46628 1.3612 0.18516 0.44257 0.43684 0.86821 0.80325 1.1779 0.31039 0.26233 0.69059 0.43073 1.0804 0.54571 0.38979 0.11498 0.79229 0.17953 1.1914 0.2561 1.1854 0.22743 2.3501 0.56337 3.4745 1.0023" fill="url(#linearGradient1271)" style="paint-order:markers fill stroke"/>
+   <path d="m-36.047 15.977c1.1002-0.42177 2.1435-0.99183 3.0927-1.6899 1.3884-1.0211 2.5736-2.3174 3.4665-3.7915 0.43116 0.83643 0.96664 1.619 1.5901 2.3239 0.54162 0.61237 1.1495 1.1661 1.8096 1.6484l1.4277 0.75322 2.2206-2.0316c0.23715 0.55082 0.47339 1.102 0.70871 1.6536 0.39292 0.92103 0.78579 1.848 1.3229 2.6931 0.71055 1.118 1.6696 2.077 2.7876 2.7876" fill="url(#linearGradient1308)" style="paint-order:markers fill stroke"/>
+  </g>
+  <g stroke="#494538" stroke-linecap="round" stroke-linejoin="round">
+   <path d="m-40.819 24.718c0.62045-0.18423 1.325-0.05777 1.8426 0.33073 0.47304 0.35502 0.77568 0.8951 1.2284 1.2757 0.33348 0.28032 0.74489 0.46693 1.1755 0.53317 0.43058 0.06624 0.87906 0.01192 1.2814-0.15519" fill="none" style="paint-order:markers fill stroke"/>
+   <path d="m-27.589 17.394c0.15699 0.5437 0.3796 1.0684 0.66146 1.5592 0.37524 0.6533 0.85578 1.246 1.4174 1.7481" fill="none" style="paint-order:markers fill stroke"/>
+   <path transform="translate(-19.466 -12.662)" d="m-25.227 26.466c1.2736-0.12123 2.5211-0.51006 3.638-1.1339 0.65928-0.36824 1.2781-0.81934 1.9844-1.0867 0.6441-0.24381 1.3488-0.32575 2.0316-0.23624 0.10163 0.47193 0.29531 0.92386 0.56696 1.3229 0.41569 0.61065 1.0157 1.094 1.7009 1.3702" fill="url(#linearGradient1389)" style="paint-order:markers fill stroke"/>
+   <path transform="translate(-.42522 .23624)" d="m-52.3 19.001c0.63896-0.18491 1.2579-0.43884 1.8426-0.75595 0.94089-0.51028 1.7923-1.185 2.5041-1.9844 0.32095 0.29876 0.66937 0.568 1.0394 0.8032 0.6397 0.40658 1.3443 0.71084 2.0789 0.89769 0.20526 0.30483 0.39459 0.62038 0.56696 0.94494 0.37878 0.71319 0.68412 1.4823 1.2284 2.0789 0.50349 0.55181 1.199 0.92498 1.9371 1.0394" fill="url(#linearGradient1420)" style="paint-order:markers fill stroke"/>
+  </g>
+  <path d="m-192.77 185.12 101.9 9.8331" fill="none" stroke="#000" stroke-dasharray="1, 1" stroke-width=".5"/>
+ </g>
+ <g transform="translate(-1.1758e-5)">
+  <g id="g3735" transform="translate(260.05 1.9232)">
+   <path transform="matrix(0 .077495 -.07247 0 143.08 -162.95)" d="m467.7-58.47c6.9585-11.472 18.851-19.833 32-22.5 14.192-2.8783 28.78 0.65372 43.048 3.1328 7.1338 1.2395 14.355 2.2198 21.592 1.9954 7.2372-0.22441 14.531-1.6986 20.908-5.1282 7.7615-4.1742 13.923-11.242 17-19.5 3.077 8.2582 9.2385 15.326 17 19.5 6.377 3.4296 13.671 4.9038 20.908 5.1282 7.2372 0.22441 14.458-0.75584 21.592-1.9954 14.268-2.4791 28.855-6.0111 43.048-3.1328 13.149 2.6668 25.041 11.028 32 22.5" color="#000000" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10.008"/>
+   <path transform="matrix(0 .077495 -.07247 0 143.08 -127.48)" d="m222.53-58.47c9.4319-9.0779 20.266-16.696 32-22.5 23.378-11.564 49.883-15.731 75.964-15.501 26.081 0.23019 51.929 4.6898 77.54 9.6258 25.611 4.936 51.198 10.372 77.186 12.595s52.584 1.1454 77.452-6.72c14.077-4.4524 27.473-11.052 39.582-19.5 12.109 8.4481 25.505 15.048 39.582 19.5 24.868 7.8654 51.465 8.9432 77.452 6.72s51.575-7.6595 77.186-12.595c25.611-4.936 51.459-9.3956 77.54-9.6258 26.081-0.23019 52.586 3.9369 75.964 15.501 11.734 5.8042 22.568 13.422 32 22.5" color="#000000" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10.008"/>
+  </g>
+  <use transform="rotate(21.432 -65.449 -454.36)" width="100%" height="100%" xlink:href="#g3735"/>
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75">
+   <path transform="translate(.99998 19.513)" d="m200.41 112.13 16.064 6.8036" marker-start="url(#marker1221)"/>
+   <path transform="translate(.99998 19.513)" d="m183.58 156.18 25.324-10.016" marker-start="url(#marker1162)"/>
+   <path transform="translate(.99998 19.513)" d="m129.69 21.538-20.155-22.138" marker-start="url(#marker1624)"/>
+   <path transform="translate(.99998 19.513)" d="m197.58 16.995-31.003-29.132" marker-start="url(#marker1279)"/>
+   <path transform="translate(.99998 19.513)" d="m123.53 34.026-24.217-22.012" marker-start="url(#marker1694)"/>
+  </g>
+ </g>
+ <g transform="translate(.99997 19.513)" display="none" fill="#000000" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+  <text transform="translate(259.05 -17.59)" x="-104.35229" y="101.72025" font-family="'Source Serif Pro'" font-size="8.0986px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-104.35229" y="101.72025" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458">2900 km</tspan></text>
+  <text transform="translate(259.05 -17.59)" x="-90.776894" y="156.21114" font-family="'Source Serif Pro'" font-size="8.0986px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-90.776894" y="156.21114" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" text-align="center" text-anchor="middle">5100 km</tspan></text>
+  <g>
+   <text x="253.72673" y="19.736595" font-family="'Liberation Sans'" font-size="7.0556px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="253.72673" y="19.736595" style="line-height:1">litosféra (kůra a část</tspan><tspan x="253.72673" y="27.835234" style="line-height:1">svrchního pláště)</tspan></text>
+   <text x="241.30492" y="52.343479" font-family="'Source Serif Pro'" font-size="8.0986px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="241.30492" y="52.343479" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" style="line-height:1">plášť</tspan></text>
+   <text x="218.50975" y="121.26981" font-family="'Liberation Sans'" font-size="7.0556px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="218.50975" y="121.26981" style="line-height:1">vnější jádro</tspan><tspan x="218.50975" y="129.36845" style="line-height:1">(kapalné)</tspan></text>
+   <text x="210.82574" y="147.66267" font-family="'Liberation Sans'" font-size="7.0556px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="210.82574" y="147.66267" style="line-height:1">vnitřní jádro</tspan><tspan x="210.82574" y="155.76131" style="line-height:1">(tuhé)</tspan></text>
+   <text x="62.463421" y="0.56149757" font-family="'Source Serif Pro'" font-size="8.0986px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="62.463421" y="0.56149757" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" style="line-height:1">oceánská kůra</tspan></text>
+  </g>
+  <g font-family="'Source Serif Pro'" font-size="8.0986px">
+   <text x="165.2563" y="-11.400304" text-align="end" text-anchor="end" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="165.2563" y="-11.400304" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" text-align="end" text-anchor="end" style="line-height:1">kontinentální kůra</tspan></text>
+   <text x="79.30291" y="13.342134" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="79.30291" y="13.342134" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" text-align="center" text-anchor="middle" style="line-height:1">astenosféra</tspan></text>
+   <text transform="translate(259.05 -17.59)" x="-90.776894" y="203.26917" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-90.776894" y="203.26917" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" text-align="center" text-anchor="middle">6378 km</tspan></text>
+  </g>
+ </g>
+ <g transform="translate(.99997 19.513)" fill="#000000" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+  <text transform="translate(259.05 -17.59)" x="-104.35229" y="101.72025" font-family="'Source Serif Pro'" font-size="8.0986px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-104.35229" y="101.72025" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458">2900 km</tspan></text>
+  <text transform="translate(259.05 -17.59)" x="-90.776894" y="156.21114" font-family="'Source Serif Pro'" font-size="8.0986px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-90.776894" y="156.21114" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" text-align="center" text-anchor="middle">5100 km</tspan></text>
+  <g>
+   <text x="253.72673" y="19.736595" font-family="'Liberation Sans'" font-size="7.0556px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="253.72673" y="19.736595" style="line-height:1">lithosphere</tspan><tspan x="253.72673" y="27.835234" style="line-height:1">(crust and uppermost</tspan><tspan x="253.72673" y="35.933872" style="line-height:1">solid mantle)</tspan></text>
+   <text x="241.30492" y="52.343479" font-family="'Source Serif Pro'" font-size="8.0986px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="241.30492" y="52.343479" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" style="line-height:1">mantle</tspan></text>
+   <text x="218.50975" y="121.26981" font-family="'Liberation Sans'" font-size="7.0556px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="218.50975" y="121.26981" style="line-height:1">outer core</tspan><tspan x="218.50975" y="129.36845" style="line-height:1">(liquid)</tspan></text>
+   <text x="210.82574" y="147.66267" font-family="'Liberation Sans'" font-size="7.0556px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="210.82574" y="147.66267" style="line-height:1">inner core</tspan><tspan x="210.82574" y="155.76131" style="line-height:1">(solid)</tspan></text>
+   <text x="65.676216" y="0.56149757" font-family="'Source Serif Pro'" font-size="8.0986px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="65.676216" y="0.56149757" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" style="line-height:1">oceanic crust</tspan></text>
+  </g>
+  <g font-family="'Source Serif Pro'" font-size="8.0986px">
+   <text x="165.2563" y="-11.400304" text-align="end" text-anchor="end" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="165.2563" y="-11.400304" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" text-align="end" text-anchor="end" style="line-height:1">continental crust</tspan></text>
+   <text x="76.468086" y="13.342134" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="74.000000" y="13.342134" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" text-align="center" text-anchor="middle" style="line-height:1">asthenosphere</tspan></text>
+   <text transform="translate(259.05 -17.59)" x="-90.776894" y="203.26917" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-90.776894" y="203.26917" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" text-align="center" text-anchor="middle">6378 km</tspan></text>
+  </g>
+ </g>
+ <g transform="translate(.99997 19.513)" display="none" fill="#000000" font-family="'Source Serif Pro'" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+  <text transform="translate(259.05 -17.59)" x="-104.35229" y="101.72025" font-size="8.0986px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-104.35229" y="101.72025" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458">2900 km</tspan></text>
+  <text transform="translate(259.05 -17.59)" x="-90.776894" y="156.21114" font-size="8.0986px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-90.776894" y="156.21114" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" text-align="center" text-anchor="middle">5100 km</tspan></text>
+  <text x="113.97369" y="-3.7241342" font-size="21.731px" text-align="end" text-anchor="end" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="113.97369" y="-3.7241342" font-family="'Liberation Sans'" font-size="18.932px" stroke-width=".26458" text-align="end" text-anchor="end" style="line-height:1">1a</tspan></text>
+  <text transform="translate(259.05 -17.59)" x="-90.776894" y="203.26917" font-size="8.0986px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-90.776894" y="203.26917" font-family="'Liberation Sans'" font-size="7.0556px" stroke-width=".26458" text-align="center" text-anchor="middle">6378 km</tspan></text>
+  <g font-size="21.731px">
+   <text x="164.81149" y="-10.905682" text-align="end" text-anchor="end" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="164.81149" y="-10.905682" font-family="'Liberation Sans'" font-size="18.932px" stroke-width=".26458" text-align="end" text-anchor="end" style="line-height:1">1b</tspan></text>
+   <text x="253.15047" y="57.130032" text-align="end" text-anchor="end" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="253.15047" y="57.130032" font-family="'Liberation Sans'" font-size="18.932px" stroke-width=".26458" text-align="end" text-anchor="end" style="line-height:1">2</tspan></text>
+   <g text-anchor="middle">
+    <text x="229.07932" y="125.8183" text-align="center" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="229.07932" y="125.8183" font-family="'Liberation Sans'" font-size="18.932px" stroke-width=".26458" text-align="center" text-anchor="middle" style="line-height:1">3a</tspan></text>
+    <text x="221.86304" y="153.07979" text-align="center" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="221.86304" y="153.07979" font-family="'Liberation Sans'" font-size="18.932px" stroke-width=".26458" text-align="center" text-anchor="middle" style="line-height:1">3b</tspan></text>
+    <text x="259.53082" y="24.435091" text-align="center" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="259.53082" y="24.435091" font-family="'Liberation Sans'" font-size="18.932px" stroke-width=".26458" text-align="center" text-anchor="middle" style="line-height:1">4</tspan></text>
+    <text x="92.27636" y="16.875566" text-align="center" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="92.27636" y="16.875566" font-family="'Liberation Sans'" font-size="18.932px" stroke-width=".26458" text-align="center" text-anchor="middle" style="line-height:1">5</tspan></text>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(.99997 19.513)" display="none" fill="#948c72" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+  <text transform="translate(259.05 -17.59)" x="-194.97379" y="258.52939" font-family="'Source Serif Pro'" font-size="8.0986px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="-194.97379" y="258.52939" fill="#948c72" font-family="'Liberation Sans'" font-size="7.0556px" font-style="italic" stroke-width=".26458" text-align="center" text-anchor="middle" style="line-height:1">vzdálenosti ve správném poměru</tspan></text>
+  <text x="275.22174" y="85.388901" font-family="'Liberation Sans'" font-size="7.0556px" font-style="italic" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1" xml:space="preserve"><tspan x="275.22174" y="85.388901" text-align="center" style="line-height:1">vzdálenosti</tspan><tspan x="275.22174" y="93.487541" text-align="center" style="line-height:1">v nesprávném</tspan><tspan x="275.22174" y="101.58618" text-align="center" style="line-height:1">poměru</tspan></text>
+ </g>
+</svg>

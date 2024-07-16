@@ -1,0 +1,31 @@
+---
+title: prir_hrozby
+layout: page
+published: false
+---
+
+
+*Přírodní hazard (hrozba)* je přírodní proces, který představuje možné
+ohrožení pro lidskou společnost, na lidské společnosti z velké části
+nezávislý. Hazard je souhrn časové a prostorové pravděpodobnosti výskytu
+nebezpečného jevu o určité velikosti a intenzitě.
+
+*Riziko* je potom pravděpodobnost, že nastane událost, kterou hazard
+představuje. Jde tedy o přímé vystavení společenských hodnot hrozbě a
+velikost takového je závislá na součinnosti dalších podmínek. Riziko
+tedy můžeme definovat jako:
+
+[\\\[\\label{key} R = H \\times Z \\times P\\\]]{.math .display}
+
+::: eqexpl
+[\\(H\\)]{.math .inline}Hazard
+
+[\\(Z\\)]{.math .inline}Zranitelnost
+
+[\\(P\\)]{.math .inline}Ohrožené prvky
+:::
+
+Zkráceně můžeme říct, že riziko je pravděpodobnost ztrát způsobených
+výskytem extrémního jevu. Je třeba mít na paměti, že riziko je
+hypotetické. Pokud dojde k uskutečnění rizika jedná se pak o *přírodní
+katastrofu*.

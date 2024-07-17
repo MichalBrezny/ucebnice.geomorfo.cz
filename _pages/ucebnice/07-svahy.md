@@ -6,31 +6,11 @@ permalink: /ucebnice/svahy
 
 
 # Svahy
-
-Svah -- ukloněná část zemského povrchu je nejrozšířenějším a také
-nejdynamičtějším prvkem reliéfu krajiny. Svahy zabírají přibližně [\\(90
-\\%\\)]{.math .inline} povrchu souše. Většina svahů (cca [\\(60
-\\%\\)]{.math .inline}) má sklon do 10 °.
-
-V základu můžeme rozlišovat dva typy svahů. A to podle toho, zda jsou
-pokryté sedimenty či půdou (*soil-mantled hillslopes*). Tyto svahy jsou
-charakteristické svým hladkým průběhem s jen občasnými výchozy podloží.
-Druhým typem jsou svahy tvořené jen skalním podložím, neboli strukturní
-svahy (*bedrock hillslopes*). Takovéto svahy jsou typické rozeklaným
-povrchem.
+Svah -- ukloněná část zemského povrchu je nejrozšířenějším a také nejdynamičtějším prvkem reliéfu krajiny. Svahy zabírají přibližně [\\(90 \\%\\)]{.math .inline} povrchu souše. Většina svahů (cca [\\(60 \\%\\)]{.math .inline}) má sklon do 10 °.
+V základu můžeme rozlišovat dva typy svahů. A to podle toho, zda jsou pokryté sedimenty či půdou (*soil-mantled hillslopes*). Tyto svahy jsou charakteristické svým hladkým průběhem s jen občasnými výchozy podloží. Druhým typem jsou svahy tvořené jen skalním podložím, neboli strukturní svahy (*bedrock hillslopes*). Takovéto svahy jsou typické rozeklaným povrchem.
 
 ## Části svahu
-
-Svah lze rozčlenit do několika částí (jednotek, segmentů). Nejjednodušší
-rozdělení je do tří jednotek (Obr.
-[1](#fig:segmenty_svahu){reference="fig:segmenty_svahu"
-reference-type="ref"}. V horní části je konvexní jednotka, kde se sklon
-svahu s narůstající vzdáleností zvětšuje. Následuje lineární svah (sklon
-se nemění). Spodní část svahu má konkávní tvar, což znamená, že se sklon
-zmenšuje. V některých případech prostřední část svahu chybí a má
-konvexně-konkávní průběh []{.citation
-cites="whiteConvexConcaveLandslopesGeometrical1966"}. Přechod mezi
-jednotlivými segmenty může být pozvolný ale i ostrý.
+Svah lze rozčlenit do několika částí (jednotek, segmentů). Nejjednodušší rozdělení je do tří jednotek (Obr. [1](#fig:segmenty_svahu){reference="fig:segmenty_svahu" reference-type="ref"}. V horní části je konvexní jednotka, kde se sklon svahu s narůstající vzdáleností zvětšuje. Následuje lineární svah (sklon se nemění). Spodní část svahu má konkávní tvar, což znamená, že se sklon zmenšuje. V některých případech prostřední část svahu chybí a má konvexně-konkávní průběh []{.citation cites="whiteConvexConcaveLandslopesGeometrical1966"}. Přechod mezi jednotlivými segmenty může být pozvolný ale i ostrý.
 
 <figure id="fig:segmenty_svahu">
 <figure>
@@ -62,22 +42,13 @@ do osmi částí:
 
 ## Síly působící na svah
 
-Každá část svahu je pod vlivem gravitace. Ta vyvolává tíhové napětí. Pro
-zjednodušení si představte objekt který je na nakloněné rovině -- svahu.
-Tento objekt svou tíhou působí svisle na svah a vyvolává tíhové napětí.
-To můžeme rozložit do dvou složek. *Normálová* složka resp. *normálové
-napětí* působí kolmo na rovinu svahu. Po svahu dolů působí *smykové
-napětí*. Smykové a normálové napětí vypočítáme podle rovnic:
+Každá část svahu je pod vlivem gravitace. Ta vyvolává tíhové napětí. Pro zjednodušení si představte objekt který je na nakloněné rovině -- svahu. Tento objekt svou tíhou působí svisle na svah a vyvolává tíhové napětí. To můžeme rozložit do dvou složek. *Normálová* složka resp. *normálové napětí* působí kolmo na rovinu svahu. Po svahu dolů působí *smykové napětí*. Smykové a normálové napětí vypočítáme podle rovnic:
 
-[\\\[\\begin{aligned} \\text{Smykové napětí: } \\tau =
-\\rho\_{s}gz\\sin{\\theta}\\\\ \\text{Normálové napětí: } \\sigma =
-\\rho\_{s}gz\\cos{\\theta} \\end{aligned}\\\]]{.math .display}
+$$\text{Smykové napětí: } \tau = \rho_{s}gz\sin{\theta} \newline
+\text{Normálové napětí: } \sigma = \rho_{s}gz\cos{\theta}
+$$
 
-Velikost smykového a normálového napětí je závislá na velikosti sklonu
-([\\(\\theta\\)]{.math .inline}) svahu. S rostoucím sklonem narůstá
-smykové napětí a normálové klesá a naopak. Na horizontálním povrchu je
-smykové nulové, normálové napětí se rovná tíhovému. U kolmé stěny je
-naopak nulové normálové napětí a smykové se rovná tíhovému napětí.
+Velikost smykového a normálového napětí je závislá na velikosti sklonu ([\\(\\theta\\)]{.math .inline}) svahu. S rostoucím sklonem narůstá smykové napětí a normálové klesá a naopak. Na horizontálním povrchu je smykové nulové, normálové napětí se rovná tíhovému. U kolmé stěny je naopak nulové normálové napětí a smykové se rovná tíhovému napětí.
 
 <figure id="fig:svahnapeti">
 <figure>
@@ -87,8 +58,7 @@ naopak nulové normálové napětí a smykové se rovná tíhovému napětí.
 class="math inline">\(\sigma\)</span>) a smykové napětí (<span
 class="math inline">\(\tau\)</span>) v závislosti na sklonu svahu (<span
 class="math inline">\(\beta\)</span>). B: ukázka rozložení sil na svahu
-(upraveno podle <span class="citation"
-data-cites="selbyHillslopeMaterialsProcesses1993"></span>)</figcaption>
+(upraveno podle {% cite selbyHillslopeMaterialsProcesses1993 %})</figcaption>
 </figure>
 
 ## Koncept stability svahu
@@ -98,25 +68,19 @@ ve svahu. Ve své podstatě se jedná o poměr mezi silami, které drží
 materiál svahu v původní poloze a silami, které se snaží jej uvést do
 pohybu. Stabilita svahu tedy lze vyjádřit rovnicí:
 
-[\\\[\\text{stabilita svahu} = \\frac{\\text{síly držící
-svah}}{\\text{mobilizační síly}}\\\]]{.math .display}
+$$ \text{stabilita svahu} = \frac{\text{síly držící svah}}{\text{mobilizační síly}}$$
 
-Poměr těchto sil se označuje jako faktor bezpečnosti (*factor of
-safety*, FS) a ten vypočítáme jako podíl pevnosti ve smyku
-([\\(S\\)]{.math .inline}) a smykového napětí ([\\(\\tau\\)]{.math
-.inline}):
+Poměr těchto sil se označuje jako faktor bezpečnosti (*factor of safety*, FS) a ten vypočítáme jako podíl pevnosti ve smyku $S$ a smykového napětí $\tau$:
 
-[\\\[\\text{FS} = \\frac{s}{\\tau}\\\]]{.math .display}
+$$
+\text{FS} = \frac{s}{\tau}
+$$
 
-Svah je stabilní pokud je faktor bezpečnosti větší než jedna. Zpravidla
-se vyčleňují tři "pásma stability":
+Svah je stabilní pokud je faktor bezpečnosti větší než jedna. Zpravidla se vyčleňují tři "pásma stability":
 
--   FS [\\(\>1,3\\)]{.math .inline} jedná se o stabilní svah
-
--   FS z intervalu [\\((1;1,3\>\\)]{.math .inline} se jedná o podmínečně
-    stabilní svah
-
--   FS [\\(=\<1\\)]{.math .inline} se jedná se o nestabilní svah
+-   $FS>1,3$ jedná se o stabilní svah
+-   FS z intervalu $(1;1,3>$ se jedná o podmínečně stabilní svah
+-   FS $<1$ se jedná se o aktivně nestabilní svah
 
 Pevnost ve smyku (*shear strength*, S) lze vypočítat podle
 Coulomb-Terzagiho rovnice následovně:

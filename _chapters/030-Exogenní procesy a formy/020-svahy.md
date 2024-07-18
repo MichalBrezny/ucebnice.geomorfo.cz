@@ -174,52 +174,182 @@ podle <span class="citation"
 data-cites="gladeLandslideGeomorphologyChanging2010"></span>)</figcaption>
 </figure>
 
-::: figure*
-![image](obrazky/svahy/time_stability.png){style="width:100.0%"}
-:::
+<figure>
+	<img src="obrazky/slope/time_stability.png" style="width:100.0%"/>
+	<figcaption>
+    Vývoj stability dvou hypotetických svahů. Přípravné faktory (PF) postupně nebo nárazově snižují stabilitu svahu (snižují pevnost ve smyku). Spouštěcí faktory (triggery -- T) jsou ty, které sníží pevnost ve smyku tak, že faktor bezpečnosti $ \leq 1$ (upraveno podle {% cite popescuSuggestedMethodReporting1994 mcollLandslideCausesTriggers2015 %}
+    </figcaption>
+	<label for="fig:timestability"> </label>
+</figure>
 
-:::: table*
-::: tabularx
-\@XXXX@\
-\
-\
-\
-\
-\
-\
-\
-& & **Proces** &\
-****Přípravné faktory**** & **Geomorfologický** & **Fyzikální** &
-**Antropogenní**\
-Nárůst výšky svahu nebo sklonu & Tektonické pochody, vulkanismus,
-výzdvih po odlednění & & Výkopy ve svahu, násypy\
-& Fluviální, marinní nebo ledovcová eroze & &\
-Ztráta opory & Ústup ledovce & & Odtěžení paty svahu\
-Odkrytí potenciálních smykových ploch & Eroze & & Výkopy ve svahu\
-Snížení pevnosti horniny & Sufoze, rozpouštění & Zvětrávání & Hloubení
-tunelů, dolů; odlesnění\
-& Zvětrávání & Únava materiálu &\
-Zatěžování svahu & Postupná akumulace sedimentů & &Stavba, ukládání
-materiálu -- výsypky\
-Dlouhodobé zvyšování hladiny podzemní vody & Klimatické změny & &
-Infiltrace srážkových vod, prasklé potrubí\
-& & & Zavlažování\
-& & & Odstranění vegetace\
-**Spouštěče** & **Geomorfologické** & **Fyzikální** & **Antropogenní**\
-Rychlý nárůst pórových tlaků & Rychlé zatížení sedimenty z Undrained
-loading from rapid emplacement of sediment & Srážky & Zatížení rychlým
-uložením navážky\
-& & Tání sněhu/ledu &\
-Rychlý pokles hladiny podzemní vody & Protržení přírodních hrází & &
-Snižování hladiny v nádržích\
-Přechodná napětí& & Zemětřesení& Vibrace strojů\
-& & Vítr &\
-Snížení pevnosti& & Degradace permafrostu &\
-& & Zvětrávání &\
-& & Únava materiálu &\
-Zatěžování svahu & Jiné sesuvy & Srážky & Stavby\
-:::
-::::
+
+<table class="table table-striped table-hover table-sm">
+<tbody>
+<tr>
+<td colspan="4" style="text-align: center;"><strong>Predispozice</strong></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align: center;">Plastický, měkký materiál</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align: center;">Sypký materiál</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align: center;">Navětralý materiál</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align: center;">Tektonicky porušený materiál</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align: center;">Příhodně orientované diskontinuity (např. vrstevní plochy, pukliny, zlomy)</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align: center;">Kontrast mezi propustností hornin</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align: center;">Kontrastní pevnost hornin (pevné horniny v nadloží plastických např. pískovce na jílovcích)</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-striped table-hover table-sm">
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Proces</strong></td>
+<td style="text-align: center;"><strong>Geomorfologický</strong></td>
+<td style="text-align: center;"><strong>Fyzikální</strong></td>
+<td style="text-align: center;"><strong>Antropogenní</strong></td>
+</tr>
+<tr>
+<td><strong>Přípravné faktory</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nárůst výšky svahu nebo sklonu</td>
+<td>Tektonické pochody, vulkanismus, výzdvih po odlednění</td>
+<td></td>
+<td>Výkopy ve svahu, násypy</td>
+</tr>
+<tr>
+<td></td>
+<td>Fluviální, marinní nebo ledovcová eroze</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ztráta opory</td>
+<td>Ústup ledovce</td>
+<td></td>
+<td>Odtěžení paty svahu</td>
+</tr>
+<tr>
+<td>Odkrytí potenciálních smykových ploch</td>
+<td>Eroze</td>
+<td></td>
+<td>Výkopy ve svahu</td>
+</tr>
+<tr>
+<td>Snížení pevnosti horniny</td>
+<td>Sufoze, rozpouštění</td>
+<td>Zvětrávání</td>
+<td>Hloubení tunelů, dolů; odlesnění</td>
+</tr>
+<tr>
+<td></td>
+<td>Zvětrávání</td>
+<td>Únava materiálu</td>
+<td></td>
+</tr>
+<tr>
+<td>Zatěžování svahu</td>
+<td>Postupná akumulace sedimentů</td>
+<td></td>
+<td>Stavba, ukládání materiálu -- výsypky</td>
+</tr>
+<tr>
+<td>Dlouhodobé zvyšování hladiny podzemní vody</td>
+<td>Klimatické změny</td>
+<td></td>
+<td>Infiltrace srážkových vod, prasklé potrubí</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Zavlažování</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Odstranění vegetace</td>
+</tr>
+<tr>
+<td><strong>Spouštěče</strong></td>
+<td><strong>Geomorfologické</strong></td>
+<td><strong>Fyzikální</strong></td>
+<td><strong>Antropogenní</strong></td>
+</tr>
+<tr>
+<td>Rychlý nárůst pórových tlaků</td>
+<td>Rychlé zatížení sedimenty z Undrained loading from rapid emplacement of sediment</td>
+<td>Srážky</td>
+<td>Zatížení rychlým uložením navážky</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Tání sněhu/ledu</td>
+<td></td>
+</tr>
+<tr>
+<td>Rychlý pokles hladiny podzemní vody</td>
+<td>Protržení přírodních hrází</td>
+<td></td>
+<td>Snižování hladiny v nádržích</td>
+</tr>
+<tr>
+<td>Přechodná napětí</td>
+<td></td>
+<td>Zemětřesení</td>
+<td>Vibrace strojů</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Vítr</td>
+<td></td>
+</tr>
+<tr>
+<td>Snížení pevnosti</td>
+<td></td>
+<td>Degradace permafrostu</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Zvětrávání</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Únava materiálu</td>
+<td></td>
+</tr>
+<tr>
+<td>Zatěžování svahu</td>
+<td>Jiné sesuvy</td>
+<td>Srážky</td>
+<td>Stavby</td>
+</tr>
+</tbody>
+</table>
+
+
+
 
 # Gravitační svahové pochody
 
@@ -251,10 +381,12 @@ Svahové pohyby rozdělují do následujících šesti skupin:
 -   Tečení (*flow*)
 
 -   Svahové deformace (*slope deformation*)
-
-::: figure*
-![image](obrazky/svahy/landslide_type.png){style="width:100.0%"}
-:::
+<figure>
+  <center>
+    <img src="obrazky/slope/landslide_type" alt="Typy gravitačních svahových pohybů (Upraveno podle USGS)" style="width:100%" />
+    <figcaption>Typy gravitačních svahových pohybů (Upraveno podle USGS)</figcaption>
+  </center>
+</figure>
 
 ### Řícení
 
@@ -326,9 +458,7 @@ je pohyb podél zakřivené smykové plochy samostabilizační, jsou rotační
 sesuvy zpravidla pomalejší.
 
 <figure id="fig:rotacni">
-<figure>
 <img src="obrazky/svahy/rotacni.jpg" style="width:100.0%" />
-</figure>
 <figcaption>Rotační sesuv poblíž Cusca, Peru roku 2018 (autor:
 Ministerio de Defensa del Perú - <a
 href="https://www.flickr.com/photos/ministeriodedefensaperu/39935939755/in/dateposted/"
@@ -353,9 +483,12 @@ Některé sesuvy mohou mít složenou smykovou plochu. Běžný typ *sesuvu
 podél složené smykové plochy* má v horní části zakřivenou smykovou
 plochu přecházející pak v planární níže po svahu.
 
-::: figure*
-![image](obrazky/svahy/melke.jpg){style="width:100.0%"}
-:::
+<figure>
+    <center>
+        <img src="obrazky/slope/melke" alt="Mělké translační sesuvy ve zvětralině vzniklé na svazích Chlebu a Hromové v roce 2014 v důsledku intenzivních srážek. Při události došlo k jejich následné transformaci do blokovobahenního proudu, který způsobil velké škody ve Vrátné dolině (Malá Fatra, Slovensko)." style="width:100%" />
+        <figcaption>Mělké translační sesuvy ve zvětralině vzniklé na svazích Chlebu a Hromové v roce 2014 v důsledku intenzivních srážek. Při události došlo k jejich následné transformaci do blokovobahenního proudu, který způsobil velké škody ve Vrátné dolině (Malá Fatra, Slovensko).</figcaption>
+    </center>
+</figure>
 
 ### Boční rozšiřování
 
@@ -455,9 +588,7 @@ typicky projevuje *zdvojenými hřbety*, různými *stupni na svazích* (Obr
 *bulging*.
 
 <figure id="fig:sackung">
-<figure>
 <img src="obrazky/svahy/sackung.png" style="width:100.0%" />
-</figure>
 <figcaption>Projevy hlubinného ploužení (sackungu) <span
 class="citation"
 data-cites="agliardiStructuralConstraintsDeepseated2001"></span></figcaption>
@@ -668,7 +799,6 @@ povrchů a vznikají "závrty". V některých místech mohou tunely ústit na
 povrch a vytvářejí tak otevřené kanály, kde se na úpatí ukládá vyplavený
 materiál. Sufoze tak může předcházet následnému rozvoji strží.
 
-::: boxotazky
 Kontrolní a klíčové otázky, na které bychom měli znát odpověď
 
 -   Jaké síly působí na svah? Jak jejich rozložení ovlivňuje sklon
@@ -683,11 +813,11 @@ Kontrolní a klíčové otázky, na které bychom měli znát odpověď
 -   Jak moho sesuvy interagovat s vodními toky?
 
 -   Co to jsou difuzní procesy? Jaký mají efekt na svahu?
-:::
 
-::: boxslovnik
-Další klíčové pojmy k zapamatování normálové a smykové napětí & pevnost
-ve smyku\
-úhel vnitřního tření & koheze\
-ron & sufoze\
-:::
+Další klíčové pojmy k zapamatování
+- normálové a smykové napětí 
+- pevnost ve smyku
+- úhel vnitřního tření
+- koheze
+- ron sufoze
+

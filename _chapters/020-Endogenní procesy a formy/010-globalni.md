@@ -2,6 +2,7 @@
 title: Globální geomorfologie
 layout: page
 slug: globalni-geomorfologie
+abstract: Stavba Země, globální strukturní geomorfologie, teorie litosférických desek, tektonická rozhraní
 ---
 
 # Stavba Země
@@ -9,9 +10,7 @@ slug: globalni-geomorfologie
 ## Zemský plášť a kůra
 
 Země se sestává ze tří hlavních částí: **zemského jádra**, **pláště** a
-**kůry** (Obr.
-[\[fig:stavba_zeme\]](#fig:stavba_zeme){reference-type="ref"
-reference="fig:stavba_zeme"}). Hranice mezi jednotlivými částmi byly
+**kůry** ([Obr. 1](fig:stavba_zeme]. Hranice mezi jednotlivými částmi byly
 zjištěné studiem průchodu zemětřesných vln zemským tělesem. Na těchto
 hranicích se totiž výrazně mění chování zemětřesných vln či skrz hranici
 nemohou prostupovat. Rozhraní mezi zemskou kůrou a pláštěm tvoří
@@ -22,9 +21,12 @@ kůry** je 5--10 km. Skládá se hlavně z bazaltové a tenké sedimentární
 vrstvy. **Kontinentální kůra** je daleko mocnější, v průměru má okolo 35
 km avšak pod některými pohořími může dosahovat i 70 km.
 
-::: figure*
-![image](./tectonic/Earth_cutaway_schematic-en.pdf){width="\\textwidth"}
-:::
+
+
+<figure id="fig:stavba_zeme">
+    <img src="./tectonic/Earth_cutaway_schematic-en.png" </img>
+    <figcaption> Průřez Zemí (není v měřítku) (zdroj: USGS, volné dílo, via Wikimedia Commons) </figcaption>
+</figure>
 
 ## Teorie deskové tektoniky
 
@@ -42,9 +44,11 @@ Severoamerická, Jihoamerická, Africká, Indo-australská a Antarktická. Z
 menších desek jsou nejznámější např. Nazca, Kokosová, Filipínská,
 Arabská.
 
-::: figure*
-![image](obrazky\globalni\Plates_tect_cs.png){width="\\textwidth"}
-:::
+<figure id="fig:stavba_zeme">
+    <img src=".\globalni\Plates_tect_cs.png" </img>
+    <figcaption>Hlavní tektonické desky (zdroj: Jklamo, volné dílo, via Wikimedia Commons</figcaption>
+</figure>
+
 
 ### Okraje litosférických desek
 
@@ -80,25 +84,65 @@ jedná se o *pasivní okraj* kontinentu.
 ![image](obrazky\globalni\Tectonic_plate_boundaries.png){width="100%"}
 :::
 
-::: table*
-                                  Morfologické a strukturní prvky                                                                                                                                    
-  -------------- ---------------- ---------------------------------------------- --------------------------------------------------------------------- --------------------------------------------- --
-  Typ rozhraní   Napěťový režim   Oceánská--oceánská litosféra                   Oceánská--kontinentální litosféra                                     Kontinentální--kontinentální litosféra        
-  Divergentní    Extenzní         Středooceánský hřbet, vulkanická aktivita      --                                                                    Riftová údolí, vulkanismus                    
-  Konvergentní   Kompresní        Oceánský příkop a vulkanický ostrovní oblouk   Oceánský příkop, pásemná pohoří na okrajích kontinenů a vulkanismus   --                                            
-                                  Komplexní kolizní zóna ostrovních oblouků      Modifikovaná pásemná pohoří                                           Pásemná pohoří, omezená vulkanická aktivita   
-  Transformní    Střižný          Hřbety a údolí                                 --                                                                    Zlomová zóna, bez vulkanismu                  
-:::
+<figure id="fig:okraje">
+    <img src=".\globalni\Plates_tect_cs.png" </img>
+    <figcaption> Okraje litosférických desek (Autor: Jose F. Vigil. USGS, volné dílo, via Wikimedia Commons)</figcaption>
+</figure>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Morfologické a strukturní prvky</th>
+      <th>Typ rozhraní</th>
+      <th>Napěťový režim</th>
+      <th>Oceánská--oceánská litosféra</th>
+      <th>Oceánská--kontinentální litosféra</th>
+      <th>Kontinentální--kontinentální litosféra</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Divergentní</td>
+      <td>Extenzní</td>
+      <td>Středooceánský hřbet, vulkanická aktivita</td>
+      <td>--</td>
+      <td>Riftová údolí, vulkanismus</td>
+    </tr>
+    <tr>
+      <td>Konvergentní</td>
+      <td>Kompresní</td>
+      <td>Oceánský příkop a vulkanický ostrovní oblouk</td>
+      <td>Oceánský příkop, pásemná pohoří na okrajích kontinenů a vulkanismus</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Komplexní kolizní zóna ostrovních oblouků</td>
+      <td>Modifikovaná pásemná pohoří</td>
+      <td>Pásemná pohoří, omezená vulkanická aktivita</td>
+    </tr>
+    <tr>
+      <td>Transformní</td>
+      <td>Střižný</td>
+      <td>Hřbety a údolí</td>
+      <td>--</td>
+      <td>Zlomová zóna, bez vulkanismu</td>
+    </tr>
+  </tbody>
+</table>
+
 
 Okraje litosférických desek jsou důležitým místem, kde se odehrává celá
 řada geodynamických procesů. Jsou to místa, kde je soustředěná
 vulkanická a zemětřesná činnost (Obr.
-[\[fig:zemetresenidesky\]](#fig:zemetresenidesky){reference-type="ref"
-reference="fig:zemetresenidesky"}).
 
-::: figure*
-![image](obrazky\globalni\global_seismicity_h.jpg){width="100%"}
-:::
+<figure>
+  <img src="obrazky/tectonic/global_seismicity_h" alt="Mapa zemětřesení o magnitudu >=5 ve světě mezi roky 2000--2008" />
+  <figcaption>Zdroj: Lisa Christiansen, Caltech Tectonics Observatory, <a href="https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=64691">https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=64691</a></figcaption>
+</figure>
+
 
 ### Příčiny pohybu litosférických desek
 
@@ -143,16 +187,12 @@ mocnost. Výškové rozdíly v rámci kontinentů jsou spojené s rozdíly v
 mocnosti kontinentální kůry. Vysoká pohoří mají hluboké kořeny z hornin
 o menší hustotě.
 
-::: figure*
-![image](obrazky\globalni\isostasy.jpg){width="100%"}
-:::
+<figure>
+  <img src="obrazky/tectonic/isostasy" alt="Tři typy izostáze. A) Prattův model izostáze b) Airyho model c) Flexurní izostáze způsobena zatížením litosféry např. ledovcem -- glaciizostáze. (Zdroj: \textcite{beniestContinentalRiftingConjugate2017})">
+  <figcaption>Tři typy izostáze. A) Prattův model izostáze b) Airyho model c) Flexurní izostáze způsobena zatížením litosféry např. ledovcem -- glaciizostáze. (Zdroj: \textcite{beniestContinentalRiftingConjugate2017})</figcaption>
+</figure>
 
-Zvláštním typem izostáze je tzv. *glaciisostáze*. Ledovce během glaciálu
-svou vahou způsobily prohnutí zemské kůry, což vedlo ke kompenzačnímu
-výzdvihu v okolí kontinentálních ledovců. Důsledkem zániku ledovce je
-návrat zemské kůry do rovnovážné polohy. V místech kde zemská kůra byla
-zatlačena tak dochází ke *glaciisostatickému výzdvihu* (*glaciisostatic
-rebound*) a naopak k poklesům, kde byla předtím vyzdvižena.
+Zvláštním typem izostáze je tzv. *glaciisostáze*. Ledovce během glaciálu svou vahou způsobily prohnutí zemské kůry, což vedlo ke kompenzačnímu výzdvihu v okolí kontinentálních ledovců. Důsledkem zániku ledovce je návrat zemské kůry do rovnovážné polohy. V místech kde zemská kůra byla zatlačena tak dochází ke *glaciisostatickému výzdvihu* (*glaciisostatic rebound*) a naopak k poklesům, kde byla předtím vyzdvižena.
 
 ## Horké skvrny
 
@@ -165,9 +205,13 @@ ostrovů. Klasickým příkladem je Havajské souostroví (Obr.
 [\[fig:hawaiihotspot\]](#fig:hawaiihotspot){reference-type="ref"
 reference="fig:hawaiihotspot"}).
 
-::: figure*
-![image](obrazky\globalni\Hawaii_hotspot.jpg)
-:::
+
+<figure>
+  <center>
+    <img src="obrazky/tectonic/Hawaii_hotspot" alt="Diagram zobrazující Havajskou horkou skvrnu (Autor Joel E. Robinson, USGS)." />
+    <figcaption>Diagram zobrazující Havajskou horkou skvrnu (Autor Joel E. Robinson, USGS).</figcaption>
+  </center>
+</figure>
 
 # Globální geomorfologie
 
@@ -243,26 +287,21 @@ zemskou kůru a dochází k dalším poklesům tzn. je tam pozitivní zpětná
 vazba. Zátěž centra - pokles, snos sedimentů z okolních vyvýšenin a
 následný kompenzační výzdvih na okrajích.
 
-::: figure*
-![image](obrazky\globalni\World_geologic_provinces.jpg){width="100%"}
-:::
+<figure>
+  <center>
+    <img src="obrazky/tectonic/World_geologic_provinces" alt="Mapa geologických provincií (USGS, volné dílo, via Wikimedia Commons)" />
+    <figcaption>Mapa geologických provincií (USGS, volné dílo, via Wikimedia Commons)</figcaption>
+  </center>
+</figure>
 
-::: boxotazky
 Kontrolní a klíčové otázky, na které bychom měli znát odpověď
-
 -   Jaké jsou základní části planety Země?
-
 -   Popište teorii deskové tektoniky?
-
 -   Jaké jsou okraje litosférických desek?
-
 -   Jaké struktury vznikají na okrajích litosférických desek?
-
 -   Jaký je rozdíl mezi platformou a štítem?
-:::
 
-::: boxslovnik
 Další klíčové pojmy k zapamatování izostáze & glaciizostáze\
 horká skvrna & kraton\
 kontinentální rift & kontinentální pánev\
-:::
+

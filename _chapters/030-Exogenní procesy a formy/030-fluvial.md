@@ -19,7 +19,8 @@ nivách.
 
 <figure id="fig:spras_distribuce">
 <img src="obrazky/fluvial/fluv_system.png"/>
-<figcaption>Fluviální systém
+<figcaption>
+jednodušené schéma fluviálního systému (upraveno podle {% cite charltonFundamentalsFluvialGeomorphology2007 %}.)
 </figcaption>
 </figure>
 
@@ -51,7 +52,7 @@ vrstvách -- laminách, které navzájem kloužou po sobě ([Obr. 1](#fig:lamina
 <figure>
 <img src="obrazky/fluvial/laminar_turbul.png"/>
 </figure>
-<figcaption>Laminární a turbulentní
+<figcaption>Laminární a turbulentní proudění
 </figcaption>
 </figure>
 
@@ -146,16 +147,54 @@ $S$ sklon vodní hladiny\[m m^−1^\]
 $n$ Manningův koeficient drsnosti \[bezrozměrné\]
 :::
 
-::: table*
-  Popis koryta                                                      Minimum   Běžná hodnota   Maximum
-  ----------------------------------------------------------------- --------- --------------- ---------
-  Rovné koryto bez vegetace                                         0,025     0,030           0,033
-  Klikatící se koryto bez vegetace s občasnými tůněmi a mělčinami   0,033     0,040           0,045
-  Klikatící se koryto s vegetací a kameny na dně                    0,035     0,045           0,050
-  Hodně zarostlé koryto s hlubokými tůněmi                          0,075     0,100           0,150
-  Horské toky, na dně štěrky, valouny, balvany občasně              0,030     0,040           0,050
-  Horské toky; valouny a velké balvany                              0,040     0,050           0,070
-:::
+<table>
+  <thead>
+    <tr>
+      <th>Popis koryta</th>
+      <th>Minimum</th>
+      <th>Běžná hodnota</th>
+      <th>Maximální</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rovné koryto bez vegetace</td>
+      <td>0,025</td>
+      <td>0,030</td>
+      <td>0,033</td>
+    </tr>
+    <tr>
+      <td>Klikatící se koryto bez vegetace s občasnými tůněmi a mělčinami</td>
+      <td>0,033</td>
+      <td>0,040</td>
+      <td>0,045</td>
+    </tr>
+    <tr>
+      <td>Klikatící se koryto s vegetací a kameny na dně</td>
+      <td>0,035</td>
+      <td>0,045</td>
+      <td>0,050</td>
+    </tr>
+    <tr>
+      <td>Hodně zarostlé koryto s hlubokými tůněmi</td>
+      <td>0,075</td>
+      <td>0,100</td>
+      <td>0,150</td>
+    </tr>
+    <tr>
+      <td>Horské toky, na dně štěrky, valouny, balvany občasně</td>
+      <td>0,030</td>
+      <td>0,040</td>
+      <td>0,050</td>
+    </tr>
+    <tr>
+      <td>Horské toky; valouny a velké balvany</td>
+      <td>0,040</td>
+      <td>0,050</td>
+      <td>0,070</td>
+    </tr>
+  </tbody>
+</table>
 
 # Energie, práce a výkon vodních toků
 
@@ -312,9 +351,14 @@ nekohezního materiálu dochází k podemílání břehu a jeho následného
 kolapsu (Obr. [2](#fig:bankerosion){reference-type="ref"
 reference="fig:bankerosion"}).
 
-![Procesy břehové eroze. Upraveno podle
-@charltonFundamentalsFluvialGeomorphology2007](obrazky/fluvial/bank_erosion.png){#fig:bankerosion
-width="100%"}
+<figure>
+  <centering>
+    <img src="./fluvial/bank_erosion.png" width="100%">
+  </centering>
+  <figcaption>
+    Procesy břehové eroze. Upraveno podle {% cite charltonFundamentalsFluvialGeomorphology2007 %}
+  </figcaption>
+</figure>
 
 ## Zdroje sedimentů
 
@@ -343,9 +387,13 @@ blokovat. Proudící voda působí na klast silou, kterou lze rozdělit do
 dvou složek. *Vztlaková síla* (*lift*) působí směrem vzhůru. *Tření*
 (*drag force*) působí ve směru proudění.
 
-![Síly působící na klast ve vodním toku
-@summerfieldGlobalGeomorphologyIntroduction1999).](obrazky/fluvial/sily_klast.png){#fig:sily_klast
-width="100%"}
+<figure>
+    <center>
+        <img src="obrazky/fluvial/sily_klast" width="100%">
+        <figcaption>Síly působící na klast ve vodním toku (Summerfield, 1999).</figcaption>
+    </center>
+</figure>
+
 
 Kromě velikosti, hustoty, tvaru klastu hraje při jeho mobilizaci i to,
 jak je vystaven toku a také na rychlosti proudění nebo přesněji na
@@ -360,13 +408,17 @@ písku okolo 0.1 mm--0.5 mm. Jílové částice jsou drženy pospolu kohezním
 silami, proto jsou nutné vyšší rychlosti proudění pro jejich uvedení do
 pohybu.
 
-::: figure*
-![image](obrazky\fluvial\hjulstr.png){width="100%"}
-:::
+<figure class="figure">
+    <img src="obrazky/fluvial/hjulstr" alt="Hjulstrømův diagram znázorňující vztah mezi velikostí částice, rychlostí proudění a procesem (upraveno podle Summerfield, 1999)" width="100%">
+    <figcaption>Hjulstrømův diagram znázorňující vztah mezi velikostí částice, rychlostí proudění a procesem (upraveno podle <span class="citation" data-cites="summerfieldGrainSizeEffects1999"></span>).</figcaption>
+    <label for="fig:hjulstr"> </label>
+</figure>
 
-::: figure*
-![image](obrazky\fluvial\lanes_balance.png){width="100%"}
-:::
+<figure class="figure">
+    <img src="obrazky/fluvial/lanes_balance.jpg" alt="Bilance mezi paramtry koryta, sedimenty, průtokem (převzato z Dust, 2012)" width="100%">
+    <figcaption>Bilance mezi paramtry koryta, sedimenty, průtokem (převzato z <span class="citation" data-cites="dustConceptualModelComplex2012"></span>).</figcaption>
+    <label for="fig:vahy"> </label>
+</figure>
 
 ## Způsob fluviálního transportu
 
@@ -392,13 +444,17 @@ opracování jednotlivých klastů (z ostrohranných se stávají zaoblené).
 Obecně také platí, že s délkou transportu a s délkou vodního toku se
 zmenšuje průměr částic.
 
-![Fluviální transport klastických sedimentů. Rozpuštěné látky nejsou
-zobrazeny (upraveno podle
-@charltonFundamentalsFluvialGeomorphology2007).](obrazky/fluvial/fluv_sed_trans.png){#fig:fluvsedtrans
-width="100%"}
+```html
+<figure>
+    <center>
+        <img src="obrazky/fluvial/fluv_sed_trans" width="100%">
+        <figcaption>Fluviální transport klastických sedimentů. Rozpuštěné látky nejsou zobrazeny (upraveno podle <cite>charltonFundamentalsFluvialGeomorphology2007</cite>).</figcaption>
+    </center>
+</figure>
+```
 
 *Rozpuštěný materiál* (*dissolved load*) je transportovaný v roztoku
-(např. ionty , , , , , živiny na bázi fosforu, dusíku, rozpuštěné plyny.
+(např. ionty Ca²⁺, Mg²⁺, Na⁺, SiO₂, HCO₃⁻ živiny na bázi fosforu, dusíku, rozpuštěné plyny.
 Globálně rozpuštěné látky odpovídají přibližně $20 \%$ celkové denudace.
 Koncentrace látek klesá s rostoucím průtokem. Morfologický efekt
 rozpuštěných látek na koryto je malý.
@@ -478,10 +534,14 @@ Meandry vznikají rozkmitáním proudnice a díky přítomnosti sekundárního
 tzv. heliakálního proudění. Toto proudění zvyšuje erozi na nárazovém
 *výsepním* břehu a napomáhá sedimentaci na vnitřním *jesepním* břehu.
 
-![Sinusoita koryta a geometrické parametry meandrů (upraveno podle
-@biermanKeyConceptsGeomorphology2014)](obrazky/fluvial/mendry_sinusoita.png){#fig:mendrysinusoita
-width="100%"}
-
+```html
+<figure>
+    <center>
+        <img src="obrazky/fluvial/mendry_sinusoita" alt="Sinusoita koryta a geometrické parametry meandrů (upraveno podle Bierman, 2014)" width="100%">
+        <figcaption>Sinusoita koryta a geometrické parametry meandrů (upraveno podle Bierman, 2014)</figcaption>
+    </center>
+</figure>
+```
 ### Divočící toky
 
 Vodní tok, který nese velké množství hrubého materiálu (štěrku) a má
@@ -492,8 +552,15 @@ obtéká, větví se na nich. Typické je časté překládání koryta. Z důvo
 velké dynamiky lavic se vegetace nestačí uchytit na štěrkových lavicích
 a stabilizovat je.
 
-![Divočící řeka Waimakariri, Nový Zéland (Autor: Greg O'Beirne CC BY-SA
-3.0)](obrazky/fluvial/divocici.jpg){#fig:divocici width="100%"}
+```html
+<figure>
+    <center>
+        <img src="obrazky/fluvial/divocici" alt="Divočící řeka Waimakariri, Nový Zéland (Autor: Greg O'Beirne CC BY-SA 3.0)">
+        <figcaption>Divočící řeka Waimakariri, Nový Zéland (Autor: Greg O'Beirne CC BY-SA 3.0)</figcaption>
+    </center>
+</figure>
+```
+
 
 ### Větvící se toky
 
@@ -533,10 +600,14 @@ relativně příkrých svahů.
 
 *Úvalovité údolí* je údolí se širokým dnem, které bez výrazného zálomu
 přechází do mírných svahů.
-
-![Typy údolí. A) údolí typu \"V\", B) soutěska, C) neckovité údolí, D)
-úvalovité údolí](obrazky/fluvial/typy_udoli.png){#fig:typyudoli
-width="100%"}
+```html
+<figure>
+    <center>
+        <img src="obrazky/fluvial/typy_udoli" alt="Typy údolí. A) údolí typu 'V', B) soutěska, C) neckovité údolí, D) úvalovité údolí" width="100%">
+        <figcaption>Typy údolí. A) údolí typu 'V', B) soutěska, C) neckovité údolí, D) úvalovité údolí</figcaption>
+    </center>
+</figure>
+```
 
 ## Vodní toky a morfostruktura
 
@@ -601,9 +672,14 @@ základním (největším) valounem (Obr.
 [8](#fig:klastklastr){reference-type="ref"
 reference="fig:klastklastr"}).
 
-![Znázornění sedimentárního klastru. Upraveno podle
-@galiaFluvialniGeomorfologie2017)](obrazky/fluvial/klast_klastr.png){#fig:klastklastr
-width="100%"}
+```html
+<figure>
+    <center>
+        <img src="obrazky/fluvial/klast_klastr" alt="Znázornění sedimentárního klastru. Upraveno podle Galia (2017)">
+        <figcaption>Znázornění sedimentárního klastru. Upraveno podle {% cite galiaFluvialniGeomorfologie2017 %}</figcaption>
+    </center>
+</figure>
+```
 
 Běžným tvarem, který nacházíme v korytě jsou *štěrkové a písčité lavice*
 (Obr. [9](#fig:lavice){reference-type="ref" reference="fig:lavice"}).
@@ -621,11 +697,14 @@ diagonálních. Nacházíme je v divočících tocích. *Vrcholové lavice*
 (*point bars*) se nacházejí na vnitřní (akumulační) straně meandru jako
 důsledek pomalejšího proudění a působení sekundárních proudů.
 
-![Příklad některých lavic, které lze nalézt v říčním korytě. A vrcholové
-lavice, B střídavé lavice, C středové lavice (bermy), D lavice před
-překážkou, E nepravidelné lavice, F lavice v divočícím toku (upraveno
-podle @radecki-pawlikStreamHydraulicsGranulometry2004
-](obrazky/fluvial/lavice.png){#fig:lavice width="100%"}
+```html
+<figure>
+    <center>
+        <img src="obrazky/fluvial/lavice" alt="Příklad některých lavic, které lze nalézt v říčním korytě. A vrcholové lavice, B střídavé lavice, C středové lavice (bermy), D lavice před překážkou, E nepravidelné lavice, F lavice v divočícím toku (upraveno podle Radecki-Pawlik, 2004)">
+        <figcaption>Příklad některých lavic, které lze nalézt v říčním korytě. A vrcholové lavice, B střídavé lavice, C středové lavice (bermy), D lavice před překážkou, E nepravidelné lavice, F lavice v divočícím toku (upraveno podle Radecki-Pawlik, 2004)</figcaption>
+    </center>
+</figure>
+```
 
 # Mimokorytové formy
 
@@ -654,8 +733,14 @@ je posouvání meandrů, kdy na vnitřní straně dochází k ukládání vrchol
 šíje vznikají slepá a mrtvá ramena. Ty mají specifické sedimenty s
 velkým obsahem organické hmoty -- *facie opuštěných koryt*.
 
-![Meandrující řeka. (USGS, volné
-dílo)](obrazky/fluvial/meander.jpg){#fig:meander width="100%"}
+```html
+<figure>
+    <center>
+        <img src="obrazky/fluvial/meander" alt="Meandrující řeka. (USGS, volné dílo)">
+        <figcaption>Meandrující řeka. (USGS, volné dílo)</figcaption>
+    </center>
+</figure>
+```
 
 ## Říční terasy
 
@@ -682,10 +767,14 @@ terénu do podhůří nebo mezihorských pánví. Velká změna sklonu a
 rozevření údolí způsobuje, že vodní tok ztrácí schopnost unášet
 sedimenty a ty se začínají akumulovat.
 
-![Menší aluviální kužel v Pyrenejích (Autor: Mikenorton, CC BY-SA 3.0
-via Wikimedia
-Commons)](obrazky/fluvial/Alluvial_fan.jpg){#fig:alluvialfan
-width="100%"}
+```html
+<figure>
+    <center>
+        <img src="obrazky/fluvial/Alluvial_fan" alt="Menší aluviální kužel v Pyrenejích (Autor: Mikenorton, CC BY-SA 3.0 via Wikimedia Commons)">
+        <figcaption>Menší aluviální kužel v Pyrenejích (Autor: Mikenorton, CC BY-SA 3.0 via Wikimedia Commons)</figcaption>
+    </center>
+</figure>
+```
 
 Vodní tok se na náplavovém kuželu různě větví. U velkého množství
 náplavových kuželů dochází k zařezávání toku v jeho horní části. To

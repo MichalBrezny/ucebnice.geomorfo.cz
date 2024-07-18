@@ -2,6 +2,7 @@
 title: Tektonická geomorfologie
 layout: page
 slug: tektonicka-geomorfologie
+abstract: Základy strukturní geologie, vliv struktur na reliéf
 ---
 
 
@@ -181,13 +182,16 @@ přemodelováním zlomových svahů erozí (obr.
 reference-type="ref"}). Jejich sklon je nižší, než sklon zlomových
 svahů. Typicky se pohybuje mezi 25 °--35 °.
 
-::: figure*
-![image](obrazky/tectonic/facety.png){style="width:100.0%"}
-:::
+<figure class="figure">
+  <img src="obrazky/tectonic/facety" alt="Ukázka vývoje zlomového okraje pohoří a vzniku facet. A: čerstvý zlomový svah; B: postupné zařezávání vodních toků (strže), přemodelování zlomového stupně; C,D: vyvinutá údolí a facety, opakovaný nebo intenzivní výzdvih udržuje zlomový svah (D); E: dlouhé období tektonického klidu, postupná denudace (převzato z \textcite{wallaceGeometryRatesChange1978})" />
+  <figcaption>Ukázka vývoje zlomového okraje pohoří a vzniku facet. A: čerstvý zlomový svah; B: postupné zařezávání vodních toků (strže), přemodelování zlomového stupně; C,D: vyvinutá údolí a facety, opakovaný nebo intenzivní výzdvih udržuje zlomový svah (D); E: dlouhé období tektonického klidu, postupná denudace (převzato z {% cite wallaceGeometryRatesChange1978 %})</figcaption>
+</figure>
 
-::: figure*
-![image](obrazky/tectonic/fault_scarp.png){style="width:100.0%"}
-:::
+
+<figure class="figure">
+  <img src="obrazky/tectonic/fault_scarp.png" alt="Zlomový sráz, který vznikl při Yellowstonském zemětřesení v roce 1959. A fotografie pořízená těsně po události (autor J. R. Stacy, USGS, volné dílo/Public Domain). B Stupeň již částečně zhlazený difuzními procesy o 59 let později (autor James St. John, CC BY 2.0)." />
+  <figcaption>Zlomový sráz, který vznikl při Yellowstonském zemětřesení v roce 1959. A fotografie pořízená těsně po události (autor J. R. Stacy, USGS, volné dílo/Public Domain). B Stupeň již částečně zhlazený difuzními procesy o 59 let později (autor James St. John, CC BY 2.0).</figcaption>
+</figure>
 
 Rychlost degradace zlomového srázu je daná především pevností dané
 horniny. Větší rychlostí bude degradovat stupeň vzniklý v nezpevněných
@@ -285,25 +289,16 @@ vrásy.
 </figure>
 
 Vrásy dělíme podle osní roviny na:
-
 -   vzpřímené
-
 -   ukloněné
-
 -   převrácené
-
 -   ležaté
 
 Další dělení vrás je podle sevřenosti jejich ramen:
-
 -   rozevřené
-
 -   otevřené
-
 -   sevřené
-
 -   zavřené
-
 -   izoklinální
 
 Vrásy také můžeme rozdělit na symetrické a nesymetrické. V případě
@@ -348,16 +343,12 @@ Apalačský podle pohoří v USA (Obr.
 [6](#fig:apalachian){reference="fig:apalachian" reference-type="ref"}).
 
 <figure id="fig:zagros">
-<figure>
 <img src="obrazky/tectonic/zagros.jpg" style="width:100.0%" />
-</figure>
 <figcaption>Pohoří Zagros (zdroj Google Earth)</figcaption>
 </figure>
 
 <figure id="fig:apalachian">
-<figure>
 <img src="obrazky/tectonic/apalachian.jpg" style="width:100.0%" />
-</figure>
 <figcaption>Apalačské pohoří v USA (zdroj Google Earth)</figcaption>
 </figure>
 
@@ -368,10 +359,11 @@ oderodování antiklinály a vzniku *antiklinálního údolí*, kdežto v
 místech synklinál je z důvodu pomalejší eroze elevace.
 
 # Strukturní reliéf
-
-::: figure*
-![image](obrazky/tectonic/strukturni_tvary.png){style="width:100.0%"}
-:::
+<figure>
+	<img src="obrazky/tectonic/strukturni_tvary.png" style="width:100.0%">
+	<figcaption>Strukturní reliéf -- tvary na horizontálních a ukloněných vrstvách. Horizontální vrstvy -- strukturní tabule, stolová hora a odlehlík. Ukloněné vrstvy -- kuesta, homoklinální hřbet a kozí hřbet. Označené jsou i základní typy vodních toků. Konsekventní -- ve směru sklonu vrstev, subsekventní -- po směru vrstev a obsekventní -- proti směru sklonu vrstev. Tmavě šedé pásy vyznačují polohy odolných hornin (upraveno podle <span class="citation" data-cites="huggettFundamentalsGeomorphology2007"></span>).</figcaption>
+	<label for="fig:strukturnitvary">fig:strukturnitvary</label>
+</figure>
 
 ## Horizontálně uložené vrstvy
 
@@ -407,26 +399,20 @@ které mohou být v příčnem profilu již symetrické (Obr.
 [\[fig:strukturnitvary\]](#fig:strukturnitvary){reference="fig:strukturnitvary"
 reference-type="ref"}).
 
-::: boxotazky
 Kontrolní a klíčové otázky, na které bychom měli znát odpověď
-
 -   Jak odlišíme nadložní a podložní kru?
-
 -   K čemu dochází z hlediska mocnosti zemské kůry při poklesu a co při
     násunu?
-
 -   Jakým způsobem mohou zlomy s horizontální složkou pohybu ovlivnit
     říční síť?
-
 -   Vysvětlete inverzi reliéfu. Proč k ní dochází?
-
 -   Jakým způsobem ovlivňuje uložení sedimentárních hornin georeliéf?
-:::
 
-::: boxslovnik
-Další klíčové pojmy k zapamatování zlom & puklina\
-vrása & přesmyk\
-pokles & násun\
+Další klíčové pojmy k zapamatování 
+- zlom
+- puklina
+- vrása 
+- přesmyk
+- pokles násun\
 mesa & kuesta\
 kozí hřbet & inverze reliéfu\
-:::

@@ -2,6 +2,7 @@
 title: Magmatismus, vulkanické procesy a formy reliéfu
 layout: page
 slug: vulkanismus
+abstract: Vulkaismus, typy sopek, vulkanické formy reliéfu
 ---
 
 
@@ -92,18 +93,68 @@ je označována za **efuzivní**. V případě výbuchu hovoříme o
 **explozivním** typu vulkanické erupce. Do vzduchu je vyvrhován pevný
 materiál označovaný jako **tefra**.
 
-::: table*
-  Typ erupce                             Typ magmatu                                            Podoba výlevné aktivity                                Podoba explozivní aktivity                        Struktury a formy vytvořené okolo kráteru
-  -------------------------------------- ------------------------------------------------------ ------------------------------------------------------ ------------------------------------------------- -----------------------------------------------------------------------------------------------
-  Islandská                              Basické, nízká viskozita                               Rozsáhlé a silné výlevy z trhlin                       Velice slabá                                      Velice rozsáhlé lávové kužely; lávové plošiny s tvorbou kuželů okolo trhlin v terminální fázi
-  Havajská                               Basické, nízká viskozita                               Běžně tenké a rozsáhlé výlevy z centrálních sopouchů   Velice slabá                                      Velice rozsáhlé lávové dómy a štíty
-  Strombolská                            Střední viskozita; částečně kyselá, částečně bazická   Výlev chybí nebo jsou silné a středně rozsáhlé         Slabá až silná                                    Struskové kužely a lávové proudy
-  Vulkánská                              Kyselé, viskózní                                       Lávové proudy často chybí; případně o velké mocnosti   Střední                                           Sypaný kužel; explozivní krátery
-  Vesuviánská (silná Vulkánská)          Kyselé, viskózní                                       Lávové proudy často chybí; silné                       Střední až silné                                  Sypaný kužel; explozivní krátery
-  Plinijská (extrémně silná Vulkánská)   Kyselé, viskózní                                       Proudy chybí; pokud jsou, tak různých mocností         Velice silné                                      Rozsáhlé sopečné pumy a lapilli; bežně žádná tvorba kuželun
-  Pélejský                               Kyselé, viskózní                                       Dómy a/nebo krátké, mocné proudy; mohou chybět         Podobně jako Vulkánský typ ale s nuees ardentes   dómy; kužely popela a prachu
-:::
-
+<table>
+  <thead>
+    <tr>
+      <th>Typ erupce</th>
+      <th>Typ magmatu</th>
+      <th>Podoba výlevné aktivity</th>
+      <th>Podoba explozivní aktivity</th>
+      <th>Struktury a formy vytvořené okolo kráteru</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Islandská</td>
+      <td>Bazické, nízká viskozita</td>
+      <td>Rozsáhlé a silné výlevy z trhlin</td>
+      <td>Velice slabá</td>
+      <td>Velice rozsáhlé lávové kužely; lávové plošiny s tvorbou kuželů okolo trhlin v terminální fázi</td>
+    </tr>
+    <tr>
+      <td>Havajská</td>
+      <td>Bazické, nízká viskozita</td>
+      <td>Běžně tenké a rozsáhlé výlevy z centrálních sopouchů</td>
+      <td>Velice slabá</td>
+      <td>Velice rozsáhlé lávové dómy a štíty</td>
+    </tr>
+    <tr>
+      <td>Strombolská</td>
+      <td>Střední viskozita; částečně kyselá, částečně bazická</td>
+      <td>Výlev chybí nebo jsou silné a středně rozsáhlé</td>
+      <td>Slabá až silná</td>
+      <td>Struskové kužely a lávové proudy</td>
+    </tr>
+    <tr>
+      <td>Vulkánská</td>
+      <td>Kyselé, viskózní</td>
+      <td>Lávové proudy často chybí; případně o velké mocnosti</td>
+      <td>Střední</td>
+      <td>Sypaný kužel; explozivní krátery</td>
+    </tr>
+    <tr>
+      <td>Vesuviánská (silná Vulkánská)</td>
+      <td>Kyselé, viskózní</td>
+      <td>Lávové proudy často chybí; silné</td>
+      <td>Střední až silné</td>
+      <td>Sypaný kužel; explozivní krátery</td>
+    </tr>
+    <tr>
+      <td>Plinijská (extrémně silná Vulkánská)</td>
+      <td>Kyselé, viskózní</td>
+      <td>Proudy chybí; pokud jsou, tak různých mocností</td>
+      <td>Velice silné</td>
+      <td>Rozsáhlé sopečné pumy a lapilli; bežně žádná tvorba kuželun</td>
+    </tr>
+    <tr>
+      <td>Pélejský</td>
+      <td>Kyselé, viskózní</td>
+      <td>Dómy a/nebo krátké, mocné proudy; mohou chybět</td>
+      <td>Podobně jako Vulkánský typ ale s nuees ardentes</td>
+      <td>Dómy; kužely popela a prachu</td>
+    </tr>
+  </tbody>
+</table>
 ## Sopečné produkty
 
 ### Lávové proudy
@@ -233,18 +284,21 @@ Avšak jejich základna o šířce přes 200 km se nachází v hloubce více ja
 5000 m. Největší štítová sopka ve Sluneční soustavě se nachází ale na
 Marsu. Olympus Mons ční do výšky 26 km
 
-::: figure*
-![image](obrazky/sopky/mauna_loa.jpg){style="width:100.0%"}
-:::
+<figure style="width:100%; display:block; margin:auto; text-align:center;">
+  <img src="obrazky/sopky/mauna_loa.jpg" alt="Štítová sopka Mauna Loa, největší aktivní sopka na Zemi. Fotografie z roku 1985the largest active volcano on Earth. (Credit: J.D. Griggs, USGS, volné dílo)" />
+  <figcaption>Štítová sopka Mauna Loa, největší aktivní sopka na Zemi. Fotografie z roku 1985the largest active volcano on Earth. (Credit: J.D. Griggs, USGS, volné dílo)</figcaption>
+</figure>
 
 **Kaldery** jsou rozsáhlé krátery, které jsou geneticky spojené s
 vulkanismem. Dělíme je na explozivní -- vzniklé výbuchem již
 existujícího vulkánu a subsidenční, které vznikly poklesem povrchu nad
 vyprázdněným magmatickým krbem.
 
-::: figure*
-![image](obrazky/sopky/santorini.jpg)
-:::
+<figure style="width:100%; display:block; margin:auto; text-align:center;">
+  <img src="obrazky/sopky/santorini.jpg" alt="Sopečná kaldera, ostrov Santorini, Řecko (Google Earth)" />
+  <figcaption>Sopečná kaldera, ostrov Santorini, Řecko (Google Earth)</figcaption>
+</figure>
+
 
 **Trappy** jsou lávové pokryvy, které pokrývají rozsáhlé oblasti v
 plochém terénu. Známé jsou tzv. Dekkánské trapy v západní Indii (Obr.
@@ -253,9 +307,10 @@ reference-type="ref"}), které jsou jedním z nejrozsáhlejších
 vulkanických těles na světě. V současné době je jejich plocha přibližně
 500000 km^2^.
 
-::: figure*
-![image](obrazky/sopky/trapy.jpg)
-:::
+<figure>
+  <img src="obrazky/sopky/trapy.png" alt="Dekkánské trapy (zdroj: By Planet Labs, Inc - https://medium.com/planet-stories/earths-wonders-like-you-ve-never-seen-them-before-ac9e2f39aa56, CC BY-SA 4.0)" />
+  <figcaption>Dekkánské trapy (zdroj: By Planet Labs, Inc - https://medium.com/planet-stories/earths-wonders-like-you-ve-never-seen-them-before-ac9e2f39aa56, CC BY-SA 4.0)</figcaption>
+</figure>
 
 ::: boxotazky
 Kontrolní a klíčové otázky, na které bychom měli znát odpověď
@@ -267,12 +322,17 @@ Kontrolní a klíčové otázky, na které bychom měli znát odpověď
 -   Jakým způsobem ovlivňuje složení lávy erupce?
 
 -   Čím je charakteristická tzv. smíšená sopka (stratovulkán)?
-:::
 
-::: boxslovnik
-Další klíčové pojmy k zapamatování batolit & peň\
-suk & tefra\
-sypaný kužel& maar\
-pyroklastický proud & štítová sopka\
-kaldera & trappy\
-:::
+
+Další klíčové pojmy k zapamatování 
+- batolit 
+- peň
+- suk 
+- tefra\
+- sypaný kužel
+- maar
+- pyroklastický proud 
+- štítová sopka
+- kaldera 
+- trappy
+

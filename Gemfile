@@ -8,13 +8,10 @@ gem 'jekyll-feed'
 gem 'jekyll-readme-index'
 gem 'jemoji'
 gem 'webrick'
-gem 'jekyll-relative-links'
 gem 'jekyll-scholar'
+gem 'jekyll-relative-links'
 group :jekyll_plugins do
     gem "jekyll-youtube"
   end
-
-
-
 
 # gem "rails"

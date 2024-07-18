@@ -2,65 +2,38 @@
 title: Eolická geomorfologie
 layout: page
 published: true
-permalink: /ucebnice/eolicka
-bibliography: zaklady_geomorfologie.bib
+slug: eolicka
 ---
 
 # Vítr jako morfogenetický činitel
 
-Vítr je ve srovnání s vodou výrazně slabším morfogenetickým a erozním
-činitelem. Nízká efektivita je způsobena především jeho nižší hustotou a
-viskozitou. Vítr tak dokáže zpravidla transportovat v suspenzi jen velmi
-malé částice. Stejně jako s rychlostí proudící vody roste její unášecí
-schopnost, roste s rychlostí i unášecí síla větru.
+Vítr je ve srovnání s vodou výrazně slabším morfogenetickým a erozním činitelem. Nízká efektivita je způsobena především jeho nižší hustotou a viskozitou. Vítr tak dokáže zpravidla transportovat v suspenzi jen velmi malé částice. Stejně jako s rychlostí proudící vody roste její unášecí schopnost, roste s rychlostí i unášecí síla větru.
 
-Vítr se morfogeneticky projevuje zejména v územích, kde chybí vegetační
-kryt a na povrchu je sypký, jemnozrnný materiál. Důležité je, aby povrch
-byl i suchý. Vlhkost totiž zvyšuje kohezi materiálu, jednotlivé částečky
-se k sobě lépe pojí. Vegetace taktéž zvyšuje soudržnost částeček a
-zároveň snižuje rychlost větru, což způsobuje vypadávání částic.
+Vítr se morfogeneticky projevuje zejména v územích, kde chybí vegetační kryt a na povrchu je sypký, jemnozrnný materiál. Důležité je, aby povrch byl i suchý. Vlhkost totiž zvyšuje kohezi materiálu, jednotlivé částečky se k sobě lépe pojí. Vegetace taktéž zvyšuje soudržnost částeček a zároveň snižuje rychlost větru, což způsobuje vypadávání částic.
 
 ## Eolická eroze
 
-Velikost částic, koheze a vegetační charakteristiky ovlivňují náchylnost
-povrchu k větrné erozi. Vlhkost, jílové částice, organický materiál
-přispívají k soudržnosti materiálu - tyto faktory chybí v oblasti
-horkých pouští, kde je tedy eolická eroze nejefektivnější.
+Velikost částic, koheze a vegetační charakteristiky ovlivňují náchylnost povrchu k větrné erozi. Vlhkost, jílové částice, organický materiál přispívají k soudržnosti materiálu - tyto faktory chybí v oblasti horkých pouští, kde je tedy eolická eroze nejefektivnější.
 
-*Deflace* je proces odnosu uvolněných částic z povrchu v důsledku
-působení větru. Odvátím částeček vznikají deprese (sníženiny) nazývané
-jako *deflační vana*. Jelikož vítr dokáže odnést jen určitou frakci,
-dochází k *selektivní deflaci*. Dochází tak k pasivní akumulaci větších
-klastů a vzniku tzv. *pouštní dlažby*.
+*Deflace* je proces odnosu uvolněných částic z povrchu v důsledku působení větru. Odvátím částeček vznikají deprese (sníženiny) nazývané jako *deflační vana*. Jelikož vítr dokáže odnést jen určitou frakci, dochází k *selektivní deflaci*. Dochází tak k pasivní akumulaci větších klastů a vzniku tzv. *pouštní dlažby*.
 
-*Koraze (abraze)* je geomorfologické působení částic obsažených ve
-vzduchovém proudu.
+*Koraze (abraze)* je geomorfologické působení částic obsažených ve vzduchovém proudu.
 
 ## Transport sedimentů
 
-Transport sedimentů vzduchem je podobný tomu ve vodě. Rozlišujeme čtyři
-základní typy transportu ([Obr. 1](#fig:eoltransport)): v *suspenzi*, *saltací*, *vlečením (ploužením)*
-a vymršťováním zrníček těmi dopadajícími (anglicky označované
-*"reptation"*).
+Transport sedimentů vzduchem je podobný tomu ve vodě. Rozlišujeme čtyři základní typy transportu ([Obr. 1](#fig:eoltransport)): v *suspenzi*, *saltací*, *vlečením (ploužením)* a vymršťováním zrníček těmi dopadajícími (anglicky označované *"reptation"*).
 
 <figure id="fig:eoltransport">
-<figure>
-<img src="obrazky/eolicka/eol_transport.png"/>
-</figure>
+<img src="/assets/obrazky/eolicka/eol_transport.png"/>
 <figcaption>
 Obr. 1 Čtyři typy eolického transportu {% cite livingstoneAeolianGeomorphologyNew2019 %}
 </figcaption>
 </figure>
 
-Nejjemnější sedimenty jsou transportovány v *suspenzi* ("suspension").
-Vítr dokáže donést nejjemnější částečky až na stovky a tisíce kilometrů
-daleko ([Obr. 2](#fig:zdrojprachu)). Není vůbec neobvyklé, že se do střední Evropy
-dostává prach ze Sahary. Díky dálkovému transportu prachu ze Sahary se
-do Amazonského deštného pralesa dostává velké množství živin, zejména
-fosforu {% cite prosperoCharacterizingQuantifyingAfrican2020 %}.
+Nejjemnější sedimenty jsou transportovány v *suspenzi* ("suspension"). Vítr dokáže donést nejjemnější částečky až na stovky a tisíce kilometrů daleko ([Obr. 2](#fig:zdrojprachu)). Není vůbec neobvyklé, že se do střední Evropy dostává prach ze Sahary. Díky dálkovému transportu prachu ze Sahary se do Amazonského deštného pralesa dostává velké množství živin, zejména fosforu {% cite prosperoCharacterizingQuantifyingAfrican2020 %}.
 
 <figure id="fig:zdrojprachu">
-<img src="obrazky/eolicka/zdroje_prachu.jpg"/>
+<img src="/assets/obrazky/eolicka/zdroje_prachu.jpg"/>
 <figcaption> Obr. 2 Zdroje prachu
 </figcaption>
 </figure>

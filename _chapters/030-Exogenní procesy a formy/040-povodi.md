@@ -1,7 +1,7 @@
 ---
 title: Povodí, údolní síť a jezera
 layout: page
-permalink: /ucebnice/povodi-udolni-sit-jezera
+slug: povodi
 ---
 
 *Povodí* (*drainage basin, watershed, catchment*) je území, ze kterého

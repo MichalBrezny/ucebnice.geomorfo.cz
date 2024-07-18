@@ -1,12 +1,17 @@
 ---
 layout: home
-title: Učebnice geomorfologie
+title: Geomorfologie - eUčebnice
 permalink: /
 ---
 
-# Vítejte na na stránkách geomorfologické učebnice!
+# Vítejte na stránkách geomorfologické učebnice!
 
-![Badlands](/assests/badlands.JPG)
+{% include figure.html
+ url= "assets/badlands.JPG"
+ caption="Badlands"
+ class = "row"
+ %}
+
 
 
 

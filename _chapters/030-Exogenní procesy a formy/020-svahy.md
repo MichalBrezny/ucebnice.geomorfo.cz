@@ -1,7 +1,7 @@
 ---
 title: Svahy a svahové procesy
-layout: page
-permalink: /ucebnice/svahy
+slug: svahy
+abstract: Svahy, svahové procesy a sesuvy
 ---
 
 
@@ -22,8 +22,7 @@ povrchem.
 ## Části svahu
 
 Svah lze rozčlenit do několika částí (jednotek, segmentů). Nejjednodušší
-rozdělení je do tří jednotek (Obr.
-[1](#fig:segmenty_svahu){reference="fig:segmenty_svahu"
+rozdělení je do tří jednotek (Obr.[1](#fig:segmenty_svahu){reference="fig:segmenty_svahu"
 reference-type="ref"}. V horní části je konvexní jednotka, kde se sklon
 svahu s narůstající vzdáleností zvětšuje. Následuje lineární svah (sklon
 se nemění). Spodní část svahu má konkávní tvar, což znamená, že se sklon
@@ -69,9 +68,11 @@ To můžeme rozložit do dvou složek. *Normálová* složka resp. *normálové
 napětí* působí kolmo na rovinu svahu. Po svahu dolů působí *smykové
 napětí*. Smykové a normálové napětí vypočítáme podle rovnic:
 
-[\\\[\\begin{aligned} \\text{Smykové napětí: } \\tau =
-\\rho\_{s}gz\\sin{\\theta}\\\\ \\text{Normálové napětí: } \\sigma =
-\\rho\_{s}gz\\cos{\\theta} \\end{aligned}\\\]]{.math .display}
+[\\\[\\begin{aligned} \ 
+
+$$\text{Smykové napětí: } \tau = \rho_{s}gz\sin{\theta} \\
+\text{Normálové napětí: } \sigma = \rho_{s}gz\cos{\theta} 
+$$
 
 Velikost smykového a normálového napětí je závislá na velikosti sklonu
 ([\\(\\theta\\)]{.math .inline}) svahu. S rostoucím sklonem narůstá
@@ -714,23 +715,15 @@ Způsob jakým jsou sesuvy a další gravitační procesy propojené s vodními
 toky lze rozdělit do pěti skupin []{.citation
 cites="korupGeomorphicImprintLandslides2005"}.
 
-1.  Plošné - rozsáhlé rozsáhlých svahových deformací, které překračují
-    jednotlivá rozvodí
-
-2.  Liniové -- sesuv ve svém pohybu pokračuje v údolí ve vodním toku.
-    Dojde například k tranformaci sesuvu na blokovobahenní proud apod
-
-3.  Bodové -- akumulační oblast sesuvu zasahuje do vodního toku.
-
-4.  Nepřímé -- Nepřímé působení je v případě sesunutí do vodní nádrže
-    (přírodní či umělé).
-
-5.  Žádné -- nedochází k interakci mezi sesuvem a vodním tokem
-    (akumulace nezasahuje na dno údolí)
+1. Plošné – rozsáhlé rozsáhlých svahových deformací, které překračují jednotlivá rozvodí
+2. Liniové – sesuv ve svém pohybu pokračuje v údolí ve vodním toku. Dojde například k tranformaci sesuvu na blokovobahenní proud apod
+3. Bodové – akumulační oblast sesuvu zasahuje do vodního toku.
+4. Nepřímé – Nepřímé působení je v případě sesunutí do vodní nádrže (přírodní či umělé).
+5. Žádné – nedochází k interakci mezi sesuvem a vodním tokem (akumulace nezasahuje na dno údolí)
 
 <figure id="fig:koruptoky">
 <figure>
-<img src="obrazky/svahy/korup_toky.png" style="width:100.0%" />
+<img src="/assets/obrazky/svahy/korup_toky.png" />
 </figure>
 <figcaption>Možné interakce mezi vodním tokem a sesuvem (upraveno podle
 <span class="citation"

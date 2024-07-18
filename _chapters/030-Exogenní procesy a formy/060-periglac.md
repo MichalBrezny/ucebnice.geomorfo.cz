@@ -1,7 +1,7 @@
 ---
 title: Periglaciální procesy a formy
-layout: page
-permalink: /ucebnice/periglacialni
+slug: periglacialni
+abstract: Periglaciální procesy a formy
 ---
 
 

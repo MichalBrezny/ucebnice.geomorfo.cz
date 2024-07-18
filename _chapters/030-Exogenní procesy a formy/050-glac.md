@@ -1,7 +1,7 @@
 ---
 title: Glaciální procesy a formy
 layout: page
-permalink: /ucebnice/glacialni
+slug: glacialni
 ---
 
 

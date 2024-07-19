@@ -35,18 +35,65 @@ toků podobné větvím stromu. Tento typ sítě se vyvíjí v oblastech
 tvořených z hornin podobné geomorfologické odolnosti. Vývoj sítě tak
 není ovlivněn litologií ale hlavně sklonem reliéfu.
 
-::: table*
-      Označení       Popis vzoru                                                                                                  Strukturní vliv
-  --- -------------- ------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------
-  A   Stromovitá     Stromovitá struktura, hlavní tok vypadá kmen, přítoky větve. Bez zřejmého usměrnění toků.                    Horizontálně uložené sediment, homogení krystalické horniny, stejná odolnost hornin. Bez vlivu geologických strukltur.
-  B   Rovnoběžný     Hlavní toky jsou jednoho směru, rovnoběžné s pravidelnými rozestupy. Přítoky se napojují pod ostrými úhly.   Zlomy v těsných rozestupech, monoklinální struktury nebo isoclinální vrásy
-  C   Mřížkovitý     Jeden hlavní směr toků. Sekundární směr je kolmý na hlavní.                                                  Ukloněné nebo zvrásněné sedimentární horniny kde se střídají odolné a neodolné jednotky.
-  D   Pravoúhlý      Údolí tvoří pravoúhlou síť. Oba směry jsou rovnocenně zastoupeny.                                            Pukliny, zlomy
-  E   Radiální       Vodní toky tečou od středu                                                                                   Sopešné kužely, klenby
-  F   Prstencovitý   Hlavní toky mají kruhový vzor, přítoky se napojují v pravých úhlech                                          Erodované klenby, kde se střídají odolné a neodolné jednotky
-  G   Dostředný      Vodní toky tečou do středu                                                                                   Kaldery, krátery, tektonické pánve
-  H   Endoreický                                                                                                                  
-:::
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Označení</th>
+      <th>Popis vzoru</th>
+      <th>Strukturní vliv</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td>Stromovitá</td>
+      <td>Stromovitá struktura, hlavní tok vypadá kmen, přítoky větve. Bez zřejmého usměrnění toků.</td>
+      <td>Horizontálně uložené sediment, homogení krystalické horniny, stejná odolnost hornin. Bez vlivu geologických strukltur.</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>Rovnoběžný</td>
+      <td>Hlavní toky jsou jednoho směru, rovnoběžné s pravidelnými rozestupy. Přítoky se napojují pod ostrými úhly.</td>
+      <td>Zlomy v těsných rozestupech, monoklinální struktury nebo isoclinální vrásy</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>Mřížkovitý</td>
+      <td>Jeden hlavní směr toků. Sekundární směr je kolmý na hlavní.</td>
+      <td>Ukloněné nebo zvrásněné sedimentární horniny kde se střídají odolné a neodolné jednotky.</td>
+    </tr>
+    <tr>
+      <td>D</td>
+      <td>Pravoúhlý</td>
+      <td>Údolí tvoří pravoúhlou síť. Oba směry jsou rovnocenně zastoupeny.</td>
+      <td>Pukliny, zlomy</td>
+    </tr>
+    <tr>
+      <td>E</td>
+      <td>Radiální</td>
+      <td>Vodní toky tečou od středu</td>
+      <td>Sopešné kužely, klenby</td>
+    </tr>
+    <tr>
+      <td>F</td>
+      <td>Prstencovitý</td>
+      <td>Hlavní toky mají kruhový vzor, přítoky se napojují v pravých úhlech</td>
+      <td>Erodované klenby, kde se střídají odolné a neodolné jednotky</td>
+    </tr>
+    <tr>
+      <td>G</td>
+      <td>Dostředný</td>
+      <td>Vodní toky tečou do středu</td>
+      <td>Kaldery, krátery, tektonické pánve</td>
+    </tr>
+    <tr>
+      <td>H</td>
+      <td>Endoreický</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 # Hiearchizace říční sítě
 

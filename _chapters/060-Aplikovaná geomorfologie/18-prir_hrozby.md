@@ -15,14 +15,14 @@ představuje. Jde tedy o přímé vystavení společenských hodnot hrozbě a
 velikost takového je závislá na součinnosti dalších podmínek. Riziko
 tedy můžeme definovat jako:
 
-[\\\[\\label{key} R = H \\times Z \\times P\\\]]{.math .display}
+[\\\[\\label{key} R = H \\times Z \\times P\\\]]
 
 ::: eqexpl
-[\\(H\\)]{.math .inline}Hazard
+[\\(H\\)]Hazard
 
-[\\(Z\\)]{.math .inline}Zranitelnost
+[\\(Z\\)]Zranitelnost
 
-[\\(P\\)]{.math .inline}Ohrožené prvky
+[\\(P\\)]Ohrožené prvky
 :::
 
 Zkráceně můžeme říct, že riziko je pravděpodobnost ztrát způsobených

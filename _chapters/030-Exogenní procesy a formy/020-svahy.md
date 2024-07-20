@@ -45,7 +45,7 @@ $$
 $$
 
 Velikost smykového a normálového napětí je závislá na velikosti sklonu
-([\\(\\theta\\)]{.math .inline}) svahu. S rostoucím sklonem narůstá
+([\\(\\theta\\)] svahu. S rostoucím sklonem narůstá
 smykové napětí a normálové klesá a naopak. Na horizontálním povrchu je
 smykové nulové, normálové napětí se rovná tíhovému. U kolmé stěny je
 naopak nulové normálové napětí a smykové se rovná tíhovému napětí.
@@ -322,7 +322,7 @@ Svahové pohyby rozdělují do následujících šesti skupin:
 
 ### Řícení
 
-*Řícení* (*fall*) je nejrychlejším gravitačním procesem, kdy rychlost pohybu činí řádově m s^−1^. K řícení dochází na strmých svazích ([\\(\>\\SI{45}{\\degree}\\)]{.math .inline}). Pohyb hmoty je alespoň v části trajektorie realizován volným pádem a následně se horninové
+*Řícení* (*fall*) je nejrychlejším gravitačním procesem, kdy rychlost pohybu činí řádově m s^−1^. K řícení dochází na strmých svazích ([\\(\>\\SI{45}{\\degree}\\)]. Pohyb hmoty je alespoň v části trajektorie realizován volným pádem a následně se horninové
 fragmenty kutálejí či poskakují. Řícení můžeme rozlišit podle materiálu, který se účastní pohybu na: skalní řícení, suťové řícení a řícení v zeminách (spraši).
 
 Řícení může nabývat celé řady podob. *Sesypávání* probíhá nejčastěji v zeminách. Dále může docházet k *odpadávání úlomků* ze skalních výchozů. Na úpatí skalní stěny se tvoří osypy (*talus*). *Odvalové řícení* je způsobeno odkláněním bloku (viz níže), kdy po překročení kritické meze dojde k jeho kolapsu. *Planární řícení* zahrnuje podobně jako odvalové řícení větší masu horniny. V iniciální fázi dochází k sesouvání horniny podél planární smykové plochy a až následně dojde k pohybu volným pádem a tedy řícení. Jedná se často o velké katastrofické události.
@@ -376,7 +376,7 @@ Jedná se o pomalé pohyby (mm ^−1^), které ale mohou být extrémně rychl
 
 ### Tečení
 
-Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost tečení je různorodá. Pohybuje se od cm ^−1^ až [\\(\>\\SI{100}{\\kilo\\metre\\per\\hour}\\)]{.math .inline}. Výsledný tvar je *proud*. Blokovobahenní proud, mura (debris flow). Hlavní příčinou tečení je nasycení materiálu vodou. Tečením mohou být transportovány i bloky hornin i metrových velikostí.
+Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost tečení je různorodá. Pohybuje se od cm ^−1^ až [\\(\>\\SI{100}{\\kilo\\metre\\per\\hour}\\)]. Výsledný tvar je *proud*. Blokovobahenní proud, mura (debris flow). Hlavní příčinou tečení je nasycení materiálu vodou. Tečením mohou být transportovány i bloky hornin i metrových velikostí.
 
 Častým typem tečení jsou tzv. *blokovobahenní proudy* (*debris flow*), také nazývané *mury*. Vyskytují se typicky v horském terénu. Jedná se o rychlý pohyb ztekuceného materiálu (bahna a velkých balvanů) ve stržích či údolích prvních řádů, kde se tyto proudy pravidelně opakují. K blokovobahenním proudům dochází zejména po prudkých deštích. Často se vyskytují během povodňových událostí. Prvopočátek blokovobahenního proudu může být v podobě sesuvu vodou saturovaného koluvia. Když tento sesuv narazí na dno strže/údolí dochází ke ztekucení materiálu a vzniku samotného blokovobahenního proudu. Ten má velkou erozní schopnost a díky tomu nabírá další hmotu během svého pohybu. V případě, že tekoucí materiál neobsahuje velké balvany a skládá se především ze siltu hovoříme o *bahnotoku*. Pro velké bahnotoky a blokovobahenní proudy ze sopečného materiálu se používátermín *lahary*.
 
@@ -387,7 +387,7 @@ Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost teč
 
 *Zemní proud* (*earthflow*) je relativně pomalý proces tečení zemin. Pro zemní proudy jsou typická období klidu (desítky i stovky let) proložená epizodami náhlé aktivity. Jejich rychlost pohybu se pohybuje od metrů za rok až po metry za hodinu. Délka zemních proudů je v řádu desítek metrů až několika kilometrů.
 
-*Skalní laviny* jsou extrémním svahovým procesem. Jejich počátek je zpravidla v podobě velkého skalního sesuvu, který se ale záhy rozpadá a výsledkem je extrémně rychlý proud úlomků hornin. Objem sesunutých hornin bývá [\\(\> \\SI{1}{\\mega\\metre\\cubed}\\)]{.math .inline} a může dosahovat i desítek Gm^3^. Skalní laviny mají oproti klasickým sesuvům ohromnou mobilitu, tudíž mohou dosáhnout značných vzdáleností od svého počátku (i desítky km). Rychlost pohybu je v řádu stovek kilometrů
+*Skalní laviny* jsou extrémním svahovým procesem. Jejich počátek je zpravidla v podobě velkého skalního sesuvu, který se ale záhy rozpadá a výsledkem je extrémně rychlý proud úlomků hornin. Objem sesunutých hornin bývá [\\(\> \\SI{1}{\\mega\\metre\\cubed}\\)] a může dosahovat i desítek Gm^3^. Skalní laviny mají oproti klasickým sesuvům ohromnou mobilitu, tudíž mohou dosáhnout značných vzdáleností od svého počátku (i desítky km). Rychlost pohybu je v řádu stovek kilometrů
 za hodinu.
 
 ### Svahové deformace

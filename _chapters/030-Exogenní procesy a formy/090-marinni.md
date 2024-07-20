@@ -29,10 +29,10 @@ morfostrukturu, reliéf, klima apod.
 Vlny jsou hlavním aktivním činitelem, který utváří pobřeží. Jsou
 popisovány několika parametry. Vlnová délka ([\\(\\lambda\\)]{.math
 .inline} nebo L) je vzdálenost mezi dvěma hřbety vln. Perioda vlny
-([\\(T\\)]{.math .inline}) je čas, který uplyne než se následující vlna
+([\\(T\\)] je čas, který uplyne než se následující vlna
 dostane do pozice vlny předchozí. Rychlost vlny ([\\(V\\)]{.math
-.inline}) je daná rovnicí [\\(V = \\lambda/T\\)]{.math .inline}. Výška
-vlny nebo také amplituda ([\\(H\\)]{.math .inline}) je vertikální
+.inline}) je daná rovnicí [\\(V = \\lambda/T\\)]. Výška
+vlny nebo také amplituda ([\\(H\\)] je vertikální
 vzdálenost mezi nejnižším místem (dolem) a hřbetem vlny. Vlnění směrem
 do hloubky postupně ustává a zaniká v hloubce rovnající se polovině
 vlnové délky. Tuto hloubku označujeme jako *báze vlny*. Vrchol vlny se
@@ -61,15 +61,15 @@ velké vlny s vysokou kinetickou energií.
 V hlubokých vodách, tedy tam, kde báze vlny neprotíná dno probíhá pohyb
 molekul po kružnici. Směrem do hloubky se jejich průměr zmenšuje. Toto
 vlnění označujeme jako *vlnění hluboké vody*. Když vlna dosáhne mělčích
-vod (hloubka [\\(\< 0,5\\lambda\\)]{.math .inline}), začíná vlna
+vod (hloubka [\\(\< 0,5\\lambda\\)], začíná vlna
 interagovat se dnem. Pohyb částic již neprobíhá po kružnicích, ale po
 elipsách. Část energie vln je vynaložena na transport sypkého materiálu
 na dně a modelaci dna. Dochází ke zkracování vln a jejich zpomalování.
 Výška vlny ale naopak narůstá a čelní svah vlny se stává strmějším.
 Zvyšuje se tak poměr mezi výškou vlny a vlnovou délkou
-([\\(H/\\lambda\\)]{.math .inline}). Směrem k pobřeží se tato
-transformace zesiluje. Když [\\(H/\\lambda\\)]{.math .inline} překročí
-[\\(1/7\\)]{.math .inline}, hřbet vlny ztrácí oporu a dochází k lámání
+([\\(H/\\lambda\\)]. Směrem k pobřeží se tato
+transformace zesiluje. Když [\\(H/\\lambda\\)] překročí
+[\\(1/7\\)], hřbet vlny ztrácí oporu a dochází k lámání
 vlny. Vzniká tak *příboj* (*surf*), který mění potenciální energii vlny
 na kinetickou. Způsob jakým se vlna láme je dán strmostí vlny a sklonem
 pobřeží.
@@ -190,7 +190,7 @@ malé množství materiálu, který je neustále v pohybu.
 
 <figure id="fig:abrazni">
 <figure>
-<img src="obrazky/marinni/abrazni.jpg" style="width:100.0%" />
+<img src="obrazky/marinni/abrazni.jpg" />
 </figure>
 <figcaption>Ukázka abrazního pobřeží. Abrazní srub a abrazní terasa.
 Letecký snímek Doverských útesů (Autor: Alan Duncan, CC BY-SA
@@ -210,7 +210,7 @@ Nerovnoměrným ústupem abrazního srubu můžou vznikat *abrazní brány*,
 
 <figure id="fig:apostol">
 <figure>
-<img src="obrazky/marinni/apostolove.jpg" style="width:100.0%" />
+<img src="obrazky/marinni/apostolove.jpg" />
 </figure>
 <figcaption>Abrazní pilíře, Dvanáct apoštolů, Austrálie. V popředí je
 pozůstatek jednoho z pilířů, který se zřítil v roce 2005 (Autor: Richard
@@ -219,7 +219,7 @@ Mikalsen, CC BY-SA 3.0, via Wikimedia Commons)</figcaption>
 
 <figure id="fig:abrazni_terasa">
 <figure>
-<img src="obrazky/marinni/utesy_terasy.png" style="width:100.0%" />
+<img src="obrazky/marinni/utesy_terasy.png" />
 </figure>
 <figcaption>Možné podoby abrazních teras (upraveno podle <span
 class="citation"
@@ -250,7 +250,7 @@ písečná akumulace, která spojuje dva kusy pevniny.
 
 <figure id="fig:kosa">
 <figure>
-<img src="obrazky/marinni/kosa.jpg" style="width:100.0%" alt="image" />
+<img src="obrazky/marinni/kosa.jpg" alt="image" />
 <figcaption aria-hidden="true">image</figcaption>
 </figure>
 ]
@@ -280,7 +280,7 @@ pod vlivem přílivu, vzniká pobřežní nížina.
 
 <figure id="fig:watty">
 <figure>
-<img src="obrazky/marinni/watty.jpg" style="width:100.0%" />
+<img src="obrazky/marinni/watty.jpg" />
 </figure>
 <figcaption>Pohled na příbřežní plošinu s ostrovem Mount Saint-Michel.
 (volné dílo, via Wikimedia Commons)</figcaption>
@@ -325,7 +325,7 @@ okraji delty. Jsou tvořené zejména jemnozrnným materiálem.
 
 <figure id="fig:gilbertdelta">
 <figure>
-<img src="obrazky/marinni/gilbert_delta.png" style="width:100.0%" />
+<img src="obrazky/marinni/gilbert_delta.png" />
 </figure>
 <figcaption>Schéma jednoduché (Gilbertovy) delty</figcaption>
 </figure>
@@ -359,7 +359,7 @@ ledovcová údolí (trogy). Estuáry mohou mít i tektonický původ.
 
 <figure id="fig:estuary">
 <figure>
-<img src="obrazky/marinni/estuary.jpg" style="width:100.0%" />
+<img src="obrazky/marinni/estuary.jpg" />
 </figure>
 <figcaption>Estuár řeky Sierra Leone v Západní Africe. (Zdroj:
 Copernicus Sentinel data (2015)/ESA,CC BY-SA 3.0 IGO )</figcaption>
@@ -383,7 +383,7 @@ bariérový útes v Austrálii. *Atoly* (obr.
 
 <figure id="fig:atol">
 <figure>
-<img src="obrazky/marinni/atol.jpg" style="width:100.0%" />
+<img src="obrazky/marinni/atol.jpg" />
 </figure>
 <figcaption>Atol Nukuoro, Federativní státy Mikronésie (Autor:
 NASA/Johnson Space Center, Image Science &amp; Analysis Laboratory,
@@ -399,7 +399,7 @@ pobřežních pohoří. Tento typ pobřeží je typický pro Norsko a Kanadu.
 
 <figure id="fig:fjord">
 <figure>
-<img src="obrazky/marinni/fjord.jpg" style="width:100.0%" />
+<img src="obrazky/marinni/fjord.jpg" />
 </figure>
 <figcaption>Norské fjordy (Zdroj: Google Earth)</figcaption>
 </figure>
@@ -418,7 +418,7 @@ je pobřeží zpravidla odděleno kosami.
 
 <figure id="fig:limans">
 <figure>
-<img src="obrazky/marinni/Limans.jpeg" style="width:100.0%" />
+<img src="obrazky/marinni/Limans.jpeg" />
 </figure>
 <figcaption>Limany na severním břehu Černého moře. (Via Wikimedia
 Commons)</figcaption>

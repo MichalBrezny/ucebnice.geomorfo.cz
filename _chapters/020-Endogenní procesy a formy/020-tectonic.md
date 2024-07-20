@@ -17,12 +17,12 @@ horninách vyvolávají *napětí*. Napětí je přímo úměrné síle a nepř�
 úměrné ploše, na kterou působí. Zapsat to tedy můžeme jako:
 
 [\\\[\\label{eq:napeti} \\text{napětí} =
-\\text{síla}/\\text{plocha}\\\]]{.math .display}
+\\text{síla}/\\text{plocha}\\\]]
 
 Celkové napětí lze rozdělit do tří na sebe kolmých komponent --
-*hlavních (principiálních) napětí*: [\\(\\sigma\_{1}\\)]{.math .inline}
-(největší), [\\(\\sigma\_{2}\\)]{.math .inline} (střední) a
-[\\(\\sigma\_{3}\\)]{.math .inline} (nejmenší napětí).
+*hlavních (principiálních) napětí*: [\\(\\sigma\_{1}\\)]
+(největší), [\\(\\sigma\_{2}\\)] (střední) a
+[\\(\\sigma\_{3}\\)] (nejmenší napětí).
 
 # Tektonický režim
 
@@ -110,7 +110,7 @@ reference-type="ref"}).
 
 <figure id="fig:san_andreas">
 <figure>
-<img src="obrazky/tectonic/san_andreas.jpg" style="width:100.0%" />
+<img src="obrazky/tectonic/san_andreas.jpg" />
 </figure>
 <figcaption>Pohled na zlom San Andreas, Carrizo Plain (autor Ian Kluft,
 CC-SA 4.0)</figcaption>
@@ -142,7 +142,7 @@ smysl pohybu. Označují se jako tzv. *antitetické zlomy*.
 
 <figure id="fig:pokles">
 <figure>
-<img src="obrazky/tectonic/pokles.jpg" style="width:100.0%" />
+<img src="obrazky/tectonic/pokles.jpg" />
 </figure>
 <figcaption>Příklad normálního (poklesového zlomu) v v souvrství La
 Herradura. Lokace Morro Solar Lima, Peru (autor: Miguel Vera
@@ -343,12 +343,12 @@ Apalačský podle pohoří v USA (Obr.
 [6](#fig:apalachian){reference="fig:apalachian" reference-type="ref"}).
 
 <figure id="fig:zagros">
-<img src="obrazky/tectonic/zagros.jpg" style="width:100.0%" />
+<img src="obrazky/tectonic/zagros.jpg" />
 <figcaption>Pohoří Zagros (zdroj Google Earth)</figcaption>
 </figure>
 
 <figure id="fig:apalachian">
-<img src="obrazky/tectonic/apalachian.jpg" style="width:100.0%" />
+<img src="obrazky/tectonic/apalachian.jpg" />
 <figcaption>Apalačské pohoří v USA (zdroj Google Earth)</figcaption>
 </figure>
 

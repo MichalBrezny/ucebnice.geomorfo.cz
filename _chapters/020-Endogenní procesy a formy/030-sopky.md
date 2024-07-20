@@ -38,7 +38,7 @@ Mezi diskordantní tělesa patří **pravé žíly** (Obr.
 
 <figure id="fig:zila">
 <figure>
-<img src="obrazky/sopky/zila.jpg" style="width:100.0%" />
+<img src="obrazky/sopky/zila.jpg" />
 </figure>
 <figcaption>Pravá žíla tvořená lamprofyrem. Stará 27-32 miliónu let.
 (Navajo Volcanic Field, New Mexico, USA). (Zdroj: James St. John
@@ -184,14 +184,14 @@ ostrohranný.
 
 Pyroklastický materiál, který sopky chrlí do okolí dělíme dle velikosti
 jednotlivých klastů. Nejjemnější je **sopečný popel**, kdy průměr částic
-je [\\(\<\\)]{.math .inline} 2 mm. Po zpevnění je nazýván tufem. Větší
+je [\\(\<\\)] 2 mm. Po zpevnění je nazýván tufem. Větší
 částice o průměru 2 mm--64 mm nazýváme **lapilli**. Největší
-pyroklastika jsou **sopečné pumy** (průměr [\\(\>\\)]{.math .inline}
+pyroklastika jsou **sopečné pumy** (průměr 
 64 mm (obr. [4](#fig:puma){reference="fig:puma" reference-type="ref"}).
 
 <figure id="fig:puma">
 <figure>
-<img src="obrazky/sopky/puma.jpg" style="width:100.0%" />
+<img src="obrazky/sopky/puma.jpg" />
 </figure>
 <figcaption>Ještě žhavá sopečná puma vymrštěná ze sopky Kīlauea, Havaj
 (autor: J. D. Griggs, USGS, volné dílo)</figcaption>
@@ -211,7 +211,7 @@ tekoucího materiálu je od 100 °C--1100 °C.
 
 <figure id="fig:pyroclastic">
 <figure>
-<img src="obrazky/sopky/pyroclastic.jpg" style="width:100.0%" />
+<img src="obrazky/sopky/pyroclastic.jpg" />
 </figure>
 <figcaption>Pyroklastické mračna tekoucá po úbočí sopky Mayon, Filipíny,
 1984 (Autor: C.G. Newhall, USGS)</figcaption>
@@ -254,7 +254,7 @@ složených stratovulkánech.
 <figure id="fig:stratovulkan_rez">
 <figure>
 <img src="obrazky/sopky/Stratovolcano_cross-section.png"
-style="width:100.0%" />
+/>
 </figure>
 <figcaption>Schematický řez stratovulkánem. A: magma stoupá z
 magmatického krbu centrálním sopečným komínem (B); C: parazitický kráter
@@ -276,7 +276,7 @@ Vůbec nejrozsáhlejší vulkanickou formou jsou **štítové sopky**. Mohou
 nabývat dvou forem: centrální sopka s jedním kráterem kruhového
 charakteru. Druhá podoba je lineární sopka (tzv. eldgjá). Štítové sopky
 mají širokou základnu, sklon svahů je velice mírný (většinou
-[\\(\<\\)]{.math .inline}10 °). Dosahují ale velkých nadmořských výšek.
+[\\(\<\\)]10 °). Dosahují ale velkých nadmořských výšek.
 Největší štítové sopky na Zemi lze nalézt na Havaji. Mauna Loa (obr.
 [\[fig:maunaloa\]](#fig:maunaloa){reference="fig:maunaloa"
 reference-type="ref"}) a Mauna Kea dosahují výšky 4000 m nad mořem.

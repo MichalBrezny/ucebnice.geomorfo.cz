@@ -11,5 +11,3 @@ permalink: /
  caption="Badlands"
  class = "row"
  %}
-
-

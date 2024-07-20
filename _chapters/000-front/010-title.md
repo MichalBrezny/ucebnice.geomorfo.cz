@@ -1,10 +1,14 @@
 ---
 slug: book
 title: Úvodní stránka
-abstract: An example book for showcasing the Jekyll Chapterbook theme.
+abstract: Úvodní stránka
 ---
 
-By Jason Grimes
+Učebnice geomorfologie
+
+Michal Břežný
+
+
 
 Copyright &copy; {{"now" | date: "%Y"}} by {{site.author}}.
 
@@ -15,8 +19,10 @@ Last updated: {{ "now" | date: "%B %e, %Y" }}
   <a href="{{site.baseurl_canonical}}{{page.url}}">{{site.baseurl_canonical}}{{page.url}}</a>.
 {% endif %}
 
----
-```
-This file is located at: {{ page.path }}
-```
----
+
+
+
+
+
+### 
+Poslední úpravy

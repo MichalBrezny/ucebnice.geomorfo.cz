@@ -107,7 +107,7 @@ Pokud je území vystaveno dvěma převládajícím směrům větru (polovinu ro
 
 
 <figure id="fig:linearniduny">
-    <img src="obrazky/eolicka/linearniduny.jpg" style="width:100.0%" />
+    <img src="obrazky/eolicka/linearniduny.jpg" />
     <figcaption>Lineární duny</figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ které jednotlivým směrům větru.
 
 <figure id="fig:volneduny">
 <figure>
-<img src="obrazky/eolicka/volne_duny.png" style="width:100.0%" />
+<img src="obrazky/eolicka/volne_duny.png" />
 </figure>
 <figcaption>Závislost typu volných dun na mocnosti písku (při
 rovnoměrném rozložení v ploše) a variabilitě směru větru (upraveno podle {% cite wassonFactorsDeterminingDesert1983 %})</figcaption>

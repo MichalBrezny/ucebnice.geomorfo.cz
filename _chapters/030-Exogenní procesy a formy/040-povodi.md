@@ -1,7 +1,7 @@
 ---
 title: Povodí, údolní síť a jezera
-layout: page
 slug: povodi
+abstract: Tvar povodí a charakteristiky údolní sítě, typologie jezer.
 ---
 
 *Povodí* (*drainage basin, watershed, catchment*) je území, ze kterého odtéká voda a sedimenty do jednoho vodního toku či jezera. Hranice povodí je nazývaná *rozvodím*. K odtoku z povodí dochází v nejnižším bodě -- *závěrovém profilu* (*outlet*).
@@ -122,3 +122,6 @@ Další klíčové pojmy k zapamatování
 - řád toku
 - jezero
 
+
+# Zdroje 
+{% bibliography --cited %}

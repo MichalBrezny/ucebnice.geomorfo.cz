@@ -1,6 +1,5 @@
 ---
 title: Magmatismus, vulkanické procesy a formy reliéfu
-layout: page
 slug: vulkanismus
 abstract: Vulkaismus, typy sopek, vulkanické formy reliéfu
 ---
@@ -336,3 +335,6 @@ Další klíčové pojmy k zapamatování
 - kaldera 
 - trappy
 
+
+# Zdroje 
+{% bibliography --cited %}

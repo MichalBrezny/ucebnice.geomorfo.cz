@@ -1,7 +1,7 @@
 ---
 title: Fluviální geomorfologie
-layout: page
 slug: fluvialni
+abstract: Geomorfologie vodních toků
 ---
 
 # Fluviální systém
@@ -458,3 +458,6 @@ Další klíčové pojmy k zapamatování
 - náplavový kužel
 - říční terasa
 
+
+# Zdroje 
+{% bibliography --cited %}

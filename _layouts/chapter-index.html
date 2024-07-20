@@ -98,16 +98,6 @@ layout: default
     </div>
   {% endif %}
 
-  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-    {%- assign date_format = site.minima.date_format | default: '%-d. %m. %Y' -%}
-
-    {%- if page.last_modified_at -%}
-        Poslední úpravy: {{ page.last_modified_at | date: date_format }}
-    {%- else -%}
-        Poslední úpravy: {{ page.date | date: date_format }}
-    {%- endif -%}
-</time>
-
   {% if site.in_chapter_toc.enabled and page.disable_toc != true and page_chapter_is_part_index != true %}
     {% capture in_chapter_toc %}
       {% include toc.html html=content h_min=site.sidebar_toc.h_min h_max=site.sidebar_toc.h_max %}{% endcapture %}

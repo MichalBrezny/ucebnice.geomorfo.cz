@@ -1,6 +1,5 @@
 ---
 title: Předmluva
-layout: page
 slug: predmluva
 ---
 

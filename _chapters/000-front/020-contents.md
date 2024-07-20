@@ -1,6 +1,7 @@
 ---
 title: Obsah
 slug: contents
+layout: chapter-index
 ---
 
 *Also see the [outline](outline) of the entire book as planned, including draft chapters that are not yet completed.*

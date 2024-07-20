@@ -1,6 +1,5 @@
 ---
 title: Úvod
-layout: page
 slug: uvod
 abstract: Co je to geomorfologie?
 ---
@@ -9,15 +8,16 @@ Geomorfologie je věda zabývající se tvary zemského reliéfu, jeho historií
 
 Pojem geomorfologie vznikl spojením tří řeckých slov: geo (země), -morphos (tvar, forma) a -ology (studium). *Objektem studia* geomorfologie je zemský reliéf  ‒ *georeliéf*. Reliéf sám o sobě není hmotný, jedná se o svrchní plochu zemské kůry, která tvoří rozhraní mezi litosférou a dalšími sférami Země jako je například atmosféra či hydrosféra. Hmotným nositelem reliéfu jsou horniny zemské kůry a je jedno, jestli se jedná o pevné horniny či nezpevněné sedimenty. Georeliéf můžeme chápat i jako soubor tvarů zemského povrchu.
 
-<figure id="fig:diagramgeomorf">
-<img src="obrazky\uvod\diagram_geomorf.png">
+
+<figure id="fig:diagramgeomorf" style="text-align:center;">
+<img src="/assets/obrazky/uvod/diagram_geomorf.png">
 <figcaption>
-Obr. 1
+Obr. 1 Georeliéf tvoří rozhraní mezi litosférou nebo pedosférou na jedné straně a atmosférou, hydrosférou, biosférou a antroposférou. Georeliéf ovlivňuje okolní sféry a naopak je sám jimi ovlivňován.
 </figcaption>
 </figure>
 
 <table id="tab:geom_a_dalsi"><thead>
- <caption>Tab. 1 </caption>
+ <caption>Tab. 1 Příklady vztahu mezi geomorfologií a spřízněnými disciplínami (upraveno podle {% cite summerfieldGlobalGeomorphologyIntroduction1999 %}) </caption>
     <tr>
         <th>Disciplína</th>
         <th>Příklad přínosu pro geomorfologii</th>
@@ -74,13 +74,14 @@ Obr. 1
 *Předmětem geomorfologie* je popis forem reliéfu (*morfografie*), jejich vznik neboli *morfogeneze*, dále pak kdy a jak rychle formy vznikaly *morfochronologie*, jaké mají (geo)metrické vlastnosti -- *morfometrie*. Geomorfologa zajímají ale také současné reliéfotvorné procesy -- *morfodynamika* či vztahy mezi jednotlivými formami georeliéfu a dalšími složkami krajiny a také jejich prostorové rozmístění (*morfogeografie*).
 
 # Proč se zabývat geomorfologií?
-Povrch Země je dynamický, mění se v čase a prostoru. Jeho vývoj je ovlivněn celou řadou faktorů, člověka nevyjímaje. Geomorfologické procesy jsou často významným *geohazardem*. Sesuvy, povodně, větrné bouře každý rok způsobůjí rozsáhlé škody a mají na svědomí množství lidských životů. Nejde ale jen o přírodní hazardy. Znalosti geomorfologie jsou důležité pro jakékoliv plánování v krajině, krajinný management. Bez znalosti možných úskalí, problematických faktorů, různých limit území nelze kvalitně a s rozumem v krajině hospodařit. Špatným plánováním, nevhodnou lokalizací staveb je můžete vystavit zbytečnému riziku (sesuvy, povodně, skalní řícení) a ohrozit tak i jejich obyvatele. A netýká se to jen na první pohled zjevných rizik. Některé události mají tak malou frekvenci opakování, že ani nemohou být zaznamenané v jakýchkoliv lidských kronikách. Komplexním geomorfologickým výzkumem je ale možné odhalit celou řadu na první pohled skrytých nebezpečí.
+Povrch Země je dynamický, mění se v čase a prostoru. Jeho vývoj je ovlivněn celou řadou faktorů, člověka nevyjímaje. Geomorfologické procesy jsou často významným *geohazardem*. Sesuvy, povodně, větrné bouře každý rok způsobují rozsáhlé škody a mají na svědomí množství lidských životů. Nejde ale jen o přírodní hazardy. Znalosti geomorfologie jsou důležité pro jakékoliv plánování v krajině, krajinný management. Bez znalosti možných úskalí, problematických faktorů, různých limit území nelze kvalitně a s rozumem v krajině hospodařit. Špatným plánováním, nevhodnou lokalizací staveb je můžete vystavit zbytečnému riziku (sesuvy, povodně, skalní řícení) a ohrozit tak i jejich obyvatele. A netýká se to jen na první pohled zjevných rizik. Některé události mají tak malou frekvenci opakování, že ani nemohou být zaznamenané v jakýchkoliv lidských kronikách. Komplexním geomorfologickým výzkumem je ale možné odhalit celou řadu na první pohled skrytých nebezpečí.
 
 # Stručný exkurz do historie geomorfologie
 
 Prvotní úvahy o vývoji reliéfu lze najít už v období antiky. Herodotus (484 př. n. l. -- 430 př. n. l.) popsal vývoj Nilské delty a spočítal její stáří na základě rychlosti ukládání sedimentů. Aristoteles například uvažoval o střídání pevnin a moří. Tam, kde kdysi bylo moře je v současnosti souš a naopak. Lucius Annaeus Seneca přemýšlel o síle vodních toků a jejich erozní činnosti. Stejným tématem se zabýval v 15. století i Leonardo da Vinci.
 
 Základní geomrofologické koncepty byly položeny až ke konci 18. století. V roce 1785 představil James Hutton svou představu, že zemský povrch je dominantně formován postupnou vodní erozí a ne katastrofickými událostmi. Na Huttonových základech stavěl Charles Lyell, který v práci *Principles of Geology* vypracoval myšlenky *uniformitarianismu* (označované taky jako *princip uniformity*, *aktualismus*), který má čtyři základní principy:
+
 1.  *Jednota zákonů:* přírodní zákony jsou konstantní v čase a prostoru.
 2.  *Jednota procesů:* pokud lze vysvětlit události dob minulých procesy, které známe ze současnosti, není třeba vymýšlet další neznámé vysvětlení.
 3.  *Jednota rychlosti:* změny na zemském povrchu jsou pomalé, ustálené a postupné. Velké katastrofické události (povodně, zemětřesení) mají     jen omezený prostorový dosah a v minulosti se děly se stejnou frekvencí jako je tomu v současnosti.
@@ -92,7 +93,7 @@ W. M. Davis (1850--1934) (Obr. [1](#fig:davies){reference="fig:davies"reference-
 
 <figure id="fig:davies">
 <figure>
-<img src="obrazky/uvod/davies.jpeg" style="width:70.0%" />
+<img src="/assets/obrazky/uvod/davies.jpeg" style="width:70.0%" />
 </figure>
 <figcaption>William Morris Davies (zdroj: Bibliothèque nationale de
 France https://gallica.bnf.fr/ark:/12148/btv1b8453640z, volné
@@ -116,3 +117,8 @@ Geomorfologii můžeme rozdělit podrobněji podle předmětu studia do několik
 4.  *Paleogeomorfologie* nebo také historická geomorfologie se zabývá výzkumem georeliéfu minulých geologických období.
 5.  *Antropogenní geomorfologie* studuje tvary reliéfu, které člověk vytváří a procesy, které způsobují jejich vznika a vývoj. Také sleduje jak člověk ovlivňuje přírodní morfogenetické procesy. 
 6.  *Aplikovaná geomorfologie* neboli užitá geomorfologie aplikuje geomorfologické poznatky a přístupy pro řešení celé řady socioekonomických problémů.
+
+
+
+# Zdroje 
+{% bibliography --cited %}

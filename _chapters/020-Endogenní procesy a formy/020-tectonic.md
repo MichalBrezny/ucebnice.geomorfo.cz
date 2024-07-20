@@ -1,6 +1,5 @@
 ---
 title: Tektonická geomorfologie
-layout: page
 slug: tektonicka-geomorfologie
 abstract: Základy strukturní geologie, vliv struktur na reliéf
 ---
@@ -12,71 +11,35 @@ které tyto tvary utvářejí.
 
 # Síla a napětí
 
-Na horniny v zemské kůře působí gravitační a tektonické síly, které v
-horninách vyvolávají *napětí*. Napětí je přímo úměrné síle a nepřímo
-úměrné ploše, na kterou působí. Zapsat to tedy můžeme jako:
+Na horniny v zemské kůře působí gravitační a tektonické síly, které v horninách vyvolávají *napětí*. Napětí je přímo úměrné síle a nepřímo úměrné ploše, na kterou působí. Zapsat to tedy můžeme jako:
 
-[\\\[\\label{eq:napeti} \\text{napětí} =
-\\text{síla}/\\text{plocha}\\\]]
+$$
+\text{napětí} = \frac{\text{síla}}{\text{plocha}}
+$$
 
-Celkové napětí lze rozdělit do tří na sebe kolmých komponent --
-*hlavních (principiálních) napětí*: [\\(\\sigma\_{1}\\)]
-(největší), [\\(\\sigma\_{2}\\)] (střední) a
-[\\(\\sigma\_{3}\\)] (nejmenší napětí).
+Celkové napětí lze rozdělit do tří na sebe kolmých komponent - *hlavních (principiálních) napětí*: $\sigma_{1}$ (největší), $\sigma_{2}$ (střední) a $\sigma_{3}$ (nejmenší napětí).
 
 # Tektonický režim
 
-Tektonické pohyby mohou reliéf ovlivňovat jak ve vertikálním i
-horizontálním směru. Při vertikálních posunech dochází ke změně
-nadmořské výšky, což vede ke změně energie reliéfu a tedy k urychlení
-odnosu a akumulace. Horizontální pohyby mění topografické uspořádání
-forem reliéfu, dochází ke změnám v půdorysu.
+Tektonické pohyby mohou reliéf ovlivňovat jak ve vertikálním i horizontálním směru. Při vertikálních posunech dochází ke změně nadmořské výšky, což vede ke změně energie reliéfu a tedy k urychlení odnosu a akumulace. Horizontální pohyby mění topografické  uspořádání forem reliéfu, dochází ke změnám v půdorysu.
 
-Na základě uspořádání principiálních napětí můžeme rozlišit tři základní
-tektonické režimy:
-
+Na základě uspořádání principiálních napětí můžeme rozlišit tři základní tektonické režimy:
 -   Extenze
-
 -   Komprese
-
 -   Směrový posun
 
-Při *extenzi* dochází k roztahování zemské kůry a ztenčování, což se
-projevuje poklesovými zlomy. Při *kompresním* režimu dochází ke
-zkracování zemské kůry. To vede ke vzniku vrás, přesmyků či příkrovů. U
-směrových posunů dochází k pouhému posouvání ker zemské kůry podél sebe
-v opačném směru. Pokud je horizontální posun kombinován i s vertikální
-složkou hovoříme o *transpresním*, respektive *transtenzním* režimu.
-
-Tektonické pohyby rozlišujeme podle stáří. *Paleotektonické* pohyby se
-projevují pouze ve struktuře. Reliéf mohou ovlivňovat jen pasivně.
-Neotektonické pohyby se projevují v současném reliéfu. Do
-neotektonických pohybů patří i současné pohyby zemské kůry.
-
-Tektonické pohyby se rozlišují i podle toho, zda je při nich narušena
-spojitost hornin. *Plikativní (duktilní, vrásové)* pohyby jsou spojité.
-Jedná se o plastickou deformaci hornin a není tak narušena jejich
-spojitost. *Disjunktivní (zlomové)* pohyby jsou nespojité, dochází k
-rozpojení hornin, průběžnost vrstev je narušena.
+Při *extenzi* dochází k roztahování zemské kůry a ztenčování, což se projevuje poklesovými zlomy. Při *kompresním* režimu dochází ke zkracování zemské kůry. To vede ke vzniku vrás, přesmyků či příkrovů. U směrových posunů dochází k pouhému posouvání ker zemské kůry podél sebe v opačném směru. Pokud je horizontální posun kombinován i s vertikální složkou hovoříme o *transpresním*, respektive *transtenzním* režimu.
+Tektonické pohyby rozlišujeme podle stáří. *Paleotektonické* pohyby se projevují pouze ve struktuře. Reliéf mohou ovlivňovat jen pasivně. Neotektonické pohyby se projevují v současném reliéfu. Do neotektonických pohybů patří i současné pohyby zemské kůry.
+Tektonické pohyby se rozlišují i podle toho, zda je při nich narušena spojitost hornin. *Plikativní (duktilní, vrásové)* pohyby jsou spojité. Jedná se o plastickou deformaci hornin a není tak narušena jejich spojitost. *Disjunktivní (zlomové)* pohyby jsou nespojité, dochází k rozpojení hornin, průběžnost vrstev je narušena.
 
 # Zlomy
 
-Jako *zlom* ("fault") se běžně označuje plocha (diskontinuita), v
-horninovém tělese, podél které došlo k pohybu horninových bloků --
-jejich dislokaci. Ve skutečnosti je zlom trojrozměrné těleso jehož třetí
-rozměr (tloušťka) je zanedbatelný. Zlom vymezují *zlomové plochy*, na
-kterých bývají stopy pohybu -- *striace*. Zlom odděluje dva bloky (kry)
-zemské kůry. Pokud je zlom ukloněn, kra nad zlomem se označuje jako
-*nadložní* ("hanging-wall") a kra pod zlomem jako *podložní*
-("foot-wall").
+Jako *zlom* ("fault") se běžně označuje plocha (diskontinuita), v horninovém tělese, podél které došlo k pohybu horninových bloků --
+jejich dislokaci. Ve skutečnosti je zlom trojrozměrné těleso jehož třetí rozměr (tloušťka) je zanedbatelný. Zlom vymezují *zlomové plochy*, na kterých bývají stopy pohybu -- *striace*. Zlom odděluje dva bloky (kry) zemské kůry. Pokud je zlom ukloněn, kra nad zlomem se označuje jako *nadložní* ("hanging-wall") a kra pod zlomem jako *podložní* ("foot-wall").
 
-Podle smyslu pohybu bloků dělíme zlomy na (Obr.
-[1](#fig:zlomy){reference="fig:zlomy" reference-type="ref"}):
-
+Podle smyslu pohybu bloků dělíme zlomy na (Obr. [1](#fig:zlomy):
 -   Poklesové (normální)
-
 -   Přesmyky (reverzní zlomy)
-
 -   Horizontální posun
 
 <figure id="fig:zlomy">
@@ -416,3 +379,7 @@ Další klíčové pojmy k zapamatování
 - pokles násun\
 mesa & kuesta\
 kozí hřbet & inverze reliéfu\
+
+
+# Zdroje 
+{% bibliography --cited %}

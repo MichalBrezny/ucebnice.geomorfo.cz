@@ -1,6 +1,5 @@
 ---
 title: Zvětrávání
-layout: page
 slug: zvetravani
 ---
 
@@ -95,3 +94,6 @@ Další klíčové pojmy k zapamatování
 - laterit
 - saprolit
 - regolit
+
+# Zdroje 
+{% bibliography --cited %}

@@ -45,7 +45,7 @@ $$
 $$
 
 Velikost smykového a normálového napětí je závislá na velikosti sklonu
-([\\(\\theta\\)] svahu. S rostoucím sklonem narůstá
+([\\(\\theta\\)]{.math .inline}) svahu. S rostoucím sklonem narůstá
 smykové napětí a normálové klesá a naopak. Na horizontálním povrchu je
 smykové nulové, normálové napětí se rovná tíhovému. U kolmé stěny je
 naopak nulové normálové napětí a smykové se rovná tíhovému napětí.
@@ -322,7 +322,7 @@ Svahové pohyby rozdělují do následujících šesti skupin:
 
 ### Řícení
 
-*Řícení* (*fall*) je nejrychlejším gravitačním procesem, kdy rychlost pohybu činí řádově m s^−1^. K řícení dochází na strmých svazích ([\\(\>\\SI{45}{\\degree}\\)]. Pohyb hmoty je alespoň v části trajektorie realizován volným pádem a následně se horninové
+*Řícení* (*fall*) je nejrychlejším gravitačním procesem, kdy rychlost pohybu činí řádově m s^−1^. K řícení dochází na strmých svazích ([\\(\>\\SI{45}{\\degree}\\)]{.math .inline}). Pohyb hmoty je alespoň v části trajektorie realizován volným pádem a následně se horninové
 fragmenty kutálejí či poskakují. Řícení můžeme rozlišit podle materiálu, který se účastní pohybu na: skalní řícení, suťové řícení a řícení v zeminách (spraši).
 
 Řícení může nabývat celé řady podob. *Sesypávání* probíhá nejčastěji v zeminách. Dále může docházet k *odpadávání úlomků* ze skalních výchozů. Na úpatí skalní stěny se tvoří osypy (*talus*). *Odvalové řícení* je způsobeno odkláněním bloku (viz níže), kdy po překročení kritické meze dojde k jeho kolapsu. *Planární řícení* zahrnuje podobně jako odvalové řícení větší masu horniny. V iniciální fázi dochází k sesouvání horniny podél planární smykové plochy a až následně dojde k pohybu volným pádem a tedy řícení. Jedná se často o velké katastrofické události.
@@ -376,7 +376,7 @@ Jedná se o pomalé pohyby (mm ^−1^), které ale mohou být extrémně rychl
 
 ### Tečení
 
-Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost tečení je různorodá. Pohybuje se od cm ^−1^ až [\\(\>\\SI{100}{\\kilo\\metre\\per\\hour}\\)]. Výsledný tvar je *proud*. Blokovobahenní proud, mura (debris flow). Hlavní příčinou tečení je nasycení materiálu vodou. Tečením mohou být transportovány i bloky hornin i metrových velikostí.
+Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost tečení je různorodá. Pohybuje se od cm ^−1^ až [\\(\>\\SI{100}{\\kilo\\metre\\per\\hour}\\)]{.math .inline}. Výsledný tvar je *proud*. Blokovobahenní proud, mura (debris flow). Hlavní příčinou tečení je nasycení materiálu vodou. Tečením mohou být transportovány i bloky hornin i metrových velikostí.
 
 Častým typem tečení jsou tzv. *blokovobahenní proudy* (*debris flow*), také nazývané *mury*. Vyskytují se typicky v horském terénu. Jedná se o rychlý pohyb ztekuceného materiálu (bahna a velkých balvanů) ve stržích či údolích prvních řádů, kde se tyto proudy pravidelně opakují. K blokovobahenním proudům dochází zejména po prudkých deštích. Často se vyskytují během povodňových událostí. Prvopočátek blokovobahenního proudu může být v podobě sesuvu vodou saturovaného koluvia. Když tento sesuv narazí na dno strže/údolí dochází ke ztekucení materiálu a vzniku samotného blokovobahenního proudu. Ten má velkou erozní schopnost a díky tomu nabírá další hmotu během svého pohybu. V případě, že tekoucí materiál neobsahuje velké balvany a skládá se především ze siltu hovoříme o *bahnotoku*. Pro velké bahnotoky a blokovobahenní proudy ze sopečného materiálu se používátermín *lahary*.
 
@@ -387,7 +387,7 @@ Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost teč
 
 *Zemní proud* (*earthflow*) je relativně pomalý proces tečení zemin. Pro zemní proudy jsou typická období klidu (desítky i stovky let) proložená epizodami náhlé aktivity. Jejich rychlost pohybu se pohybuje od metrů za rok až po metry za hodinu. Délka zemních proudů je v řádu desítek metrů až několika kilometrů.
 
-*Skalní laviny* jsou extrémním svahovým procesem. Jejich počátek je zpravidla v podobě velkého skalního sesuvu, který se ale záhy rozpadá a výsledkem je extrémně rychlý proud úlomků hornin. Objem sesunutých hornin bývá [\\(\> \\SI{1}{\\mega\\metre\\cubed}\\)] a může dosahovat i desítek Gm^3^. Skalní laviny mají oproti klasickým sesuvům ohromnou mobilitu, tudíž mohou dosáhnout značných vzdáleností od svého počátku (i desítky km). Rychlost pohybu je v řádu stovek kilometrů
+*Skalní laviny* jsou extrémním svahovým procesem. Jejich počátek je zpravidla v podobě velkého skalního sesuvu, který se ale záhy rozpadá a výsledkem je extrémně rychlý proud úlomků hornin. Objem sesunutých hornin bývá [\\(\> \\SI{1}{\\mega\\metre\\cubed}\\)]{.math .inline} a může dosahovat i desítek Gm^3^. Skalní laviny mají oproti klasickým sesuvům ohromnou mobilitu, tudíž mohou dosáhnout značných vzdáleností od svého počátku (i desítky km). Rychlost pohybu je v řádu stovek kilometrů
 za hodinu.
 
 ### Svahové deformace
@@ -514,38 +514,41 @@ cites="korupGeomorphicImprintLandslides2005"}.
 
 Difuzní procesy jsou charakteristické tím, že se na transportu sedimentů nepodílí soustředěný tok vody, větru či ledu. Tyto procesy zahlazují nerovnosti na svahu a postupně snižují vertikální členitost reliéfu. 
 
-*Bombardování vodními kapkami* se uplatňuje zejména tam, kde *vegetační kryt je velice řídký či zcela chybí* (pouště, badlandy). Vodní kapka, která dopadá na ukloněný povrch vymrští částečky, které letí proti a po svahu. Ty, které jsou odmrštěny proti svahu mají kratší trajektorii, než ty, které letí po svahu dolů. Tímto způsobem se tak materiál postupně přesouvá směrem po svahu. samozřejmě čím větší je sklon, tím delší je transport po svahu dolů.
+*Bombardování vodními kapkami* se uplatňuje zejména tam, kde *vegetační kryt je velice řídký či zcela chybí* (pouště, badlandy). Vodní kapka, která dopadá na ukloněný povrch vymrští částečky, které letí proti a po svahu. Ty, které jsou odmrštěny proti svahu mají kratší trajektorii, než ty, které letí po svahu dolů. Tímto způsobem se tak materiál postupně přesouvá směrem po svahu. samozřejmě čím větší je sklon, tím delší je transport po svahu dolů.
 
-Významnějším procesem je *plošný (ronový) splach*. Jako *ron* označujeme nesoustředěný odtok vody po povrchu. Největší účinky má plošný splach opět na svazích, které nejsou pokryté vegetací. K tomuto *povrchovému odtoku* dochází při překročení infiltrační kapacity půdy nebo jejímu nasycení vodou. Se zvětšujícím se sklonem a narůstajícím množstvím vody se laminární proudění mění na turbulentní. To způsobuje soustředění odtoku a začátek hloubkové eroze, což v důsledku vede ke vzniku stružek a následně strží.
+Významnějším procesem je *plošný (ronový) splach*. Jako *ron* označujeme nesoustředěný odtok vody po povrchu. Největší účinky má plošný splach opět na svazích, které nejsou pokryté vegetací. K tomuto *povrchovému odtoku* dochází při překročení infiltrační kapacity půdy nebo jejímu nasycení vodou. Se zvětšujícím se sklonem a narůstajícím množstvím vody se laminární proudění mění na turbulentní. To způsobuje soustředění odtoku a začátek hloubkové eroze, což v důsledku vede ke vzniku stružek a následně strží.
 
-Do difuzních procesů se řadí i povrchové ploužení, ale o něm byla řeč již výše.
+Do difuzních procesů se řadí i povrchové ploužení, ale o něm byla řeč již výše.
 
 ## Liniová eroze
 
-Soustředěním povrchového odtoku a vznikem turbulentního proudění dochází k intenzivní výmolné činnosti v místech soustředění. Iniciálním stádiem liniové eroze je *stružková eroze*. *Stružky* jsou mělké erozní rýhy, které jsou občasně protékané vodou. Většinou se jedná o systém paralelních pravidelně uspořádaných rýh. Vznikají v důsledku silných srážek nebo rychlého tání sněhu na vegetací nekrytých površích.
+Soustředěním povrchového odtoku a vznikem turbulentního proudění dochází k intenzivní výmolné činnosti v místech soustředění. Iniciálním stádiem liniové eroze je *stružková eroze*. *Stružky* jsou mělké erozní rýhy, které jsou občasně protékané vodou. Většinou se jedná o systém paralelních pravidelně uspořádaných rýh. Vznikají v důsledku silných srážek nebo rychlého tání sněhu na vegetací nekrytých površích.
 
-Rozvojem stružek, jejich prohlubováním a prodlužováním do podoby, kdy jsou již trvalou součástí krajiny (např. jsou tak velké, že je nelze zaorat) vznikají *strže*. Hovoříme pak o *stržové erozi*. Strže mohou být občasně, ale i trvale protékané vodním tokem.
+Rozvojem stružek, jejich prohlubováním a prodlužováním do podoby, kdy jsou již trvalou součástí krajiny (např. jsou tak velké, že je nelze zaorat) vznikají *strže*. Hovoříme pak o *stržové erozi*. Strže mohou být občasně, ale i trvale protékané vodním tokem.
 
-*Badland* je erozí zcela přemodelovaná plocha. Jedná se o hustou síť strží a stružek. Půda prakticky absentuje a vegetace je velice sporá. Badlandy často vznikají antropogenní příčinou.
+*Badland* je erozí zcela přemodelovaná plocha. Jedná se o hustou síť strží a stružek. Půda prakticky absentuje a vegetace je velice sporá. Badlandy často vznikají antropogenní příčinou.
 
-Intenzivní a člověkem urychlená eroze ze svahů (např. odlesněním, špatným hospodařením na polích) není problematická jen z důvodu ztráty půdy z daného místa a zmenšení obdělávatelných ploch. Materiál, který je odnesen se dostává do vodních toků, což snižuje kvalitu vody ale také materiál někde sedimentuje a to může způsobovat další problémy.
+Intenzivní a člověkem urychlená eroze ze svahů (např. odlesněním, špatným hospodařením na polích) není problematická jen z důvodu ztráty půdy z daného místa a zmenšení obdělavatelných ploch. Materiál, který je odnesen se dostává do vodních toků, což snižuje kvalitu vody ale také materiál někde sedimentuje a to může způsobovat další problémy.
 
 ## Sufoze
 
-*Sufoze* je proces při kterém dochází k odnosu částic pod povrchem. Voda se dostává do podloží a následně soustavou drobných tunelů (*pipes*) odtéká a odplavuje materiál. Sufoze nemusí být na povrchu patrná. Postupným zvětšováním tunelů ale následně může docházet ke kolapsům povrchů a vznikají "závrty". V některých místech mohou tunely ústit na povrch a vytvářejí tak otevřené kanály, kde se na úpatí ukládá vyplavený materiál. Sufoze tak může předcházet následnému rozvoji strží.
+*Sufoze* je proces při kterém dochází k odnosu částic pod povrchem. Voda se dostává do podloží a následně soustavou drobných tunelů (*pipes*) odtéká a odplavuje materiál. Sufoze nemusí být na povrchu patrná. Postupným zvětšováním tunelů ale následně může docházet ke kolapsům povrchů a vznikají „závrty“. V některých místech mohou tunely ústit na povrch a vytvářejí tak otevřené kanály, kde se na úpatí ukládá vyplavený materiál. Sufoze tak může předcházet následnému rozvoji strží.
 
-Kontrolní a klíčové otázky, na které bychom měli znát odpověď
--   Jaké síly působí na svah? Jak jejich rozložení ovlivňuje sklon svahu?
--   Jaké faktory ovlivňují stabilitu svahu?
--   Co může snížit nebo naopak zvýšit stabilitu svahu?
--   Jaké základní typy svahových pohybů existují?
--   Jak moho sesuvy interagovat s vodními toky?
--   Co to jsou difuzní procesy? Jaký mají efekt na svahu?
+Kontrolní a klíčové otázky, na které bychom měli znát odpověď
+- Jaké síly působí na svah? Jak jejich rozložení ovlivňuje sklon svahu?
+- Jaké faktory ovlivňují stabilitu svahu?
+- Co může snížit nebo naopak zvýšit stabilitu svahu?
+- Jaké základní typy svahových pohybů existují?
+- Jak moho sesuvy interagovat s vodními toky?
+- Co to jsou difuzní procesy? Jaký mají efekt na svahu?
 
-Další klíčové pojmy k zapamatováníS
-- normálové a smykové napětí 
+Další klíčové pojmy k zapamatováníS
+- normálové a smykové napětí
 - pevnost ve smyku
 - úhel vnitřního tření
 - koheze
 - ron sufoze
 
+
+# Zdroje 
+{% bibliography --cited %}

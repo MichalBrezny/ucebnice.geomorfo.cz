@@ -104,6 +104,7 @@ html {
 .chapter-summary li.draft {
     opacity: 0.6;
 }
+
 /*
 .book-summary .btn-close-sidebar {
     width: 50px;
@@ -520,10 +521,11 @@ ul.toc-chapters-full.show-drafts {
 figure {
     margin-right: 10px;
     margin-bottom: 10px;
-}
+    }
 figure {
     border: 1px solid #ccc;
     border-radius: 6px;
+    text-align: center;
 }
 figure figcaption {
     border-top: 1px solid #ccc;
@@ -533,6 +535,7 @@ figure figcaption {
     background-color: #eee;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+    text-align: left;
 }
 figure.row {
     display: inline-block;

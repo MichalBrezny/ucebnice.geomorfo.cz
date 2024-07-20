@@ -54,7 +54,7 @@ Pohyb vymrštěných zrnek je jen na velice krátkou vzdálenost (cca v
 řádech milimetrů).
 
 <figure id="fig:saltace">
-<img src="obrazky/eolicka/saltace_foto.png"/>
+<img src="/assets/obrazky/eolicka/saltace_foto.png"/>
 <figcaption> Obr. 3 Saltace
 </figcaption>
 </figure>
@@ -65,7 +65,7 @@ Obrušováním větších klastů (valounky, balvany) nebo drobných výchozů p
 
 <figure id="fig:hranec">
 <figure>
-<img src="obrazky/eolicka/ventifact_mojave.jpg"/>
+<img src="/assets/obrazky/eolicka/ventifact_mojave.jpg"/>
 </figure>
 <figcaption> Obr. Hranec v Mohavské poušti (zdroj: Wikimedia Commons, volné
 dílo)</figcaption>
@@ -90,9 +90,7 @@ Zřejmě nejznámějším eolickým tvarem jsou *písečné duny* (přesypy). Je
 Základní dělení dun je na tzv. *volné duny* a *vázané duny*. Volné duny jsou formovan0 pouze činností větru, který volně přemisťuje písek. Podle tvaru se volné duny dále rozdělují na příčné, lineární a hvězdicové. 
 
 <figure id="fig:volneduny">
-<figure>
-<img src="obrazky/eolicka/typy_dun.png"/>
-</figure>
+<img src="/assets/obrazky/eolicka/typy_dun.png"/>
 <figcaption>Obr. 3 Rozdělení dun</figcaption>
 </figure>
 
@@ -107,7 +105,7 @@ Pokud je území vystaveno dvěma převládajícím směrům větru (polovinu ro
 
 
 <figure id="fig:linearniduny">
-    <img src="obrazky/eolicka/linearniduny.jpg" />
+    <img src="/assets/obrazky/eolicka/linearniduny.jpg" style="width:100.0%" />
     <figcaption>Lineární duny</figcaption>
 </figure>
 
@@ -117,11 +115,10 @@ o rozsáhlá tělesa o výšce až 300 m. Duna se skládá z menších "ramen",
 které jednotlivým směrům větru.
 
 <figure id="fig:volneduny">
-<figure>
-<img src="obrazky/eolicka/volne_duny.png" />
-</figure>
+<img src="/assets/obrazky/eolicka/volne_duny.png" style="width:100.0%" />
 <figcaption>Závislost typu volných dun na mocnosti písku (při
-rovnoměrném rozložení v ploše) a variabilitě směru větru (upraveno podle {% cite wassonFactorsDeterminingDesert1983 %})</figcaption>
+rovnoměrném rozložení v ploše) a variabilitě směru větru (upraveno podle {% cite wassonFactorsDeterminingDesert1983 %})
+</figcaption>
 </figure>
 
 ## Vázané duny

@@ -98,11 +98,10 @@ extra_css:
 show_drafts_in_dev: false
 
 
-
-
 exclude:
   - _drafts
   - tmp
+  - _poznamky
 
 page_width: 800px
 
@@ -117,6 +116,9 @@ plugins:
   - jekyll-relative-links
   - jekyll/scholar
   - jekyll-youtube
+  - jekyll-last-modified-at
+
+date_locale: cs  
 
 collections:
   chapters:

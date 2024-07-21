@@ -29,7 +29,9 @@ Na základě uspořádání principiálních napětí můžeme rozlišit tři z�
 -   Směrový posun
 
 Při *extenzi* dochází k roztahování zemské kůry a ztenčování, což se projevuje poklesovými zlomy. Při *kompresním* režimu dochází ke zkracování zemské kůry. To vede ke vzniku vrás, přesmyků či příkrovů. U směrových posunů dochází k pouhému posouvání ker zemské kůry podél sebe v opačném směru. Pokud je horizontální posun kombinován i s vertikální složkou hovoříme o *transpresním*, respektive *transtenzním* režimu.
+
 Tektonické pohyby rozlišujeme podle stáří. *Paleotektonické* pohyby se projevují pouze ve struktuře. Reliéf mohou ovlivňovat jen pasivně. Neotektonické pohyby se projevují v současném reliéfu. Do neotektonických pohybů patří i současné pohyby zemské kůry.
+
 Tektonické pohyby se rozlišují i podle toho, zda je při nich narušena spojitost hornin. *Plikativní (duktilní, vrásové)* pohyby jsou spojité. Jedná se o plastickou deformaci hornin a není tak narušena jejich spojitost. *Disjunktivní (zlomové)* pohyby jsou nespojité, dochází k rozpojení hornin, průběžnost vrstev je narušena.
 
 # Zlomy
@@ -43,9 +45,7 @@ Podle smyslu pohybu bloků dělíme zlomy na (Obr. [1](#fig:zlomy):
 -   Horizontální posun
 
 <figure id="fig:zlomy">
-<figure>
-<img src="obrazky/tectonic/zlomy.png" style="width:80.0%" />
-</figure>
+<img src="/assets/obrazky/tectonic/zlomy.png"/>
 <figcaption>Typy zlomů. A horizontální posun (levostranný), B pokles, C
 přesmyk (upraveno podle USGS, volné dílo).</figcaption>
 </figure>
@@ -73,7 +73,7 @@ reference-type="ref"}).
 
 <figure id="fig:san_andreas">
 <figure>
-<img src="obrazky/tectonic/san_andreas.jpg" />
+<img src="/assets/obrazky/tectonic/san_andreas.jpg" />
 </figure>
 <figcaption>Pohled na zlom San Andreas, Carrizo Plain (autor Ian Kluft,
 CC-SA 4.0)</figcaption>
@@ -105,7 +105,7 @@ smysl pohybu. Označují se jako tzv. *antitetické zlomy*.
 
 <figure id="fig:pokles">
 <figure>
-<img src="obrazky/tectonic/pokles.jpg" />
+<img src="/assets/obrazky/tectonic/pokles.jpg" />
 </figure>
 <figcaption>Příklad normálního (poklesového zlomu) v v souvrství La
 Herradura. Lokace Morro Solar Lima, Peru (autor: Miguel Vera
@@ -146,13 +146,13 @@ reference-type="ref"}). Jejich sklon je nižší, než sklon zlomových
 svahů. Typicky se pohybuje mezi 25 °--35 °.
 
 <figure class="figure">
-  <img src="obrazky/tectonic/facety" alt="Ukázka vývoje zlomového okraje pohoří a vzniku facet. A: čerstvý zlomový svah; B: postupné zařezávání vodních toků (strže), přemodelování zlomového stupně; C,D: vyvinutá údolí a facety, opakovaný nebo intenzivní výzdvih udržuje zlomový svah (D); E: dlouhé období tektonického klidu, postupná denudace (převzato z \textcite{wallaceGeometryRatesChange1978})" />
+  <img src="/assets/obrazky/tectonic/facety" alt="Ukázka vývoje zlomového okraje pohoří a vzniku facet. A: čerstvý zlomový svah; B: postupné zařezávání vodních toků (strže), přemodelování zlomového stupně; C,D: vyvinutá údolí a facety, opakovaný nebo intenzivní výzdvih udržuje zlomový svah (D); E: dlouhé období tektonického klidu, postupná denudace (převzato z \textcite{wallaceGeometryRatesChange1978})" />
   <figcaption>Ukázka vývoje zlomového okraje pohoří a vzniku facet. A: čerstvý zlomový svah; B: postupné zařezávání vodních toků (strže), přemodelování zlomového stupně; C,D: vyvinutá údolí a facety, opakovaný nebo intenzivní výzdvih udržuje zlomový svah (D); E: dlouhé období tektonického klidu, postupná denudace (převzato z {% cite wallaceGeometryRatesChange1978 %})</figcaption>
 </figure>
 
 
 <figure class="figure">
-  <img src="obrazky/tectonic/fault_scarp.png" alt="Zlomový sráz, který vznikl při Yellowstonském zemětřesení v roce 1959. A fotografie pořízená těsně po události (autor J. R. Stacy, USGS, volné dílo/Public Domain). B Stupeň již částečně zhlazený difuzními procesy o 59 let později (autor James St. John, CC BY 2.0)." />
+  <img src="/assets/obrazky/tectonic/fault_scarp.png" alt="Zlomový sráz, který vznikl při Yellowstonském zemětřesení v roce 1959. A fotografie pořízená těsně po události (autor J. R. Stacy, USGS, volné dílo/Public Domain). B Stupeň již částečně zhlazený difuzními procesy o 59 let později (autor James St. John, CC BY 2.0)." />
   <figcaption>Zlomový sráz, který vznikl při Yellowstonském zemětřesení v roce 1959. A fotografie pořízená těsně po události (autor J. R. Stacy, USGS, volné dílo/Public Domain). B Stupeň již částečně zhlazený difuzními procesy o 59 let později (autor James St. John, CC BY 2.0).</figcaption>
 </figure>
 
@@ -245,7 +245,7 @@ vrásy.
 
 <figure id="fig:foldparts">
 <figure>
-<img src="obrazky/tectonic/fold_parts.png" />
+<img src="/assets/obrazky/tectonic/fold_parts.png" />
 </figure>
 <figcaption>Části vrásy (Upraveno podle Brews Ohare, CC BY-SA
 3.0)</figcaption>
@@ -306,12 +306,12 @@ Apalačský podle pohoří v USA (Obr.
 [6](#fig:apalachian){reference="fig:apalachian" reference-type="ref"}).
 
 <figure id="fig:zagros">
-<img src="obrazky/tectonic/zagros.jpg" />
+<img src="/assets/obrazky/tectonic/zagros.jpg" />
 <figcaption>Pohoří Zagros (zdroj Google Earth)</figcaption>
 </figure>
 
 <figure id="fig:apalachian">
-<img src="obrazky/tectonic/apalachian.jpg" />
+<img src="/assets/obrazky/tectonic/apalachian.jpg" />
 <figcaption>Apalačské pohoří v USA (zdroj Google Earth)</figcaption>
 </figure>
 
@@ -323,7 +323,7 @@ místech synklinál je z důvodu pomalejší eroze elevace.
 
 # Strukturní reliéf
 <figure>
-	<img src="obrazky/tectonic/strukturni_tvary.png" style="width:100.0%">
+	<img src="/assets/obrazky/tectonic/strukturni_tvary.png" style="width:100.0%">
 	<figcaption>Strukturní reliéf -- tvary na horizontálních a ukloněných vrstvách. Horizontální vrstvy -- strukturní tabule, stolová hora a odlehlík. Ukloněné vrstvy -- kuesta, homoklinální hřbet a kozí hřbet. Označené jsou i základní typy vodních toků. Konsekventní -- ve směru sklonu vrstev, subsekventní -- po směru vrstev a obsekventní -- proti směru sklonu vrstev. Tmavě šedé pásy vyznačují polohy odolných hornin (upraveno podle <span class="citation" data-cites="huggettFundamentalsGeomorphology2007"></span>).</figcaption>
 	<label for="fig:strukturnitvary">fig:strukturnitvary</label>
 </figure>

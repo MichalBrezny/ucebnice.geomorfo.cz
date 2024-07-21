@@ -35,7 +35,7 @@ favicon_path: assets/gitbook/images/favicon.ico
 bookcrumbs:
   book_url: /book.html
   contents_url: /contents.html
-  book_icon: assets/gitbook/images/apple-touch-icon-precomposed-152.png
+  book_icon: assets/gitbook/images/icon.png
 
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
@@ -56,12 +56,12 @@ sidebar_nav_bottom:
 bottom_nav:
 - label: Domů
   url: /index.html
-- label: Book
+- label: Učebnice
   url: /book.html
 - label: GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook
-- label: Privacy
-  url: /privacy.html
+  url: https://github.com/MichalBrezny/ucebnice.geomorpho.cz
+#- label: Privacy
+#  url: /privacy.html
 
 
 # Whether to show chapter headings as a table of contents at the top of each chapter page.

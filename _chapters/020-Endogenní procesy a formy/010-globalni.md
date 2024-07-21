@@ -13,7 +13,7 @@ last_modified_at: 2024-07-20
 Země se sestává ze tří hlavních částí: **zemského jádra**, **pláště** a **kůry** ([Obr. 1](fig:stavba_zeme)). Hranice mezi jednotlivými částmi byly zjištěné studiem průchodu zemětřesných vln zemským tělesem. Na těchto hranicích se totiž výrazně mění chování zemětřesných vln či skrz hranici nemohou prostupovat. Rozhraní mezi zemskou kůrou a pláštěm tvoří Mohorovičičova diskontinuita (zkráceně Moho). Pod kontinenty se nachází v průměrné hloubce 35 km, pod oceány v pouhých 5–10 km pod oceánským dnem. Zemská kůra tedy nemá všude stejnou tloušťku. Mocnost **Oceánské kůry** je 5–10 km. Skládá se hlavně z bazaltové a tenké sedimentární vrstvy. **Kontinentální kůra** je daleko mocnější, v průměru má okolo 35 km avšak pod některými pohořími může dosahovat i 70 km.
 
 <figure id="fig:stavba_zeme">
-    <img src="/assets/obrazky/tectonic/Earth_cutaway_schematic-en.png" </img>
+    <img src="/assets/obrazky/globalni/Earth_cutaway_schematic-cz.svg"> </img>
     <figcaption> 
     Obr. 1 Průřez Zemí (není v měřítku) (zdroj: USGS, volné dílo, via Wikimedia Commons) 
     </figcaption>
@@ -24,7 +24,7 @@ Země se sestává ze tří hlavních částí: **zemského jádra**, **plášt�
 Procesy, které ovlivňují reliéf v globálním měřítku se odehrávají v **litosféře** neboli pevném obalu Země. Litosféra je tvořena rigidními, neroztavenými horninami a zahrnuje zemskou kůru, tak i svrchní, pevnou část zemského pláště. Podle typu zemské kůry tak rozlišujeme i litosféru na oceánskou a kontinentální. Pod litosférou se nachází **astenosféra**.Jedná se o zónu částečně natavených hornin, což způsobuje, že se astenosféra chová plasticky. Litosféra není celistvá. Ve skutečnosti je rozčleněna do **litosférických desek** ([Obr. 2](fig:litdesky)), které se nezávisle na sobě pohybují, po astenosféře. Existuje 7 hlavních, celá řada menších litosférických desek. Mezi ty hlavní patří Euroasijská, Pacifická, Severoamerická, Jihoamerická, Africká, Indo-australská a Antarktická. Z menších desek jsou nejznámější např. Nazca, Kokosová, Filipínská, Arabská.
 
 <figure id="fig:litdesky">
-    <img src="/assets/obrazky/globalni/Plates_tect_cs.png" </img>
+    <img src="/assets/obrazky/globalni/Plates_tect_cs.png"> </img>
     <figcaption>
     Obr. 2 Hlavní tektonické desky (zdroj: Jklamo, volné dílo, via Wikimedia Commons
     </figcaption>
@@ -49,7 +49,7 @@ V případě, že se okraj kontinentu shoduje s okrajem litosférické desky na
 
 
 <table>
-<caption>Tab. 1 Klasifikace a hlavní charakteristiky rozhraní litosférických desek>
+<caption>Tab. 1 Klasifikace a hlavní charakteristiky rozhraní litosférických desek </caption>
   <thead>
     <tr>
       <th></th>
@@ -95,11 +95,9 @@ V případě, že se okraj kontinentu shoduje s okrajem litosférické desky na
 </table>
 
 
-Okraje litosférických desek jsou důležitým místem, kde se odehrává celá
-řada geodynamických procesů. Jsou to místa, kde je soustředěná
-vulkanická a zemětřesná činnost (Obr.
+Okraje litosférických desek jsou důležitým místem, kde se odehrává celá řada geodynamických procesů. Jsou to místa, kde je soustředěná vulkanická a zemětřesná činnost ([Obr. 4](fig:globseismicity))
 
-<figure>
+<figure id="fig:globseismicity">
   <img src="/assets/obrazky/tectonic/global_seismicity_h.jpg" alt="Mapa zemětřesení o magnitudu >=5 ve světě mezi roky 2000--2008" />
   <figcaption>
   Obr. 4 Mapa zemětřesení o magnitudu $>=5$ve světě mezi roky 2000--2008 (Zdroj: Lisa Christiansen, Caltech Tectonics Observatory, <a href="https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=64691">https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=64691</a>
@@ -108,16 +106,18 @@ vulkanická a zemětřesná činnost (Obr.
 
 
 ### Příčiny pohybu litosférických desek
+
 Příčiny pohybu litosférických desek jsou stále předmětem vědeckého bádání. Je několik mechanismů, kterými je pohyb vysvětlován. Tím hlavním je přítomnost konvekčních proudů v zemském plášti. Tyto proudy vystupují pod středooceánskými hřbety, kde se vychylují do stran a klesají v místech subdukčních zón. Boční pohyb proudů v plášti tak unáší litosférické desky. Další mechanismem je gravitační skluz litosféry. Směrem od středooceánských hřbetů roste její mocnost, což díky gravitaci způsobuje její klouzání směrem k subdukčním zónám. Pohyb strhává astenosféru v přímém kontaktu s litosférickou deskou, což má za následek výstup kompenzačních proudů v místě středooceánských hřbetů. Jako možný mechanismus se uvádí i odtlačování litosférických desek lávou vystupující na povrch v místě středooceánských hřbetů. Jako důležitý mechanismus se ukazuje ponořování oceánské litosféry do astenosféry v zónách subdukce. Stará oceánská litosféra má vyšší hustotu než astenosféra. Část litosférické desky, která se noří do astenosféry až do hloubky cca 700 km, tak stahuje její zbylou část sebou. Jelikož mezi litosférou a astenosférou je velký teplotní rozdíl (v hloubce 400 km může být litosférická deska až o 1000°C chladnější oproti okolnímu plášti) a litosféra špatně vede teplo, tak vyrovnávání teplot hustoty trvá dlouhou dobu. Pozorování rychlosti pohybu litosférických desek podporuje tento mechanismus. Desky, které mají dlouhé subdukční zóny (jako je např. Pacifická) se pohybují rychleji (60 až 90 mm za rok) než desky, které nemají tak rozsáhle subdukční zóny (rychlost pod 40 mm za rok).
 
 ## Izostáze
 
 Zjednodušeně lze říct, že litosféra plave na astenosféře podobně jako plave kus dřeva nebo ledová kra na vodní hladině. Aby litosféra dosáhla hydrostatické rovnováhy vzhledem ke své hustotě a tloušťce, dochází u ní k vertikálním pohybům. Pro tento stav rovnováhy byl zaveden právě termín **izostáze**. Existují dva modely izostáze. **Prattův model** je založen na rozdílné hustotě různých částí litosféry. To znamená, že jedna sekce litosféry bude výš, než druhá díky své nižší hustotě. **Airyho model** zase pojednává o rozdílných tloušťkách jednotlivých sekcí litosféry o stejné hustotě. Oba modely se ale mohou kombinovat. Kontinentální litosféra je výš než oceánská, protože má nižší hustotu a zároveň větší mocnost. Výškové rozdíly v rámci kontinentů jsou spojené s rozdíly v mocnosti kontinentální kůry. Vysoká pohoří mají hluboké kořeny z hornin o menší hustotě.
 
-<figure>
-  <img src="/assets/obrazky/globalni/isostasy.jpg" alt="Tři typy izostáze. A) Prattův model izostáze b) Airyho model c) Flexurní izostáze způsobena zatížením litosféry např. ledovcem -- glaciizostáze. {% cite beniestContinentalRiftingConjugate2017 %}">
+<figure id="fig:isostasy"> 
+  <img src="/assets/obrazky/globalni/isostasy.jpg" alt="Tři typy izostáze. A) Prattův model izostáze b) Airyho model c) Flexurní izostáze způsobena zatížením litosféry např. ledovcem – glaciizostáze." />
   <figcaption>
-  Obr. 5 Tři typy izostáze. A) Prattův model izostáze b) Airyho model c) Flexurní izostáze způsobena zatížením litosféry např. ledovcem -- glaciizostáze. (Zdroj: {% cite beniestContinentalRiftingConjugate2017 %})</figcaption>
+  Obr. 5 Tři typy izostáze. A) Prattův model izostáze b) Airyho model c) Flexurní izostáze způsobena zatížením litosféry např. ledovcem – glaciizostáze. (Zdroj: {% cite beniestContinentalRiftingConjugate2017 %})
+  </figcaption>
 </figure>
 
 Zvláštním typem izostáze je tzv. *glaciisostáze*. Ledovce během glaciálu svou vahou způsobily prohnutí zemské kůry, což vedlo ke kompenzačnímu výzdvihu v okolí kontinentálních ledovců. Důsledkem zániku ledovce je návrat zemské kůry do rovnovážné polohy. V místech kde zemská kůra byla zatlačena tak dochází ke *glaciisostatickému výzdvihu* (*glaciisostatic rebound*) a naopak k poklesům, kde byla předtím vyzdvižena.

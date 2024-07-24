@@ -11,7 +11,7 @@ Povodí jsou pro celou řadu studií (geomorfologických, hydrologických) zákl
 Tvar povodí je ovlivněn celou řadou fyzickogeografických a geologických faktorů. Například ukloněním ker zemské kůry vznikají asymetrická povodí (jedna strana povodí je větší než druhá).
 
 <figure id="fig:watershedtilt">
-<img src="obrazky/povodi/watershed_tilt.jpg" />
+<img src="/assets/obrazky/povodi/watershed_tilt.jpg" />
 <figcaption>Ukázka vzniku asymetrických údolí z důvodu tektonických pohybů. (zdroj <span class="citation"
 data-cites="mahmoodAppraisalActiveTectonics2012"></span>)
 </figcaption>
@@ -88,7 +88,7 @@ Vodní toky v krajině rozdělujeme dle jejich řádu (Obr. [2](#fig:radtoku){re
 V geomorfologii se uplatňuje odlišné číslování "shora dolů". Postupuje se od nejmenších toků v pramenných oblastech do nižších poloh ke stále větším tokům. Na tomto principu je založená Strahlerova nebo Shrevova klasifikace. *Strahlerova klasifikace* říká, že spojením toků stejného řádu vzniká tok o jeden řád vyšší (např. spojením toků prvního řádu vzniká tok druhého řádu). Při soutoku řek odlišných řádů (např. 1. a 2.) zůstává zachován nejvyšší řád. *Shrevova klasifikace* na soutocích řády sčítá. Tedy soutok dvou řek 1. řádu dá tok 2. řádu, soutok 3. a 1. řádu dá tok 4. řádu.
 
 <figure id="fig:radtoku">
-<img src="obrazky/povodi/rad_toku.png" />
+<img src="/assets/obrazky/povodi/rad_toku.png" />
 <figcaption>Klasická, Strahlerova a Shrevova hierarchizace říční sítě.</figcaption>
 </figure>
 

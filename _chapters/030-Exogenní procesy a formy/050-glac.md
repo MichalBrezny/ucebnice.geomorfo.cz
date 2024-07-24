@@ -5,11 +5,12 @@ slug: glacialni
 ---
 
 
-Kryosféra je termín zastřešující veškerou vodu v pevném skupenství (ledu), která se nachází na zemském povrchu. Komponenty kryosféry a jejich délka trvání je znázorněna na obr. [\[fig:komponentykryosfery\]](#fig:komponentykryosfery){reference="fig:komponentykryosfery" reference-type="ref"}. Jednou z nejdůležitějších komponent jsou ledovce.
+Kryosféra je termín zastřešující veškerou vodu v pevném skupenství (ledu), která se nachází na zemském povrchu. Komponenty kryosféry a jejich délka trvání je znázorněna na ([obr. 1](fig:komponentykryosfery)). Jednou z nejdůležitějších komponent jsou ledovce.
 
 <figure>
     <img src="/assets/obrazky/glac/komponenty_kryosfery.jpg" alt="Komponenty kryosféry a jejich časové škály (převzato z Lemke, 2007)">
-    <figcaption>Komponenty kryosféry a jejich časové škály (převzato z Lemke, 2007)</figcaption>
+    <figcaption>Komponenty kryosféry a jejich časové škály (převzato z {% cite lemkeObservationsChangesSnow2007 %})
+    </figcaption>
 </figure>
 
 
@@ -19,7 +20,7 @@ Kryosféra je termín zastřešující veškerou vodu v pevném skupenství (led
 
 ## Vznik ledovců a bilance hmoty
 
-Čerstvě napadaný sníh má velice nízkou hustotu (tab. [\[tab:snih_led\]](#tab:snih_led){reference="tab:snih_led" reference-type="ref"}). Postupnou kompakcí vlivem tlaku sněhové hmoty v nadloží a rekrystalizací se jeho hustota zvyšuje a mění se ve *firn*. Další kompakcí, zcelováním jednotlivých ledových krystalů do jednolité hmoty se firn mění v *ledovcový led* jehož hustota se pohybuje mezi 830 kg m^−3^--923 kg m^−3^ (tab.[\[tab:snih_led\]](#tab:snih_led){reference="tab:snih_led" reference-type="ref"}; []{.citation cites="cuffeyPhysicsGlaciers2010"}).
+Čerstvě napadaný sníh má velice nízkou hustotu ([tab. 1](tab:snih_led)). Postupnou kompakcí vlivem tlaku sněhové hmoty v nadloží a rekrystalizací se jeho hustota zvyšuje a mění se ve *firn*. Další kompakcí, zcelováním jednotlivých ledových krystalů do jednolité hmoty se firn mění v *ledovcový led* jehož hustota se pohybuje mezi 830 kg m^−3^ až 923 kg m^−3^ ([tab.1](tab:snih_led){% cite cuffeyPhysicsGlaciers2010 %}).
 
 <table>
 <thead>
@@ -58,12 +59,12 @@ Kryosféra je termín zastřešující veškerou vodu v pevném skupenství (led
 
 Ledovce mění svůj objem v závislosti na přísunu hmoty (ledu) -- *akumulaci*, a jeho úbytku neboli *ablaci*. Přírůstky ledu jsou způsobené zejména sněhovými srážkami, které dopadají přímo na ledovec nebo jsou na něj dopraveny pomocí lavin či převáty větrem z okolí. Úbytek hmoty je způsoben táním ledu a následným odtokem tavných vod, odlamování ker (tzv. telení), větrnou erozí, ale i sublimací ledu (přímou přeměnou ledu ve vodní páru).
 
-Na ledovci rozlišujeme z hlediska bilance dvě záklaní zóny: akumulační a ablační (Obr [\[fig:ledovecmassbalance\]](#fig:ledovecmassbalance){reference="fig:ledovecmassbalance" reference-type="ref"}). Do *akumulační zóny* spadá ta část ledovce, která má pozitivní bilanci (přírůstky hmoty). *Ablační zóna* má zápornou bilanci, dochází zde k úbytku hmoty. Hranicí mezi akumulační a ablační zónou je tzv. *čára rovnováhy* (*equilibrium line altitude*). Pokud je celková bilance ledovce záporná, ledovec se zmenšuje a naopak. Bilance hmoty v ledovci se zpravidla určuje pro období mezi dvěma okamžiky, kdy ablace dosáhla svého maxima (konec léta 1 -- konec léta 2).
+Na ledovci rozlišujeme z hlediska bilance dvě záklaní zóny: akumulační a ablační ([Obr](fig:ledovecmassbalance)). Do *akumulační zóny* spadá ta část ledovce, která má pozitivní bilanci (přírůstky hmoty). *Ablační zóna* má zápornou bilanci, dochází zde k úbytku hmoty. Hranicí mezi akumulační a ablační zónou je tzv. *čára rovnováhy* (*equilibrium line altitude*). Pokud je celková bilance ledovce záporná, ledovec se zmenšuje a naopak. Bilance hmoty v ledovci se zpravidla určuje pro období mezi dvěma okamžiky, kdy ablace dosáhla svého maxima (konec léta 1 – konec léta 2).
 
 
 <figure>
-    <img src="obrazky/glac/ledovec_mass_balance" alt="Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty (upraveno podle \textcite{summerfieldGlobalGeomorphologyIntroduction1999})">
-    <figcaption>Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty (upraveno podle \textcite{summerfieldGlobalGeomorphologyIntroduction1999})</figcaption>
+    <img src="/assets/obrazky/glac/ledovec_mass_balance.png" alt="Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty (upraveno podle {% cite summerfieldGlobalGeomorphologyIntroduction1999 %}">
+    <figcaption>Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty (upraveno podle {% cite summerfieldGlobalGeomorphologyIntroduction1999 %})</figcaption>
 </figure>
 
 ## Typy ledovců
@@ -78,7 +79,7 @@ Základní klasifikace ledovců na ty, které nejsou limitované reliéfem (nap�
 
 
 <figure>
-    <img src="obrazky/glac/iceshelf" alt="Šelfový ledovec a jeho interakce s okolním prostředím. V případě, že šelfový ledovec je stabilní, podpírá a zpomaluje celkový pohyb ledovce. Zvýšené teploty způsobují dvě věci: 1. rychlejší tání ledovce, voda se dostává na bázi, snižuje tření ledovce a urychluje jeho pohyb; 2. vznik a rozšiřování puklin vyplněných vodou na šelfu urychluje jeho rozpad. V případě rozpadu ledovcového šelfu ledovec ztrácí oporu a rychlost jeho pohybu se zvyšuje a tedy i rychleji ztrácí hmotu (autoři: Ted Scambos and Michon Scott, National Snow and Ice Data Center, upraveno: Sagredo, volné dílo, via Wikimedia Commons)">
+    <img src="/assets/obrazky/glac/Glacier-ice_shelf_interactions.svg" alt="Šelfový ledovec a jeho interakce s okolním prostředím. V případě, že šelfový ledovec je stabilní, podpírá a zpomaluje celkový pohyb ledovce. Zvýšené teploty způsobují dvě věci: 1. rychlejší tání ledovce, voda se dostává na bázi, snižuje tření ledovce a urychluje jeho pohyb; 2. vznik a rozšiřování puklin vyplněných vodou na šelfu urychluje jeho rozpad. V případě rozpadu ledovcového šelfu ledovec ztrácí oporu a rychlost jeho pohybu se zvyšuje a tedy i rychleji ztrácí hmotu (autoři: Ted Scambos and Michon Scott, National Snow and Ice Data Center, upraveno: Sagredo, volné dílo, via Wikimedia Commons)">
     <figcaption>Šelfový ledovec a jeho interakce s okolním prostředím</figcaption>
 </figure>
 
@@ -95,27 +96,29 @@ Velkou skupinu tvoří *horské ledovce*. *Svahové ledovce* vznikají v mělký
 
 Velice důležitým faktorem, který ovlivňuje pohyb ledovce a jeho schopnost modelovat své podloží, je teplota báze ledovce (rozhraní ledovec--podloží). *Ledovec s chladnou bází* má na kontaktu s podložím takovou teplotu, při které led netaje. Ledovec je přimrzlý k podloží. Důsledkem toho takový ledovec nemodeluje své podloží. *Ledovec s teplou bází* je naopak na kontaktu roztáté. Nachází se tam množství tavné vody. Ledovce s teplou bází intenzivně modelují své podloží. *Polytermální ledovce* jsou na pomezí předešlých dvou typů. Jedná se většinou o rozsáhlejší ledovce, kde se střídají oblasti s chladnou a teplou bází.
 
+
 ## Pohyb ledovců
 
 Působením tíhové síly je v ledovci vyvoláváno smykové napětí, které uvádí ledovce do pohybu. Rozlišujeme dva základní mechanismy. První mechanismus, kterým se pohybují všechny ledovce je vnitřní (plastická) deformace nazývaná ledovcový kríp ("ice creep"). Druhý mechanismus je *bazální klouzání* (smýkání). Ledovce s teplou bází se dominantně pohybují bazálním smýkáním, vnitřní deformací samotného ledu jerealizován jen zlomek celkového pohybu. U ledovců se studenou bází to je naopak. Bazální klouzání je téměř nulové a ledovcová masa se pohybuje vnitřní deformací ledu.
 
 <figure>
     <center>
-        <img src="obrazky/glac/flow_velocity" alt="Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu (Upraveno podle \textcite{biermanKeyConceptsGeomorphology2014})">
-        <figcaption>Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu (Upraveno podle \textcite{biermanKeyConceptsGeomorphology2014})</figcaption>
+        <img src="/assets/obrazky/glac/flow_velocity.png" alt="Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu (Upraveno podle {% cite biermanKeyConceptsGeomorphology2014 %}">
+        <figcaption>Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu (Upraveno podle {% cite biermanKeyConceptsGeomorphology2014 %})</figcaption>
     </center>
 </figure>
 
 
-Rychlost deformace ledu ("strain rate", [\\(\\dot{\\epsilon}\\)] je dána experimentálně odvozenou Glenovou rovnicí:
+Rychlost deformace ledu („strain rate“, $\dot{\epsilon}$) je dána experimentálně odvozenou Glenovou rovnicí:
+$$
+\dot{\epsilon} = A\tau^{n}
+$$
 
-[\\\[\\dot{\\epsilon} = A\\tau\^{n}\\\]]
+kde $\dot{\epsilon}$ je rychlost deformace, $A$ je koeficient, který s teplotou roste, $\tau$ je střižné (smykové) napětí a $n$ je experimentálně zjištěný exponent, pro led platí, že $n \approx 3$
 
-kde [\\(\\dot{\\epsilon}\\)] je rychlost deformace, [\\(A\\)]je koeficient, který s teplotou roste, [\\(\\tau\\)]je střižné (smykové) napětí [\\(n\\)]experimentálně zjištěný exponent, pro led platí, že [\\(n \\approx 3\\)]
+Jak je patrné z rovnice (jelikož $n > 1$), tak i malé změny smykového napětí vedou k velkým změnám v úrovni deformace.
 
-Jak je patrné z rovnice (jelikož [\\(n \> 1\\)], tak i malé změny smykového napětí vedou k velkým změnám v úrovni deformace.
-
-Průměrná rychlost pohybu ledovce je v rozmezí 3 m ^−1^--300 m ^−1^. Rychlost pohybu se mění v prostoru a čase. Největší rychlost pohybu ledovce je na jeho povrchu a směrem dolů klesá (Obr. [\[fig:flowvelocity\]](#fig:flowvelocity){reference="fig:flowvelocity" reference-type="ref"}). V podélném profilu se rychlost mění v závislosti na akumulaci a ablaci.
+Průměrná rychlost pohybu ledovce je v rozmezí 3 m až 300 m za rok. Rychlost pohybu se mění v prostoru a čase. Největší rychlost pohybu ledovce je na jeho povrchu a směrem dolů klesá ([Obr.](fig:flowvelocity)). V podélném profilu se rychlost mění v závislosti na akumulaci a ablaci.
 
 # Glaciální procesy
 
@@ -132,8 +135,7 @@ dolním rohu je klikatící se supraglaciální tok.</figcaption>
 ## Glaciální transport a akumulace
 <figure id="fig:striace">
 <img src="/assets/obrazky/glac/striace.jpg" />
-<figcaption>Striace jsou důkazem subglaciálního transportu (na bázi
-ledovce).
+<figcaption>Striace jsou důkazem subglaciálního transportu (na bázi ledovce).
 </figcaption>
 </figure>
 
@@ -157,8 +159,7 @@ V uzávěrách údolí, pramenných oblastech říčních údolí vznikají ledo
 
 <figure id="fig:matterhorn">
 <img src="/assets/obrazky/glac/matterhorn.jpg" />
-<figcaption>Matterhorn (Autor: Davide Notti (distributed via
-imaggeo.egu.eu, CC BY 3.0))</figcaption>
+<figcaption>Matterhorn (Autor: Davide Notti (via imaggeo.egu.eu, CC BY 3.0))</figcaption>
 </figure>
 
 *Trog* je ledovcové údolí. Jeho příčný profil má tvar písmene "U". V podélném profilu trogů jsou patrné stupně, které mohou například souviset se strukturní predispozicí či změnou litologie. Ledovcová údolí mající dno pod hladinou moře se nazývají *fjordy*.
@@ -167,7 +168,7 @@ imaggeo.egu.eu, CC BY 3.0))</figcaption>
 
 <figure>
     <center>
-        <img src="obrazky/glac/studena" alt="Typické trogy. Pohled do Velké a Malé Studené doliny ve Vysokých Tatrách. Malá Studená Dolina je příklad visutého údolí (Zdroj: Google Earth)">
+        <img src="/assets/obrazky/glac/studena.jpg" alt="Typické trogy. Pohled do Velké a Malé Studené doliny ve Vysokých Tatrách. Malá Studená Dolina je příklad visutého údolí (Zdroj: Google Earth)">
         <figcaption>Typické trogy. Pohled do Velké a Malé Studené doliny ve Vysokých Tatrách. Malá Studená Dolina je příklad visutého údolí (Zdroj: Google Earth)</figcaption>
     </center>
 </figure>

@@ -31,15 +31,14 @@ Proudění může být *ustálené* neboli stacionární (*steady flow*). Při t
 
 ## Charakter proudění v korytech
 
-*Laminární proudění* je takové proudění, kdy se kapalina pohybuje ve vrstvách -- laminách, které navzájem kloužou po sobě ([Obr. 1](#fig:laminarturbul)). Laminárním prouděním jsou typické vysoce viskózní kapaliny. Jelikož voda má malou viskozitu, laminární proudění se projevuje jen při nízkých rychlostech. 
+*Laminární proudění* je takové proudění, kdy se kapalina pohybuje ve vrstvách – laminách, které navzájem kloužou po sobě ([Obr. 1](#fig:laminarturbul)). Laminárním prouděním jsou typické vysoce viskózní kapaliny. Jelikož voda má malou viskozitu, laminární proudění se projevuje jen při nízkých rychlostech. 
 
 *Turbulentní proudění* je chaotické a všesměrné ([Obr. 1](#fig:laminarturbul)). Pohyb je realizován po i proti proudu, do stran, nahoru či dolů.
 
 <figure id="fig:spras_distribuce">
-<figure>
 <img src="/assets/obrazky/fluvial/laminar_turbul.png"/>
-</figure>
-<figcaption>Laminární a turbulentní proudění
+<figcaption>
+Laminární a turbulentní proudění
 </figcaption>
 </figure>
 
@@ -47,7 +46,7 @@ Proudění může být *ustálené* neboli stacionární (*steady flow*). Při t
 
 $$ Re = \frac{\text{Inerční síly}}{\text{viskózní síly}} = \frac{vR}{\nu_{s}}$$
 
-kde $Re$ je Reyonoldsovo číslo (bezrozměrné), $v$ jeRychlost proudění ms^−1^, $R$ je hydraulický poloměr [m] a $\nu_{s}$ je kinematická viskozita [m^2^s^−1^]
+kde $Re$ je Reyonoldsovo číslo (bezrozměrné), $v$ je Rychlost proudění ms<sup>-1</sup>, $R$ je hydraulický poloměr [m] a $\nu_{s}$ je kinematická viskozita [m<sup>2</sup> s<sup>-1</sup>]
 
 Laminární proudění je do hodnoty $Re < 500$, při hodnotách $Re = 500 \text{ až } 1000$ má proudění přechodný charakter. Turbulentní proudění má hodnoty $Re > 2000$.
 
@@ -55,7 +54,7 @@ Na základě *Froudeho čísla ($Fr$)* rozdělujeme proudění na *bystřinné* 
 
 $$Fr=\frac{v}{\sqrt{gd}}$$
 
-kde $Fr$ je Freudeho číslo (bezrozměrné), $v$ Rychlost proudění [ms^−1^], $g$ je tíhové zrychlení [9,81 ms^−2^] a $d$ je hloubka proudění [m].
+kde $Fr$ je Freudeho číslo (bezrozměrné), $v$ Rychlost proudění [ms<sup>-1</sup>], $g$ je tíhové zrychlení (9,81 ms<sup>-2</sup>) a $d$ je hloubka proudění [m].
 
 Ve většině případů je i v horských bystřinách říční proudění. Bystřinné (nadkritické) proudění se vyskytuje jen lokálně. Nadkritické proudění je charakteristické menším turbulentním promícháváním vody, což způsobuje efektivnější a rychlejší tok korytem. Přechod mezi podkritickým a nadkritickým prouděním se na toku projevuje hydraulickým poklesem. V opačném případě, kdy dochází ke změně proudění ze nadkritického na podkritické, vzniká hydraulický skok.
 
@@ -69,18 +68,18 @@ Z důvodu tření pozorujeme nejnižší rychlosti proudění u břehů a dna.
 *Průtok* je definován jako objem vody, která proteče profilem vodního toku za jednotku času. Typicky je průtok vyjadřován v m^3^s^−1^ a označován $Q$. Spočítáme jej takto:
 $$Q=vA$$
 
-kde $Q$ je průtok [m^3^s^−1^], $v$ je rychlost proudění [m s^−1^] a $A$ je průtočná plocha příčného profilu [m^2^]
-
+kde Q je průtok [m<sup>3</sup> s<sup>-1</sup>], v je rychlost proudění [m&nbsp;s<sup>-1</sup>] a A je průtočná plocha příčného profilu [m<sup>2</sup>]
 
 *Manningova rovnice* vyjadřuje vztah mezi rychlostí proudění v korytě a parametry koryta: 
+
 $$
 v = [R^{\frac{2}{3}}S^{\frac{1}{2}}]/n
 $$
 
-kde $v$ je rychlost proudění [ms^−1^], $R$ hydraulický poloměr [m], $S$ sklon vodní hladiny [m/m] a $n$ Manningův koeficient drsnosti [bezrozměrné].
+kde $v$ je rychlost proudění [ms<sup>-1</sup>], $R$ hydraulický poloměr [m], $S$ sklon vodní hladiny [m/m] a $n$ Manningův koeficient drsnosti [bezrozměrné].
 
 <table>
-<caption>
+<caption> Tabulka</caption>
   <thead>
     <tr>
       <th>Popis koryta</th>
@@ -131,47 +130,49 @@ kde $v$ je rychlost proudění [ms^−1^], $R$ hydraulický poloměr [m], $S$ sk
 
 # Energie, práce a výkon vodních toků
 
-Pohyb vody, sedimentů, eroze. To vše zahrnuje vykonávání *práce*, tedy působení síly na hmotu po určité dráze. *Energie* z vyjadřuje schopnost hmoty konat práci. Hmota s větší potenciální energií má větší kapacitu konat práci. Jak práce, tak energie mají stejnou jednotku -- jouly [J]. *Výkon* vyjadřuje množství vykonané práce za jednotku času, jednotka je joul za sekundu neboli watt [W].
+Pohyb vody, sedimentů, eroze. To vše zahrnuje vykonávání *práce*, tedy působení síly na hmotu po určité dráze. *Energie* z vyjadřuje schopnost hmoty konat práci. Hmota s větší potenciální energií má větší kapacitu konat práci. Jak práce, tak energie mají stejnou jednotku – jouly [J]. *Výkon* vyjadřuje množství vykonané práce za jednotku času, jednotka je joul za sekundu neboli watt [W].
 
-Pohybem vody z vyšších nadmořských výšek do nižších se přeměňuje potenciální energie vody na kinetickou ([Rov.[\[eq:potkin\]](#eq:potkin)). Až $95 \%$ kinetické energie se třením přemění na teplo. Zbylá energie je transformována na samotný pohyb vodní masy, transport sedimentů, erozi dna a břehů. Malý zlomek energie je vynaložen
+Pohybem vody z vyšších nadmořských výšek do nižších se přeměňuje potenciální energie vody na kinetickou ([Rov.](eq:potkin). Až $95 \%$ kinetické energie se třením přemění na teplo. Zbylá energie je transformována na samotný pohyb vodní masy, transport sedimentů, erozi dna a břehů. Malý zlomek energie je vynaložen
 na zvukové projevy.
 
 $$
-   \text{potenciální energie}mgh \longrightarrow \text{kinetická energie}{\frac{1}{2}m v^{2}}
+   \text{potenciální energie }\longrightarrow \text{kinetická energie }\\
+   mgh \longrightarrow {\frac{1}{2}m v^{2}}
 $$
-kde $m$ je hmotnost vody [kg], $g$ tíhové zrychlení [ms^−2^], $h$ relativní výška [m] a $v$ je rychlost proudění [m s^−1^]
 
-Výkon vodních toků se měří ve wattech na jednotku délky [W m^−1^] a vyjadřuje kapacitu vodního toku transportovat sedimenty. *Výkon vodního toku* ($\Omega$) je hlavně závislý na průtoku ($Q$) a jeho sklonu ($S$).
+kde $m$ je hmotnost vody [kg], $g$ tíhové zrychlení [ms<sup>-2</sup>], $h$ relativní výška [m] a $v$ je rychlost proudění [m&nbsp;s<sup>-1</sup>]
+
+Výkon vodních toků se měří ve wattech na jednotku délky [W&nbsp;m<sup>-1</sup>] a vyjadřuje kapacitu vodního toku transportovat sedimenty. *Výkon vodního toku* ($\Omega$) je hlavně závislý na průtoku ($Q$) a jeho sklonu ($S$).
 
 $$
 \Omega = \rho g Q S
 $$
-
-$\Omega$ je výkon vodního toku [W m^−1^], $\rho$ hustota vody [kg m^−3^], $Q$ průtok [m^3^ s^−1^] a $S$ je sklon vodní hladiny[m/m]
+$\Omega$ je výkon vodního toku [W&nbsp;m<sup>-1</sup>], $\rho$ hustota vody [kg&nbsp;m<sup>-3</sup>], $Q$ průtok [m<sup>3</sup>&nbsp;s<sup>-1</sup>] a $S$ je sklon vodní hladiny[m/m]
 
 
 Často se používá *specifický výkon toku*, který je definován jako podíl
 výkonu toku ($\Omega$) a šířky koryta ($W$):
 
 $$
-    \omega = \frac{\Omega}{W}
+\omega = \frac{\Omega}{W}
 $$
 
 Odpadá tím vliv šířky toku na výkon a lze tak jednoduše srovnávat toky mezi sebou.
 
 Proudící voda v korytě působí na dno *tečným neboli smykovým napětím* (*shear stress*). Pro ustálené rovnoměrné proudění je toto tečné napětí definované takto:
 
-$$\\
-    \tau\_{b} = \rho g R S
-\\$$
+$$
+\tau\_{b} = \rho gRS
+$$
 
-Kde $\tau_{b}$ je tečné napětí [Nm^−2^], $\rho$ hustota vody [kg m^−3^], $R$ Hydraulický poloměr [m] a $S$ je sklon vodní hladiny [m/m]
+Kde $\tau_{b}$ je tečné napětí [N m<sup>−2</sup>], $\rho$ hustota vody [kg m<sup>−3</sup>], $R$ Hydraulický poloměr [m] a $S$ je sklon vodní hladiny [m/m].
 
 Vztah mezi specifickým výkonem toku, tečným napětím ($\tau_{b}$) a průměrnou rychlostí v profilu ($\bar{v}$) je následovný:
 
-$$\\
-\omega = \tau_{b} \bar{v}
-\\$$
+$$
+\omega = \tau_{b}\bar{v}
+$$
+
 
 # Fluviální eroze
 
@@ -191,19 +192,17 @@ Proudící voda může erozně působit několika způsoby. *Koroze* je proces c
 
 *Abraze (koraze)* je proces mechanického působení a odnosu podloží koryta v důsledku působení transportovaných částic. Účinek abraze závisí na množství a velikosti částic, jejich kinetické energii a odolnosti podloží. Rychlost proudění má velký účinek, neboť kinetická energie se mění se čtvercem rychlosti.
 
-Samotná proudící voda působí mechanicky na podloží. Tlakem vodního proudu může vytrhávat zvětralé podloží (tzv. *plucking*). Intenzivnější je *kavitace*. Jedná se o erozní činnost explodujících vzduchových bublin ve vodě. Intenzivně se plucking projevuje u vodopádů a peřejí. Třetím typem je mechanického působení je *evorze*, což je mechanické působení turbulentního proudění. Jeho působením vznikají evorzní prohlubně -- *obří (evorzní) hrnce*.
+Samotná proudící voda působí mechanicky na podloží. Tlakem vodního proudu může vytrhávat zvětralé podloží (tzv. *plucking*). Intenzivnější je *kavitace*. Jedná se o erozní činnost explodujících vzduchových bublin ve vodě. Intenzivně se plucking projevuje u vodopádů a peřejí. Třetím typem je mechanického působení je *evorze*, což je mechanické působení turbulentního proudění. Jeho působením vznikají evorzní prohlubně – *obří (evorzní) hrnce*.
 
 ### Eroze v aluviálních korytech
 
-Aluviální koryta jsou charakteristická hlavně boční erozí. Ta je mimo jiné závislá na charakteru materiálu tvořící břehy. Významný
-stabilizační efekt má vegetace. Břehová eroze je výsledkem různých procesů.
-{% cite charltonFundamentalsFluvialGeomorphology2007 %} je dělí do tří skupin:
+Aluviální koryta jsou charakteristická hlavně boční erozí. Ta je mimo jiné závislá na charakteru materiálu tvořící břehy. Významný stabilizační efekt má vegetace. Břehová eroze je výsledkem různých procesů. {% cite charltonFundamentalsFluvialGeomorphology2007 %} je dělí do tří skupin: 
 
 1.  *Přípravné oslabující procesy* jako je například namáčení a vysoušení materiálu. Procesy činící břeh náchylným k erozi.
 2.  *Fluviální procesy*, kdy jednotlivé částice a agregáty jsou uvedené do pohybu vodou.
 3.  *Svahové procesy* zahrnující kolaps břehů (sesuvy, břehové nátrže)
 
-Nízké ale strmé břehy tvořené kohezním materiálem často kolabují odkláněním (topplingem), kdy se blok překlopí do koryta (Obr. [2](#fig:bankerosion){reference-type="ref" reference="fig:bankerosion"}a). Odlučná plocha je téměř vertikální. U vyšších ale méně strmých břehů vznikají v kohezních materiálech rotační sesuvy (Obr. [2](#fig:bankerosion){reference-type="ref" reference="fig:bankerosion"}b). U břehů tvořených nekohezním materiálem převažují mělké sesuvy, nátrže a opad (Obr. [2](#fig:bankerosion){reference-type="ref" reference="fig:bankerosion"}c). Často jsou břehy z nekohezního materiálu v podloží a jemného kohezního materiálu v nadloží. Erozí méně odolného nekohezního materiálu dochází k podemílání břehu a jeho následného kolapsu (Obr. [2](#fig:bankerosion){reference-type="ref" reference="fig:bankerosion"}).
+Nízké ale strmé břehy tvořené kohezním materiálem často kolabují odkláněním (topplingem), kdy se blok překlopí do koryta ([Obr. 2a](#fig:bankerosion)). Odlučná plocha je téměř vertikální. U vyšších ale méně strmých břehů vznikají v kohezních materiálech rotační sesuvy ([Obr. 2b](fig:bankerosion)). U břehů tvořených nekohezním materiálem převažují mělké sesuvy, nátrže a opad ([Obr. 2c](fig:bankerosion)). Často jsou břehy z nekohezního materiálu v podloží a jemného kohezního materiálu v nadloží. Erozí méně odolného, nekohezního materiálu dochází k podemílání břehu a jeho následného kolapsu ([Obr. 2d](#fig:bankerosion)).
 
 <figure>
   <centering>
@@ -224,7 +223,7 @@ V horských oblastech, kde svahy jsou strmé, se do koryta snadněji budou dost�
 
 ## Uvedení částic do pohybu
 
-Co je potřeba, aby vodní tok uvedl do pohybu jednotlivé klasty? Klast ležící na dně je pod vlivem sil, které jej chtějí uvést do pohybu a těch, které ho drží na místě. Pokud mobilizační síly převáží, klast se dá do pohybu (Obr [3](#fig:sily_klast){reference-type="ref" reference="fig:sily_klast"}). Proti pohybu působí tíha částice (normálová komponenta) a také okolní klasty, které mohou danou částici blokovat. Proudící voda působí na klast silou, kterou lze rozdělit do dvou složek. *Vztlaková síla* (*lift*) působí směrem vzhůru. *Tření* (*drag force*) působí ve směru proudění.
+Co je potřeba, aby vodní tok uvedl do pohybu jednotlivé klasty? Klast ležící na dně je pod vlivem sil, které jej chtějí uvést do pohybu a těch, které ho drží na místě. Pokud mobilizační síly převáží, klast se dá do pohybu ([Obr. 3](fig:sily_klast)). Proti pohybu působí tíha částice (normálová komponenta) a také okolní klasty, které mohou danou částici blokovat. Proudící voda působí na klast silou, kterou lze rozdělit do dvou složek. *Vztlaková síla* (*lift*) působí směrem vzhůru. *Tření* (*drag force*) působí ve směru proudění.
 
 <figure>
     <center>
@@ -234,7 +233,7 @@ Co je potřeba, aby vodní tok uvedl do pohybu jednotlivé klasty? Klast ležíc
 </figure>
 
 
-Kromě velikosti, hustoty, tvaru klastu hraje při jeho mobilizaci i to, jak je vystaven toku a také na rychlosti proudění nebo přesněji na kritickém tečném napětí. Tzv. Hjulstrømův diagram (Obr. [\[fig:hjulstr\]](#fig:hjulstr){reference-type="ref"reference="fig:hjulstr"}) znázorňuje při jakých rychlostech proudění se částice o dané velikosti začne pohybovat (je vodním tokem stržena), zůstává v pohybu a nebo sedimentuje. Tento diagram vznikl na základě laboratorních experimentů a ve volné přírodě jsou tyto vztahy složitější. Jak je z diagramu patrné, tak nejsnáz jsou erodované částice písku okolo 0.1 mm--0.5 mm. Jílové částice jsou drženy pospolu kohezními silami, proto jsou nutné vyšší rychlosti proudění pro jejich uvedení do pohybu.
+Kromě velikosti, hustoty, tvaru klastu hraje při jeho mobilizaci i to, jak je vystaven toku a také na rychlosti proudění nebo přesněji na kritickém tečném napětí. Tzv. Hjulstrømův diagram ([Obr. ](fig:hjulstr)) znázorňuje při jakých rychlostech proudění se částice o dané velikosti začne pohybovat (je vodním tokem stržena), zůstává v pohybu a nebo sedimentuje. Tento diagram vznikl na základě laboratorních experimentů a ve volné přírodě jsou tyto vztahy složitější. Jak je z diagramu patrné, tak nejsnáze jsou erodované částice písku okolo 0.1 mm--0.5 mm. Jílové částice jsou drženy pospolu kohezními silami, proto jsou nutné vyšší rychlosti proudění pro jejich uvedení do pohybu.
 
 <figure class="figure">
     <img src="/assets/obrazky/fluvial/hjulstr.png" alt="Hjulstrømův diagram znázorňující vztah mezi velikostí částice, rychlostí proudění a procesem (upraveno podle Summerfield, 1999)">
@@ -421,7 +420,7 @@ Ukládání sedimentů v nivě probíhá vertikální a boční akrecí. K *vert
     </center>
 </figure>
 
-Vodní tok se na náplavovém kuželu různě větví. U velkého množství náplavových kuželů dochází k zařezávání toku v jeho horní části. To způsobuje posouvání akumulace do distálních (koncových) poloh kužele. Fluviální sedimenty jsou na kuželu tříděné, jelikož vodní tok postupně ztrácí unášecí schopnost. V horní části kuželu jsou větší klasty a směrem k jeho spodní části se zjemňují. Na vzniku kuželů se mohou podílet i blokovobahenní proudy (viz [\[blokovo\]](#blokovo){reference-type="ref" reference="blokovo"}), jejichž sediment nemá takový stupeň vytřízení jako materiál transportován řekou. Kužely, tvořené kombinací sedimentů blokovobahenních proudů a aluviálních, označujeme jako *proluviální kužely*.
+Vodní tok se na náplavovém kuželu různě větví. U velkého množství náplavových kuželů dochází k zařezávání toku v jeho horní části. To způsobuje posouvání akumulace do distálních (koncových) poloh kužele. Fluviální sedimenty jsou na kuželu tříděné, jelikož vodní tok postupně ztrácí unášecí schopnost. V horní části kuželu jsou větší klasty a směrem k jeho spodní části se zjemňují. Na vzniku kuželů se mohou podílet i blokovobahenní proudy, jejichž sediment nemá takový stupeň vytřízení jako materiál transportován řekou. Kužely, tvořené kombinací sedimentů blokovobahenních proudů a aluviálních, označujeme jako *proluviální kužely*.
 
 Spojením velkých kuželů na úpatí pohoří do jednoho rozsáhlého celku vzniká *bahadový reliéf* (*bajada*).
 

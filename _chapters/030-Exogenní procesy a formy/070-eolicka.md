@@ -61,14 +61,13 @@ Pohyb vymrštěných zrnek je jen na velice krátkou vzdálenost (cca v
 
 # Erozní formy
 
-Obrušováním větších klastů (valounky, balvany) nebo drobných výchozů podloží částečkami unášenými větrem vznikají *hrance* ([Obr. 2](#fig:hranec)). Hrance se vyznačují jednou nebo více vybroušenými ploškami *facetami*. Jedna dominantní faceta odpovídá převládajícímu směru větru. Pokud má hranec více facet, je to spíše způsobené pohybem klastu než změnou směru větru {% cite livingstoneAeolianGeomorphologyNew2019}.
+Obrušováním větších klastů (valounky, balvany) nebo drobných výchozů podloží částečkami unášenými větrem vznikají *hrance* ([Obr. 2](fig:hranec)). Hrance se vyznačují jednou nebo více vybroušenými ploškami *facetami*. Jedna dominantní faceta odpovídá převládajícímu směru větru. Pokud má hranec více facet, je to spíše způsobené pohybem klastu než změnou směru větru {% cite livingstoneAeolianGeomorphologyNew2019}.
 
 <figure id="fig:hranec">
 <figure>
 <img src="/assets/obrazky/eolicka/ventifact_mojave.jpg"/>
 </figure>
-<figcaption> Obr. Hranec v Mohavské poušti (zdroj: Wikimedia Commons, volné
-dílo)</figcaption>
+<figcaption> Obr. Hranec v Mohavské poušti (zdroj: Wikimedia Commons, volné dílo)</figcaption>
 </figure>
 
 *Jardangy* (*yardangs*) jsou nízké, protáhlé hřbety, které mají směr totožný se směrem převládajícího větru. Vznikají v suchých oblastech se silnými větry jednoho převládající směru a s podložím tvořeným málo odolnými sedimentárními horninami. Jardangy se nacházejí zpravidla na velkých plochách, kde je několik těchto paralelních hřbítků. Jardangy vznikají korazí -- obrušováním větrem nesených částeček a deflací uvolněného materiálu. 
@@ -101,7 +100,7 @@ Tvar volných dun je výsledkem mnoha faktorů. Zjednodušeně lze říct, že t
 
 *Barchany* neboli také *srpovité duny* vznikají v oblastech, kde je málo písku a převládá jeden směr větru. Střední část barchanu je kolmo na směr proudění větru. Směrem k okrajům se ohýbá po směru větru a špičky jsou cca paralelní se směrem proudění. Duny na pobřeží mají čast tvar barchanů. Návětrná strana má sklon v rozmezí 10 až 14°. Sklon závětrné strany je blízko sypnému úhlu suchého písku (okolo 32 až 34°). S nárůstem množství materiálu se barchany propojují a vznikají *příčné duny*. Jelikož se tyto duny nacházejí v oblastech kde dominuje vítr z jednoho směru, jedná se o nejmobilnější duny. Rychlost migrace dun je závislá na celkové hmotě duny. Menší duny migrují rychleji, neboť stačí transportovat méně hmoty, než u velkých dun. Barchany a příčné duny tvoří asi 10 % všech dun {% cite breedMorphologyDistributionDunes1979 %}.
 
-Pokud je území vystaveno dvěma převládajícím směrům větru (polovinu roku fouká jedním směrem, polovinu druhým) a písčitého materiálu podobně jako v oblasti batrchanů, vytvářejí se *podélné duny* (*linear dunes* nebo také *longitudinal dunes*, [Obr. ](#fig:linearniduny)). Jedná se o nejběžnější typ písečných dun. Mají podobu klikatících se (sinusoidních) hřbetů. Dosahují výšky až 200 m a na délku mohou mít i stovky kilometrů. Podélné duny jsou poměrně stabilní, což může vyhovovat vegetaci, která se uchycuje ve spodních partiích dun.
+Pokud je území vystaveno dvěma převládajícím směrům větru (polovinu roku fouká jedním směrem, polovinu druhým) a písčitého materiálu podobně jako v oblasti batrchanů, vytvářejí se *podélné duny* (*linear dunes* nebo také *longitudinal dunes*, [Obr. ](fig:linearniduny)). Jedná se o nejběžnější typ písečných dun. Mají podobu klikatících se (sinusoidních) hřbetů. Dosahují výšky až 200 m a na délku mohou mít i stovky kilometrů. Podélné duny jsou poměrně stabilní, což může vyhovovat vegetaci, která se uchycuje ve spodních partiích dun.
 
 
 <figure id="fig:linearniduny">
@@ -134,31 +133,29 @@ Před velkou topografickou bariérou (např. skalní stěna, hřbety), mohou vzn
 
 # Spraš
 
-Spraš (*loess*) je eolický sediment tvořený hlavně siltem (prach, frakce 0.01 mm--0.05 mm) s významnou příměsí. Má okrovou barvu, což je způsobené přítomností oxidů železa. Spraše pokrývají 5--10 % zemského povrchu ([Obr. 4](#fig:spras_distribuce)) {% cite biermanKeyConceptsGeomorphology2014 %}. Převážná část spraší se nachází na severní polokouli ve středních zeměpisných šířkách. Mocnost sprašových akumulací se pohybuje od centimetrů až po stovky metrů. Materiál spraší má rozličný původ. Významným zdrojem prachu byly v glaciálech rozsáhlé předledovcové plošiny, kde tavné vody z ledovců ukládaly velké množství materiálu. V jiných oblastech jsou zdrojem půdy vzniklé na málo odolných horninách (prachovce), případně rozsáhlé nížiny se sporým porostem vegetace. V současné době jsou zdrojem prachu hlavně pouštní oblasti.
+Spraš (*loess*) je eolický sediment tvořený hlavně siltem (prach, frakce 0,01 mm – 0,05 mm) s významnou příměsí. Má okrovou barvu, což je způsobené přítomností oxidů železa. Spraše pokrývají 5--10 % zemského povrchu ([Obr. 4](fig:spras_distribuce)) {% cite biermanKeyConceptsGeomorphology2014 %}. Převážná část spraší se nachází na severní polokouli ve středních zeměpisných šířkách. Mocnost sprašových akumulací se pohybuje od centimetrů až po stovky metrů. Materiál spraší má rozličný původ. Významným zdrojem prachu byly v glaciálech rozsáhlé předledovcové plošiny, kde tavné vody z ledovců ukládaly velké množství materiálu. V jiných oblastech jsou zdrojem půdy vzniklé na málo odolných horninách (prachovce), případně rozsáhlé nížiny se sporým porostem vegetace. V současné době jsou zdrojem prachu hlavně pouštní oblasti.
 
 Spraš je významným kvartérním sedimentem nejen střední Evropy. Díky zachování mocných akumulací jsou významným archivem uchovávajícím velké množství informací o kvartéru. Rychlost ukládání spraší se v průběhu kvartéru měnila. Během glaciálu se ukládalo největší množství, neboť podnebí bylo větrnější, sušší, chladnější. Při interglaciálech byla rychlost sedimentace snížena. Navíc vlhčí podmínky a větší množství vegetace umožnily rychlejší pedogenezi -- vznik půd. Během dalšího glaciálu byly tyto půdy pohřbené pod další vrstvou spraše. Opakováním těchto glaciálních a interglaciálních cyklů (případně i kratších výkyvů) vznikaly sekvence pohřbených půd.
 
 <figure id="fig:spras_distribuce">
 <figure>
-<img src="obrazky/eolicka/loes_distr.jpg"/>
+<img src="/assets/obrazky/eolicka/loes_distr.jpg"/>
 </figure>
 <figcaption>Rozšíření spraše a její mocnost (zdroj: {% cite liLoessGenesisWorldwide2020 %})</figcaption>
 </figure>
 
 ### Kontrolní a klíčové otázky, na které bychom měli znát odpověď
--   Jak silným erozním činitelem je vítr?
--   Které částice jsou nejlépe větrem unášeny?
--   Co ovlivňuje podobu písečných dun?
-  
-### Další klíčové pojmy k zapamatování 
-- deflace 
-- hranec
-- jardangy 
-- skalní hřib
-- vázané duny 
-- spraš
+- Jak silným erozním činitelem je vítr?
+- Které částice jsou nejlépe větrem unášeny?
+- Co ovlivňuje podobu písečných dun?
 
- {% youtube "https://www.youtube.com/watch?v=Hi9KFSyN5z0" %}
+### Další klíčové pojmy k zapamatování
+- deflace
+- hranec
+- jardangy
+- skalní hřib
+- vázané duny
+- spraš
 
 
 # Zdroje 

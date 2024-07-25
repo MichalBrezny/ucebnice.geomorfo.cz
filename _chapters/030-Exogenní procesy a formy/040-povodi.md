@@ -83,7 +83,7 @@ Uspořádání údolní sítě je výsledkem celé řady faktorů. Nejvýznamně
 
 # Hiearchizace říční sítě
 
-Vodní toky v krajině rozdělujeme dle jejich řádu (Obr. [2](#fig:radtoku){reference="fig:radtoku" reference-type="ref"}). V hydrologii se běžně používá číslování "zespod nahoru". Tedy postupuje se od toku, co ústí do moře. Tento tok je hlavní a označuje se jako tok I. řádu (např. Dunaj). Řeka Morava je pak II. řádu atd.
+Vodní toky v krajině rozdělujeme dle jejich řádu ([Obr. 2](fig:radtoku)). V hydrologii se běžně používá číslování „zespod nahoru“. Tedy postupuje se od toku, co ústí do moře. Tento tok je hlavní a označuje se jako tok I. řádu (např. Dunaj). Řeka Morava je pak II. řádu atd.
 
 V geomorfologii se uplatňuje odlišné číslování "shora dolů". Postupuje se od nejmenších toků v pramenných oblastech do nižších poloh ke stále větším tokům. Na tomto principu je založená Strahlerova nebo Shrevova klasifikace. *Strahlerova klasifikace* říká, že spojením toků stejného řádu vzniká tok o jeden řád vyšší (např. spojením toků prvního řádu vzniká tok druhého řádu). Při soutoku řek odlišných řádů (např. 1. a 2.) zůstává zachován nejvyšší řád. *Shrevova klasifikace* na soutocích řády sčítá. Tedy soutok dvou řek 1. řádu dá tok 2. řádu, soutok 3. a 1. řádu dá tok 4. řádu.
 

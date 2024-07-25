@@ -8,63 +8,74 @@ slug: glacialni
 Kryosféra je termín zastřešující veškerou vodu v pevném skupenství (ledu), která se nachází na zemském povrchu. Komponenty kryosféry a jejich délka trvání je znázorněna na ([obr. 1](fig:komponentykryosfery)). Jednou z nejdůležitějších komponent jsou ledovce.
 
 <figure>
-    <img src="/assets/obrazky/glac/komponenty_kryosfery.jpg" alt="Komponenty kryosféry a jejich časové škály (převzato z Lemke, 2007)">
-    <figcaption>Komponenty kryosféry a jejich časové škály (převzato z {% cite lemkeObservationsChangesSnow2007 %})
+    <img src="/assets/obrazky/glac/komponenty_kryosfery.jpg" 
+        alt="Komponenty kryosféry a jejich časové škály.">
+    <figcaption>
+    Komponenty kryosféry a jejich časové škály (převzato z {% cite lemkeObservationsChangesSnow2007 %})
     </figcaption>
 </figure>
 
 
 # Ledovce
 
-*Ledovce* jsou tekoucí tělesa ledu, která pokrývají zemskou souš. V současné tak činí z cca [\\(10 \\%\\)] []{.citation cites="cuffeyPhysicsGlaciers2010"}), v dobách maximálního zalednění to byl ale zhruba trojnásobek. Vlivem klimatické změny ale dochází k rychlým změnám v celkovém objemu a rozloze ledovců. V období 2000--2019 činila ztráta hmoty ledovců okolo 270 Gt ^−1^ []{.citation cites="hugonnetAcceleratedGlobalGlacier2021"}.
+*Ledovce* jsou tekoucí tělesa ledu, která pokrývají zemskou souš. V současné tak činí z cca 10 % {% cite cuffeyPhysicsGlaciers2010 %}, v dobách maximálního zalednění to byl ale zhruba trojnásobek. Vlivem klimatické změny ale dochází k rychlým změnám v celkovém objemu a rozloze ledovců. V období 2000–2019 činila ztráta hmoty ledovců okolo 270 Gt za rok {% cite hugonnetAcceleratedGlobalGlacier2021 %}.
 
 ## Vznik ledovců a bilance hmoty
 
-Čerstvě napadaný sníh má velice nízkou hustotu ([tab. 1](tab:snih_led)). Postupnou kompakcí vlivem tlaku sněhové hmoty v nadloží a rekrystalizací se jeho hustota zvyšuje a mění se ve *firn*. Další kompakcí, zcelováním jednotlivých ledových krystalů do jednolité hmoty se firn mění v *ledovcový led* jehož hustota se pohybuje mezi 830 kg m^−3^ až 923 kg m^−3^ ([tab.1](tab:snih_led){% cite cuffeyPhysicsGlaciers2010 %}).
+Čerstvě napadaný sníh má velice nízkou hustotu ([tab. 1](tab:snih_led)). Postupnou kompakcí vlivem tlaku sněhové hmoty v nadloží a rekrystalizací se jeho hustota zvyšuje a mění se ve *firn*. Další kompakcí, zcelováním jednotlivých ledových krystalů do jednolité hmoty se firn mění v *ledovcový led* jehož hustota se pohybuje mezi 830 kg m<sup>−3</sup> až 923 kg m<sup>−3</sup> ([tab.1](tab:snih_led); {% cite cuffeyPhysicsGlaciers2010 %}).
 
-<table>
+<table id="tab:snih_led"> 
+<caption>
+Tab. 1 Typická hustota sněhu, firnu a ledovcového ledu v kg m<sup>-3</sup> (upraveno podle {% cite cuffeyPhysicsGlaciers2010 %})
+</caption>
 <thead>
 <tr>
-<th>Čerstvě napadaný sníh</th>
-<th>50--70</th>
+<th>Typ sněhu/ledu</th>
+<th>Hustota [kg m<sup>-3</sup>] </th>
 </tr>
 </thead>
 <tbody>
 <tr>
+<td>Čerstvě napadaný sníh</td>
+<td>50–70</td>
+</tr>
+<tr>
 <td>Zvlhlý čerstvý sníh</td>
-<td>100--200</td>
+<td>100–200</td>
 </tr>
 <tr>
 <td>Uleželý sníh</td>
-<td>200--300</td>
+<td>200–300</td>
 </tr>
 <tr>
 <td>Větrem utužený sníh</td>
-<td>350--400</td>
+<td>350–400</td>
 </tr>
 <tr>
 <td>Firn</td>
-<td>400--830</td>
+<td>400–830</td>
 </tr>
 <tr>
-<td>Velice mokrý sníh a firn</td>
-<td>700--800</td>
+<td>Velice mokrý sníh a firn</td>
+<td>700–800</td>
 </tr>
 <tr>
 <td>Ledovcový led</td>
-<td>830--923</td>
+<td>830–923</td>
 </tr>
 </tbody>
 </table>
 
-Ledovce mění svůj objem v závislosti na přísunu hmoty (ledu) -- *akumulaci*, a jeho úbytku neboli *ablaci*. Přírůstky ledu jsou způsobené zejména sněhovými srážkami, které dopadají přímo na ledovec nebo jsou na něj dopraveny pomocí lavin či převáty větrem z okolí. Úbytek hmoty je způsoben táním ledu a následným odtokem tavných vod, odlamování ker (tzv. telení), větrnou erozí, ale i sublimací ledu (přímou přeměnou ledu ve vodní páru).
+Ledovce mění svůj objem v závislosti na přísunu hmoty (ledu) – *akumulaci*, a jeho úbytku neboli *ablaci*. Přírůstky ledu jsou způsobené zejména sněhovými srážkami, které dopadají přímo na ledovec nebo jsou na něj dopraveny pomocí lavin či převáty větrem z okolí. Úbytek hmoty je způsoben táním ledu a následným odtokem tavných vod, odlamování ker (tzv. telení), větrnou erozí, ale i sublimací ledu (přímou přeměnou ledu ve vodní páru).
 
-Na ledovci rozlišujeme z hlediska bilance dvě záklaní zóny: akumulační a ablační ([Obr](fig:ledovecmassbalance)). Do *akumulační zóny* spadá ta část ledovce, která má pozitivní bilanci (přírůstky hmoty). *Ablační zóna* má zápornou bilanci, dochází zde k úbytku hmoty. Hranicí mezi akumulační a ablační zónou je tzv. *čára rovnováhy* (*equilibrium line altitude*). Pokud je celková bilance ledovce záporná, ledovec se zmenšuje a naopak. Bilance hmoty v ledovci se zpravidla určuje pro období mezi dvěma okamžiky, kdy ablace dosáhla svého maxima (konec léta 1 – konec léta 2).
+Na ledovci rozlišujeme z hlediska bilance dvě základní zóny: akumulační a ablační ([Obr](fig:ledovecmassbalance)). Do *akumulační zóny* spadá ta část ledovce, která má pozitivní bilanci (přírůstky hmoty). *Ablační zóna* má zápornou bilanci, dochází zde k úbytku hmoty. Hranicí mezi akumulační a ablační zónou je tzv. *čára rovnováhy* (*equilibrium line altitude*). Pokud je celková bilance ledovce záporná, ledovec se zmenšuje a naopak. Bilance hmoty v ledovci se zpravidla určuje pro období mezi dvěma okamžiky, kdy ablace dosáhla svého maxima (konec léta 1 – konec léta 2).
 
 
 <figure>
-    <img src="/assets/obrazky/glac/ledovec_mass_balance.png" alt="Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty (upraveno podle {% cite summerfieldGlobalGeomorphologyIntroduction1999 %}">
-    <figcaption>Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty (upraveno podle {% cite summerfieldGlobalGeomorphologyIntroduction1999 %})</figcaption>
+    <img src="/assets/obrazky/glac/ledovec_mass_balance.png" alt="Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty." >
+    <figcaption>
+    Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty (upraveno podle {% cite summerfieldGlobalGeomorphologyIntroduction1999 %})
+    </figcaption>
 </figure>
 
 ## Typy ledovců
@@ -73,14 +84,15 @@ Základní klasifikace ledovců na ty, které nejsou limitované reliéfem (nap�
 
 ### Ledové příkrovy, čapky a šelfové ledovce
 
-*Ledový příkrov* ("ice sheet") neboli také *ledový štít* či *kontinentální ledovec* je nejrozsáhlejší ledovcové těleso. Jejich plocha musí přesahovat 50000 km^2^. V současné době se ledové příkrovy nacházejí jen v Grónsku a Antarktidě. *Ledová čapka* ("ice cap") je prakticky malou verzí ledového příkrovu. Jedná se o obrovské masy ledu, které zcela překrývají topografii. Ledový příkrov se skládá ze dvou základních částí. *Ledové dómy* jsou konvexní formy, ledové vyvýšeniny z nichž se led radiálně roztéká. *Ledové proudy* jsou části ledového příkrovu nebo ledové čapky, kde se led pohybuje významně rychleji než v okolních částech. Ve srovnání s celým ledovým příkrovem se jedná o relativně úzké oblasti, ale prostřednictvím těchto proudů je transportována převážná část ledové hmoty příkrovů.
+*Ledový příkrov* ("ice sheet") neboli také *ledový štít* či *kontinentální ledovec* je nejrozsáhlejší ledovcové těleso. Jejich plocha musí přesahovat 50000 km<sup>2</sup>. V současné době se ledové příkrovy nacházejí jen v Grónsku a Antarktidě. *Ledová čapka* ("ice cap") je prakticky malou verzí ledového příkrovu. Jedná se o obrovské masy ledu, které zcela překrývají topografii. Ledový příkrov se skládá ze dvou základních částí. *Ledové dómy* jsou konvexní formy, ledové vyvýšeniny z nichž se led radiálně roztéká. *Ledové proudy* jsou části ledového příkrovu nebo ledové čapky, kde se led pohybuje významně rychleji než v okolních částech. Ve srovnání s celým ledovým příkrovem se jedná o relativně úzké oblasti, ale prostřednictvím těchto proudů je transportována převážná část ledové hmoty příkrovů.
 
 *Šelfový ledovec* je část ledovce, která plave na hladině oceánu či moře.
 
-
 <figure>
     <img src="/assets/obrazky/glac/Glacier-ice_shelf_interactions.svg" alt="Šelfový ledovec a jeho interakce s okolním prostředím. V případě, že šelfový ledovec je stabilní, podpírá a zpomaluje celkový pohyb ledovce. Zvýšené teploty způsobují dvě věci: 1. rychlejší tání ledovce, voda se dostává na bázi, snižuje tření ledovce a urychluje jeho pohyb; 2. vznik a rozšiřování puklin vyplněných vodou na šelfu urychluje jeho rozpad. V případě rozpadu ledovcového šelfu ledovec ztrácí oporu a rychlost jeho pohybu se zvyšuje a tedy i rychleji ztrácí hmotu (autoři: Ted Scambos and Michon Scott, National Snow and Ice Data Center, upraveno: Sagredo, volné dílo, via Wikimedia Commons)">
-    <figcaption>Šelfový ledovec a jeho interakce s okolním prostředím</figcaption>
+    <figcaption>
+    Šelfový ledovec a jeho interakce s okolním prostředím. V případě, že šelfový ledovec je stabilní, podpírá a zpomaluje celkový pohyb ledovce. Zvýšené teploty způsobují dvě věci: 1. rychlejší tání ledovce, voda se dostává na bázi, snižuje tření ledovce a urychluje jeho pohyb; 2. vznik a rozšiřování puklin vyplněných vodou na šelfu urychluje jeho rozpad. V případě rozpadu ledovcového šelfu ledovec ztrácí oporu a rychlost jeho pohybu se zvyšuje a tedy i rychleji ztrácí hmotu (autoři: Ted Scambos and Michon Scott, National Snow and Ice Data Center, upraveno: Sagredo, volné dílo, via Wikimedia Commons)
+    </figcaption>
 </figure>
 
 
@@ -103,13 +115,14 @@ Působením tíhové síly je v ledovci vyvoláváno smykové napětí, které u
 
 <figure>
     <center>
-        <img src="/assets/obrazky/glac/flow_velocity.png" alt="Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu (Upraveno podle {% cite biermanKeyConceptsGeomorphology2014 %}">
+        <img src="/assets/obrazky/glac/flow_velocity.png" alt="Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu.">
         <figcaption>Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu (Upraveno podle {% cite biermanKeyConceptsGeomorphology2014 %})</figcaption>
     </center>
 </figure>
 
 
 Rychlost deformace ledu („strain rate“, $\dot{\epsilon}$) je dána experimentálně odvozenou Glenovou rovnicí:
+
 $$
 \dot{\epsilon} = A\tau^{n}
 $$
@@ -118,7 +131,7 @@ kde $\dot{\epsilon}$ je rychlost deformace, $A$ je koeficient, který s teplotou
 
 Jak je patrné z rovnice (jelikož $n > 1$), tak i malé změny smykového napětí vedou k velkým změnám v úrovni deformace.
 
-Průměrná rychlost pohybu ledovce je v rozmezí 3 m až 300 m za rok. Rychlost pohybu se mění v prostoru a čase. Největší rychlost pohybu ledovce je na jeho povrchu a směrem dolů klesá ([Obr.](fig:flowvelocity)). V podélném profilu se rychlost mění v závislosti na akumulaci a ablaci.
+Průměrná rychlost pohybu ledovce je v rozmezí 3 m až 300 m za rok. Rychlost pohybu se mění v prostoru a čase. Největší rychlost pohybu ledovce je na jeho povrchu a směrem dolů klesá ([Obr. ](fig:flowvelocity)). V podélném profilu se rychlost mění v závislosti na akumulaci a ablaci.
 
 # Glaciální procesy
 
@@ -127,15 +140,18 @@ Průměrná rychlost pohybu ledovce je v rozmezí 3 m až 300 m za rok. Rych
 Celkem rozlišujeme čtyři mechanismy glaciální eroze. *Deterze* jeohlazování skalního podloží. *Exarace* rýhování skalního podloží. Tímto procesem vznikají striace. Podle striací skalního podloží lze určit směr pohybu ledovce. *Detrakce* je proces odlamování Čtvrtý mechanismus *plucking* je spojený s účinky mrazového zvětrávání a tlaku ledovce.Jedná se o vytrhování kusů horniny z podloží.
 
 <figure id="fig:ledovec">
-<img src="/assets/obrazky/glac/ledovec_svyc.jpg" />
-<figcaption>Horský ledovec s dobře patrnou střední morénou. V pravém
-dolním rohu je klikatící se supraglaciální tok.</figcaption>
+<img src="/assets/obrazky/glac/ledovec_svyc.jpg">
+<figcaption>
+Horský ledovec s dobře patrnou střední morénou. V pravém
+dolním rohu je klikatící se supraglaciální tok.
+</figcaption>
 </figure>
 
 ## Glaciální transport a akumulace
 <figure id="fig:striace">
-<img src="/assets/obrazky/glac/striace.jpg" />
-<figcaption>Striace jsou důkazem subglaciálního transportu (na bázi ledovce).
+<img src="/assets/obrazky/glac/striace.jpg">
+<figcaption>
+Striace jsou důkazem subglaciálního transportu (na bázi ledovce).
 </figcaption>
 </figure>
 
@@ -143,22 +159,22 @@ dolním rohu je klikatící se supraglaciální tok.</figcaption>
 
 ## Tvary ledovcové eroze
 
-Ledovce svou abrazní činností vytvářejí na skalách hladké plochy -- *ledovcové ohlazy*. Materiál transportovaný na bázi ledovce obrušuje a škrábe podloží. Tímto obrušováním vznikají rýhy, které nazýváme *ledovcové striace*.
+Ledovce svou abrazní činností vytvářejí na skalách hladké plochy – *ledovcové ohlazy*. Materiál transportovaný na bázi ledovce obrušuje a škrábe podloží. Tímto obrušováním vznikají rýhy, které nazýváme *ledovcové striace*.
 
-Výstupy skalního podloží ledovec přemodelovává v *oblík*, což jsou vpodélném profilu asymetrické pahorky. Svah ukloněný proti pohybu ledovce je mírný, hladký a nese stopy po obrušování (striace). Svah po směru pohybu je naopak strmý a s různými výstupky, které vznikly vytrháváním kusů hornin.
+Výstupy skalního podloží ledovec přemodelovává v *oblík*, což jsou v podélném profilu asymetrické pahorky. Svah ukloněný proti pohybu ledovce je mírný, hladký a nese stopy po obrušování (striace). Svah po směru pohybu je naopak strmý a s různými výstupky, které vznikly vytrháváním kusů hornin.
 
 <figure id="fig:oblik">
-<img src="/assets/obrazky/glac/oblik.png" />
+<img src="/assets/obrazky/glac/oblik.png">
 <figcaption>Oblík
 </figcaption>
 </figure>
 
 V uzávěrách údolí, pramenných oblastech říčních údolí vznikají ledovcovou erozí *kary* (*cirque*). Tvar karu by se dal připodobnit křeslu. Vysoké a strmé stěny karu navazují na prohloubené konkávní dno karu. Od údolí je kar oddělen karovým stupněm.
 
-Ústupem zadních stěn karů z více stran vznikají ostré horské *štíty* taktéž známé jako *karlingy*, *ârety* nebo *(matter)horn* podle typického horského štítu Matterhorn (Obr. [4](#fig:matterhorn){reference="fig:matterhorn" reference-type="ref"}) ve Švýcarských alpách.
+Ústupem zadních stěn karů z více stran vznikají ostré horské *štíty* taktéž známé jako *karlingy*, *ârety* nebo *(matter)horn* podle typického horského štítu Matterhorn (Obr. [4](#fig:matterhorn)) ve Švýcarských alpách.
 
 <figure id="fig:matterhorn">
-<img src="/assets/obrazky/glac/matterhorn.jpg" />
+<img src="/assets/obrazky/glac/matterhorn.jpg">
 <figcaption>Matterhorn (Autor: Davide Notti (via imaggeo.egu.eu, CC BY 3.0))</figcaption>
 </figure>
 
@@ -194,7 +210,7 @@ Táním tzv. mrtvého ledu (ledových čoček) vznikají sníženiny, které moh
 *Eskery* (ózy). Jsou protáhnuté valy vytvořené akumulací sedimentů v subglaciálních tocích. Fluvioglaciální materiál je tříděný.
 
 <figure id="fig:esker">
-<img src="/assets/obrazky/glac/esker.jpg" />
+<img src="/assets/obrazky/glac/esker.jpg">
 <figcaption>Částečně odtěžený esker (Autor: Val Vannet / Esker near
 Bridge of Cally / CC BY-SA 2.0).</figcaption>
 </figure>

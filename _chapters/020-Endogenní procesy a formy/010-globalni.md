@@ -100,7 +100,7 @@ Okraje litosférických desek jsou důležitým místem, kde se odehrává celá
 <figure id="fig:globseismicity">
   <img src="/assets/obrazky/tectonic/global_seismicity_h.jpg" alt="Mapa zemětřesení o magnitudu >=5 ve světě mezi roky 2000--2008" />
   <figcaption>
-  Obr. 4 Mapa zemětřesení o magnitudu $>=5$ve světě mezi roky 2000--2008 (Zdroj: Lisa Christiansen, Caltech Tectonics Observatory, <a href="https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=64691">https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=64691</a>
+  Obr. 4 Mapa zemětřesení o magnitudu $\geq5$ ve světě mezi roky 2000–2008 (Zdroj: Lisa Christiansen, Caltech Tectonics Observatory, <a href="https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=64691">https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=64691</a>
   </figcaption>
 </figure>
 

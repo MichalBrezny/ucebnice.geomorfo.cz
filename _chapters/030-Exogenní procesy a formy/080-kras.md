@@ -134,11 +134,11 @@ Nejznámějším podpovrchovým tvarem jsou určitě *jeskyně*. Definic jeskyn�
 
 Krasové jeskyně vznikají *korozní a erozní činností kolující vody* v podzemní části krasových oblastí a jejich sekundárním vyplňováním krasovými nebo nekrasovými hmotami.
 
-Rozlišujeme tři stádia vývoje jeskyně: iniciální, zralosti a destrukce.
+### Další dělení jeskyní
 
-Jeskyně mohou být syngenetické a epigenetické.
+Jeskyně můžeme dále rozlišovat podle jejich zralosti. Běžně se vymezují tři stádia vývoje: iniciální, zralosti a destrukce.
 
-Puklinové a vrstevní
+Jeskyně, které vznikaly spolu s horninou se nazývají syngenetické. Jeskyně, které vznikly až později jsou epigenetické.
 
 Typy jeskyní podle příčného profilu *Vertikální jeskyně* jsou vázané na svislé tektonické poruchy, kterými vtéká voda do podzemí a postupně je rozšiřuje. Mají mnoho podob a rozměrů: propasti, komíny a podobně.
 
@@ -152,21 +152,21 @@ Do stropních speleotémů patří *brčka* (*straw stalaktite*), které jsou z�
 
 
 Kontrolní a klíčové otázky, na které bychom měli znát odpověď
--   Co je to krasovění?
--   Jaké faktory ovlivňují dynamiku krasových procesů?
--   Jaký je rozdíl mezi syngenetickou a epigenetickou jeskyní?
+- Co je to krasovění?
+- Jaké faktory ovlivňují dynamiku krasových procesů?
+- Jaký je rozdíl mezi syngenetickou a epigenetickou jeskyní?
 
-Další klíčové pojmy k zapamatování 
-- škrapy 
+Další klíčové pojmy k zapamatování
+- škrapy
 - závrt
-- uvala 
+- uvala
 - polje
-- tropický kras 
--  cockpit
--  mogot
--  stalaktit
--  stalagmit
--  stalagnát
+- tropický kras
+- cockpit
+- mogot
+- stalaktit
+- stalagmit
+- stalagnát
 
 
 

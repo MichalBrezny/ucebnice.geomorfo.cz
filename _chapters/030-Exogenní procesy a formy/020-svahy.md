@@ -36,12 +36,10 @@ do osmi částí:
 
 Každá část svahu je pod vlivem gravitace. Ta vyvolává tíhové napětí. Pro zjednodušení si představte objekt který je na nakloněné rovině -- svahu. Tento objekt svou tíhou působí svisle na svah a vyvolává tíhové napětí. To můžeme rozložit do dvou složek. *Normálová* složka resp. *normálové napětí* působí kolmo na rovinu svahu. Po svahu dolů působí *smykové napětí*. Smykové a normálové napětí vypočítáme podle rovnic:
 
-\text{Smykové napětí: } 
-\text{Normálové napětí: } 
   
 $$
-\tau = \rho_{s}gz\sin{\theta} \\
-\sigma = \rho_{s}gz\cos{\theta} 
+\text{Smykové napětí: }  \tau = \rho_{s}gz\sin{\theta} \\
+\text{Normálové napětí: }  \sigma = \rho_{s}gz\cos{\theta} 
 $$
 
 Velikost smykového a normálového napětí je závislá na velikosti sklonu
@@ -102,7 +100,7 @@ kde $c$ je koheze, $\phi$ je úhel vnitřního tření a $\sigma^\prime$ je efek
 
 Stabilita svahu je stav, který se mění v čase v závislosti na celé řadě podmínek. Může se zvyšovat, ale i snižovat.
 
-Tabulka [tab:stabilita_faktory](#tab:stabilita_faktory) obsahuje příklady různých příčin sesuvů a jiných svahových pohybů. Tyto příčiny můžeme rozdělit do tří skupin:
+Tabulka [tab:stabilita_faktory](tab:stabilita_faktory) obsahuje příklady různých příčin sesuvů a jiných svahových pohybů. Tyto příčiny můžeme rozdělit do tří skupin:
 1.  Predispozice
 2.  Přípravné faktory
 3.  Spouštěcí faktory
@@ -121,53 +119,49 @@ podle {% cite gladeLandslideGeomorphologyChanging2010 %})
 <figure>
 	<img src="/assets/obrazky/svahy/time_stability.png" style="width:100.0%"/>
 	<figcaption>
-    Vývoj stability dvou hypotetických svahů. Přípravné faktory (PF) postupně nebo nárazově snižují stabilitu svahu (snižují pevnost ve smyku). Spouštěcí faktory (triggery -- T) jsou ty, které sníží pevnost ve smyku tak, že faktor bezpečnosti $ \leq 1$ (upraveno podle {% cite popescuSuggestedMethodReporting1994 mcollLandslideCausesTriggers2015 %}
+    Vývoj stability dvou hypotetických svahů. Přípravné faktory (PF) postupně nebo nárazově snižují stabilitu svahu (snižují pevnost ve smyku). Spouštěcí faktory (triggery -- T) jsou ty, které sníží pevnost ve smyku tak, že faktor bezpečnosti $ \leq 1$ (upraveno podle {% cite popescuSuggestedMethodReporting1994} a {% cite mcollLandslideCausesTriggers2015 %})
+    
     </figcaption>
 	<label for="fig:timestability"> </label>
 </figure>
 
 
 <table class="table table-striped table-hover table-sm">
+<caption>Příklady příčin sesuvů {% cite mccollLandslideCausesTriggers2015 %} </caption>
 <tbody>
 <tr>
-<td colspan="4" style="text-align: center;"><strong>Predispozice</strong></td>
+<td colspan="4" style="text-align: left;"><strong>Predispozice</strong></td>
 </tr>
 <tr>
-<td colspan="4" style="text-align: center;">Plastický, měkký materiál</td>
+<td colspan="4" style="text-align: left;">Plastický, měkký materiál</td>
 </tr>
 <tr>
-<td colspan="4" style="text-align: center;">Sypký materiál</td>
+<td colspan="4" style="text-align: left;">Sypký materiál</td>
 </tr>
 <tr>
-<td colspan="4" style="text-align: center;">Navětralý materiál</td>
+<td colspan="4" style="text-align: left;">Navětralý materiál</td>
 </tr>
 <tr>
-<td colspan="4" style="text-align: center;">Tektonicky porušený materiál</td>
+<td colspan="4" style="text-align: left;">Tektonicky porušený materiál</td>
 </tr>
 <tr>
-<td colspan="4" style="text-align: center;">Příhodně orientované diskontinuity (např. vrstevní plochy, pukliny, zlomy)</td>
+<td colspan="4" style="text-align: left;">Příhodně orientované diskontinuity (např. vrstevní plochy, pukliny, zlomy)</td>
 </tr>
 <tr>
-<td colspan="4" style="text-align: center;">Kontrast mezi propustností hornin</td>
+<td colspan="4" style="text-align: left;">Kontrast mezi propustností hornin</td>
 </tr>
 <tr>
-<td colspan="4" style="text-align: center;">Kontrastní pevnost hornin (pevné horniny v nadloží plastických např. pískovce na jílovcích)</td>
+<td colspan="4" style="text-align: left;">Kontrastní pevnost hornin (pevné horniny v nadloží plastických např. pískovce na jílovcích)</td>
 </tr>
 </tbody>
 </table>
 <table class="table table-striped table-hover table-sm">
 <tbody>
 <tr>
-<td style="text-align: center;"><strong>Proces</strong></td>
-<td style="text-align: center;"><strong>Geomorfologický</strong></td>
-<td style="text-align: center;"><strong>Fyzikální</strong></td>
-<td style="text-align: center;"><strong>Antropogenní</strong></td>
-</tr>
-<tr>
-<td><strong>Přípravné faktory</strong></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="text-align: center;"><strong>Přípravné faktory</strong></td>
+<td style="text-align: center;"><strong>Geomorfologický proces</strong></td>
+<td style="text-align: center;"><strong>Fyzikální proces</strong></td>
+<td style="text-align: center;"><strong>Antropogenní proces</strong></td>
 </tr>
 <tr>
 <td>Nárůst výšky svahu nebo sklonu</td>
@@ -299,8 +293,7 @@ podle {% cite gladeLandslideGeomorphologyChanging2010 %})
 
 ## Světová klasifikace svahových pohybů
 
-Gravitační svahové pohyby jsou způsobeny přímým působením gravitace. Dalo by se říct, že "klasickou" a celosvětově zaužívanou klasifikací
-svahových pohybů je klasifikace []{.citation cites="crudenLandslideTypesProcesses1996"} s poslední úpravou od Hungra []{.citation cites="hungrVarnesClassificationLandslide2014"}. Tato klasifikace je založena na třech kritériích:
+Gravitační svahové pohyby jsou způsobeny přímým působením gravitace. Dalo by se říct, že "klasickou" a celosvětově zaužívanou klasifikací svahových pohybů je klasifikace Crudena a Varnese {% cite crudenLandslideTypesProcesses1996 %} s poslední úpravou od Hungra {% cite hungrVarnesClassificationLandslide2014 %}. Tato klasifikace je založena na třech kritériích:
 -   rychlost pohybu
 -   mechanismus pohybu
 -   typ horniny (skalní hornina/zemina)
@@ -322,31 +315,31 @@ Svahové pohyby rozdělují do následujících šesti skupin:
 
 ### Řícení
 
-*Řícení* (*fall*) je nejrychlejším gravitačním procesem, kdy rychlost pohybu činí řádově m s^−1^. K řícení dochází na strmých svazích ([\\(\>\\SI{45}{\\degree}\\)]{.math .inline}). Pohyb hmoty je alespoň v části trajektorie realizován volným pádem a následně se horninové
+*Řícení* (*fall*) je nejrychlejším gravitačním procesem, kdy rychlost pohybu činí řádově m s^−1^. K řícení dochází na strmých svazích ($>45 °$). Pohyb hmoty je alespoň v části trajektorie realizován volným pádem a následně se horninové
 fragmenty kutálejí či poskakují. Řícení můžeme rozlišit podle materiálu, který se účastní pohybu na: skalní řícení, suťové řícení a řícení v zeminách (spraši).
 
 Řícení může nabývat celé řady podob. *Sesypávání* probíhá nejčastěji v zeminách. Dále může docházet k *odpadávání úlomků* ze skalních výchozů. Na úpatí skalní stěny se tvoří osypy (*talus*). *Odvalové řícení* je způsobeno odkláněním bloku (viz níže), kdy po překročení kritické meze dojde k jeho kolapsu. *Planární řícení* zahrnuje podobně jako odvalové řícení větší masu horniny. V iniciální fázi dochází k sesouvání horniny podél planární smykové plochy a až následně dojde k pohybu volným pádem a tedy řícení. Jedná se často o velké katastrofické události.
 
 ### Odklánění
 
-*Odklánění* nebo také *odsedání* (*toppling*) je proces, kdy dochází k pohybu horninového bloku kolem horizontální osy. V podstatě jde překlápění bloku ze svahu dolů. Jedná se o pomalé pohyby (mm ^−1^). Avšak ve finální fázi může dojít až ke katastrofickému zrychlení pohybu -- zřícení (m s^−1^).
+*Odklánění* nebo také *odsedání* (*toppling*) je proces, kdy dochází k pohybu horninového bloku kolem horizontální osy. V podstatě jde překlápění bloku ze svahu dolů. Jedná se o pomalé pohyby (mm ^−1^). Avšak ve finální fázi může dojít až ke katastrofickému zrychlení pohybu – zřícení (m s^−1^).
 
-[]{.citation cites="goodmanTopplingRockSlopes1976"} rozlišují dva základní druhy odklánění. Prvním typem je blokové odklánění. Jedná se o uklánění velkých bloků hornin. Predispozicí jsou strmě do svahu zapadající diskontinuity, které od sebe oddělují jednotlivé horninové bloky a případně doplněné o mírně ukloněné diskontinuity tvořící bázi bloků. Druhý typ je ohybové odklánění (*flexural toppling*). K této deformaci může docházet na strmých svazích, které jsou budované horninami se strmě zapadajícími diskontinuitami s velmi malým rozestupem. K odklánění může docházet i v zeminách např. na březích
+Můžeme rozlišit dva základní druhy odklánění {% cite goodmanTopplingRockSlopes1976 %}. Prvním typem je blokové odklánění. Jedná se o uklánění velkých bloků hornin. Predispozicí jsou strmě do svahu zapadající diskontinuity, které od sebe oddělují jednotlivé horninové bloky a případně doplněné o mírně ukloněné diskontinuity tvořící bázi bloků. Druhý typ je ohybové odklánění (*flexural toppling*). K této deformaci může docházet na strmých svazích, které jsou budované horninami se strmě zapadajícími diskontinuitami s velmi malým rozestupem. K odklánění může docházet i v zeminách např. na březích
 vodních toků.
 
 ### Sesouvání
 
-*Sesouvání* (*slide*) je relativně rychlý, klouzavý pohyb horninové hmoty na svahu podél jedné nebo více *smykových ploch*. Rychlost je variabilní, může se pohybovat v řádu mm ^−1^--m s^−1^. Rychlost pohybu uvolněné hmoty se směrem do hloubky nemění.
+*Sesouvání* (*slide*) je relativně rychlý, klouzavý pohyb horninové hmoty na svahu podél jedné nebo více *smykových ploch*. Rychlost je variabilní, může se pohybovat v řádu mm/rok až m/s. Rychlost pohybu uvolněné hmoty se směrem do hloubky nemění.
 
 *Sesouvání je proces*, jehož výsledný tvar je *sesuv*.
 Sesuv má tři základní části:
--   Odlučná oblast (výchoz smykové plochy) 
--   Transportní zóna 
--   Akumulační zóna
+- Odlučná oblast (výchoz smykové plochy)
+- Transportní zóna
+- Akumulační zóna
 
 Smyková plocha je plocha, podél které došlo k sesouvání. Sesouvání může probíhat i po více smykových plochách. Podle tvaru smykové plochy můžeme sesuvy rozlišit na dva základní typy: rotační a translační sesuvy.
 
-*Rotační sesuv* (*rotational slide* nebo *slump*, obr. [4](#fig:rotacni){reference="fig:rotacni" reference-type="ref"}) má smykovou plochu zakřivenou, válcovou. Na tvar smykové plochy nemají vliv geologické struktury (pukliny, vrstevní plochy). Z důvodu zakřivení smykové plochy dochází k naklonění povrchu sesunutých bloků proti svahu. Rotační sesuvy jsou typické pro homogenní materiály, kohezivní zeminy a měkké horniny, které mají v nadloží často vrstvu pevných hornin. Jelikož je pohyb podél zakřivené smykové plochy samostabilizační, jsou rotační sesuvy zpravidla pomalejší.
+*Rotační sesuv* (*rotational slide* nebo *slump*, obr. [4](fig:rotacni)) má smykovou plochu zakřivenou, válcovou. Na tvar smykové plochy nemají vliv geologické struktury (pukliny, vrstevní plochy). Z důvodu zakřivení smykové plochy dochází k naklonění povrchu sesunutých bloků proti svahu. Rotační sesuvy jsou typické pro homogenní materiály, kohezivní zeminy a měkké horniny, které mají v nadloží často vrstvu pevných hornin. Jelikož je pohyb podél zakřivené smykové plochy samostabilizační, jsou rotační sesuvy zpravidla pomalejší.
 
 <figure id="fig:rotacni">
 <img src="/assets/obrazky/svahy/rotacni.jpg"/>
@@ -376,7 +369,7 @@ Jedná se o pomalé pohyby (mm ^−1^), které ale mohou být extrémně rychl
 
 ### Tečení
 
-Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost tečení je různorodá. Pohybuje se od cm ^−1^ až [\\(\>\\SI{100}{\\kilo\\metre\\per\\hour}\\)]{.math .inline}. Výsledný tvar je *proud*. Blokovobahenní proud, mura (debris flow). Hlavní příčinou tečení je nasycení materiálu vodou. Tečením mohou být transportovány i bloky hornin i metrových velikostí.
+Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost tečení je různorodá. Pohybuje se od  několika centimetrů až 100 km za hodinu. Výsledný tvar je *proud*. Blokovobahenní proud, mura (debris flow). Hlavní příčinou tečení je nasycení materiálu vodou. Tečením mohou být transportovány i bloky hornin i metrových velikostí.
 
 Častým typem tečení jsou tzv. *blokovobahenní proudy* (*debris flow*), také nazývané *mury*. Vyskytují se typicky v horském terénu. Jedná se o rychlý pohyb ztekuceného materiálu (bahna a velkých balvanů) ve stržích či údolích prvních řádů, kde se tyto proudy pravidelně opakují. K blokovobahenním proudům dochází zejména po prudkých deštích. Často se vyskytují během povodňových událostí. Prvopočátek blokovobahenního proudu může být v podobě sesuvu vodou saturovaného koluvia. Když tento sesuv narazí na dno strže/údolí dochází ke ztekucení materiálu a vzniku samotného blokovobahenního proudu. Ten má velkou erozní schopnost a díky tomu nabírá další hmotu během svého pohybu. V případě, že tekoucí materiál neobsahuje velké balvany a skládá se především ze siltu hovoříme o *bahnotoku*. Pro velké bahnotoky a blokovobahenní proudy ze sopečného materiálu se používátermín *lahary*.
 
@@ -387,8 +380,7 @@ Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost teč
 
 *Zemní proud* (*earthflow*) je relativně pomalý proces tečení zemin. Pro zemní proudy jsou typická období klidu (desítky i stovky let) proložená epizodami náhlé aktivity. Jejich rychlost pohybu se pohybuje od metrů za rok až po metry za hodinu. Délka zemních proudů je v řádu desítek metrů až několika kilometrů.
 
-*Skalní laviny* jsou extrémním svahovým procesem. Jejich počátek je zpravidla v podobě velkého skalního sesuvu, který se ale záhy rozpadá a výsledkem je extrémně rychlý proud úlomků hornin. Objem sesunutých hornin bývá [\\(\> \\SI{1}{\\mega\\metre\\cubed}\\)]{.math .inline} a může dosahovat i desítek Gm^3^. Skalní laviny mají oproti klasickým sesuvům ohromnou mobilitu, tudíž mohou dosáhnout značných vzdáleností od svého počátku (i desítky km). Rychlost pohybu je v řádu stovek kilometrů
-za hodinu.
+*Skalní laviny* jsou extrémním svahovým procesem. Jejich počátek je zpravidla v podobě velkého skalního sesuvu, který se ale záhy rozpadá a výsledkem je extrémně rychlý proud úlomků hornin. Objem sesunutých hornin bývá obrovský – od 1 milionu m^3^, ale může dosahovat i desítek Gm^3^. Skalní laviny mají oproti klasickým sesuvům ohromnou mobilitu, tudíž mohou dosáhnout značných vzdáleností od svého počátku (i desítky km). Rychlost pohybu je v řádu stovek kilometrů za hodinu.
 
 ### Svahové deformace
 
@@ -405,7 +397,7 @@ Povrchové ploužení je pomalý plastický pohyb zvětralinového pláště (de
 
 #### Hlubinné ploužení
 
-Pro hlubinné ploužení se často používá termín *sackung*. Tento proces postihuje velké objemy hornin do značné hloubky (desítky až stovky metrů). Rychlost hlubinného ploužení je velice nízká, což znamená, že se veškeré viditelné formy na svahu vyvíjejí velice pomalu. Sackung se typicky projevuje *zdvojenými hřbety*, různými *stupni na svazích* (Obr [6](#fig:sackung){reference="fig:sackung" reference-type="ref"}). Spodní část svahu je často vyboulená. Tento proces vyboulení se označuje jako *bulging*.
+Pro hlubinné ploužení se často používá termín *sackung*. Tento proces postihuje velké objemy hornin do značné hloubky (desítky až stovky metrů). Rychlost hlubinného ploužení je velice nízká, což znamená, že se veškeré viditelné formy na svahu vyvíjejí velice pomalu. Sackung se typicky projevuje *zdvojenými hřbety*, různými *stupni na svazích* (Obr [6](fig:sackung)). Spodní část svahu je často vyboulená. Tento proces vyboulení se označuje jako *bulging*.
 
 <figure id="fig:sackung">
 <img src="/assets/obrazky/svahy/sackung.png"/>
@@ -426,7 +418,7 @@ Co je důležité, tak autoři rozlišují *svahový pohyb*, tedy proces a *svah
 
 ### Ploužení
 
-Do ploužení spadají dlouhodobé pomalé (mm ^−1^ až cm ^−1^). Hranice mezi pohybující se horninovou hmotou a pevným podložím je nezřetelná. V důsledku ploužení může docházet k tzv. hákování vrstev (Obr. [7](#fig:hakovani){reference="fig:hakovani" reference-type="ref"}). Jedná se ohnutí vrstev po svahu dolů.
+Do ploužení spadají dlouhodobé pomalé (mm ^−1^ až cm ^−1^). Hranice mezi pohybující se horninovou hmotou a pevným podložím je nezřetelná. V důsledku ploužení může docházet k tzv. hákování vrstev (Obr. [7](fig:hakovani)). Jedná se ohnutí vrstev po svahu dolů.
 
 <figure id="fig:hakovani">
 <img src="/assets/obrazky/svahy/hakovani.jpg"/>
@@ -440,16 +432,15 @@ class="uri">http://www.geology.cz/foto/19777</a></figcaption>
 
 ### Sesouvání
 
-Sesouvání je krátkodobě klouzavý pohyb horninových hmot na svahu podél jedné nebo více průběžných smykových ploch. Jedná se o relativně rychlý pohyb (cm ^−1^ až m ^−1^). Výslednou formou sesuvného pohybu je sesuv. Sesuvy dále dělíme podle tvaru smykové plochy (viz výše).
+Sesouvání je krátkodobě klouzavý pohyb horninových hmot na svahu podél jedné nebo více průběžných smykových ploch. Jedná se o relativně rychlý pohyb (řádově cm/h až m/h). Výslednou formou sesuvného pohybu je sesuv. Sesuvy dále dělíme podle tvaru smykové plochy (viz výše).
 
 ### Tečení
 
-Stékání je rychlý (km h^−1^) krátkodobý pohyb horninových hmot ve viskózním stavu. Podstatná část hmot vyteče z odlučného prostoru (jámy) a přemístí se po povrchu terénu na velkou vzdálenost (v ČR i stovky metrů). Stékající hmoty jsou ostře odděleny od neporušeného podloží.Výslednou formou je proud. V konečné fázi vývoje může stékání přecházet do pomalého ploužení. V ČR se vyskytuje nepravidelně a je vázán na extremní srážky spolu s vhodnými geologickými a geomorfologickými podmínkami.
+Stékání je rychlý (km/h) krátkodobý pohyb horninových hmot ve viskózním stavu. Podstatná část hmot vyteče z odlučného prostoru (jámy) a přemístí se po povrchu terénu na velkou vzdálenost (v ČR i stovky metrů). Stékající hmoty jsou ostře odděleny od neporušeného podloží.Výslednou formou je proud. V konečné fázi vývoje může stékání přecházet do pomalého ploužení. V ČR se vyskytuje nepravidelně a je vázán na extrémní srážky spolu s vhodnými geologickými a geomorfologickými podmínkami.
 
 ### Řícení
 
-Krátkodobý (řádově sekundy) rychlý pohyb horninových hmot na strmých svazích, přičemž se postižené hmoty rozvolní a ztrácejí krátkodobě
-kontakt s podložím. Při pohybu se uplatňuje volný pád. Dříve než hmoty ztratí kontakt s podložím, může docházet k plouživým pohybům. Vzdálenost přemístěných hmot je vzhledem k prostorovým rozměrům zříceného masivu mnohonásobně větší. Tento jev je nejčastěji vyskytuje v oblasti skalních pískovcových měst, u nás např. v oblasti Hřenska, Českého Ráje nebo Broumovska.
+Krátkodobý (řádově sekundy) rychlý pohyb horninových hmot na strmých svazích, přičemž se postižené hmoty rozvolní a ztrácejí krátkodobě kontakt s podložím. Při pohybu se uplatňuje volný pád. Dříve než hmoty ztratí kontakt s podložím, může docházet k plouživým pohybům. Vzdálenost přemístěných hmot je vzhledem k prostorovým rozměrům zříceného masivu mnohonásobně větší. Tento jev je nejčastěji vyskytuje v oblasti skalních pískovcových měst, u nás např. v oblasti Hřenska, Českého Ráje nebo Broumovska.
 
 <table>
 <thead>

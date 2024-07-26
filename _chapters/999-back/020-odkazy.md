@@ -1,7 +1,6 @@
 ---
 title: Hlavní zdroje
 layout: page
-permalink: /ucebnice/hlavni-zdroje
-bibliography: mainbib.bib
+slug: odkazy
 ---
 {% bibliography --file mainbib%}

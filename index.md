@@ -23,20 +23,17 @@ Příjemné počtení!
 Michal Břežný
 
 
-Učebnice se stále vyvíjí, postupně ji vylepšuji a doplňuji. Pokud byste našli jakékoliv chyby, nebo měli nějaké připomínky, dejte mi vědět. Nejlépe na [GitHubu](https://github.com/MichalBrezny/ucebnice.geomorpho.cz) učebnice.
+Učebnice se stále vyvíjí, postupně ji vylepšuji a doplňuji. Pokud byste našli jakékoliv chyby, nebo měli nějaké připomínky, dejte mi vědět. Nejlépe na [GitHubu](https://github.com/MichalBrezny/ucebnice.geomorpho.cz) učebnice, případně mě můžete kontaktovat prostřednictvím e-mailu nebo sociálních sítí (viz [www.michalbrezny.com](www.michalbrezny.com)).
 
 ---
-
-
-<center>
-<h2> Ostravská univerzita </h2> 
-<a href="www.prf.osu.cz"><img src="/assets/PRIRODOVEDECKA-FAKULTA-vertikalni1.png" width= "400px"></a> 
-
-<h2> Česká asociace geomorfologů </h2>
-<a href="www.geomorfologie.cz"><img src="/assets/LOGO_CAG_transparent.png" width = "200px"></a>
-</center>
 
 
 ## Změny v učebnici:
 26. 7. úprava textu po převodu do Markdownu na webové stránky
 
+
+
+## Plány do budoucna:
+- Přidání nových kapitol (např. antropogenní geomorfologie, biogeomorfologie, přírodní hrozby, metody aj.)
+- Úpravy a doplnění stávajících kapitol (např. přidání obrázků, videí, dopsání textu)
+- A další...

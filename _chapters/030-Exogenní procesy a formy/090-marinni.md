@@ -4,7 +4,7 @@ layout: page
 slug: marinni
 ---
 
-*Pobřežní (litorální) zóna* je prostor na rozhraní moře, oceánu, ale i jiné velké vodní plochy (jezero) a souše. Tato zóna zahrnuje jak mělčiny, tak i přilehlou souš. []{.citation cites="demekObecnaGeomorfologie1987"} břežní pásmo definuje jako pás území ležící na styku pevniny a světového oceánu ve kterém se uskutečňuje interakce mezi pevninou a oceánem. *Dolní hranice* je definována jako místo na dně, kde končí geomorfologická schopnost i největších vln při bouřích. *Horní hranice* je vymezena *přímořskou čarou* -- linií maximálního působení vln při příboji.
+*Pobřežní (litorální) zóna* je prostor na rozhraní moře, oceánu, ale i jiné velké vodní plochy (jezero) a souše. Tato zóna zahrnuje jak mělčiny, tak i přilehlou souš. Břežní pásmo je definováno  jako pás území ležící na styku pevniny a světového oceánu ve kterém se uskutečňuje interakce mezi pevninou a oceánem. *Dolní hranice* je místo na dně, kde končí geomorfologická schopnost i největších vln při bouřích. *Horní hranice* je vymezena *přímořskou čarou* -- linií maximálního působení vln při příboji.
 
 <figure>
     <img src="/assets/obrazky/marinni/pobrezi.png" alt="Vymezení pobřežních zón (upraveno podle birdCoastalGeomorphologyIntroduction2008)" />
@@ -16,7 +16,7 @@ Charakter a modelace břežního pásma je ovlivněna aktivními a pasivními č
 
 # Vlnění
 
-Vlny jsou hlavním aktivním činitelem, který utváří pobřeží. Jsou popisovány několika parametry. Vlnová délka ([\\(\\lambda\\)]{.math .inline} nebo L) je vzdálenost mezi dvěma hřbety vln. Perioda vlny ([\\(T\\)] je čas, který uplyne než se následující vlna dostane do pozice vlny předchozí. Rychlost vlny ([\\(V\\)]{.math .inline}) je daná rovnicí [\\(V = \\lambda/T\\)]. Výška vlny nebo také amplituda ([\\(H\\)] je vertikální vzdálenost mezi nejnižším místem (dolem) a hřbetem vlny. Vlnění směrem do hloubky postupně ustává a zaniká v hloubce rovnající se polovině vlnové délky. Tuto hloubku označujeme jako *báze vlny*. Vrchol vlny se nazývá hřbet a nejnižší bod se označuje jako důl nebo vpadlina.
+Vlny jsou hlavním aktivním činitelem, který utváří pobřeží. Jsou popisovány několika parametry. Vlnová délka ($\lambda$ nebo $L$) je vzdálenost mezi dvěma hřbety vln. Perioda vlny ($T$) je čas, který uplyne než se následující vlna dostane do pozice vlny předchozí. Rychlost vlny ($V$) je daná rovnicí $V = \lambda/T$. Výška vlny nebo také amplituda ($H$) je vertikální vzdálenost mezi nejnižším místem (dolem) a hřbetem vlny. Vlnění směrem do hloubky postupně ustává a zaniká v hloubce rovnající se polovině vlnové délky. Tuto hloubku označujeme jako *báze vlny*. Vrchol vlny se nazývá hřbet a nejnižší bod se označuje jako důl nebo vpadlina.
 
 
 <figure>
@@ -45,7 +45,7 @@ V hlubokých vodách, tedy tam, kde báze vlny neprotíná dno probíhá pohyb m
     <figcaption>Vlny hluboké vlny a jejich transformace postupem ke břehu</figcaption>
 </figure>
 
-Vlny mají tendenci ohýbat své čelo paralelně s pobřežím -- dochází k tzv. *refrakci vln*. U zálivů se vlny rozšiřují, čímž se jejich energie snižuje. U mysů se naopak vlny stlačují k sobě, čímž se energie koncentruje.
+Vlny mají tendenci ohýbat své čelo paralelně s pobřežím – dochází k tzv. *refrakci vln*. U zálivů se vlny rozšiřují, čímž se jejich energie snižuje. U mysů se naopak vlny stlačují k sobě, čímž se energie koncentruje.
 
 ## Bouřkové vlny
 
@@ -57,17 +57,17 @@ V důsledku zemětřesení mohou vzniknout vlny *tsunami*. Jejich vznik je spoje
 
 # Příboj
 
-Směrem k pobřeží se postupující vlny stávají příkřejšími až převislými - dochází k lomu vlny a vzniku příboje resp. příbojového proudu. Charakter příboje je ovlivněn sklonem pobřeží. Mírné písčité pláže jsou typické příbojem typu *spilling breaker*. Vlna se postupně bortí do podoby zpěněné nerovnoměrné vlnové fronty. Voda pak v poklidu odtéká z pláže. Zcela kontrastní jsou tzv. *plunging breakers* a *surging breakers*. Vznikají na březích se strmějším dnem. Rysem *plunging breaker* je lámání vrcholu vlny. Vlna se překlápí dopředu a padá na hladinu. Vzniká trubulentní vodní masa vody. *Surging breaker* je třetí typ. Tímto divokým příbojem jsou charakteristické strmé pláže. Nedochází k lomu vrcholu vlny, ale ta naráží plnou silou na pláž.
+Směrem k pobřeží se postupující vlny stávají příkřejšími až převislými - dochází k lomu vlny a vzniku příboje resp. příbojového proudu. Charakter příboje je ovlivněn sklonem pobřeží. Mírné písčité pláže jsou typické příbojem typu *spilling breaker*. Vlna se postupně bortí do podoby zpěněné nerovnoměrné vlnové fronty. Voda pak v poklidu odtéká z pláže. Zcela kontrastní jsou tzv. *plunging breakers* a *surging breakers*. Vznikají na březích se strmějším dnem. Rysem *plunging breaker* je lámání vrcholu vlny. Vlna se překlápí dopředu a padá na hladinu. Vzniká turbulentní vodní masa vody. *Surging breaker* je třetí typ. Tímto divokým příbojem jsou charakteristické strmé pláže. Nedochází k lomu vrcholu vlny, ale ta naráží plnou silou na pláž.
 
 # Vlnové proudy
 
-Postupující vlny k pobřeží jsou transformovány do dvou složek -- *příčné* a *podélné*. Příčnou složku tvoří vlnové proudy směrem k pobřeží a zpětné kompenzační (náporové) proudy (*rip current*). Zpětné náporové proudy jsou poměrně úzké, ale velice rychlé (až několik m s^−1^), proto jsou schopné unášet velké množství materiálu z břežního pásma {% cite demekObecnaGeomorfologie1987}.
+Postupující vlny k pobřeží jsou transformovány do dvou složek -- *příčné* a *podélné*. Příčnou složku tvoří vlnové proudy směrem k pobřeží a zpětné kompenzační (náporové) proudy (*rip current*). Zpětné náporové proudy jsou poměrně úzké, ale velice rychlé (až několik m/s), proto jsou schopné unášet velké množství materiálu z břežního pásma {% cite demekObecnaGeomorfologie1987}.
 
 Podélná složka je tvořena *příbřežními* proudy. Ty nejlépe fungují při postupu vln šikmo k pobřeží. Tyto proudy jsou důležité pro přemísťování materiálu podél pobřeží.
 
 # Výčasové proudy
 
-Výčasové proudy se skládají z přílivových a odlivových proudů. Přílivové proudy jsou velice účinné v průlivech a estuáriích. Na otevřeném oceáně mají výčasové proudy rychlosti okolo 0,3 m s^−1^. V průlivech jejich rychlost narůstá až k 7 m s^−1^.
+Výčasové proudy se skládají z přílivových a odlivových proudů. Přílivové proudy jsou velice účinné v průlivech a estuáriích. Na otevřeném oceáně mají výčasové proudy rychlosti okolo 0,3 m/s. V průlivech jejich rychlost narůstá až k 7 m/s.
 
 # Pobřežní procesy
 
@@ -101,7 +101,7 @@ Letecký snímek Doverských útesů (Autor: Alan Duncan, CC BY-SA
 
 *Útes* (*cliff*) je strmý až převislý svah na pobřeží. Při úpatí útesu je *abrazní výklenek*, který je vytvořen abrazní činností vln. Útes může mít několik abrazních výklenků, které jsou dokladem hladiny moře v minulosti. Postupnou erozí útesů v důsledku abraze, ale i gravitačních procesů, dochází k ústupu útesů. Podoba útesu je dána charakterem hornin, jejich strukturou a odolností vůči abrazi a zvětrávání.
 
-Nerovnoměrným ústupem abrazního srubu můžou vznikat *abrazní brány*, *abrazní jeskyně*, ale i zcela izolované *abrazní jehly* či *pilíře* (Obr. [2](#fig:apostol){reference="fig:apostol" reference-type="ref"}).
+Nerovnoměrným ústupem abrazního srubu můžou vznikat *abrazní brány*, *abrazní jeskyně*, ale i zcela izolované *abrazní jehly* či *pilíře* (Obr. [2](#fig:apostol)).
 
 <figure id="fig:apostol">
 <img src="/assets/obrazky/marinni/apostolove.jpg" />
@@ -245,7 +245,7 @@ Kontrolní a klíčové otázky, na které bychom měli znát odpověď
 - Jak vzniká vlnění?
 - Kdy vlny mají největší geomorfologický účinek?
 - Co je to delta? Jak vzniká a jaké faktory hrají roli při jejím vývoji?
--   Jaké mohou být příčiny změny výšky mořské hladiny resp. hladiny     světového oceánu?
+- Jaké mohou být příčiny změny výšky mořské hladiny resp. hladiny světového oceánu?
 
 Další klíčové pojmy k zapamatování 
 - litorální zóna 

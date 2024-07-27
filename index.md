@@ -23,7 +23,7 @@ Příjemné počtení!
 Michal Břežný
 
 
-Učebnice se stále vyvíjí, postupně ji vylepšuji a doplňuji. Pokud byste našli jakékoliv chyby, nebo měli nějaké připomínky, dejte mi vědět. Nejlépe na [GitHubu](https://github.com/MichalBrezny/ucebnice.geomorpho.cz) učebnice, případně mě můžete kontaktovat prostřednictvím e-mailu nebo sociálních sítí (viz [www.michalbrezny.com](www.michalbrezny.com)).
+Učebnice se stále vyvíjí, postupně ji vylepšuji a doplňuji. Pokud byste našli jakékoliv chyby, nebo měli nějaké připomínky, dejte mi vědět. Nejlépe na [GitHubu](https://github.com/MichalBrezny/ucebnice.geomorpho.cz) učebnice, případně mě můžete kontaktovat prostřednictvím e-mailu nebo sociálních sítí (viz [www.michalbrezny.com](https://www.michalbrezny.com)).
 
 ---
 

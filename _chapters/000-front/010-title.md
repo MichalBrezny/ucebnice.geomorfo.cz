@@ -24,5 +24,5 @@ published: false
 
 
 ## Změny v učebnici:
-26. 7. úprava textu po převodu do Markdownu na webové stránky
+- 26. 7. úprava textu po převodu do Markdownu na webové stránky
 

@@ -102,6 +102,8 @@ exclude:
   - _drafts
   - tmp
   - _poznamky
+  - .devcontainer
+  - bin/
 
 page_width: 800px
 

@@ -322,7 +322,7 @@ fragmenty kutálejí či poskakují. Řícení můžeme rozlišit podle materiá
 
 ### Odklánění
 
-*Odklánění* nebo také *odsedání* (*toppling*) je proces, kdy dochází k pohybu horninového bloku kolem horizontální osy. V podstatě jde překlápění bloku ze svahu dolů. Jedná se o pomalé pohyby (mm ^−1^). Avšak ve finální fázi může dojít až ke katastrofickému zrychlení pohybu – zřícení (m s^−1^).
+*Odklánění* nebo také *odsedání* (*toppling*) je proces, kdy dochází k pohybu horninového bloku kolem horizontální osy. V podstatě jde překlápění bloku ze svahu dolů. Jedná se o pomalé pohyby (mm/rok). Avšak ve finální fázi může dojít až ke katastrofickému zrychlení pohybu – zřícení (m/s).
 
 Můžeme rozlišit dva základní druhy odklánění {% cite goodmanTopplingRockSlopes1976 %}. Prvním typem je blokové odklánění. Jedná se o uklánění velkých bloků hornin. Predispozicí jsou strmě do svahu zapadající diskontinuity, které od sebe oddělují jednotlivé horninové bloky a případně doplněné o mírně ukloněné diskontinuity tvořící bázi bloků. Druhý typ je ohybové odklánění (*flexural toppling*). K této deformaci může docházet na strmých svazích, které jsou budované horninami se strmě zapadajícími diskontinuitami s velmi malým rozestupem. K odklánění může docházet i v zeminách např. na březích
 vodních toků.
@@ -365,7 +365,7 @@ Některé sesuvy mohou mít složenou smykovou plochu. Běžný typ *sesuvu pod�
 
 *Boční rozšiřování* (*lateral spreading*) je rozevírání trhlin pouze horizontálním pohybem v důsledku extenze rigidních (pevných) hornin v nadloží měkkých a plastických hornin. Může se jednat například od pískovce v nadloží jílovců. K bočnímu rozvolňování dochází zpravidla v důsledku pomalé deformace plastického podloží.
 
-Jedná se o pomalé pohyby (mm ^−1^), které ale mohou být extrémně rychlé ve ztekucených zeminách.
+Jedná se o pomalé pohyby (mm/rok), které ale mohou být extrémně rychlé ve ztekucených zeminách.
 
 ### Tečení
 
@@ -378,13 +378,17 @@ Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost teč
 <figcaption>Dráha blokovobahenních proudů, Švýcarsko.</figcaption>
 </figure>
 
+Video o blokovobahenních proudech v Illgraben, Švýcarsko:
+{%youtube "https://www.youtube.com/watch?v=xyfreVn-j2s" %}
+
+
 *Zemní proud* (*earthflow*) je relativně pomalý proces tečení zemin. Pro zemní proudy jsou typická období klidu (desítky i stovky let) proložená epizodami náhlé aktivity. Jejich rychlost pohybu se pohybuje od metrů za rok až po metry za hodinu. Délka zemních proudů je v řádu desítek metrů až několika kilometrů.
 
 *Skalní laviny* jsou extrémním svahovým procesem. Jejich počátek je zpravidla v podobě velkého skalního sesuvu, který se ale záhy rozpadá a výsledkem je extrémně rychlý proud úlomků hornin. Objem sesunutých hornin bývá obrovský – od 1 milionu m^3^, ale může dosahovat i desítek Gm^3^. Skalní laviny mají oproti klasickým sesuvům ohromnou mobilitu, tudíž mohou dosáhnout značných vzdáleností od svého počátku (i desítky km). Rychlost pohybu je v řádu stovek kilometrů za hodinu.
 
 ### Svahové deformace
 
-Termínem *svahové deformace* označujeme extrémně pomalé pohyby (mm až m ^−1^) horninových hmot na svahu. Často jsou tyto pomalé pohyby jen přípravnou fází pro jiné, rychlejší svahové procesy. Pomalými pohyby není překročena mez pevnosti hornin, jedná se tak o plastické pohyby, při kterých nevznikají smykové plochy. Podle hloubky do které zasahují pohyby svahové deformace dělíme na:
+Termínem *svahové deformace* označujeme extrémně pomalé pohyby (mm až m za rok) horninových hmot na svahu. Často jsou tyto pomalé pohyby jen přípravnou fází pro jiné, rychlejší svahové procesy. Pomalými pohyby není překročena mez pevnosti hornin, jedná se tak o plastické pohyby, při kterých nevznikají smykové plochy. Podle hloubky do které zasahují pohyby svahové deformace dělíme na:
 
 -   Povrchové ploužení
 -   Deformace skalních (horských) svahů označované i jako hlubinné ploužení
@@ -418,7 +422,7 @@ Co je důležité, tak autoři rozlišují *svahový pohyb*, tedy proces a *svah
 
 ### Ploužení
 
-Do ploužení spadají dlouhodobé pomalé (mm ^−1^ až cm ^−1^). Hranice mezi pohybující se horninovou hmotou a pevným podložím je nezřetelná. V důsledku ploužení může docházet k tzv. hákování vrstev (Obr. [7](fig:hakovani)). Jedná se ohnutí vrstev po svahu dolů.
+Do ploužení spadají dlouhodobé pomalé (mm až cm za rok). Hranice mezi pohybující se horninovou hmotou a pevným podložím je nezřetelná. V důsledku ploužení může docházet k tzv. hákování vrstev (Obr. [7](fig:hakovani)). Jedná se ohnutí vrstev po svahu dolů.
 
 <figure id="fig:hakovani">
 <img src="/assets/obrazky/svahy/hakovani.jpg"/>

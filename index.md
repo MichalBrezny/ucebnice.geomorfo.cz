@@ -20,16 +20,19 @@ Geomorfologie je věda zabývající se tvary zemského reliéfu, jeho historií
 Tato učebnice je určena studentům fyzické geografie, učitelství geografie ale i dalších příbuzných oborů. Na své si ale přijdou i všichni, kteří se chtějí dozvědět něco o zemském reliéfu a procesech, které jej utvářejí.
 
 Příjemné počtení!
+
 Michal Břežný
 
 
-Učebnice se stále vyvíjí, postupně ji vylepšuji a doplňuji. Pokud byste našli jakékoliv chyby, nebo měli nějaké připomínky, dejte mi vědět. Nejlépe na [GitHubu](https://github.com/MichalBrezny/ucebnice.geomorfo.cz) učebnice, případně mě můžete kontaktovat prostřednictvím e-mailu nebo sociálních sítí (viz [www.michalbrezny.com](https://www.michalbrezny.com)).
+Učebnice se stále vyvíjí, postupně ji vylepšuji a doplňuji. Pokud byste našli jakékoliv chyby, nebo měli nějaké připomínky, dejte mi vědět. Nejlépe na [GitHubu](https://github.com/MichalBrezny/ucebnice.geomorfo.cz), kde můžete zadat "issues" nebo přispět do diskuze. Případně mě můžete kontaktovat prostřednictvím e-mailu nebo sociálních sítí (viz [www.michalbrezny.com](https://www.michalbrezny.com)).
+
+
 
 ---
 
 
-## Změny v učebnici:
-26. 7. úprava textu po převodu do Markdownu na webové stránky
+## Hlavní změny v učebnici:
+- 2024-07-26 úprava textu, a kódu po převodu do Markdownu na webové stránky
 
 
 

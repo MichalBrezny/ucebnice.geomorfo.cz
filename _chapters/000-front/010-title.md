@@ -24,5 +24,6 @@ published: false
 
 
 ## Změny v učebnici:
-- 26. 7. úprava textu po převodu do Markdownu na webové stránky
+- 2024-08-
+- 2024-07-26 úprava textu po převodu do Markdownu na webové stránky
 

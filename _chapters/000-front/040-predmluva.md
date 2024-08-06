@@ -65,11 +65,7 @@ zavádějící vyjádření, či mi dáte tipy k doplnění.
 
 Učebnici tvořím podobně jako se tvoří programy, postupně vytvářím nové
 verze učebnice podle toho jak přidávám a upravuji obsah. Na mém GitHubu
-(<https://github.com/MichalBrezny/zaklady-geomorfologie>) najdete pod
-"release" PDF aktuální verzi učebnice, která odpovídá tomu, co je v
-"main" větvi repositáře. V "pracovni" větvi je text učebnice, který jsem
-ještě neuzavřel a pracuje se na něm. Můžete do něj ale nahlédnout. Na
-GitHubu mi můžete psát i připomínky a najdete tam můj TODO list.
+(<https://github.com/MichalBrezny/ucebnice.geomorfo.cz) najdete diskuzi a zároveň mě můžete upozornit na jakékoliv chyby či doporučit nějaké úpravy. 
 
 Přeji příjemné a věřím, že i poučné čtení.
 

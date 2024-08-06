@@ -8,13 +8,13 @@ last_modified_at: 2024-07-20
 
 # Proces a forma
 
-Ústředním tématem geomorfologie je zkoumání interakcí mezi geomorfologickými procesy a formami reliéfu. Procesy utvářejí georeliéf a naopak georeliéf ovlivňuje geomorfologické procesy. Podívejme se na řeku v horách. Velký sklon říčního koryta (forma) jí dává velkou energii. Řeka tak má poměrně velkou schopnost eroze a transportu materiálu (procesy). V místě zaústění toku do nížin sklon koryta klesá (změna formy) a erozní a transportní schopnost řeky se také snižuje, což způsobuje naopak akumulaci materiálu v předpolí (procesy).
+Ústředním tématem geomorfologie je zkoumání interakcí mezi **geomorfologickými procesy** a **formami reliéfu**. Procesy utvářejí georeliéf a naopak georeliéf ovlivňuje geomorfologické procesy. Podívejme se na řeku v horách. Velký sklon říčního koryta (forma) jí dává velkou energii. Řeka tak má poměrně velkou schopnost eroze a transportu materiálu (procesy). V místě zaústění toku do nížin sklon koryta klesá (změna formy) a erozní a transportní schopnost řeky se také snižuje, což způsobuje naopak akumulaci materiálu v předpolí (procesy).
 
 Z forem reliéfu můžeme vyčíst celou řadu informací o procesech, které je utvářely nebo utvářejí. Například z tvaru písečných dun lze zjistit jakého směru vanou převládající větry; charakter říčního koryta nám může napovědět o hydrologickém režimu řeky, kolik a jaké sedimenty unáší a podobně.
 
 Mnohé formy reliéfu jsou reliktem geomorfologických procesů dob minulých. Díky nim tak můžeme studovat historii a vývoj krajiny. Příkladem mohou být ledovcová údolí, kary a morény ve Vysokých Tatrách -- důkaz přítomnosti ledovců v pleistocénu.
 
-Z výše uvedeného je tedy zřejmé, že pro správně čtení zemského reliéfu je nezbytné chápat vazby mezi geomorfologickými procesy a tvary.
+Z výše uvedeného je tedy zřejmé, že pro správně čtení zemského reliéfu je nezbytné chápat vazby mezi geomorfologickými procesy a tvary. Nesmíme ale zapomenout i na vazby s dalšími složkami krajiny (viz [úvod](/_chapters/010-Úvod/01-uvod.md))
 
 # Endogenní a exogenní procesy
 

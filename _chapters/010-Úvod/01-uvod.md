@@ -89,7 +89,7 @@ Základní geomrofologické koncepty byly položeny až ke konci 18. století. V
 
 Oproti aktualismu stály myšlenky *katastrofismu*, tedy že velká část forem reliéfu je vytvořená rychlými, katastrofickými událostmi a ne pomalým, dlouhodobým vývojem.
 
-W. M. Davis (1850--1934) (Obr. [1](#fig:davies){reference="fig:davies"reference-type="ref"}) formuloval jeden z prvních modelů vývoje georeliéfu. Jedná se o geografický (Davisův) *cyklus eroze*. Dle jeho teorie je georeliéf funkcí tří veličin: geologické stavby (struktury), procesu a času.
+W. M. Davis (1850–1934) (Obr. [1](#fig:davies)) formuloval jeden z prvních modelů vývoje georeliéfu. Jedná se o geografický (Davisův) *cyklus eroze*. Dle jeho teorie je georeliéf funkcí tří veličin: geologické stavby (struktury), procesu a času.
 
 <figure id="fig:davies">
 <figure>

@@ -27,11 +27,13 @@ Michal Břežný
 Učebnice se stále vyvíjí, postupně ji vylepšuji a doplňuji. Pokud byste našli jakékoliv chyby, nebo měli nějaké připomínky, dejte mi vědět. Nejlépe na [GitHubu](https://github.com/MichalBrezny/ucebnice.geomorfo.cz), kde můžete zadat "issues" nebo přispět do diskuze. Případně mě můžete kontaktovat prostřednictvím e-mailu nebo sociálních sítí (viz [www.michalbrezny.com](https://www.michalbrezny.com)).
 
 
+Líbí se vám tato učebnice? Podpořte mě na [Forendors](https://www.forendors.cz/geomikesh). Děkuji! 💚
 
 ---
 
 
 ## Hlavní změny v učebnici:
+- 2024-08-21 přidání odkazů, opraveno pár chybek a překlepů
 - 2024-07-26 úprava textu, a kódu po převodu do Markdownu na webové stránky
 
 

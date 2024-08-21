@@ -10,10 +10,10 @@ last_modified_at: 2024-07-20
 
 ## Zemský plášť a kůra
 
-Země se sestává ze tří hlavních částí: **zemského jádra**, **pláště** a **kůry** ([Obr. 1](fig:stavba_zeme)). Hranice mezi jednotlivými částmi byly zjištěné studiem průchodu zemětřesných vln zemským tělesem. Na těchto hranicích se totiž výrazně mění chování zemětřesných vln či skrz hranici nemohou prostupovat. Rozhraní mezi zemskou kůrou a pláštěm tvoří Mohorovičičova diskontinuita (zkráceně Moho). Pod kontinenty se nachází v průměrné hloubce 35 km, pod oceány v pouhých 5–10 km pod oceánským dnem. Zemská kůra tedy nemá všude stejnou tloušťku. Mocnost **Oceánské kůry** je 5–10 km. Skládá se hlavně z bazaltové a tenké sedimentární vrstvy. **Kontinentální kůra** je daleko mocnější, v průměru má okolo 35 km avšak pod některými pohořími může dosahovat i 70 km.
+Země se sestává ze tří hlavních částí: **zemského jádra**, **pláště** a **kůry** ([Obr. 1](#fig:stavba_zeme)). Hranice mezi jednotlivými částmi byly zjištěné studiem průchodu zemětřesných vln zemským tělesem. Na těchto hranicích se totiž výrazně mění chování zemětřesných vln či skrz hranici nemohou prostupovat. Rozhraní mezi zemskou kůrou a pláštěm tvoří Mohorovičičova diskontinuita (zkráceně Moho). Pod kontinenty se nachází v průměrné hloubce 35 km, pod oceány v pouhých 5–10 km pod oceánským dnem. Zemská kůra tedy nemá všude stejnou tloušťku. Mocnost **Oceánské kůry** je 5–10 km. Skládá se hlavně z bazaltové a tenké sedimentární vrstvy. **Kontinentální kůra** je daleko mocnější, v průměru má okolo 35 km avšak pod některými pohořími může dosahovat i 70 km.
 
-<figure id="fig:stavba_zeme">
-    <img src="/assets/obrazky/globalni/Earth_cutaway_schematic-cz.svg"> </img>
+<figure>
+    <img src="/assets/obrazky/globalni/Earth_cutaway_schematic-cz.svg"  id="fig:stavba_zeme">
     <figcaption> 
     Obr. 1 Průřez Zemí (není v měřítku) (zdroj: USGS, volné dílo, via Wikimedia Commons) 
     </figcaption>
@@ -21,19 +21,19 @@ Země se sestává ze tří hlavních částí: **zemského jádra**, **plášt�
 
 ## Teorie deskové tektoniky
 
-Procesy, které ovlivňují reliéf v globálním měřítku se odehrávají v **litosféře** neboli pevném obalu Země. Litosféra je tvořena rigidními, neroztavenými horninami a zahrnuje zemskou kůru, tak i svrchní, pevnou část zemského pláště. Podle typu zemské kůry tak rozlišujeme i litosféru na oceánskou a kontinentální. Pod litosférou se nachází **astenosféra**.Jedná se o zónu částečně natavených hornin, což způsobuje, že se astenosféra chová plasticky. Litosféra není celistvá. Ve skutečnosti je rozčleněna do **litosférických desek** ([Obr. 2](fig:litdesky)), které se nezávisle na sobě pohybují, po astenosféře. Existuje 7 hlavních, celá řada menších litosférických desek. Mezi ty hlavní patří Euroasijská, Pacifická, Severoamerická, Jihoamerická, Africká, Indo-australská a Antarktická. Z menších desek jsou nejznámější např. Nazca, Kokosová, Filipínská, Arabská.
+Procesy, které ovlivňují reliéf v globálním měřítku se odehrávají v **litosféře** neboli pevném obalu Země. Litosféra je tvořena rigidními, neroztavenými horninami a zahrnuje zemskou kůru, tak i svrchní, pevnou část zemského pláště. Podle typu zemské kůry tak rozlišujeme i litosféru na oceánskou a kontinentální. Pod litosférou se nachází **astenosféra**.Jedná se o zónu částečně natavených hornin, což způsobuje, že se astenosféra chová plasticky. Litosféra není celistvá. Ve skutečnosti je rozčleněna do **litosférických desek** ([Obr. 2](#fig:litdesky)), které se nezávisle na sobě pohybují, po astenosféře. Existuje 7 hlavních, celá řada menších litosférických desek. Mezi ty hlavní patří Euroasijská, Pacifická, Severoamerická, Jihoamerická, Africká, Indo-australská a Antarktická. Z menších desek jsou nejznámější např. Nazca, Kokosová, Filipínská, Arabská.
 
 <figure id="fig:litdesky">
-    <img src="/assets/obrazky/globalni/Plates_tect_cs.png"> </img>
+    <img src="/assets/obrazky/globalni/Plates_tect_cs.png"> 
     <figcaption>
-    Obr. 2 Hlavní tektonické desky (zdroj: Jklamo, volné dílo, via Wikimedia Commons
+    Obr. 2 Hlavní tektonické desky (zdroj: Jklamo, volné dílo, via Wikimedia Commons)
     </figcaption>
 </figure>
 
 
-<!-- ### Okraje litosférických desek -->
+### Okraje litosférických desek
 
-Existují celkem tři typy rozhraní litosférických desek, a to divergentní, konvergentní a transformní. **Divergentní** rozhraní jsou takové, kde se litosférické desky od sebe vzdalují. Typickou ukázkou divergentního rozhraní jsou středooceánské hřbety jako je např. Středoatlantský hřbet. Na středooceánských hřbetech vzniká nová oceánská kůra, rozšiřuje se tak oceánské dno. Stáří oceánské kůry roste na obě strany od osy hřbetu. Středooceánské hřbety jsou rozčleněny transformními zlomy, které způsobují jejich klikatění v půdorysu.
+Existují celkem tři typy rozhraní litosférických desek, a to divergentní, konvergentní a transformní ([obr. 3](#fig:desk_rozhrani)). **Divergentní** rozhraní jsou takové, kde se litosférické desky od sebe vzdalují. Typickou ukázkou divergentního rozhraní jsou středooceánské hřbety jako je např. Středoatlantský hřbet. Na středooceánských hřbetech vzniká nová oceánská kůra, rozšiřuje se tak oceánské dno. Stáří oceánské kůry roste na obě strany od osy hřbetu. Středooceánské hřbety jsou rozčleněny transformními zlomy, které způsobují jejich klikatění v půdorysu.
 
 Při pohybu litosférických desek proti sobě hovoříme o **konvergentním** okraji. Pokud se střetávají dvě oceánské desky, jedna se podsouvá pod druhou neboli dochází k **subdukci**. V místě subdukce vzniká hlubokoceánský příkop a vulkanický ostrovní oblouk. Subdukce oceánské litosféry pod kontinentální je opět charakteristické hlubokooceánským příkopem a dochází k orogenezi s aktivním vulkanismem. Typickým příkladem je podsouvání desky Nazca pod Jihoamerickou desku. Kde takto vznikly Andy. Při střetu dvou pevninských desek nedochází k podsouvání jedné pod druhou, nýbrž dochází k intenzivní orogenezi.
 
@@ -41,7 +41,7 @@ Třetím typem je **transformní okraj** někdy také **konzervační okraj**. V
 
 V případě, že se okraj kontinentu shoduje s okrajem litosférické desky nazýváme ho **aktivním okrajem**. Typickým příkladem je západní okraj Jižní Ameriky. Pokud je okraj kontinentu uvnitř litosférické desky, jedná se o *pasivní okraj* kontinentu.
 
-<figure>
+<figure id="fig:desk_rozhrani">
   <img src="/assets/obrazky/globalni/Tectonic_plate_boundaries.png" alt="Okraje litosférických desek (Autor: Jose F. Vigil. USGS, volné dílo, via Wikimedia Commons)">
   <figcaption>
   Obr. 3 Okraje litosférických desek (Autor: Jose F. Vigil. USGS, volné dílo, via Wikimedia Commons)</figcaption>
@@ -95,7 +95,7 @@ V případě, že se okraj kontinentu shoduje s okrajem litosférické desky na
 </table>
 
 
-Okraje litosférických desek jsou důležitým místem, kde se odehrává celá řada geodynamických procesů. Jsou to místa, kde je soustředěná vulkanická a zemětřesná činnost ([Obr. 4](fig:globseismicity))
+Okraje litosférických desek jsou důležitým místem, kde se odehrává celá řada geodynamických procesů. Jsou to místa, kde je soustředěná vulkanická a zemětřesná činnost ([Obr. 4](#fig:globseismicity))
 
 <figure id="fig:globseismicity">
   <img src="/assets/obrazky/tectonic/global_seismicity_h.jpg" alt="Mapa zemětřesení o magnitudu >=5 ve světě mezi roky 2000--2008" />
@@ -123,9 +123,9 @@ Zjednodušeně lze říct, že litosféra plave na astenosféře podobně jako p
 Zvláštním typem izostáze je tzv. *glaciisostáze*. Ledovce během glaciálu svou vahou způsobily prohnutí zemské kůry, což vedlo ke kompenzačnímu výzdvihu v okolí kontinentálních ledovců. Důsledkem zániku ledovce je návrat zemské kůry do rovnovážné polohy. V místech kde zemská kůra byla zatlačena tak dochází ke *glaciisostatickému výzdvihu* (*glaciisostatic rebound*) a naopak k poklesům, kde byla předtím vyzdvižena.
 
 ## Horké skvrny
-Horké skvrny (*hot spots*) jsou specifická místa v zemském tělese, kde je zvýšený tok geotermální energie a magma se dostává k povrchu. Z toho pak pramení vulkanická činnost. Tyto vulkanické oblasti nekopírují okraje litosférických desek. Jelikož se horké skvrny nepohybují, vznikají v důsledku posunu litosférických desek řetězce sopečných ostrovů. Klasickým příkladem je Havajské souostroví ([Obr. 6](fig:hawaiihotspot)).
+Horké skvrny (*hot spots*) jsou specifická místa v zemském tělese, kde je zvýšený tok geotermální energie a magma se dostává k povrchu. Z toho pak pramení vulkanická činnost. Tyto vulkanické oblasti nekopírují okraje litosférických desek. Jelikož se horké skvrny nepohybují, vznikají v důsledku posunu litosférických desek řetězce sopečných ostrovů. Klasickým příkladem je Havajské souostroví ([Obr. 6](#fig:hawaiihotspot)).
 
-<figure>
+<figure id="fig:hawaiihotspot">
   <center>
     <img src="/assets/obrazky/globalni/Hawaii_hotspot.jpg" alt="Diagram zobrazující Havajskou horkou skvrnu (Autor Joel E. Robinson, USGS)." />
     <figcaption>

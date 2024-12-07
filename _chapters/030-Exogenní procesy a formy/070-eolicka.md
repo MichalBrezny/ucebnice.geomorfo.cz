@@ -67,7 +67,8 @@ Obrušováním větších klastů (valounky, balvany) nebo drobných výchozů p
 <figure>
 <img src="/assets/obrazky/eolicka/ventifact_mojave.jpg"/>
 </figure>
-<figcaption> Obr. Hranec v Mohavské poušti (zdroj: Wikimedia Commons, volné dílo)</figcaption>
+<figcaption> Obr. Hranec v Mohavské poušti (zdroj: Wikimedia Commons, volné dílo)
+</figcaption>
 </figure>
 
 *Jardangy* (*yardangs*) jsou nízké, protáhlé hřbety, které mají směr totožný se směrem převládajícího větru. Vznikají v suchých oblastech se silnými větry jednoho převládající směru a s podložím tvořeným málo odolnými sedimentárními horninami. Jardangy se nacházejí zpravidla na velkých plochách, kde je několik těchto paralelních hřbítků. Jardangy vznikají korazí -- obrušováním větrem nesených částeček a deflací uvolněného materiálu. 
@@ -90,7 +91,8 @@ Základní dělení dun je na tzv. *volné duny* a *vázané duny*. Volné duny 
 
 <figure id="fig:volneduny">
 <img src="/assets/obrazky/eolicka/typy_dun.png"/>
-<figcaption>Obr. 3 Rozdělení dun</figcaption>
+<figcaption>Obr. 3 Rozdělení dun
+</figcaption>
 </figure>
 
 
@@ -104,8 +106,9 @@ Pokud je území vystaveno dvěma převládajícím směrům větru (polovinu ro
 
 
 <figure id="fig:linearniduny">
-    <img src="/assets/obrazky/eolicka/linearniduny.jpg" style="width:100.0%" />
-    <figcaption>Lineární duny</figcaption>
+<img src="/assets/obrazky/eolicka/linearniduny.jpg" style="width:100.0%" />
+<figcaption>Lineární duny
+</figcaption>
 </figure>
 
 
@@ -133,7 +136,7 @@ Před velkou topografickou bariérou (např. skalní stěna, hřbety), mohou vzn
 
 # Spraš
 
-Spraš (*loess*) je eolický sediment tvořený hlavně siltem (prach, frakce 0,01 mm – 0,05 mm) s významnou příměsí. Má okrovou barvu, což je způsobené přítomností oxidů železa. Spraše pokrývají 5--10 % zemského povrchu ([Obr. 4](fig:spras_distribuce)) {% cite biermanKeyConceptsGeomorphology2014 %}. Převážná část spraší se nachází na severní polokouli ve středních zeměpisných šířkách. Mocnost sprašových akumulací se pohybuje od centimetrů až po stovky metrů. Materiál spraší má rozličný původ. Významným zdrojem prachu byly v glaciálech rozsáhlé předledovcové plošiny, kde tavné vody z ledovců ukládaly velké množství materiálu. V jiných oblastech jsou zdrojem půdy vzniklé na málo odolných horninách (prachovce), případně rozsáhlé nížiny se sporým porostem vegetace. V současné době jsou zdrojem prachu hlavně pouštní oblasti.
+Spraš (*loess*) je eolický sediment tvořený hlavně siltem (prach, frakce 0,01 mm – 0,05 mm) s významnou příměsí. Má okrovou barvu, což je způsobené přítomností oxidů železa. Spraše pokrývají 5--10 % zemského povrchu ([Obr. 4](#fig:spras_distribuce)) {% cite biermanKeyConceptsGeomorphology2014 %}. Převážná část spraší se nachází na severní polokouli ve středních zeměpisných šířkách. Mocnost sprašových akumulací se pohybuje od centimetrů až po stovky metrů. Materiál spraší má rozličný původ. Významným zdrojem prachu byly v glaciálech rozsáhlé předledovcové plošiny, kde tavné vody z ledovců ukládaly velké množství materiálu. V jiných oblastech jsou zdrojem půdy vzniklé na málo odolných horninách (prachovce), případně rozsáhlé nížiny se sporým porostem vegetace. V současné době jsou zdrojem prachu hlavně pouštní oblasti.
 
 Spraš je významným kvartérním sedimentem nejen střední Evropy. Díky zachování mocných akumulací jsou významným archivem uchovávajícím velké množství informací o kvartéru. Rychlost ukládání spraší se v průběhu kvartéru měnila. Během glaciálu se ukládalo největší množství, neboť podnebí bylo větrnější, sušší, chladnější. Při interglaciálech byla rychlost sedimentace snížena. Navíc vlhčí podmínky a větší množství vegetace umožnily rychlejší pedogenezi -- vznik půd. Během dalšího glaciálu byly tyto půdy pohřbené pod další vrstvou spraše. Opakováním těchto glaciálních a interglaciálních cyklů (případně i kratších výkyvů) vznikaly sekvence pohřbených půd.
 
@@ -141,7 +144,8 @@ Spraš je významným kvartérním sedimentem nejen střední Evropy. Díky zach
 <figure>
 <img src="/assets/obrazky/eolicka/loes_distr.jpg"/>
 </figure>
-<figcaption>Rozšíření spraše a její mocnost (zdroj: {% cite liLoessGenesisWorldwide2020 %})</figcaption>
+<figcaption>Rozšíření spraše a její mocnost (zdroj: {% cite liLoessGenesisWorldwide2020 %})
+</figcaption>
 </figure>
 
 ### Kontrolní a klíčové otázky, na které bychom měli znát odpověď

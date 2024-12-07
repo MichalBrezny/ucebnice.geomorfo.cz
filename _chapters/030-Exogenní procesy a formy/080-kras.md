@@ -49,7 +49,7 @@ Tropické teplé a vlhké klima je velice příznivé pro rozvoj krasových fore
 
 Krasovou krajinu můžeme rozdělit do několika typů.
 
-*Holý* nebo *nepokrytý kras* se vyznačuje tím, že krasové horniny leží bezprostředně na povrchu a nejsou pokryté ani zvětralinou ani vegetací. Malé zbytky půdy se mohou nacházet v hlubokých žlabech a puklinách. Tento typ krasu je v okolí Středozemního moře a na jeho vzniku se zřejmě podílel i člověk odlesňováním  [@demekObecnaGeomorfologie1987].
+*Holý* nebo *nepokrytý kras* se vyznačuje tím, že krasové horniny leží bezprostředně na povrchu a nejsou pokryté ani zvětralinou ani vegetací. Malé zbytky půdy se mohou nacházet v hlubokých žlabech a puklinách. Tento typ krasu je v okolí Středozemního moře a na jeho vzniku se zřejmě podílel i člověk odlesňováním {% cite demekObecnaGeomorfologie1987 %}.
 
 *Přikrytý kras* je typ, který má krasové horniny pokryté mocnou vrstvou propustné zvětraliny a sedimentů. Příkladem je Moravský kras. 
 
@@ -60,8 +60,9 @@ Krasovou krajinu můžeme rozdělit do několika typů.
 *Exhumovaný kras* je typ krasu, který navazuje na pohřbený. Pohřbením došlo k přerušení vývoje. Následně ale došlo k odnosu nepropustných sedimentů a vývoj krasu byl obnoven.
 
 <figure>
-    <img src="obrazky/kras/KarstterrainUSGS" alt="Tvary krasového reliéfu (Upraveno podle \textcite{currensGeneralizedBlockDiagram2001})">
-    <figcaption>Tvary krasového reliéfu (Upraveno podle \textcite{currensGeneralizedBlockDiagram2001})</figcaption>
+<img src="obrazky/kras/KarstterrainUSGS" alt="Tvary krasového reliéfu (Upraveno podle \textcite{currensGeneralizedBlockDiagram2001})">
+<figcaption>Tvary krasového reliéfu (Upraveno podle [% cite currensGeneralizedBlockDiagram2001 %})
+</figcaption>
 </figure>
 
 ## Povrchové tvary
@@ -75,8 +76,9 @@ Nejmenší povrchovým tvarem jsou *škrapy* (*karren)*. Jedná se o malé zaře
 Větší, 2 m--4 m široké a řádově první metry hluboké přímočaré rýhy nazýváme *bogazy*
 
 <figure>
-    <img src="obrazky/kras/skrapy1" alt="Ukázka škrapů (Autor: Ekočlen, CC BY-SA 2.5, via Wikimedia Commons)">
-    <figcaption>Ukázka škrapů (Autor: Ekočlen, CC BY-SA 2.5, via Wikimedia Commons)</figcaption>
+<img src="obrazky/kras/skrapy1" alt="Ukázka škrapů (Autor: Ekočlen, CC BY-SA 2.5, via Wikimedia Commons)">
+<figcaption>Ukázka škrapů (Autor: Ekočlen, CC BY-SA 2.5, via Wikimedia Commons)
+</figcaption>
 </figure>
 
 
@@ -96,16 +98,18 @@ Větší, 2 m--4 m široké a řádově první metry hluboké přímočaré r�
 *sufózní závrty*. Vývoj *subsidenčních závrtů* je spojen s postupným sesedáním nadložních hornin bez jejich znatelného porušení vznikají.
 
 <figure>
-    <img src="obrazky/kras/doline" alt="Závrt v  devez des Cheyrouses, Causse de Sauveterre, Lozère, Francie (Autor: Myrabella, CC BY-SA 3.0, Wikimedia Commons)">
-    <figcaption>Závrt v  devez des Cheyrouses, Causse de Sauveterre, Lozère, Francie (Autor: Myrabella, CC BY-SA 3.0, Wikimedia Commons)</figcaption>
+<img src="obrazky/kras/doline" alt="Závrt v  devez des Cheyrouses, Causse de Sauveterre, Lozère, Francie (Autor: Myrabella, CC BY-SA 3.0, Wikimedia Commons)">
+<figcaption>Závrt v  devez des Cheyrouses, Causse de Sauveterre, Lozère, Francie (Autor: Myrabella, CC BY-SA 3.0, Wikimedia Commons)
+</figcaption>
 </figure>
 
 
 *Cenoty* jsou specifickou formou závrtů, které jsou vyplněny vodou. Známé jsou cenoty například z poloostrova Yucatán.
 
 <figure>
-    <img src="obrazky/kras/Mexico_Cenotes" alt="Cenote de los Sacrificios v Chichén Itzá, Yucatánský poloostrov, Mexiko (Autor: Emil Kehnel, CC BY 3.0)">
-    <figcaption>Cenote de los Sacrificios v Chichén Itzá, Yucatánský poloostrov, Mexiko (Autor: Emil Kehnel, CC BY 3.0)</figcaption>
+<img src="obrazky/kras/Mexico_Cenotes" alt="Cenote de los Sacrificios v Chichén Itzá, Yucatánský poloostrov, Mexiko (Autor: Emil Kehnel, CC BY 3.0)">
+<figcaption>Cenote de los Sacrificios v Chichén Itzá, Yucatánský poloostrov, Mexiko (Autor: Emil Kehnel, CC BY 3.0)
+</figcaption>
 </figure>
 
 ### Uvala, polje a krasová údolí

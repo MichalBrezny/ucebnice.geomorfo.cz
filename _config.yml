@@ -144,6 +144,8 @@ markdown:         kramdown
 kramdown:
   auto_ids:               true
   input:                  GFM
+  parse_block_html: true
+  raw_html: true
   math_engine:            mathjax
   smart_quotes:           lsquo,rsquo,ldquo,rdquo
   toc_levels:             1..6
@@ -152,6 +154,7 @@ kramdown:
     guess_lang:           true
 syntax_highlighter_style: colorful
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
+
 
 
 scholar:

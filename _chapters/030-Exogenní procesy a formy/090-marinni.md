@@ -7,8 +7,9 @@ slug: marinni
 *Pobřežní (litorální) zóna* je prostor na rozhraní moře, oceánu, ale i jiné velké vodní plochy (jezero) a souše. Tato zóna zahrnuje jak mělčiny, tak i přilehlou souš. Břežní pásmo je definováno  jako pás území ležící na styku pevniny a světového oceánu ve kterém se uskutečňuje interakce mezi pevninou a oceánem. *Dolní hranice* je místo na dně, kde končí geomorfologická schopnost i největších vln při bouřích. *Horní hranice* je vymezena *přímořskou čarou* -- linií maximálního působení vln při příboji.
 
 <figure>
-    <img src="/assets/obrazky/marinni/pobrezi.png" alt="Vymezení pobřežních zón (upraveno podle birdCoastalGeomorphologyIntroduction2008)" />
-    <figcaption>Vymezení pobřežních zón (upraveno podle {% cite birdCoastalGeomorphologyIntroduction2008 %})</figcaption>
+<img src="/assets/obrazky/marinni/pobrezi.png" alt="Vymezení pobřežních zón (upraveno podle birdCoastalGeomorphologyIntroduction2008)" />
+<figcaption>Vymezení pobřežních zón (upraveno podle {% cite birdCoastalGeomorphologyIntroduction2008 %})
+</figcaption>
 </figure>
 
 
@@ -20,8 +21,9 @@ Vlny jsou hlavním aktivním činitelem, který utváří pobřeží. Jsou popis
 
 
 <figure>
-    <img src="/assets/obrazky/marinni/vlny.png" alt="Popis vlny a jejích charakteristik" />
-    <figcaption>Popis vlny a jejích charakteristik</figcaption>
+<img src="/assets/obrazky/marinni/vlny.png" alt="Popis vlny a jejích charakteristik" />
+<figcaption>Popis vlny a jejích charakteristik
+</figcaption>
 </figure>
 
 
@@ -41,8 +43,9 @@ velké vlny s vysokou kinetickou energií.
 V hlubokých vodách, tedy tam, kde báze vlny neprotíná dno probíhá pohyb molekul po kružnici. Směrem do hloubky se jejich průměr zmenšuje. Toto vlnění označujeme jako *vlnění hluboké vody*. Když vlna dosáhne mělčích vod (hloubka $< 0,5\lambda$), začíná vlna interagovat se dnem. Pohyb částic již neprobíhá po kružnicích, ale po elipsách. Část energie vln je vynaložena na transport sypkého materiálu na dně a modelaci dna. Dochází ke zkracování vln a jejich zpomalování. Výška vlny ale naopak narůstá a čelní svah vlny se stává strmějším. Zvyšuje se tak poměr mezi výškou vlny a vlnovou délkou ($H/\lambda$). Směrem k pobřeží se tato transformace zesiluje. Když $H/\lambda$ překročí $1/7$, hřbet vlny ztrácí oporu a dochází k lámání vlny. Vzniká tak *příboj* (*surf*), který mění potenciální energii vlny na kinetickou. Způsob jakým se vlna láme je dán strmostí vlny a sklonem pobřeží.
 
 <figure>
-    <img src="/assets/obrazky/marinni/vlny_transformace.png" alt="Vlny hluboké vlny a jejich transformace postupem ke břehu" />
-    <figcaption>Vlny hluboké vlny a jejich transformace postupem ke břehu</figcaption>
+<img src="/assets/obrazky/marinni/vlny_transformace.png" alt="Vlny hluboké vlny a jejich transformace postupem ke břehu" />
+<figcaption>Vlny hluboké vlny a jejich transformace postupem ke břehu
+</figcaption>
 </figure>
 
 Vlny mají tendenci ohýbat své čelo paralelně s pobřežím – dochází k tzv. *refrakci vln*. U zálivů se vlny rozšiřují, čímž se jejich energie snižuje. U mysů se naopak vlny stlačují k sobě, čímž se energie koncentruje.
@@ -107,7 +110,8 @@ Nerovnoměrným ústupem abrazního srubu můžou vznikat *abrazní brány*, *ab
 <img src="/assets/obrazky/marinni/apostolove.jpg" />
 <figcaption>Abrazní pilíře, Dvanáct apoštolů, Austrálie. V popředí je
 pozůstatek jednoho z pilířů, který se zřítil v roce 2005 (Autor: Richard
-Mikalsen, CC BY-SA 3.0, via Wikimedia Commons)</figcaption>
+Mikalsen, CC BY-SA 3.0, via Wikimedia Commons)
+</figcaption>
 </figure>
 
 <figure id="fig:abrazni_terasa">
@@ -144,7 +148,8 @@ Rozsáhlé ploché akumulační formy, které jsou zaplavované během přílivu
 
 <figure id="fig:watty">
 <img src="/assets/obrazky/marinni/watty.jpg" />
-<figcaption>Pohled na příbřežní plošinu s ostrovem Mount Saint-Michel. (volné dílo, via Wikimedia Commons)</figcaption>
+<figcaption>Pohled na příbřežní plošinu s ostrovem Mount Saint-Michel. (volné dílo, via Wikimedia Commons)
+</figcaption>
 </figure>
 
 ### Říční delta
@@ -158,14 +163,16 @@ Nejjednodušší podoba delty je tzv. *Gilbertova delta* (pojmenovaná podle ame
 
 <figure id="fig:gilbertdelta">
 <img src="/assets/obrazky/marinni/gilbert_delta.png" />
-<figcaption>Schéma jednoduché (Gilbertovy) delty</figcaption>
+<figcaption>Schéma jednoduché (Gilbertovy) delty
+</figcaption>
 </figure>
 
 Delty vznikající u ústí řek do moří a oceánů jsou mnohem komplexnější jak svým vzhledem, tak sedimentací. Jejich podoba je závislá na množství sedimentů, které řeka unáší, síle proudu řeky a mořských proudů, energii vln a slapových jevů. Můžeme rozlišit tři základní  typy []{.citation cites="boggsPrinciplesSedimentologyStratigraphy2014"}. *Delty s dominancí říční sedimentace* se nacházejí v oblastech, kde vlny mají nízkou energii a rozdíl hladin během přílivu a odlivu je malý. Tyto delty mají charakteristický tvar "text"ptačí nohy. Příkladem je delta řeky Mississippi. *Delta s dominancí vlnění* je typ delty, kde distribuce sedimentů je řízena vlněním. Většina sedimentů, které se dostávají řekou do moře je proudy distribuovaná podél pobřeží. Delta Nilu se řadí do této skupiny. *Delty s dominancí slapových jevů* vznikají v oblastech s výrazným dmutím a slabým vlivem vln. Delta je formována silnými slapovými proudy, které působí erozně. Delta má podobu ostrovů, které jsou od sebe rozdělené širokými kanály.
 
 <figure>
-    <img src="/assets/obrazky/marinni/delty" alt="image" />
-    <figcaption>Typy delt v závislosti na převládajících procesech (Upraveno podle {% cite seyboldModelingRiverDelta2007 %})</figcaption> 
+<img src="/assets/obrazky/marinni/delty" alt="image" />
+<figcaption>Typy delt v závislosti na převládajících procesech (Upraveno podle {% cite seyboldModelingRiverDelta2007 %})
+</figcaption> 
 </figure>
 
 ### Estuáry
@@ -174,7 +181,8 @@ Estuáry jsou nálevkovitá ústí řek do moří. Mohou vznikat v důsledku tra
 
 <figure id="fig:estuary">
 <img src="/assets/obrazky/marinni/estuary.jpg" />
-<figcaption>Estuár řeky Sierra Leone v Západní Africe. (Zdroj: Copernicus Sentinel data (2015)/ESA,CC BY-SA 3.0 IGO )</figcaption>
+<figcaption>Estuár řeky Sierra Leone v Západní Africe. (Zdroj: Copernicus Sentinel data (2015)/ESA,CC BY-SA 3.0 IGO )
+</figcaption>
 </figure>
 
 ### Korálové útesy
@@ -199,7 +207,8 @@ Podle morfologie a vzniku pobřeží můžeme rozlišit celou řadu typů.
 
 <figure id="fig:fjord">
 <img src="/assets/obrazky/marinni/fjord.jpg" />
-<figcaption>Norské fjordy (Zdroj: Google Earth)</figcaption>
+<figcaption>Norské fjordy (Zdroj: Google Earth)
+</figcaption>
 </figure>
 
 *Šérové (skjarové) pobřeží* je charakteristické zaoblenými skalkami a četnými malými ostrůvky. Jedná se o zaplavený erozní reliéf modelovaný kontinentálním zaledněním. Drobné ostrovy jsou tvořené oblíky, které byly zaplavené mořem a nad hladinu se dostaly díky postglaciálnímu výzdvihu. Příkladem je východní pobřeží Švédska (zejména v okolí Stockholmu).
@@ -211,7 +220,8 @@ Znakem *riasového pobřeží* jsou zatopená říční údolí pobřežních po
 <figure id="fig:limans">
 <img src="/assets/obrazky/marinni/Limans.jpeg" />
 <figcaption>Limany na severním břehu Černého moře. (Via Wikimedia
-Commons)</figcaption>
+Commons)
+</figcaption>
 </figure>
 
 *Pobřeží dalmatského typu* je charakteristické četnými ostrovy, které jsou protažené ve směru pobřeží, a zálivy s úzkým ústím a větvící se na obě strany od ústí. Tento typ pobřeží vznikl zaplavením vrásových struktur probíhajících zhruba rovnoběžně s břežní čarou.

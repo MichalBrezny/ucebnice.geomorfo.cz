@@ -16,8 +16,10 @@ V základu můžeme rozlišovat dva typy svahů. A to podle toho, zda jsou pokr
 Svah lze rozčlenit do několika částí (jednotek, segmentů). Nejjednodušší rozdělení je do tří jednotek (Obr.[1](#fig:segmenty_svahu)). V horní části je konvexní jednotka, kde se sklon svahu s narůstající vzdáleností zvětšuje. Následuje lineární svah (sklon se nemění). Spodní část svahu má konkávní tvar, což znamená, že se sklon zmenšuje. V některých případech prostřední část svahu chybí a má konvexně-konkávní průběh {% cite whiteConvexConcaveLandslopesGeometrical1966 %}. Přechod mezi jednotlivými segmenty může být pozvolný ale i ostrý.
 
 <figure id="fig:segmenty_svahu">
-<img src="/assets/obrazky/svahy/segmenty_svahu.png" />
-<figcaption>Tři základní segmenty svahu.</figcaption>
+<img src="/assets/obrazky/svahy/segmenty_svahu.png">
+<figcaption>
+Tři základní segmenty svahu.
+</figcaption>
 </figure>
 
 Pojmenováním jednotlivých částí svahu se zabývala celá řada autorů. {% cite=dalrympleHypotheticalNineUnit1968 %} rozdělili svah
@@ -43,7 +45,7 @@ $$
 $$
 
 Velikost smykového a normálového napětí je závislá na velikosti sklonu
-([\\(\\theta\\)]{.math .inline}) svahu. S rostoucím sklonem narůstá
+svahu ($\theta$). S rostoucím sklonem narůstá
 smykové napětí a normálové klesá a naopak. Na horizontálním povrchu je
 smykové nulové, normálové napětí se rovná tíhovému. U kolmé stěny je
 naopak nulové normálové napětí a smykové se rovná tíhovému napětí.
@@ -52,12 +54,11 @@ naopak nulové normálové napětí a smykové se rovná tíhovému napětí.
 <figure>
 <img src="/assets/obrazky/svahy/svah_napeti.png"/>
 </figure>
-<figcaption>A: Rozklad tíhového napětí (síly) na normálové napětí (<span
-class="math inline">\(\sigma\)</span>) a smykové napětí (<span
-class="math inline">\(\tau\)</span>) v závislosti na sklonu svahu (<span
-class="math inline">\(\beta\)</span>). B: ukázka rozložení sil na svahu
-(upraveno podle <span class="citation"
-data-cites="selbyHillslopeMaterialsProcesses1993"></span>)</figcaption>
+<figcaption>
+A: Rozklad tíhového napětí (síly) na normálové napětí ($\sigma$) a smykové napětí ($\tau$) v závislosti na sklonu svahu
+($\beta$). 
+B: ukázka rozložení sil na svahu (upraveno podle {% cite selbyHillslopeMaterialsProcesses1993 %}
+</figcaption>
 </figure>
 
 ## Koncept stability svahu
@@ -117,12 +118,11 @@ podle {% cite gladeLandslideGeomorphologyChanging2010 %})
 </figure>
 
 <figure>
-	<img src="/assets/obrazky/svahy/time_stability.png" style="width:100.0%"/>
-	<figcaption>
-    Vývoj stability dvou hypotetických svahů. Přípravné faktory (PF) postupně nebo nárazově snižují stabilitu svahu (snižují pevnost ve smyku). Spouštěcí faktory (triggery -- T) jsou ty, které sníží pevnost ve smyku tak, že faktor bezpečnosti $ \leq 1$ (upraveno podle {% cite popescuSuggestedMethodReporting1994} a {% cite mcollLandslideCausesTriggers2015 %})
-    
-    </figcaption>
-	<label for="fig:timestability"> </label>
+<img src="/assets/obrazky/svahy/time_stability.png" style="width:1000%"/>
+<figcaption>
+  Vývoj stability dvou hypotetických svahů. Přípravné faktory (PF)postupně nebo nárazově snižují stabilitu svahu (snižují pevnost vesmyku). Spouštěcí faktory (triggery -- T) jsou ty, které sníží pevnostve smyku tak, že faktor bezpečnosti $ \leq 1$ (upraveno podle {% cite popescuSuggestedMethodReporting1994 %} a {% cite mcollLandslideCausesTriggers2015 %})
+</figcaption>
+<label for="fig:timestability"> </label>
 </figure>
 
 
@@ -287,8 +287,6 @@ podle {% cite gladeLandslideGeomorphologyChanging2010 %})
 </table>
 
 
-
-
 # Gravitační svahové pochody
 
 ## Světová klasifikace svahových pohybů
@@ -307,10 +305,9 @@ Svahové pohyby rozdělují do následujících šesti skupin:
 -   Svahové deformace (*slope deformation*)
 
 <figure>
-  <center>
-    <img src="/assets/obrazky/svahy/landslide_type.png" alt="Typy gravitačních svahových pohybů (Upraveno podle USGS)"/>
-    <figcaption>Typy gravitačních svahových pohybů (Upraveno podle USGS)</figcaption>
-  </center>
+<img src="/assets/obrazky/svahy/landslide_type.png" alt="Typy gravitačních svahových pohybů (Upraveno podle USGS)"/>
+<figcaption>Typy gravitačních svahových pohybů (Upraveno podle USGS)
+</figcaption>
 </figure>
 
 ### Řícení
@@ -344,10 +341,9 @@ Smyková plocha je plocha, podél které došlo k sesouvání. Sesouvání můž
 <figure id="fig:rotacni">
 <img src="/assets/obrazky/svahy/rotacni.jpg"/>
 <figcaption>Rotační sesuv poblíž Cusca, Peru roku 2018 (autor:
-Ministerio de Defensa del Perú - <a
-href="https://www.flickr.com/photos/ministeriodedefensaperu/39935939755/in/dateposted/"
-class="uri">https://www.flickr.com/photos/ministeriodedefensaperu/39935939755/in/dateposted/</a>,
-CC BY 2.0</figcaption>
+Ministerio de Defensa del Perú - <a href="https://www.flickr.com/photos/ministeriodedefensaperu/39935939755/in/dateposted/">https://www.flickr.com/photos/ministeriodedefensaperu/39935939755/in/dateposted/</a>,
+CC BY 2.0
+</figcaption>
 </figure>
 
 *Translační* nebo také *planární sesuvy* mají smykovou plochu rovnou. Ta je většinou predisponovaná nějakou nespojitostí v hornině. Může se jednat například o vrstevní plochy, pukliny, plochy foliace apod. Translační sesuvy ale mohou vznikat i na rozhraní sediment – skalní podloží. Pokud se horninová masa pohybuje jako jeden celek po jedné smykové ploše, označujeme to jako *blokový sesuv*. Specifickým typem translačních sesuvů jsou tzv. *wedge slides* – klínové sesuvy. Smyková plocha je tvořená zpravidla dvěma strukturami (např. puklinami), které oddělují nestabilní blok od zbytku skalního masivu. Na rozdíl od rotačních sesuvů nejsou translační sesuvy samostabilizační, tudíž se jedná zpravidla o velice rychlé události. Mělké planární sesuvy (vzniklé ve zvětralinách) vznikají často po intenzívních deštích.
@@ -355,10 +351,9 @@ CC BY 2.0</figcaption>
 Některé sesuvy mohou mít složenou smykovou plochu. Běžný typ *sesuvu podél složené smykové plochy* má v horní části zakřivenou smykovou plochu přecházející pak v planární níže po svahu.
 
 <figure>
-    <center>
-        <img src="/assets/obrazky/svahy/melke.jpg" alt="Mělké translační sesuvy ve zvětralině vzniklé na svazích Chlebu a Hromové v roce 2014 v důsledku intenzivních srážek. Při události došlo k jejich následné transformaci do blokovobahenního proudu, který způsobil velké škody ve Vrátné dolině (Malá Fatra, Slovensko)." style="width:100%" />
-        <figcaption>Mělké translační sesuvy ve zvětralině vzniklé na svazích Chlebu a Hromové v roce 2014 v důsledku intenzivních srážek. Při události došlo k jejich následné transformaci do blokovobahenního proudu, který způsobil velké škody ve Vrátné dolině (Malá Fatra, Slovensko).</figcaption>
-    </center>
+<img src="/assets/obrazky/svahy/melke.jpg" alt="Mělké translační sesuvy ve zvětralině vzniklé na svazích Chlebu a Hromové v roce 2014 v důsledku intenzivních srážek. Při události došlo k jejich následné transformaci do blokovobahenního proudu, který způsobil velké škody ve Vrátné dolině (Malá Fatra, Slovensko)." style="width:100%" />
+<figcaption>Mělké translační sesuvy ve zvětralině vzniklé na svazích Chlebu a Hromové v roce 2014 v důsledku intenzivních srážek. Při události došlo k jejich následné transformaci do blokovobahenního proudu, který způsobil velké škody ve Vrátné dolině (Malá Fatra, Slovensko).
+</figcaption>
 </figure>
 
 ### Boční rozšiřování
@@ -375,11 +370,12 @@ Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost teč
 
 <figure id="fig:debrisflow">
 <img src="/assets/obrazky/svahy/debris_flow.jpg" />
-<figcaption>Dráha blokovobahenních proudů, Švýcarsko.</figcaption>
+<figcaption>Dráha blokovobahenních proudů, Švýcarsko.
+</figcaption>
 </figure>
 
 Video o blokovobahenních proudech v Illgraben, Švýcarsko:
-{%youtube "https://www.youtube.com/watch?v=xyfreVn-j2s" %}
+{% include youtube.html id="xyfreVn-j2s" %}
 
 
 *Zemní proud* (*earthflow*) je relativně pomalý proces tečení zemin. Pro zemní proudy jsou typická období klidu (desítky i stovky let) proložená epizodami náhlé aktivity. Jejich rychlost pohybu se pohybuje od metrů za rok až po metry za hodinu. Délka zemních proudů je v řádu desítek metrů až několika kilometrů.
@@ -405,9 +401,8 @@ Pro hlubinné ploužení se často používá termín *sackung*. Tento proces po
 
 <figure id="fig:sackung">
 <img src="/assets/obrazky/svahy/sackung.png"/>
-<figcaption>Projevy hlubinného ploužení (sackungu) <span
-class="citation"
-data-cites="agliardiStructuralConstraintsDeepseated2001"></span></figcaption>
+<figcaption>Projevy hlubinného ploužení (sackungu) {% cite agliardiStructuralConstraintsDeepseated2001 %}
+</figcaption>
 </figure>
 
 ## Československá klasifikace svahových pohybů
@@ -431,7 +426,8 @@ Praze-Hlubočepích (Zdroj: BOKR, P. (2002): Foto - Hákování vrstev v
 Praze - Hlubočepích. In: Fotoarchiv České geologické služby [online
 databáze]. Praha, Česká geologická služba [cit. 2022-02-15]. Dostupné z
 URL <a href="http://www.geology.cz/foto/19777"
-class="uri">http://www.geology.cz/foto/19777</a></figcaption>
+class="uri">http://www.geology.cz/foto/19777</a>
+</figcaption>
 </figure>
 
 ### Sesouvání

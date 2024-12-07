@@ -1,6 +1,7 @@
 ---
 title: Zvětrávání
 slug: zvetravani
+abstract: Základní podstata zvětrávání, chemické, fyzikální a biologické zvětrávání, vliv zvětrávání na reliéf.
 ---
 
 
@@ -18,7 +19,8 @@ Horniny a minerály jsou špatným vodičem tepla. Při oslunění skalního pov
 
 <figure id="fig:mrazove">
 <img src="/assets/obrazky/zvetravani/mrazove.jpg"/>
-<figcaption>Ukázka mrazového tříštění, Svalbard.</figcaption>
+<figcaption>Ukázka mrazového tříštění, Svalbard.
+</figcaption>
 </figure>
 
 ## Fyzikální zvětrávání vlivem růstu krystalů
@@ -37,8 +39,10 @@ Exfoliací vznikají exfoliační klenby. Nízké se nazývají *ruwary*, vysok�
 
 <figure id="fig:exfoliace">
 <img src="/assets/obrazky/zvetravani/exfoliace.jpg"/>
-<figcaption>Ukázka exfoliace žuly. Half Dome v Yosemitském národním
-parku. (Autor: Ronnie Macdonald, CC BY 2.0 )</figcaption>
+<figcaption>
+Ukázka exfoliace žuly. Half Dome v Yosemitském národním
+parku. (Autor: Ronnie Macdonald, CC BY 2.0 )
+</figcaption>
 </figure>
 
 # Chemické zvětrávání
@@ -47,21 +51,21 @@ parku. (Autor: Ronnie Macdonald, CC BY 2.0 )</figcaption>
 
 Minerály, který vznikaly při podmínkách značně odlišných od těch co panují na zemském povrchu, zvětrávají rychleji, než ty které vznikaly za podmínek podobných. Tmavé (mafické) minerály zvětrávají na zemském povrchu rychleji než světlé (felsické) minerály. Tedy olivín a pyroxen zvětrává rychleji než muskovit či dokonce křemen. Tzv. *Goldichovo pravidlo zvětrávání* je v podstatě obráceným *Bowenovým krystalizačním schématem*, které znázorňuje pořadí minerálů krystalizujících z postupně chladnoucího magmatu. Ty minerály, které krystalizují při nejvyšších teplotách naopak nejrychleji podléhají zvětrávání. Samozřejmě v přírodních podmínkách to je poněkud komplikovanější.
 
-Mobilita kationtů v minerálech ovlivňuje jak rychle se uvolní daný prvek z horniny, jak dlouho zůstává rozpuštěný ve vodě. Pořadí od nejmobilnějších k těm nejméně mobilním: Ca²⁺, Na⁺, Mg²⁺ > K⁺ > Fe²⁺ > Si⁴⁺ > Fe³⁺ > Al³⁺. Nejmobilnější kationy (Ca²⁺, Na⁺, Mg²⁺) jsou první, které jsou z hornin vyplavovány. Naopak málo mobilní kationy jako je Si⁴⁺, Fe³⁺, Al³⁺ zůstávají ve zvětralině, kde dochází postupně ke zvyšování jejich koncentrace.
+Mobilita kationtů v minerálech ovlivňuje jak rychle se uvolní daný prvek z horniny, jak dlouho zůstává rozpuštěný ve vodě. Pořadí od nejmobilnějších k těm nejméně mobilním: Ca²⁺ > Na⁺ > Mg²⁺ > K⁺ > Fe²⁺ > Si⁴⁺ > Fe³⁺ > Al³⁺. Nejmobilnější kationy (Ca²⁺, Na⁺, Mg²⁺) jsou první, které jsou z hornin vyplavovány. Naopak málo mobilní kationy jako je Si⁴⁺, Fe³⁺, Al³⁺ zůstávají ve zvětralině, kde dochází postupně ke zvyšování jejich koncentrace.
 
 ## Typy chemického zvětrávání
 
-Nejjednodušším typem chemického zvětrávání je *rozpouštění*. Rozpustnost minerálů je závislá na teplotě, pH a také na rychlosti proudění vody v horninových pórech. Například dešťová voda je díky rozpuštěnému CO~2~ lehce kyselá (pH = 5,7). Významné je rozpouštění vápenců, které vede ke vzniku krasových oblastí a výzdob.
+Nejjednodušším typem chemického zvětrávání je *rozpouštění*. Rozpustnost minerálů je závislá na teplotě, pH a také na rychlosti proudění vody v horninových pórech. Například dešťová voda je díky rozpuštěnému CO<sub>2</sub> lehce kyselá (pH = 5,7). Významné je rozpouštění vápenců, které vede ke vzniku krasových oblastí a výzdob.
 
-Dalším typem chemického zvětrávání je *hydrolýza*. Molekula vody se dělí na proton (H^+^) a hydroxidový aniont (OH^-^). Vodíkový kation nahrazuje v krystalické mřížce kationy kovů (K^+^, Na^+^, Ca^2+^, Mg^2+^) a ty se slučují s hydroxidovým aniontem a stávají se součástí roztoku. Hydrolýza je hlavním procesem zvětrávání u silikátových hornin.
+Dalším typem chemického zvětrávání je *hydrolýza*. Molekula vody se dělí na proton (H<sup>+</sup>) a hydroxidový aniont (OH<sup>-</sup>). Vodíkový kation nahrazuje v krystalické mřížce kationy kovů (K<sup>+</sup>, Na<sup>+</sup>, Ca<sup>2+</sup>, Mg<sup>2+</sup>) a ty se slučují s hydroxidovým aniontem a stávají se součástí roztoku. Hydrolýza je hlavním procesem zvětrávání u silikátových hornin.
 
-*Oxidace* je typem reakce, při které prvek nebo sloučenina ztrácí jeden elektron (zvyšuje se tak jeho oxidační číslo). Například železnaté sloučeniny se oxidují na železité (Fe^2+^ na Fe^3+^). Oxidačním činitelem nemusí být jen kyslík, ale například trojmocné železo, čtyřmocný mangan aj., zkrátka ty ionty, které jsou schopny přijmout elektron od oxidované sloučeniny. Oxidace je dominantní u minerálů, které obsahují železo (pyrit, siderit atd.), ale také hliník, hořčík mangan a chrom. Opakem oxidace je *redukce*. Redukovaná sloučenina přibírá elektron. Redukčním činitelem jsou ty ionty, které mohou elektrony předávat (např. dvojmocné železo, dvojmocný mangan). Projevy oxidace a redukce lze ve zvětralině či půdě poznat podle barvy. Hnědé či červené zbarvení poukazuje na oxidační prostředí, jelikož je typickým znakem oxidů trojmocného železa, kdežto šedá až šedozelená barva je typická pro redukční prostředí.
+*Oxidace* je typem reakce, při které prvek nebo sloučenina ztrácí jeden elektron (zvyšuje se tak jeho oxidační číslo). Například železnaté sloučeniny se oxidují na železité (Fe<sup>2+</sup> na Fe<sup>3+</sup>). Oxidačním činitelem nemusí být jen kyslík, ale například trojmocné železo, čtyřmocný mangan aj., zkrátka ty ionty, které jsou schopny přijmout elektron od oxidované sloučeniny. Oxidace je dominantní u minerálů, které obsahují železo (pyrit, siderit atd.), ale také hliník, hořčík mangan a chrom. Opakem oxidace je *redukce*. Redukovaná sloučenina přibírá elektron. Redukčním činitelem jsou ty ionty, které mohou elektrony předávat (např. dvojmocné železo, dvojmocný mangan). Projevy oxidace a redukce lze ve zvětralině či půdě poznat podle barvy. Hnědé či červené zbarvení poukazuje na oxidační prostředí, jelikož je typickým znakem oxidů trojmocného železa, kdežto šedá až šedozelená barva je typická pro redukční prostředí.
 
 *Hydratace* označuje proces obohacování minerálu vodou. Ta se dostává do krystalické mřížky. Sloučenina, která přijímá vodu, zvětšuje svůj objem a tím může mechanicky působit na své okolí. Opakem tohoto procesu je *dehydratace*.
 
 *Karbonatizace* je reakce za účasti hydrogenuhličitanového anionu (HCO<sub>3</sub><sup>-</sup>). Ten se nachází ve vodě v důsledku rozpouštění ve vodě a následné disociace kyseliny uhličité (H<sub>2</sub>CO<sub>3</sub>): 
 
-H2O + CO2 ⇌ H2CO3 ⇌ H^+^ + HCO~3~^-^
+H2O + CO2 ⇌ H2CO3 ⇌ H<sup>+</sup> + HCO<sub>3</sub><sup>-</sup>
 
 Karbonatizace je důležitá pro zvětrávání vápenců (reakce krasovění).
 
@@ -69,7 +73,8 @@ Karbonatizace je důležitá pro zvětrávání vápenců (reakce krasovění).
 
 <figure id="fig:laterit">
 <img src="/assets/obrazky/zvetravani/laterit.jpg" />
-<figcaption>Zvětrávání bazaltového tufu (bílá barva) do saprolitu (žluto-bílá) a lateritu (tmavě hnědá), Vangaindrano, Madagascar (Zdroj:
+<figcaption>
+Zvětrávání bazaltového tufu (bílá barva) do saprolitu (žluto-bílá) a lateritu (tmavě hnědá), Vangaindrano, Madagascar (Zdroj:
 Werner Schellmann, CC BY-SA 2.5, via Wikimedia Commons)
 </figcaption>
 </figure>

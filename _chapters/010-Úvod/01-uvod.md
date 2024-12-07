@@ -1,16 +1,15 @@
 ---
 title: Úvod
 slug: uvod
-abstract: Co je to geomorfologie?
+abstract: Co je to geomorfologie a k čemu je dobrá? Stručný exkurz do historie geomorfologie a přehled základních geomorfologických subdisciplín.
 ---
 
-Geomorfologie je věda zabývající se tvary zemského reliéfu, jeho historií a procesy, které ho utvářejí. Geneze reliéfu je komplexní proces, i proto geomorfologie využívá a spojuje poznatky z celé řady dalších vědeckých disciplín (viz [Tab. 1](tab:geom_a_dalsi), [Obr. 1](fig:diagramgeomorf)). Jedná se tedy o vědu syntetickou. 
+Geomorfologie je věda zabývající se tvary zemského reliéfu, jeho historií a procesy, které ho utvářejí. Geneze reliéfu je komplexní proces, i proto geomorfologie využívá a spojuje poznatky z celé řady dalších vědeckých disciplín (viz [Tab. 1](#tab:geom_a_dalsi), [Obr. 1](#fig:diagramgeomorf)). Jedná se tedy o vědu syntetickou. 
 
 Pojem geomorfologie vznikl spojením tří řeckých slov: geo (země), -morphos (tvar, forma) a -ology (studium). *Objektem studia* geomorfologie je zemský reliéf  ‒ *georeliéf*. Reliéf sám o sobě není hmotný, jedná se o svrchní plochu zemské kůry, která tvoří rozhraní mezi litosférou a dalšími sférami Země jako je například atmosféra či hydrosféra. Hmotným nositelem reliéfu jsou horniny zemské kůry a je jedno, jestli se jedná o pevné horniny či nezpevněné sedimenty. Georeliéf můžeme chápat i jako soubor tvarů zemského povrchu.
 
-
 <figure id="fig:diagramgeomorf" style="text-align:center;">
-<img src="/assets/obrazky/uvod/diagram_geomorf.png">
+<img src="/assets/obrazky/uvod/diagram_geomorf.png" width="400">
 <figcaption>
 Obr. 1 Georeliéf tvoří rozhraní mezi litosférou nebo pedosférou na jedné straně a atmosférou, hydrosférou, biosférou a antroposférou. Georeliéf ovlivňuje okolní sféry a naopak je sám jimi ovlivňován.
 </figcaption>
@@ -78,7 +77,7 @@ Povrch Země je dynamický, mění se v čase a prostoru. Jeho vývoj je ovlivn�
 
 # Stručný exkurz do historie geomorfologie
 
-Prvotní úvahy o vývoji reliéfu lze najít už v období antiky. Herodotus (484 př. n. l. -- 430 př. n. l.) popsal vývoj Nilské delty a spočítal její stáří na základě rychlosti ukládání sedimentů. Aristoteles například uvažoval o střídání pevnin a moří. Tam, kde kdysi bylo moře je v současnosti souš a naopak. Lucius Annaeus Seneca přemýšlel o síle vodních toků a jejich erozní činnosti. Stejným tématem se zabýval v 15. století i Leonardo da Vinci.
+Prvotní úvahy o vývoji reliéfu lze najít už v období antiky. Herodotus (484 př. n. l. až 430 př. n. l.) popsal vývoj Nilské delty a spočítal její stáří na základě rychlosti ukládání sedimentů. Aristoteles například uvažoval o střídání pevnin a moří. Tam, kde kdysi bylo moře je v současnosti souš a naopak. Lucius Annaeus Seneca přemýšlel o síle vodních toků a jejich erozní činnosti. Stejným tématem se zabýval v 15. století i Leonardo da Vinci.
 
 Základní geomrofologické koncepty byly položeny až ke konci 18. století. V roce 1785 představil James Hutton svou představu, že zemský povrch je dominantně formován postupnou vodní erozí a ne katastrofickými událostmi. Na Huttonových základech stavěl Charles Lyell, který v práci *Principles of Geology* vypracoval myšlenky *uniformitarianismu* (označované taky jako *princip uniformity*, *aktualismus*), který má čtyři základní principy:
 
@@ -92,12 +91,11 @@ Oproti aktualismu stály myšlenky *katastrofismu*, tedy že velká část forem
 W. M. Davis (1850–1934) (Obr. [1](#fig:davies)) formuloval jeden z prvních modelů vývoje georeliéfu. Jedná se o geografický (Davisův) *cyklus eroze*. Dle jeho teorie je georeliéf funkcí tří veličin: geologické stavby (struktury), procesu a času.
 
 <figure id="fig:davies">
-<figure>
-<img src="/assets/obrazky/uvod/davies.jpeg" style="width:70.0%" />
-</figure>
+<img src="/assets/obrazky/uvod/davies.jpeg" width="400">
 <figcaption>William Morris Davies (zdroj: Bibliothèque nationale de
 France https://gallica.bnf.fr/ark:/12148/btv1b8453640z, volné
-dílo)</figcaption>
+dílo)
+</figcaption>
 </figure>
 
 Proti představám W. M. Davise vystupoval Walther Penck. Odmítal představu, že po rychlém výzdvihu může být dlouhé stabilní období pro vývoj následných forem reliéfu. Dle Pencka je podoba krajiny závislá na tom, zda výzdvih se zvětšuje, snižuje nebo je konstantní v průběhu času. Obecně můžeme říct, že v počátcích byla evropská goemorfologie do velké míry popisná a klasifikační, kdežto americká byla vysvětlující -- interpretační.

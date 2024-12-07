@@ -8,11 +8,10 @@ slug: glacialni
 Kryosféra je termín zastřešující veškerou vodu v pevném skupenství (ledu), která se nachází na zemském povrchu. Komponenty kryosféry a jejich délka trvání je znázorněna na ([obr. 1](fig:komponentykryosfery)). Jednou z nejdůležitějších komponent jsou ledovce.
 
 <figure>
-    <img src="/assets/obrazky/glac/komponenty_kryosfery.jpg" 
-        alt="Komponenty kryosféry a jejich časové škály.">
-    <figcaption>
-    Komponenty kryosféry a jejich časové škály (převzato z {% cite lemkeObservationsChangesSnow2007 %})
-    </figcaption>
+<img src="/assets/obrazky/glac/komponenty_kryosfery.jpg" alt="Komponenty kryosféry a jejich časové škály.">
+<figcaption>
+Komponenty kryosféry a jejich časové škály (převzato z {% cite lemkeObservationsChangesSnow2007 %})
+</figcaption>
 </figure>
 
 
@@ -72,10 +71,10 @@ Na ledovci rozlišujeme z hlediska bilance dvě základní zóny: akumulační a
 
 
 <figure>
-    <img src="/assets/obrazky/glac/ledovec_mass_balance.png" alt="Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty." >
-    <figcaption>
-    Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty (upraveno podle {% cite summerfieldGlobalGeomorphologyIntroduction1999 %})
-    </figcaption>
+<img src="/assets/obrazky/glac/ledovec_mass_balance.png" alt="Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty." >
+<figcaption>
+Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty (upraveno podle {% cite summerfieldGlobalGeomorphologyIntroduction1999 %})
+</figcaption>
 </figure>
 
 ## Typy ledovců
@@ -89,12 +88,14 @@ Základní klasifikace ledovců na ty, které nejsou limitované reliéfem (nap�
 *Šelfový ledovec* je část ledovce, která plave na hladině oceánu či moře.
 
 <figure>
-    <img src="/assets/obrazky/glac/Glacier-ice_shelf_interactions.svg" alt="Šelfový ledovec a jeho interakce s okolním prostředím. V případě, že šelfový ledovec je stabilní, podpírá a zpomaluje celkový pohyb ledovce. Zvýšené teploty způsobují dvě věci: 1. rychlejší tání ledovce, voda se dostává na bázi, snižuje tření ledovce a urychluje jeho pohyb; 2. vznik a rozšiřování puklin vyplněných vodou na šelfu urychluje jeho rozpad. V případě rozpadu ledovcového šelfu ledovec ztrácí oporu a rychlost jeho pohybu se zvyšuje a tedy i rychleji ztrácí hmotu (autoři: Ted Scambos and Michon Scott, National Snow and Ice Data Center, upraveno: Sagredo, volné dílo, via Wikimedia Commons)">
-    <figcaption>
-    Šelfový ledovec a jeho interakce s okolním prostředím. V případě, že šelfový ledovec je stabilní, podpírá a zpomaluje celkový pohyb ledovce. Zvýšené teploty způsobují dvě věci: 1. rychlejší tání ledovce, voda se dostává na bázi, snižuje tření ledovce a urychluje jeho pohyb; 2. vznik a rozšiřování puklin vyplněných vodou na šelfu urychluje jeho rozpad. V případě rozpadu ledovcového šelfu ledovec ztrácí oporu a rychlost jeho pohybu se zvyšuje a tedy i rychleji ztrácí hmotu (autoři: Ted Scambos and Michon Scott, National Snow and Ice Data Center, upraveno: Sagredo, volné dílo, via Wikimedia Commons)
-    </figcaption>
+<img src="/assets/obrazky/glac/Glacier-ice_shelf_interactions.svg" alt="Šelfový ledovec a jeho interakce s okolním prostředím. V případě, že šelfový ledovec je stabilní, podpírá a zpomaluje celkový pohyb ledovce. Zvýšené teploty způsobují dvě věci: 1. rychlejší tání ledovce, voda se dostává na bázi, snižuje tření ledovce a urychluje jeho pohyb; 2. vznik a rozšiřování puklin vyplněných vodou na šelfu urychluje jeho rozpad. V případě rozpadu ledovcového šelfu ledovec ztrácí oporu a rychlost jeho pohybu se zvyšuje a tedy i rychleji ztrácí hmotu (autoři: Ted Scambos and Michon Scott, National Snow and Ice Data Center, upraveno: Sagredo, volné dílo, via Wikimedia Commons)">
+<figcaption>
+Šelfový ledovec a jeho interakce s okolním prostředím. V případě, že šelfový ledovec je stabilní, podpírá a zpomaluje celkový pohyb ledovce. Zvýšené teploty způsobují dvě věci: 1. rychlejší tání ledovce, voda se dostává na bázi, snižuje tření ledovce a urychluje jeho pohyb; 2. vznik a rozšiřování puklin vyplněných vodou na šelfu urychluje jeho rozpad. V případě rozpadu ledovcového šelfu ledovec ztrácí oporu a rychlost jeho pohybu se zvyšuje a tedy i rychleji ztrácí hmotu (autoři: Ted Scambos and Michon Scott, National Snow and Ice Data Center, upraveno: Sagredo, volné dílo, via Wikimedia Commons)
+</figcaption>
 </figure>
 
+
+{% include admonition.html type="note" title="Tip" body="Jak bude ledovcová kra plout na hladině? Zkuste si to nakreslit v [této hříčce!](https://joshdata.me/iceberger.html)" %}
 
 ### Ledovce limitované topografií
 
@@ -114,10 +115,9 @@ Velice důležitým faktorem, který ovlivňuje pohyb ledovce a jeho schopnost m
 Působením tíhové síly je v ledovci vyvoláváno smykové napětí, které uvádí ledovce do pohybu. Rozlišujeme dva základní mechanismy. První mechanismus, kterým se pohybují všechny ledovce je vnitřní (plastická) deformace nazývaná ledovcový kríp ("ice creep"). Druhý mechanismus je *bazální klouzání* (smýkání). Ledovce s teplou bází se dominantně pohybují bazálním smýkáním, vnitřní deformací samotného ledu jerealizován jen zlomek celkového pohybu. U ledovců se studenou bází to je naopak. Bazální klouzání je téměř nulové a ledovcová masa se pohybuje vnitřní deformací ledu.
 
 <figure>
-    <center>
-        <img src="/assets/obrazky/glac/flow_velocity.png" alt="Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu.">
-        <figcaption>Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu (Upraveno podle {% cite biermanKeyConceptsGeomorphology2014 %})</figcaption>
-    </center>
+<img src="/assets/obrazky/glac/flow_velocity.png" alt="Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu.">
+<figcaption>Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu (Upraveno podle {% cite biermanKeyConceptsGeomorphology2014 %})
+</figcaption>
 </figure>
 
 
@@ -163,6 +163,9 @@ Ledovce svou abrazní činností vytvářejí na skalách hladké plochy – *le
 
 Výstupy skalního podloží ledovec přemodelovává v *oblík*, což jsou v podélném profilu asymetrické pahorky. Svah ukloněný proti pohybu ledovce je mírný, hladký a nese stopy po obrušování (striace). Svah po směru pohybu je naopak strmý a s různými výstupky, které vznikly vytrháváním kusů hornin.
 
+{% include admonition.html type="info" title="Info" body="Ledovcové striace a oblíky jsou užitečné pro stanovení směru pohybu ledovců." %}
+
+
 <figure id="fig:oblik">
 <img src="/assets/obrazky/glac/oblik.png">
 <figcaption>Oblík
@@ -175,7 +178,8 @@ V uzávěrách údolí, pramenných oblastech říčních údolí vznikají ledo
 
 <figure id="fig:matterhorn">
 <img src="/assets/obrazky/glac/matterhorn.jpg">
-<figcaption>Matterhorn (Autor: Davide Notti (via imaggeo.egu.eu, CC BY 3.0))</figcaption>
+<figcaption>Matterhorn (Autor: Davide Notti (via imaggeo.egu.eu, CC BY 3.0))
+</figcaption>
 </figure>
 
 *Trog* je ledovcové údolí. Jeho příčný profil má tvar písmene "U". V podélném profilu trogů jsou patrné stupně, které mohou například souviset se strukturní predispozicí či změnou litologie. Ledovcová údolí mající dno pod hladinou moře se nazývají *fjordy*.
@@ -183,10 +187,10 @@ V uzávěrách údolí, pramenných oblastech říčních údolí vznikají ledo
 *Visutá údolí* jsou boční údolí trogu. Menší ledovce nemají takový erozivní účinek aby údolí prohloubily na úroveň hlavního trogu. Na těchto stupních pak po odlednění bývají vodopády.
 
 <figure>
-    <center>
-        <img src="/assets/obrazky/glac/studena.jpg" alt="Typické trogy. Pohled do Velké a Malé Studené doliny ve Vysokých Tatrách. Malá Studená Dolina je příklad visutého údolí (Zdroj: Google Earth)">
-        <figcaption>Typické trogy. Pohled do Velké a Malé Studené doliny ve Vysokých Tatrách. Malá Studená Dolina je příklad visutého údolí (Zdroj: Google Earth)</figcaption>
-    </center>
+<img src="/assets/obrazky/glac/studena.jpg" alt="Typické trogy. Pohled do Velké a Malé Studené doliny ve Vysokých Tatrách. Malá Studená Dolina je příklad visutého údolí (Zdroj: Google Earth)">
+<figcaption>
+Typické trogy. Pohled do Velké a Malé Studené doliny ve Vysokých Tatrách. Malá Studená Dolina je příklad visutého údolí (Zdroj: Google Earth)
+</figcaption>
 </figure>
 
 *Nunataky* jsou izolované skály ze všech stran obklopené ledovcem.
@@ -211,8 +215,9 @@ Táním tzv. mrtvého ledu (ledových čoček) vznikají sníženiny, které moh
 
 <figure id="fig:esker">
 <img src="/assets/obrazky/glac/esker.jpg">
-<figcaption>Částečně odtěžený esker (Autor: Val Vannet / Esker near
-Bridge of Cally / CC BY-SA 2.0).</figcaption>
+<figcaption>
+Částečně odtěžený esker (Autor: Val Vannet / Esker near Bridge of Cally / CC BY-SA 2.0).
+</figcaption>
 </figure>
 
 *Kamy* jsou nepravidelné pahorky glacifluviálního materiálu na povrchu spodní morény. Vznikají sesedáním sedimentů supraglaciálních (tekoucích po povrchu ledovce) toků po deglaciaci. V okrajových partiích ledovce, podél údolních svahů se mohou tvořit *kamové terasy*.
@@ -221,9 +226,9 @@ Kontrolní a klíčové otázky, na které bychom měli znát odpověď
 
 - Jakým způsobem ledovce nabírají hmotu?
 - Co je to tzv. čára rovnováhy a jak její posun ovlivňuje ledovec?
--   Jaký je rozdíl mezi ledovci, které nejsou ovlivněné reliéfem v podloží a těmi, které naopak ovlivněné jsou?
--   Jakým způsobem ovlivňuje teplota báze ledovce jeho pohyb a erozní     schopnosti?
--   Jak lze z podoby oblíku a drumlinu poznat směr pohybu ledovce?
+- Jaký je rozdíl mezi ledovci, které nejsou ovlivněné reliéfem v podloží a těmi, které naopak ovlivněné jsou?
+- Jakým způsobem ovlivňuje teplota báze ledovce jeho pohyb a erozní     schopnosti?
+- Jak lze z podoby oblíku a drumlinu poznat směr pohybu ledovce?
 
 
 Další klíčové pojmy k zapamatování 

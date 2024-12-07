@@ -12,8 +12,7 @@ Tvar povodí je ovlivněn celou řadou fyzickogeografických a geologických fak
 
 <figure id="fig:watershedtilt">
 <img src="/assets/obrazky/povodi/watershed_tilt.jpg" />
-<figcaption>Ukázka vzniku asymetrických údolí z důvodu tektonických pohybů. (zdroj <span class="citation"
-data-cites="mahmoodAppraisalActiveTectonics2012"></span>)
+<figcaption>Ukázka vzniku asymetrických údolí z důvodu tektonických pohybů. (zdroj {% cite mahmoodAppraisalActiveTectonics2012 %})
 </figcaption>
 </figure>
 
@@ -89,7 +88,8 @@ V geomorfologii se uplatňuje odlišné číslování "shora dolů". Postupuje s
 
 <figure id="fig:radtoku">
 <img src="/assets/obrazky/povodi/rad_toku.png" />
-<figcaption>Klasická, Strahlerova a Shrevova hierarchizace říční sítě.</figcaption>
+<figcaption>Klasická, Strahlerova a Shrevova hierarchizace říční sítě.
+</figcaption>
 </figure>
 
 # Jezera

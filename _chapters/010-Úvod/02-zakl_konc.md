@@ -1,7 +1,7 @@
 ---
 title: Základní koncepty
 slug: zakladni-koncepty
-abstract: Základní koncepty a východiska
+abstract: Základní koncepty a východiska geomorfologie. Procesy a formy reliéfu, endogenní a exogenní procesy, měřítko, zachování hmoty a energie, pohyb hmoty, rovnováha sil a prahy, magnitudo a frekvence geomorfologických procesů.
 date: 2024-07-20 
 last_modified_at: 2024-07-20
 ---
@@ -26,7 +26,7 @@ Exogenní procesy naopak snižují a zarovnávají zemský reliéf ([Obr. 1](#f
 
 <figure id="fig:zmenyvysky">
 <figure>
-<img src="/assets/obrazky/zakl_konc/zmeny_vysky.png"/>
+<img src="/assets/obrazky/zakl_konc/zmeny_vysky.png" width="300"/>
 </figure>
 <figcaption>Obr. 1 Schéma znázorňující změny v nadmořské výšce způsobené různými exogenními a endogenními procesy. Plusové znaménko znamená nárůst nadmořské výšky a potenciální energie, mínus značí opak. Upraveno podle {% cite summerfieldGlobalGeomorphologyIntroduction1999 %}
 </figcaption>
@@ -87,8 +87,10 @@ Události malého magnituda nemají zpravidla velký geomorfologický účinek. 
 
 
 <figure>
-    <img src="/assets/obrazky/zakl_konc/frekvence.jpg" alt="Četnost zemětřesení (zdroj: IRIS.edu)">
-    <figcaption>Obr. 2 Četnost zemětřesení (zdroj: IRIS.edu)</figcaption>
+<img src="/assets/obrazky/zakl_konc/frekvence.jpg" alt="Četnost zemětřesení (zdroj: IRIS.edu)">
+<figcaption>
+Obr. 2 Četnost zemětřesení (zdroj: IRIS.edu)
+</figcaption>
 </figure>
 
 

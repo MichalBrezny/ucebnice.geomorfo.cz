@@ -222,32 +222,8 @@ Táním tzv. mrtvého ledu (ledových čoček) vznikají sníženiny, které moh
 
 *Kamy* jsou nepravidelné pahorky glacifluviálního materiálu na povrchu spodní morény. Vznikají sesedáním sedimentů supraglaciálních (tekoucích po povrchu ledovce) toků po deglaciaci. V okrajových partiích ledovce, podél údolních svahů se mohou tvořit *kamové terasy*.
 
-Kontrolní a klíčové otázky, na které bychom měli znát odpověď
 
-- Jakým způsobem ledovce nabírají hmotu?
-- Co je to tzv. čára rovnováhy a jak její posun ovlivňuje ledovec?
-- Jaký je rozdíl mezi ledovci, které nejsou ovlivněné reliéfem v podloží a těmi, které naopak ovlivněné jsou?
-- Jakým způsobem ovlivňuje teplota báze ledovce jeho pohyb a erozní     schopnosti?
-- Jak lze z podoby oblíku a drumlinu poznat směr pohybu ledovce?
-
-
-Další klíčové pojmy k zapamatování 
-- firn 
-- ablace
-- čára rovnováhy 
-- ledový proud
-- šelfový ledovec 
-- kontinentální ledovec
-- kar trog
-- oblík 
-- nunatak
-- striace 
-- moréna
-- till 
-- kotlíková jezera
-- sandr
-- esker
-
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/3_050-glac_oo.md" %}
 
 # Zdroje 
 {% bibliography --cited %}

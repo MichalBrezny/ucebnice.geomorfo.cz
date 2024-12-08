@@ -216,24 +216,7 @@ Dekkánské trapy (zdroj: By Planet Labs, Inc –
 </figure>
 
 
-Kontrolní a klíčové otázky, na které bychom měli znát odpověď
-- Jak se může projevit intruzivní magmatismus v georeliéfu?
-- Kde se nacházejí hlavní vulkanické oblasti?
-- Jakým způsobem ovlivňuje složení lávy erupce?
-- Čím je charakteristická tzv. smíšená sopka (stratovulkán)?
-
-
-Další klíčové pojmy k zapamatování 
-- batolit 
-- peň
-- suk 
-- tefra
-- sypaný kužel
-- maar
-- pyroklastický proud 
-- štítová sopka
-- kaldera 
-- trappy
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/2_030-sopky_oo.md" %}
 
 # Zdroje 
 {% bibliography --cited %}

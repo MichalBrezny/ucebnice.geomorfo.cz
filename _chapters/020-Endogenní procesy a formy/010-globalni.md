@@ -159,20 +159,8 @@ Obr. 7 Mapa geologických provincií (USGS, volné dílo, via WikimediaCommons)
 </figcaption>
 </figure>
 
-Kontrolní a klíčové otázky, na které bychom měli znát odpověď
-- Jaké jsou základní části planety Země?
-- Popište teorii deskové tektoniky?
-- Jaké jsou okraje litosférických desek?
-- Jaké struktury vznikají na okrajích litosférických desek?
-- Jaký je rozdíl mezi platformou a štítem?
 
-Další klíčové pojmy k zapamatování 
-- izostáze 
-- glaciizostáze
-- horká skvrna 
-- kraton
-- kontinentální rift 
-- kontinentální pánev
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/2_010-globalni_oo.md" %}
 
 
 # Zdroje 

@@ -110,18 +110,9 @@ Jedna z klasifikací jezer je podle jejich vzniku. Rozlišujeme tak:
 
 Tvar jezerních pánví často odpovídá jejich genezi. Kruhový či oválný tvar mají jezeera vulkanická, závrtová nebo alasová. Jezera vzniklá v důsledku tektonických pohybů mají pravoúhlý tvar. Mrtvá ramena mají srpovitý tvar.
 
-Kontrolní a klíčové otázky, na které bychom měli znát odpověď 
--   Co ovlivňuje geometrii říční sítě?
--   Jakým způsobem řadíme vodní toky?
--   Jaké mohou být příčiny vzniku jezer?
 
 
-Další klíčové pojmy k zapamatování 
-- povodí
-- údolní síť
-- řád toku
-- jezero
-
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/3_040-povodi_oo.md" %}
 
 # Zdroje 
 {% bibliography --cited %}

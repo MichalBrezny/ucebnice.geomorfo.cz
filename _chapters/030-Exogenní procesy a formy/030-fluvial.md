@@ -233,8 +233,8 @@ Co je potřeba, aby vodní tok uvedl do pohybu jednotlivé klasty? Klast ležíc
 Kromě velikosti, hustoty, tvaru klastu hraje při jeho mobilizaci i to, jak je vystaven toku a také na rychlosti proudění nebo přesněji na kritickém tečném napětí. Tzv. Hjulstrømův diagram ([Obr. ](fig:hjulstr)) znázorňuje při jakých rychlostech proudění se částice o dané velikosti začne pohybovat (je vodním tokem stržena), zůstává v pohybu a nebo sedimentuje. Tento diagram vznikl na základě laboratorních experimentů a ve volné přírodě jsou tyto vztahy složitější. Jak je z diagramu patrné, tak nejsnáze jsou erodované částice písku okolo 0.1 mm--0.5 mm. Jílové částice jsou drženy pospolu kohezními silami, proto jsou nutné vyšší rychlosti proudění pro jejich uvedení do pohybu.
 
 <figure class="figure">
-<img src="/assets/obrazky/fluvial/hjulstr.png" alt="Hjulstrømův diagram znázorňující vztah mezi velikostí částice, rychlostí proudění a procesem (upraveno podle Summerfield, 1999)">
-<figcaption>Hjulstrømův diagram znázorňující vztah mezi velikostí částice, rychlostí proudění a procesem (upraveno podle {% cite summerfieldGrainSizeEffects1999 %}).
+<img src="/assets/obrazky/fluvial/hjulstr.png" alt="Hjulstrømův diagram znázorňující vztah mezi velikostí částice, rychlostí proudění a procesem (upraveno podle Summerfield, 1999)" width="100%">
+<figcaption>Hjulstrømův diagram znázorňující vztah mezi velikostí částice, rychlostí proudění a procesem (upraveno podle {% cite summerfieldGlobalGeomorphologyIntroduction1999 %}).
 </figcaption>
 </figure>
 
@@ -246,16 +246,16 @@ Kromě velikosti, hustoty, tvaru klastu hraje při jeho mobilizaci i to, jak je 
 
 ## Způsob fluviálního transportu
 
-Vodní toky transportují materiál ve dvou základních podobách – rozpuštěný ve vodě a v pevném skupenství (klastický materiál) (Obr. [4](#fig: fluvsedtrans){reference-type=„ref“ reference=„fig: fluvsedtrans“}).
+Vodní toky transportují materiál ve dvou základních podobách – rozpuštěný ve vodě a v pevném skupenství (klastický materiál) (Obr. [4](#fig:fluvsedtrans)).
 
-Klastický materiál transportovaný v suspenzi nazýváme *plaveniny* (*suspended load*). V celém profilu vodního toku je koncentrace plavenin stejná, což je způsobené turbulentním prouděním. Plaveniny způsobují zakalení vody. V suspenzi je unášena většina ($70 \%$) z celosvětového množství unášeného materiálu řekami. V nížinných tocích plaveniny tvoří 70 %–95 % celkového objemu transportovaných sedimentů, bystřinné a štěrkonosné toky mají velké rozpětí (20 %–90 %) závislé na dodávce hrubšího materiálu.
+Klastický materiál transportovaný v suspenzi nazýváme *plaveniny* (*suspended load*). V celém profilu vodního toku je koncentrace plavenin stejná, což je způsobené turbulentním prouděním. Plaveniny způsobují zakalení vody. V suspenzi je unášena většina ($70 \%$) z celosvětového množství unášeného materiálu řekami. V nížinných tocích plaveniny tvoří 70 % až 95 % celkového objemu transportovaných sedimentů, bystřinné a štěrkonosné toky mají velké rozpětí (20 % až 90 %) závislé na dodávce hrubšího materiálu.
 
 *Dnové splaveniny* (*bed load*) jsou sedimenty, které se pohybují v kontaktu se dnem. Jednotlivé klasty se mohou sunout, válet se, nebo se pohybují poskakováním – saltací. Dnové splaveniny mají velký
 geomorfologický efekt na koryto. S délkou transportu se zvětšuje opracování jednotlivých klastů (z ostrohranných se stávají zaoblené). Obecně také platí, že s délkou transportu a s délkou vodního toku se zmenšuje průměr částic. 
 
-<figure>
+<figure id=fig:fluvsedtrans>
 <img src="/assets/obrazky/fluvial/fluv_sed_trans.png">
-<figcaption>Fluviální transport klastických sedimentů. Rozpuštěné látky nejsou zobrazeny (upraveno podle {% cite charltonFundamentalsFluvialGeomorphology2007 %}).
+<figcaption>Obr. 4 Fluviální transport klastických sedimentů. Rozpuštěné látky nejsou zobrazeny (upraveno podle {% cite charltonFundamentalsFluvialGeomorphology2007 %}).
 </figcaption>
 </figure>
 
@@ -297,7 +297,7 @@ Podle sinuosity (poměr mezi délkou koryta k délce údolnice) rozlišujeme:
 
 ### Meandrující toky
 
-Meandrující toky jsou patrně nejrozšířenější formou. Jedná se o řeky, které se rozličně klikatí krajinou. Meandrující toky mají sinusoitu větší než $1,5$ [@huggettFundamentalsGeomorphology2017]. Vlnová délka meandrů je přímo závislá na šířce koryta. Větší toky mají i větší vlnovou délku meandrů. Do tohoto vztahu vstupují ale i další faktory jako je například materiál aluvia.
+Meandrující toky jsou patrně nejrozšířenější formou. Jedná se o řeky, které se rozličně klikatí krajinou. Meandrující toky mají sinusoitu větší než $1,5$ {% cite huggettFundamentalsGeomorphology2017 %}. Vlnová délka meandrů je přímo závislá na šířce koryta. Větší toky mají i větší vlnovou délku meandrů. Do tohoto vztahu vstupují ale i další faktory jako je například materiál aluvia.
 
 Meandry vznikají rozkmitáním proudnice a díky přítomnosti sekundárního tzv. heliakálního proudění. Toto proudění zvyšuje erozi na nárazovém *výsepním* břehu a napomáhá sedimentaci na vnitřním *jesepním* břehu.
 
@@ -427,28 +427,8 @@ Commons)">
 </figure>
 
 
-### Kontrolní a klíčové otázky, na které bychom měli znát odpověď
-- Jaký je rozdíl mezi turbulentním a laminárním prouděním?
-- Jakým způsobem můžeme rozdělit fluviální erozi?
-- Co je třeba aby se klasty daly do pohybu?
-- Jak se projeví snížení nebo naopak zvýšení erozní báze?
-- Jaký materiál je unášen ve vodním toku?
-- Jaké základní typy koryt existují a čím jsou charakteristické?
-- Jaké další formy reliéfu souvisejí s vodními toky?
 
-
-Další klíčové pojmy k zapamatování
-- Reynoldsovo číslo
-- viskozita
-- Freudeho číslo
-- průtok
-- plaveniny
-- dnové splaveniny
-- jesep
-- výsep
-- náplavový kužel
-- říční terasa
-
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/3_030-fluvial_oo.md" %}
 
 # Zdroje 
 {% bibliography --cited %}

@@ -94,21 +94,9 @@ Obr. 2 Četnost zemětřesení (zdroj: IRIS.edu)
 </figure>
 
 
-### Kontrolní a klíčové otázky, na které bychom měli znát odpověď
--   Vysvětlete pojmy proces a forma. Jak spolu souvisí?
--   V jakých měřítcích se můžeme zabývat georeliéfem?
--   Jak se projevuje zákon o zachování hmoty v rámci georeliéfu?
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/1_02-zakl_konc_oo.md" %}
 
 
-### Další klíčové pojmy k zapamatování 
-- proces 
-- forma
-- endogenní
-- exogenní
-- denudace
-- eroze
-- magnitudo
-- frekvence
 
 # Zdroje 
 {% bibliography --cited %}

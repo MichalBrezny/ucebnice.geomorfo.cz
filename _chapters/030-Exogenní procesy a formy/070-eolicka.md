@@ -112,9 +112,7 @@ Pokud je území vystaveno dvěma převládajícím směrům větru (polovinu ro
 </figure>
 
 
-*Hvězdicové duny* jsou v oblastech s velkou variabilitou větru. Jedná se
-o rozsáhlá tělesa o výšce až 300 m. Duna se skládá z menších "ramen",
-které jednotlivým směrům větru.
+*Hvězdicové duny* jsou v oblastech s velkou variabilitou větru. Jedná se o rozsáhlá tělesa o výšce až 300 m. Duna se skládá z menších "ramen", které jednotlivým směrům větru.
 
 <figure id="fig:volneduny">
 <img src="/assets/obrazky/eolicka/volne_duny.png" style="width:100.0%" />
@@ -126,7 +124,9 @@ rovnoměrném rozložení v ploše) a variabilitě směru větru (upraveno podle
 ## Vázané duny
 
 Jako *vázané duny* označujeme takové, které jsou přikotvené k nějaké překážce růyného tvaru a velikosti. *Nebkha* je duna, která vázaná na vegetaci zachytávající zrnka prachu, písku, ale i větších klastů. Velikost nebkhy může být od centimetrů (v iniciálních stádiích) až po více jak 10 m. Podoba vegetace, na kterou jsou nebkhy vázané, silně ovlivňuje jejich morfologii.
+
 *Vyváté deprese* (*blowouts*) jsou prohlubně rozličných tvarů. Nachází se v oblastech pokrytých sporadickou vegetací.
+
 *Parabolické duny* mohou vznikat po větru od vyvátých depresí. V půdorysu připomínají písmeno 'U' nebo 'V'. Narozdíl od barchanů jsou jejich výběžky otočené proti směru větru. *Lunety* jsou duny vznikají na okrajích jezer, playas. Jsou tvořeny
 zejména jílovou frakcí s variabilní příměsí písčité frakce. Jedná se o sedimenty vyváté ze dna bývalých jezer.
 
@@ -148,18 +148,8 @@ Spraš je významným kvartérním sedimentem nejen střední Evropy. Díky zach
 </figcaption>
 </figure>
 
-### Kontrolní a klíčové otázky, na které bychom měli znát odpověď
-- Jak silným erozním činitelem je vítr?
-- Které částice jsou nejlépe větrem unášeny?
-- Co ovlivňuje podobu písečných dun?
 
-### Další klíčové pojmy k zapamatování
-- deflace
-- hranec
-- jardangy
-- skalní hřib
-- vázané duny
-- spraš
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/3_070-eolicka_oo.md" %}
 
 
 # Zdroje 

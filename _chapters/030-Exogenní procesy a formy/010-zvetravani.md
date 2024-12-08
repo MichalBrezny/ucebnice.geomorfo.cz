@@ -90,16 +90,8 @@ Zvětrávání v důsledku činnosti organismů může mít charakter fyzikáln�
 Produktem zvětrávání je zvětralinová pokrývka. Její podoba je odvislá na typu zvětrávání. Fyzikální zvětrávání produkuje hrubší, ostrohranný materiál a naopak produkty chemického zvětrávání jsou daleko jemnější a mají hlinitojílovitý charakter. Mocnost zvětralinové pokrývky souvisí s charakterem podnebí, délce zvětrávání a samozřejmě s odolností horniny. Na svazích je mocnost zvětraliny menší než na rovinách. Zvětralinu, která je na místě svého vzniku (*in situ*) označujeme jako *saprolit*, naopak zvětralina, která je gravitačně přesouvána z vyšších částí svahu se nazývá *regolit*.
 
 
-Kontrolní a klíčové otázky, na které bychom měli znát odpověď
-- Co je základem fyzikálního zvětrávání?
-- K čemu dochází při chemickém zvětrávání?
 
-Další klíčové pojmy k zapamatování
-- oxidace
-- redukce
-- laterit
-- saprolit
-- regolit
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/3_010-zvetravani_oo.md" %}
 
 # Zdroje 
 {% bibliography --cited %}

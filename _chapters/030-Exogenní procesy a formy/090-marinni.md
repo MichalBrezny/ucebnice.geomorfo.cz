@@ -250,31 +250,7 @@ Ledovcové příkrovy během glaciálů v sobě zadržovly obrovské objemy vod
 
 Relativní hladinu moře může ovlivnit i člověk svou činností. Například čerpání podzemní vody v pobřežních oblastech způsobuje poklesy pevniny v důsledku konsolidace sedimentů ve zvodních. Poklesem pobřeží se relativně zvyšuje hladina moře a dochází k zaplavování souše.
 
-Kontrolní a klíčové otázky, na které bychom měli znát odpověď
-- Co je hlavním morfogenetickým činitelem na pobřeží?
-- Jak vzniká vlnění?
-- Kdy vlny mají největší geomorfologický účinek?
-- Co je to delta? Jak vzniká a jaké faktory hrají roli při jejím vývoji?
-- Jaké mohou být příčiny změny výšky mořské hladiny resp. hladiny světového oceánu?
-
-Další klíčové pojmy k zapamatování 
-- litorální zóna 
-- pobřežní čára
-- refrakce 
-- příboj
-- tsunami (cunami) 
-- vlnové proudy
-- abraze 
-- pláž
-- písečná kosa 
-- přílivová plošina
-- delta 
-- estuár
-- korálové útesy
-- atol
-- transgrese a regrese
-- eustatické pohyby
-
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/3_090-marinni_oo.md" %}
 
 # Zdroje 
 {% bibliography --cited %}

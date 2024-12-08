@@ -170,27 +170,9 @@ sněžníku
 Skalní ledovce jsou tvary tvořené sutí a ledem. Často se jedná o terminální stádia horských ledovců. 
 
 
-Kontrolní a klíčové otázky, na které bychom měli znát odpověď
-
--   Co je to permafrost a jak je definován?
--   Co je to aktivní vrstva? Čím je charakteristická?
--   K čemu může docházet v důsledku zamrzání a tání vody?
--   Co je to degradace permafrostu? Jaké tvary reliéfu s tím souvisejí?
 
 
-Další klíčové pojmy k zapamatování 
-- epigenetický a syngenetický
-- permafrost
-- aktivní vrstva
-- talik
-- půdní led
-- kryoturbace
-- soliflukce
-- pingo
-- alas
-- mrazový srub 
-- nivace
-
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/3_060-periglac_oo.md" %}
 
 # Zdroje 
 {% bibliography --cited %}

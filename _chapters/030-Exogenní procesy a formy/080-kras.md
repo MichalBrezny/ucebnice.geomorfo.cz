@@ -155,24 +155,9 @@ Výplň jeskyně může být tvořena materiálem, který byl do ní naplaven zv
 Do stropních speleotémů patří *brčka* (*straw stalaktite*), které jsou základním tvarem stalaktitu, samotné *stalaktity*, ale i další formy jako např. záclony a závěsy. Z kapek vody, která dopadá na podlahu vznikají podlahové speleotémy. Rostou směrem vzhůru. Zde patří *stalagmity*. Spojením proti sobě rostoucího stalaktitu a stalagmitu vzniká *stalagnát*. Na podlahách jeskyň ale můžeme najít i další tvary jako např sintrové hráze, sintrové náteky, sintrové kupy či gejzírové stalagmity. Stěny jeskyň jsou pokryté různými sintrovými povlaky, vodopády, výkvěty, štíty. Mezi volné sintrové tvary se řadí jeskynní perly, vápencové škraloupy.
 
 
-Kontrolní a klíčové otázky, na které bychom měli znát odpověď
-- Co je to krasovění?
-- Jaké faktory ovlivňují dynamiku krasových procesů?
-- Jaký je rozdíl mezi syngenetickou a epigenetickou jeskyní?
-
-Další klíčové pojmy k zapamatování
-- škrapy
-- závrt
-- uvala
-- polje
-- tropický kras
-- cockpit
-- mogot
-- stalaktit
-- stalagmit
-- stalagnát
 
 
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/3_080-kras_oo.md" %}
 
 # Zdroje 
 {% bibliography --cited %}

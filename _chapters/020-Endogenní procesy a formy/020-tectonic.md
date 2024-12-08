@@ -169,11 +169,11 @@ Rozlišujeme *antiklinálu*, což je část, která je vyklenutá vzhůru a *sy
 <figure>
 <img src="/assets/obrazky/tectonic/fold_parts.png" width="300"/>
 </figure>
-<figcaption>Části vrásy (Upraveno podle Brews Ohare, CC BY-SA3.0)
+<figcaption>Obr. 6 Části vrásy (Upraveno podle Brews Ohare, CC BY-SA3.0)
 </figcaption>
 </figure>
 
-Vrásy dělíme podle osní roviny na:
+Vrásy dělíme podle osní roviny na ([Obr. 7](#fig:typy_vras)):
 -   vzpřímené
 -   ukloněné
 -   převrácené
@@ -185,6 +185,17 @@ Další dělení vrás je podle sevřenosti jejich ramen:
 -   sevřené
 -   zavřené
 -   izoklinální
+
+
+<figure id="fig:typy_vras">
+<figure>
+<img src="/assets/obrazky/tectonic/typy_vras.gif" width="300"/>
+</figure>
+<figcaption>Obr. 7 Druhy vrás: 1 - přímá vrása, šikmá, 3 - překocená (střední rameno je překocené), 4 - ležatá, 5 - ponořená. Osní plocha je čárkovanou čarou.  (Autor: Prof. Jan Petránek, Převzato z 
+<a href="http://www.geology.cz/aplikace/encyklopedie/term.pl?o=244">Online geologické encyklopedie)
+</a>
+</figcaption>
+</figure>
 
 Vrásy také můžeme rozdělit na symetrické a nesymetrické. V případě prohnuté osy vrásy hovoříme o tzv. brachyantiklinálách a brachysynklinálách.
 
@@ -243,25 +254,8 @@ Kuesty se často nacházejí ve skupinách a jejich počet odpovídá počtu odo
 
 Při větším sklonu vrstev (7 °--40 °) vznikají asymetrické hřbety označované jako *homoklinální*. Při sklonu nad 40 ° pak *kozí hřbety*, které mohou být v příčnem profilu již symetrické ([Obr. ](#fig:strukturnitvary)).
 
-Kontrolní a klíčové otázky, na které bychom měli znát odpověď
--   Jak odlišíme nadložní a podložní kru?
--   K čemu dochází z hlediska mocnosti zemské kůry při poklesu a co při
-    násunu?
--   Jakým způsobem mohou zlomy s horizontální složkou pohybu ovlivnit
-    říční síť?
--   Vysvětlete inverzi reliéfu. Proč k ní dochází?
--   Jakým způsobem ovlivňuje uložení sedimentárních hornin georeliéf?
 
-Další klíčové pojmy k zapamatování 
-- zlom
-- puklina
-- vrása 
-- přesmyk
-- pokles, násun
-- mesa, kuesta
-- kozí hřbet 
-- inverze reliéfu
-
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/2_020-tectonic_oo.md" %}
 
 # Zdroje 
 {% bibliography --cited %}

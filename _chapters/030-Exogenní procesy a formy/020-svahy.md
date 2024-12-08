@@ -22,7 +22,7 @@ Tři základní segmenty svahu.
 </figcaption>
 </figure>
 
-Pojmenováním jednotlivých částí svahu se zabývala celá řada autorů. {% cite=dalrympleHypotheticalNineUnit1968 %} rozdělili svah
+Pojmenováním jednotlivých částí svahu se zabývala celá řada autorů. {% cite dalrympleHypotheticalNineUnit1968 %} rozdělili svah
 do osmi částí:
 
 1. rozvodní část svahu o sklonu 0°–1°
@@ -120,7 +120,7 @@ podle {% cite gladeLandslideGeomorphologyChanging2010 %})
 <figure>
 <img src="/assets/obrazky/svahy/time_stability.png" style="width:1000%"/>
 <figcaption>
-  Vývoj stability dvou hypotetických svahů. Přípravné faktory (PF)postupně nebo nárazově snižují stabilitu svahu (snižují pevnost vesmyku). Spouštěcí faktory (triggery -- T) jsou ty, které sníží pevnostve smyku tak, že faktor bezpečnosti $ \leq 1$ (upraveno podle {% cite popescuSuggestedMethodReporting1994 %} a {% cite mcollLandslideCausesTriggers2015 %})
+  Vývoj stability dvou hypotetických svahů. Přípravné faktory (PF)postupně nebo nárazově snižují stabilitu svahu (snižují pevnost vesmyku). Spouštěcí faktory (triggery -- T) jsou ty, které sníží pevnostve smyku tak, že faktor bezpečnosti $ \leq 1$ (upraveno podle {% cite popescuSuggestedMethodReporting1994 %} a {% cite mccollLandslideCausesTriggers2015 %})
 </figcaption>
 <label for="fig:timestability"> </label>
 </figure>
@@ -312,7 +312,7 @@ Svahové pohyby rozdělují do následujících šesti skupin:
 
 ### Řícení
 
-*Řícení* (*fall*) je nejrychlejším gravitačním procesem, kdy rychlost pohybu činí řádově m s^−1^. K řícení dochází na strmých svazích ($>45 °$). Pohyb hmoty je alespoň v části trajektorie realizován volným pádem a následně se horninové
+*Řícení* (*fall*) je nejrychlejším gravitačním procesem, kdy rychlost pohybu činí řádově m/s. K řícení dochází na strmých svazích ($>45 °$). Pohyb hmoty je alespoň v části trajektorie realizován volným pádem a následně se horninové
 fragmenty kutálejí či poskakují. Řícení můžeme rozlišit podle materiálu, který se účastní pohybu na: skalní řícení, suťové řícení a řícení v zeminách (spraši).
 
 Řícení může nabývat celé řady podob. *Sesypávání* probíhá nejčastěji v zeminách. Dále může docházet k *odpadávání úlomků* ze skalních výchozů. Na úpatí skalní stěny se tvoří osypy (*talus*). *Odvalové řícení* je způsobeno odkláněním bloku (viz níže), kdy po překročení kritické meze dojde k jeho kolapsu. *Planární řícení* zahrnuje podobně jako odvalové řícení větší masu horniny. V iniciální fázi dochází k sesouvání horniny podél planární smykové plochy a až následně dojde k pohybu volným pádem a tedy řícení. Jedná se často o velké katastrofické události.
@@ -481,8 +481,7 @@ Podle aktivity rozlišujeme sesuvy na *aktivní* (živý), kdy právě dochází
 
 Propojení vodních toků a svahů je důležité z důvodu chodu sedimentů.
 
-Způsob jakým jsou sesuvy a další gravitační procesy propojené s vodními toky lze rozdělit do pěti skupin []{.citation
-cites="korupGeomorphicImprintLandslides2005"}.
+Způsob jakým jsou sesuvy a další gravitační procesy propojené s vodními toky lze rozdělit do pěti skupin {% cite korupGeomorphicImprintLandslides2005 %}.
 
 1. Plošné – rozsáhlé rozsáhlých svahových deformací, které překračují jednotlivá rozvodí
 2. Liniové – sesuv ve svém pohybu pokračuje v údolí ve vodním toku. Dojde například k tranformaci sesuvu na blokovobahenní proud apod
@@ -525,21 +524,8 @@ Intenzivní a člověkem urychlená eroze ze svahů (např. odlesněním, špa
 
 *Sufoze* je proces při kterém dochází k odnosu částic pod povrchem. Voda se dostává do podloží a následně soustavou drobných tunelů (*pipes*) odtéká a odplavuje materiál. Sufoze nemusí být na povrchu patrná. Postupným zvětšováním tunelů ale následně může docházet ke kolapsům povrchů a vznikají „závrty“. V některých místech mohou tunely ústit na povrch a vytvářejí tak otevřené kanály, kde se na úpatí ukládá vyplavený materiál. Sufoze tak může předcházet následnému rozvoji strží.
 
-Kontrolní a klíčové otázky, na které bychom měli znát odpověď
-- Jaké síly působí na svah? Jak jejich rozložení ovlivňuje sklon svahu?
-- Jaké faktory ovlivňují stabilitu svahu?
-- Co může snížit nebo naopak zvýšit stabilitu svahu?
-- Jaké základní typy svahových pohybů existují?
-- Jak moho sesuvy interagovat s vodními toky?
-- Co to jsou difuzní procesy? Jaký mají efekt na svahu?
 
-Další klíčové pojmy k zapamatováníS
-- normálové a smykové napětí
-- pevnost ve smyku
-- úhel vnitřního tření
-- koheze
-- ron sufoze
-
+{% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/3_020-svahy_oo.md" %}
 
 # Zdroje 
 {% bibliography --cited %}

@@ -1,8 +1,9 @@
 
+- Jaké faktory ovlivňují rychlost zvětrávání?
 - Co je základem fyzikálního zvětrávání?
 - K čemu dochází při chemickém zvětrávání?
 
-Další klíčové pojmy k zapamatování
+Další klíčové pojmy k zapamatování:
 
 | Termín      | Popis                                                                                       |
 |-------------|------------------------------------------------------------------------------------------------|

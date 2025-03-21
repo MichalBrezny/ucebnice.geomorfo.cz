@@ -346,7 +346,6 @@ Tvar údolí je výsledkem vztahu mezi lineární erozí vodního toku a vývoje
 </figcaption>
 </figure>
 
-
 ## Vodní toky a morfostruktura
 
 Vodní toky můžeme rozdělit podle jejich vztahu k morfostruktuře. @demekObecnaGeomorfologie1987 rozlišuje *konsekventní toky*, které mají směr toku určený původním sklonem georeliéfu. Tento typ vodních toků zpravidla není závislý na morfostruktuře. *Subsekventní toky* jsou vázané na méně odolné horniny nebo na tektonické linie. Jejich směr je shodný se směrem a úklonem vrstev nebo shodný s průběhem tektonických  linií. *Resekventní toky* mají stejný směr jako konsekventní. Nacházejí se ale na erozním případně strukturním povrchu nižší úrovně než konsekventní toky. *Obsekventní toky* mají směro opačný než je generelní sklon povrchu krajiny. Tento typ toků je často vázán na tektonické linie. *Insekventní toky* nejsou nijak závislé na morfostruktuře či původním sklonu.
@@ -403,6 +402,17 @@ Ukládání sedimentů v nivě probíhá vertikální a boční akrecí. K *vert
 ## Říční terasy
 
 *Říční terasy* (*river terraces*) jsou zbytky údolních den, které se nacházejí v různých výškách nad současným vodním tokem. Vznikly v důsledku zahloubení toku. Říční terasa se skládá z plošiny terasy a terasového stupně. *Plošina terasy* je zbytek povrchu staré nivy. *Terasový stupeň (svah)* odděluje terasu od současné nivy nebo terasy jiné úrovně. Terasy dělíme na skalní terasy (strath) a aluviální terasy. *Skalní (strath) terasy* mají jen tenkou pokrývku ze sedimentů a jsou erozního původu. Terasy v aluviu mohou být akumulační a erozní.*Akumulační terasy* jsou zbytky údolní nivy, které vodní tok prořízly až na skalní podklad. Pokud se vodní tok neproeroduje až na skalní podloži, vznikají *vložené erozní terasy*. Dále se terasy dělí na *párové* (vyskytují se na obou stranách údolí) a *nepárové* (je pouze na jedné straně údolí). Vznik teras je ovlivněn změnami klimatu, oscilací erozních bází nebo tektonickou aktivitou.
+
+
+<figure>
+<img src="/assets/obrazky/fluvial/parove_terasy.png" alt="Párové říční terasy">
+<figcaption>Meandrující řeka. (USGS, volné dílo)
+</figcaption>
+</figure>
+
+
+
+
 
 ## Náplavový kužel
 

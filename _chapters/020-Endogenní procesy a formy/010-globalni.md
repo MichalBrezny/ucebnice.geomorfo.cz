@@ -115,7 +115,7 @@ Zjednodušeně lze říct, že litosféra plave na astenosféře podobně jako p
 <figure id="fig:isostasy"> 
 <img src="/assets/obrazky/globalni/isostasy.jpg" alt="Prattův a Airyho model izostáze." />
 <figcaption>
-Obr. 5 Prattův a Airyho model izostáze. (Zdroj: [](https://www.geological-digressions.com/isostasy-a-lithospheric-balancing-act/))
+Obr. 5 Prattův a Airyho model izostáze. (Zdroj: [https://www.geological-digressions.com/isostasy-a-lithospheric-balancing-act/](https://www.geological-digressions.com/isostasy-a-lithospheric-balancing-act/))
 </figcaption>
 </figure>
 
@@ -135,8 +135,14 @@ Obr. 6 Diagram zobrazující Havajskou horkou skvrnu (Autor Joel E. Robinson, US
 
 ## Globální hypsometrie
 
-Histogram nadmořských výšek (a hloubek) má bimodální charakter. První
-vrchol odpovídá oceánským pánvím, druhý kontinentálním platformám.
+Histogram nadmořských výšek (a hloubek) má bimodální charakter. První vrchol odpovídá oceánským pánvím, druhý kontinentálním platformám.
+
+<figure>
+<img src="/assets/obrazky/globalni/Earth_elevation_histogram_2.svg" alt="Histogram nadmořských výšek a hloubek." />
+<figcaption>
+Obr. 7 Histogram nadmořských výšek a hloubek. (Zdroj: Citynoise at English Wikipedia, Public domain, via Wikimedia Commons)
+</figcaption>
+</figure>
 
 ## Megaformy
 
@@ -155,7 +161,7 @@ Centrální části kontinentů se skládají z kratonů. *Kraton* je stará a�
 <figure>
 <img src="/assets/obrazky/globalni/World_geologic_provinces.jpg" alt="Mapa geologických provincií (USGS, volné dílo, via WikimediaCommons)">
 <figcaption>
-Obr. 7 Mapa geologických provincií (USGS, volné dílo, via WikimediaCommons)
+Obr. 8 Mapa geologických provincií (USGS, volné dílo, via WikimediaCommons)
 </figcaption>
 </figure>
 

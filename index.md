@@ -35,6 +35,7 @@ Líbí se vám tato učebnice? Podpořte mě na [Ko-fi](https://ko-fi.com/michal
 
 
 ## Hlavní změny v učebnici:
+- 2024-12-16 změna designu v otázkách a odpovědích, vnitřní úpravy kódu
 - 2024-08-21 přidání odkazů, opraveno pár chybek a překlepů
 - 2024-07-26 úprava textu, a kódu po převodu do Markdownu na webové stránky
 

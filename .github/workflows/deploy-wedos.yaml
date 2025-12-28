@@ -1,0 +1,30 @@
+name: Deploy to WEDOS (FTPS)
+
+on:
+  push:
+    branches: ["site"]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (site branch)
+        uses: actions/checkout@v4
+
+      - name: Upload via FTPS to WEDOS
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: ${{ secrets.WEDOS_FTP_SERVER }}
+          username: ${{ secrets.WEDOS_FTP_USERNAME }}
+          password: ${{ secrets.WEDOS_FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+
+          server-dir: /www/domains/ucebnice.geomorfo.cz/
+          local-dir: ./
+
+          exclude: |
+            **/.git*
+            **/.github/**
+            **/.devcontainer/**
+            **/README*

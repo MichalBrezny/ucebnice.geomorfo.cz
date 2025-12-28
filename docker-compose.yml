@@ -2,7 +2,6 @@
 services:
   jekyll:
     image: geomorfo/jekyll
-    build: .
     ports:
       - 8090:8090
       - 35730:35730
@@ -10,3 +9,7 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+
+build:
+  image: geomorfo/jekyll
+  

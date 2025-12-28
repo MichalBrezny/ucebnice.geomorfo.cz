@@ -3,6 +3,11 @@
 {
   "name": "Jekyll",
   "image": "mcr.microsoft.com/devcontainers/jekyll",
+  
+  "mounts": [
+  "source=${localWorkspaceFolder}/../ucebnice.geomorfo.cz-site,target=/workspaces/ucebnice.geomorfo.cz-site,type=bind"
+]
+
 
   // Features to add to the dev container. More info: https://containers.dev/features.
   "features": {

@@ -216,44 +216,47 @@ Vyklenutím hornin vzhůru vznikají *klenby*. Jedná se o velká tělesa ovál
 
 Vztah mezi zvrásněným podložím a georeliéfem může nabývat celé řady podob. Vrásy vytvářejí *vrásová pohoří*. Vazba mezi reliéfem a strukturou může být *přímá* – v místě antiklinály se nachází hřbet a v místě synklinály údolí.
 
-Jednoduchá vrásová pohoří jsou tvořená vrásami, které mají jen minimálně zvlněné osy. Tvoří paralelně probíhající soustavu hřbetů a údolí. Takový typ pohoří je označován jako jurský typ reliéfu (podle pohoří Jura ve Švýcarsku). Dalším příkladem je pohoří Zagros v Íránu([Obr.5](#fig:zagros)).
+Jednoduchá vrásová pohoří jsou tvořená vrásami, které mají jen minimálně zvlněné osy. Tvoří paralelně probíhající soustavu hřbetů a údolí. Takový typ pohoří je označován jako jurský typ reliéfu (podle pohoří Jura ve Švýcarsku). Dalším příkladem je pohoří Zagros v Íránu([Obr. 8](#fig:zagros)).
 
-Při značném zvlnění os vrás, vznikají složitá vrásová pohoří tvořená soustavou brachyantiklinál a brachysynklinál. Tento typ se označuje jako Apalačský podle pohoří v USA ([Obr.6](fig:apalachian)).
+Při značném zvlnění os vrás, vznikají složitá vrásová pohoří tvořená soustavou brachyantiklinál a brachysynklinál. Tento typ se označuje jako Apalačský podle pohoří v USA ([Obr. 9](#fig:apalachian)).
+
 
 <figure id="fig:zagros">
 <img src="/assets/obrazky/tectonic/zagros.jpg" />
-<figcaption>Pohoří Zagros (zdroj Google Earth)</figcaption>
+<figcaption>Obr. 8 Pohoří Zagros (zdroj Google Earth)
+</figcaption>
 </figure>
 
 <figure id="fig:apalachian">
 <img src="/assets/obrazky/tectonic/apalachian.jpg" />
-<figcaption>Apalačské pohoří v USA (zdroj Google Earth)</figcaption>
+<figcaption>Obr. 9 Apalačské pohoří v USA (zdroj Google Earth)
+</figcaption>
 </figure>
 
 Velice často je s vrásami spojená tzv. *inverze reliéfu*. Horniny v ose antiklinály jsou značně tektonicky porušené (rozpukané), jsou tedy i náchylnější k erozi. Dlouhodobým vývojem reliéfu tak dochází k oderodování antiklinály a vzniku *antiklinálního údolí*, kdežto v místech synklinál je z důvodu pomalejší eroze elevace.
 
 # Strukturní reliéf
-<figure id="strukturnitvary"> 
+
+<figure id="fig:strukturnitvary"> 
 <img src="/assets/obrazky/tectonic/strukturni_tvary.png" style="width:100.0%">
 <figcaption>
-Strukturní reliéf -- tvary na horizontálních a ukloněných vrstvách. Horizontální vrstvy -- strukturní tabule, stolová hora a odlehlík. Ukloněné vrstvy -- kuesta, homoklinální hřbet a kozí hřbet. Označené jsou i základní typy vodních toků. Konsekventní -- ve směru sklonu vrstev, subsekventní -- po směru vrstev a obsekventní -- proti směru sklonu vrstev. Tmavě šedé pásy vyznačují polohy odolných hornin (upraveno podle {% cite huggettFundamentalsGeomorphology2007 %})
+Obr. 10 Strukturní reliéf -- tvary na horizontálních a ukloněných vrstvách. Horizontální vrstvy -- strukturní tabule, stolová hora a odlehlík. Ukloněné vrstvy -- kuesta, homoklinální hřbet a kozí hřbet. Označené jsou i základní typy vodních toků. Konsekventní -- ve směru sklonu vrstev, subsekventní -- po směru vrstev a obsekventní -- proti směru sklonu vrstev. Tmavě šedé pásy vyznačují polohy odolných hornin (upraveno podle {% cite huggettFundamentalsGeomorphology2007 %})
 </figcaption>
 </figure>
 
 ## Horizontálně uložené vrstvy
 
 Sedimentární horniny, které nebyly postižené vrásněním mají zpravidla horizontálně až subhorizontálně uložené vrstvy. Fluviální erozí a svahovými procesy se v takových oblastech vyvíjí *strukturní tabule* (*plateaux*), což jsou rozsáhlé ploché elevace, které jsou od svého
-okolí oddělené strmými svahy. Postupným rozrušováním tabule vznikají plošně menší *stolové hory* (*mesa*), *svědecké vrchy* až *odlehlíky* (*butte*) a úzké, vysoké *skalní jehly* (*pinnacles)*. Důležitou podmínkou je přítomnost odolnějších hornin v nadloží (*caprock*) které brání celkové erozi ([Obr. ](#fig:strukturnitvary)).
+okolí oddělené strmými svahy. Postupným rozrušováním tabule vznikají plošně menší *stolové hory* (*mesa*), *svědecké vrchy* až *odlehlíky* (*butte*) a úzké, vysoké *skalní jehly* (*pinnacles)*. Důležitou podmínkou je přítomnost odolnějších hornin v nadloží (*caprock*) které brání celkové erozi ([Obr. 10](#fig:strukturnitvary)).
 
 V oblastech, kde je časté střídání tvrdých (odolných) a měkkých (málo odolných) vrstev, se vyvíjejí *strukturní stupňoviny*. Kdy odolné vrstvy tvoří stupně -- *strukturní terasy*.
 
 ## Ukloněné vrstvy
 
-Na ukloněných horninách (do 7 °), které mají různou odolnost, se vyvíjejí asymetrické hřbety -- *kuesty* ([Obr.](#fig:strukturnitvary)). Čelo kuesty je strmé a vzniklo erozí ukloněných vrstev. Týlní svah je mírný a odpovídá sklonu vrstev ("dipslope").
+Na ukloněných horninách (do 7 °), které mají různou odolnost, se vyvíjejí asymetrické hřbety -- *kuesty* ([Obr. 10](#fig:strukturnitvary)). Čelo kuesty je strmé a vzniklo erozí ukloněných vrstev. Týlní svah je mírný a odpovídá sklonu vrstev ("dipslope").
 Kuesty se často nacházejí ve skupinách a jejich počet odpovídá počtu odolných vrstev. 
 
-Při větším sklonu vrstev (7 °--40 °) vznikají asymetrické hřbety označované jako *homoklinální*. Při sklonu nad 40 ° pak *kozí hřbety*, které mohou být v příčnem profilu již symetrické ([Obr. ](#fig:strukturnitvary)).
-
+Při větším sklonu vrstev (7 °--40 °) vznikají asymetrické hřbety označované jako *homoklinální*. Při sklonu nad 40 ° pak *kozí hřbety*, které mohou být v příčnem profilu již symetrické ([Obr. 10](#fig:strukturnitvary)).
 
 {% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/2_020-tectonic_oo.md" %}
 

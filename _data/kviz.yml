@@ -1,0 +1,253 @@
+# Geomorfologický kvíz - datový soubor
+# Struktura otázky:
+#   id: unikátní identifikátor (string)
+#   kategorie: kategorie otázky (odpovídá kapitolám učebnice)
+#   obtiznost: 1 (lehká) | 2 (střední) | 3 (těžká)
+#   typ: "foto" | "hillshade" | "schema" | "text"
+#   otazka: text otázky
+#   obrazek: cesta k obrázku (relativní od /assets/kviz/img/) - nepovinné
+#   obrazek_popis: popisek/credit k obrázku - nepovinné
+#   moznosti:
+#     - text: text možnosti
+#       spravne: true/false
+#   vysvetleni: text vysvětlení po zodpovězení
+
+otazky:
+
+  # === SVAHOVÉ PROCESY ===
+  - id: svahy_001
+    kategorie: Svahové procesy
+    obtiznost: 1
+    typ: foto
+    otazka: "Jaký typ svahového pohybu je zachycen na fotografii?"
+    obrazek: svahy_rotacni_sesuv.jpg
+    obrazek_popis: "Rotační sesuv, Beskydy. Foto: M. Břežný"
+    moznosti:
+      - text: Rotační sesuv
+        spravne: true
+      - text: Planární sesuv
+        spravne: false
+      - text: Soliflukce
+        spravne: false
+      - text: Kamenitá lavina
+        spravne: false
+    vysvetleni: "Rotační sesuv se vyznačuje zakřivenou smykovou plochou a charakteristickým zpětným sklonem odlučné stěny. Těleso sesuvu se pohybuje rotačně kolem horizontální osy."
+
+  - id: svahy_002
+    kategorie: Svahové procesy
+    obtiznost: 2
+    typ: hillshade
+    otazka: "Identifikujte geomorfologickou formu označenou šipkou na hillshadu."
+    obrazek: svahy_sackung_hillshade.jpg
+    obrazek_popis: "Hillshade z LiDAR DEM, Hrubý Jeseník. Zdroj: ČÚZK"
+    moznosti:
+      - text: Hřbetní příkop (sackung)
+        spravne: true
+      - text: Erozní rýha
+        spravne: false
+      - text: Morénový val
+        spravne: false
+      - text: Říční terasa
+        spravne: false
+    vysvetleni: "Hřbetní příkopy (sackung, DSGDs) jsou charakteristické lineární deprese rovnoběžné s hřbetem, vznikají pomalou gravitační deformací celého svahu. Na hillshadu jsou typicky viditelné jako protáhlé záhyby nebo příkopy podél hřebene."
+
+  - id: svahy_003
+    kategorie: Svahové procesy
+    obtiznost: 2
+    typ: text
+    otazka: "Který z následujících procesů NENÍ řazen mezi rychlé svahové pohyby (dle Varnesovy klasifikace)?"
+    moznosti:
+      - text: Soliflukce
+        spravne: true
+      - text: Kamenitá lavina (rock avalanche)
+        spravne: false
+      - text: Bahnotok (debris flow)
+        spravne: false
+      - text: Řícení (fall)
+        spravne: false
+    vysvetleni: "Soliflukce je pomalý svahový proces (mm–cm/rok) typický pro periglaciální prostředí, kde saturovaná půda pomalu tečuje přes permafrost nebo zmrzlý podklad. Kamenitá lavina, bahnotok a řícení patří mezi rychlé až velmi rychlé pohyby."
+
+  - id: svahy_004
+    kategorie: Svahové procesy
+    obtiznost: 3
+    typ: hillshade
+    otazka: "Odhadněte relativní stáří sesuvů A a B na hillshadu. Který je starší a proč?"
+    obrazek: svahy_reliktni_sesuv.jpg
+    obrazek_popis: "Hillshade LiDAR, Vsetínské vrchy. Zdroj: ČÚZK"
+    moznosti:
+      - text: "A je starší – má zaoblenější morfologii a méně výraznou odlučnou stěnu"
+        spravne: true
+      - text: "B je starší – je větší a zasahuje hlouběji do svahu"
+        spravne: false
+      - text: "Nelze určit z hillshadu"
+        spravne: false
+      - text: "A je mladší – jeho těleso překrývá sesuv B"
+        spravne: false
+    vysvetleni: "Relativní datování sesuvů z hillshadu vychází z míry morfologické degradace: starší sesuvy mají zaoblenější hrany odlučné stěny, méně výraznou morfologii tělesa a bývají překryty nebo narušeny mladšími procesy. Svěžejší morfologie indikuje mladší událost."
+
+  # === FLUVIÁLNÍ GEOMORFOLOGIE ===
+  - id: fluvial_001
+    kategorie: Fluviální geomorfologie
+    obtiznost: 1
+    typ: foto
+    otazka: "Jak se nazývá tvar říčního koryta viditelný na fotografii?"
+    obrazek: fluvial_meandry.jpg
+    obrazek_popis: "Meandrující tok, jižní Čechy. Foto: archiv"
+    moznosti:
+      - text: Meandry
+        spravne: true
+      - text: Anastomózní koryto
+        spravne: false
+      - text: Divočící tok (braided)
+        spravne: false
+      - text: Přímé koryto
+        spravne: false
+    vysvetleni: "Meandry jsou sinuózní oblouky říčního koryta typické pro toky s nízkým spádem a kohezivními břehy. Vznikají laterální erozí na nárazových březích a akumulací na jesepních březích (point bary)."
+
+  - id: fluvial_002
+    kategorie: Fluviální geomorfologie
+    obtiznost: 2
+    typ: hillshade
+    otazka: "Co označují červené šipky na hillshadu říčního systému?"
+    obrazek: fluvial_knickpoint.jpg
+    obrazek_popis: "Hillshade s vyznačenými body v podélném profilu. Zdroj: SRTM"
+    moznosti:
+      - text: Knickpointy (lomy spádu)
+        spravne: true
+      - text: Říční terasy
+        spravne: false
+      - text: Deltové výběžky
+        spravne: false
+      - text: Jezerní sedimenty
+        spravne: false
+    vysvetleni: "Knickpointy jsou zlomy v podélném profilu řeky, kde dochází k náhlé změně spádu. Mohou indikovat litologické rozhraní, tektonické zdvihy nebo základnovou erozní vlnu postupující upstream. V hillshadu se projevují jako stupně v reliéfu podél toku."
+
+  - id: fluvial_003
+    kategorie: Fluviální geomorfologie
+    obtiznost: 3
+    typ: schema
+    otazka: "Jaký proces vysvětluje vznik oxbow jezera (mrtvého ramene)?"
+    obrazek: fluvial_oxbow_schema.jpg
+    obrazek_popis: "Schéma vývoje meandrového jezera"
+    moznosti:
+      - text: "Přepojení meandru (meander cutoff) při povodni, zkrácení toku"
+        spravne: true
+      - text: "Tektonické poklesy v nivě"
+        spravne: false
+      - text: "Zpětná eroze z přítoku"
+        spravne: false
+      - text: "Glaciální exarace v nivě"
+        spravne: false
+    vysvetleni: "Mrtvé rameno (oxbow lake) vzniká přepojením meandru – nejčastěji při povodni tok zkrátí cestu přes meandrový krček (neck cutoff). Oddělené rameno postupně zaniká sedimentací. Je to přirozená součást dynamiky meandrujících toků."
+
+  # === GLACIÁLNÍ GEOMORFOLOGIE ===
+  - id: glacial_001
+    kategorie: Glaciální geomorfologie
+    obtiznost: 1
+    typ: foto
+    otazka: "Jak se nazývá forma reliéfu na fotografii, typická pro glaciálně přemodelované pohoří?"
+    obrazek: glacial_kar.jpg
+    obrazek_popis: "Glaciální kar, Vysoké Tatry. Foto: archiv"
+    moznosti:
+      - text: Kar (glaciální kotel)
+        spravne: true
+      - text: Trog (U-údolí)
+        spravne: false
+      - text: Roche moutonnée
+        spravne: false
+      - text: Drumlin
+        spravne: false
+    vysvetleni: "Kar (glaciální kotel) je polokruhová skalní prohlubeň vzniklá erozní činností ledovce na svahu, kde se původně akumuloval firn a led. Charakteristická je strmá zadní stěna (cirque headwall) a mírněji skloněné dno, často vyplněné karním jezerem (tarn)."
+
+  - id: glacial_002
+    kategorie: Glaciální geomorfologie
+    obtiznost: 2
+    typ: hillshade
+    otazka: "Identifikujte typ morény označené na hillshadu."
+    obrazek: glacial_morenove_valy.jpg
+    obrazek_popis: "Hillshade morénového komplexu, Šumava. Zdroj: ČÚZK LiDAR"
+    moznosti:
+      - text: Čelní moréna
+        spravne: true
+      - text: Boční moréna
+        spravne: false
+      - text: Střední moréna
+        spravne: false
+      - text: Základní (tillová) moréna
+        spravne: false
+    vysvetleni: "Čelní moréna je val akumulovaného materiálu na čele ledovce, označující maximální dosah zalednění nebo stadium delší stagnace. Na hillshadu se projevuje jako výrazný obloukovitý val kolmý na směr pohybu ledovce."
+
+  # === PERIGLACIÁLNÍ GEOMORFOLOGIE ===
+  - id: periglac_001
+    kategorie: Periglaciální geomorfologie
+    obtiznost: 1
+    typ: foto
+    otazka: "Jaký periglaciální proces vytváří tyto pravidelné vzory na povrchu?"
+    obrazek: periglac_strukturni_pudy.jpg
+    obrazek_popis: "Strukturní půdy, Špicberky. Foto: archiv"
+    moznosti:
+      - text: Mrazové třídění (strukturní půdy)
+        spravne: true
+      - text: Soliflukce
+        spravne: false
+      - text: Termokrasové procesy
+        spravne: false
+      - text: Větrná eroze (deflace)
+        spravne: false
+    vysvetleni: "Strukturní půdy (kamenné mnohoúhelníky, věnce, pruhy) vznikají opakovaným mrazovým tříděním materiálu – jemnozrnný materiál je vytlačován ke středu buněk, zatímco hrubší klasty se koncentrují na okrajích. Na svazích přechází mnohoúhelníky v pruhy rovnoběžné se sklonem."
+
+  # === KRASOVÁ GEOMORFOLOGIE ===
+  - id: kras_001
+    kategorie: Krasová geomorfologie
+    obtiznost: 1
+    typ: foto
+    otazka: "Jak se nazývá tato krasová forma povrchového reliéfu?"
+    obrazek: kras_zavrt.jpg
+    obrazek_popis: "Krasový reliéf, Moravský kras. Foto: archiv"
+    moznosti:
+      - text: Závrt (dolin)
+        spravne: true
+      - text: Uvala
+        spravne: false
+      - text: Polje
+        spravne: false
+      - text: Škrap
+        spravne: false
+    vysvetleni: "Závrt (dolin) je malá uzavřená deprese v krasovém reliéfu kruhového až elipsovitého tvaru. Vzniká rozpouštěním vápence a/nebo sesedáním materiálu do podzemních dutin. Je to nejcharakterističtější forma krasového reliéfu."
+
+  - id: kras_002
+    kategorie: Krasová geomorfologie
+    obtiznost: 2
+    typ: hillshade
+    otazka: "Kolik závrtů přibližně vidíte na tomto výřezu hillshadu (1 × 1 km)?"
+    obrazek: kras_zavrt_hillshade.jpg
+    obrazek_popis: "Hillshade LiDAR, Moravský kras. Zdroj: ČÚZK"
+    moznosti:
+      - text: "15–30"
+        spravne: true
+      - text: "Méně než 5"
+        spravne: false
+      - text: "5–14"
+        spravne: false
+      - text: "Více než 50"
+        spravne: false
+    vysvetleni: "Hustota závrtů je důležitý morfometrický ukazatel intenzity krasovění. Moravský kras patří k oblastem s velmi vysokou hustotou závrtů (desítky až stovky na km²). LiDAR hillshade umožňuje jejich mapování i pod vegetačním krytem."
+
+  # === EOLICKÁ GEOMORFOLOGIE ===
+  - id: eolicka_001
+    kategorie: Eolická geomorfologie
+    obtiznost: 1
+    typ: foto
+    otazka: "Jak se nazývá typ duny na fotografii a jaký směr větru indikuje?"
+    obrazek: eolicka_barchan.jpg
+    obrazek_popis: "Písečné duny, Namib. Foto: archiv"
+    moznosti:
+      - text: "Barchan – vítr fouká od otevřené strany k ostrůžkám"
+        spravne: true
+      - text: "Lineární duna – vítr fouká rovnoběžně s dunou"
+        spravne: false
+      - text: "Hvězdicová duna – vítr fouká ze všech stran"
+        spravne: false
+      - text: "Parabolická duna – vítr fouká od konkávní strany"
+        spravne: false
+    vysvetleni: "Barchan je srpovitá duna s ostrůžkami (rohy) orientovanými po větru. Vzniká při jednoměrném větru a omezeném množství písku. Vítr fouká od hřbetu (návětrná strana, mírný sklon) k ostrůžkám (závětrná strana, strmý svah)."

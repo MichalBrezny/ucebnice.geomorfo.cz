@@ -48,6 +48,8 @@ sidebar_nav_top:
 sidebar_nav_bottom:
 - label: Plánovaný obsah
   url: /outline.html
+- label: Kvíz
+  url: /kviz.html
 #- label: Fork at GitHub
 #  url: https://github.com/jasongrimes/jekyll-chapterbook/fork
 
@@ -104,6 +106,7 @@ exclude:
   - _poznamky
   - .devcontainer
   - bin/
+  - apps-script/
 
 page_width: 800px
 

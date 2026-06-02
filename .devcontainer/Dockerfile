@@ -16,6 +16,11 @@ RUN apt-get update -y && apt-get install -y --no-install-recommends \
 RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \
     locale-gen
 
+FROM mcr.microsoft.com/devcontainers/jekyll
+
+RUN rm -f /etc/apt/sources.list.d/yarn.list \
+    && rm -f /etc/apt/trusted.gpg.d/yarn.gpg
+
 
 ENV LANG=en_US.UTF-8 \
     LANGUAGE=en_US:en \
@@ -39,3 +44,4 @@ EXPOSE 8090
 COPY bin/entry_point.sh /tmp/entry_point.sh
 
 CMD ["/tmp/entry_point.sh"]
+

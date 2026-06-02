@@ -48,6 +48,8 @@ sidebar_nav_top:
 sidebar_nav_bottom:
 - label: Plánovaný obsah
   url: /outline.html
+- label: Poznávačka
+  url: /poznavacka.html
 - label: Kvíz
   url: /kviz.html
 #- label: Fork at GitHub

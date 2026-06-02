@@ -1,0 +1,122 @@
+<div id="kviz-app" markdown="0">
+
+  <!-- ÚVODNÍ OBRAZOVKA -->
+  <div id="kviz-uvod" class="kviz-screen">
+    <div class="kviz-uvod-obsah">
+      <h2>{{ include.nadpis }}</h2>
+      <p>{{ include.popis }}</p>
+
+      <div class="kviz-nastaveni">
+        <div class="kviz-nastaveni-skupina">
+          <label for="filtr-kategorie"><strong>Kategorie:</strong></label>
+          <select id="filtr-kategorie">
+            <option value="vse">Všechny kategorie</option>
+          </select>
+        </div>
+        <div class="kviz-nastaveni-skupina">
+          <label for="pocet-otazek"><strong>Počet otázek:</strong></label>
+          <select id="pocet-otazek">
+            <option value="5">5</option>
+            <option value="10" selected>10</option>
+            <option value="15">15</option>
+            <option value="vse">Všechny</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="kviz-jmeno-blok">
+        <label for="jmeno-studenta"><strong>Jméno</strong> <span class="kviz-volitelne">(nepovinné – pro statistiky)</span>:</label>
+        <input type="text" id="jmeno-studenta" placeholder="Vaše jméno nebo přezdívka" maxlength="50">
+      </div>
+
+      <button id="btn-start" class="kviz-btn kviz-btn-primary">{{ include.tlacitko | default: "Začít →" }}</button>
+    </div>
+  </div>
+
+  <!-- OTÁZKA -->
+  <div id="kviz-otazka" class="kviz-screen" style="display:none;">
+    <div class="kviz-progress-bar">
+      <div id="kviz-progress-fill"></div>
+    </div>
+    <div class="kviz-progress-text">
+      Otázka <span id="cislo-otazky">1</span> z <span id="celkem-otazek">10</span>
+      &nbsp;·&nbsp;
+      <span id="skore-live">0 správně</span>
+      &nbsp;·&nbsp;
+      <span id="kategorie-badge" class="kviz-badge"></span>
+    </div>
+
+    <div class="kviz-otazka-obsah">
+      <div id="obrazek-kontejner" class="kviz-obrazek-kontejner" style="display:none;">
+        <img id="otazka-obrazek" src="" alt="Geomorfologický snímek">
+        <p id="obrazek-popis" class="kviz-obrazek-popis"></p>
+      </div>
+      <p id="otazka-text" class="kviz-otazka-text"></p>
+      <div id="moznosti-kontejner" class="kviz-moznosti"></div>
+    </div>
+  </div>
+
+  <!-- VÝSLEDKOVÁ OBRAZOVKA -->
+  <div id="kviz-vysledky" class="kviz-screen" style="display:none;">
+    <div class="kviz-vysledky-obsah">
+      <div id="vysledek-emoji" class="kviz-vysledek-emoji"></div>
+      <h2>Výsledky</h2>
+      <div class="kviz-skore-velky">
+        <span id="skore-final">0</span> / <span id="skore-max">10</span>
+      </div>
+      <p id="skore-procent" class="kviz-skore-procent"></p>
+      <p id="skore-zhodnoceni" class="kviz-zhodnoceni"></p>
+
+      <div id="statistiky-kategorie" class="kviz-stat-tabulka"></div>
+
+      <div class="kviz-akce">
+        <button id="btn-znovu" class="kviz-btn kviz-btn-primary">Zkusit znovu</button>
+        <button id="btn-detail" class="kviz-btn kviz-btn-secondary">Přehled odpovědí</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- PŘEHLED ODPOVĚDÍ -->
+  <div id="kviz-prehled" class="kviz-screen" style="display:none;">
+    <h2>Přehled odpovědí</h2>
+    <div id="prehled-seznam"></div>
+    <button id="btn-zpet" class="kviz-btn kviz-btn-secondary">← Zpět na výsledky</button>
+  </div>
+
+</div>
+
+<!-- DATA Z JEKYLLU -->
+<script>
+{% assign otazky = site.data[include.zdroj].otazky %}
+const KVIZ_DATA = [
+  {% for otazka in otazky %}
+  {
+    id: {{ otazka.id | jsonify }},
+    kategorie: {{ otazka.kategorie | jsonify }},
+    obtiznost: {{ otazka.obtiznost }},
+    typ: {{ otazka.typ | jsonify }},
+    otazka: {{ otazka.otazka | jsonify }},
+    {% if otazka.obrazek %}
+    obrazek: {{ otazka.obrazek | jsonify }},
+    obrazek_popis: {{ otazka.obrazek_popis | jsonify }},
+    {% else %}
+    obrazek: null,
+    obrazek_popis: null,
+    {% endif %}
+    moznosti: [
+      {% for m in otazka.moznosti %}
+      { text: {{ m.text | jsonify }}, spravne: {{ m.spravne }} }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ],
+    vysvetleni: {{ otazka.vysvetleni | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+];
+
+// Google Sheets logging – doplň URL svého Apps Script webhooku
+const SHEETS_WEBHOOK_URL = ""; // např. "https://script.google.com/macros/s/XXXXX/exec"
+const OBRAZKY_BASE = "{{ '/assets/kviz/img/' | relative_url }}";
+</script>
+
+<link rel="stylesheet" href="{{ '/assets/kviz/kviz.css' | relative_url }}">
+<script src="{{ '/assets/kviz/kviz.js' | relative_url }}"></script>

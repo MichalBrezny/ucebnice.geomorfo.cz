@@ -46,15 +46,12 @@
   // === SPUŠTĚNÍ KVÍZU ===
   function zacitKviz() {
     const filtrKat = document.getElementById('filtr-kategorie').value;
-    const filtrObt = document.getElementById('filtr-obtiznost').value;
     const pocetVal = document.getElementById('pocet-otazek').value;
     stav.jmeno = document.getElementById('jmeno-studenta').value.trim();
 
     // Filtrovat otázky
     let filtrovane = stav.vsechnyOtazky.filter(q => {
-      const katOk = filtrKat === 'vse' || q.kategorie === filtrKat;
-      const obtOk = filtrObt === 'vse' || q.obtiznost === parseInt(filtrObt);
-      return katOk && obtOk;
+      return filtrKat === 'vse' || q.kategorie === filtrKat;
     });
 
     if (filtrovane.length === 0) {
@@ -267,11 +264,11 @@
       procent: procent,
       doba_sekund: Math.round((Date.now() - stav.zacatekCas) / 1000),
       kategorie: document.getElementById('filtr-kategorie').value,
-      obtiznost: document.getElementById('filtr-obtiznost').value,
       detaily: stav.odpovedi.map(o => ({
         id: o.id,
         spravne: o.spravne,
         kategorie: o.kategorie,
+        obtiznost: o.obtiznost,
       })),
     };
 

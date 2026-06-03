@@ -61,7 +61,7 @@ Pohyb vymrštěných zrnek je jen na velice krátkou vzdálenost (cca v
 
 # Erozní formy
 
-Obrušováním větších klastů (valounky, balvany) nebo drobných výchozů podloží částečkami unášenými větrem vznikají *hrance* ([Obr. 2](fig:hranec)). Hrance se vyznačují jednou nebo více vybroušenými ploškami *facetami*. Jedna dominantní faceta odpovídá převládajícímu směru větru. Pokud má hranec více facet, je to spíše způsobené pohybem klastu než změnou směru větru {% cite livingstoneAeolianGeomorphologyNew2019}.
+Obrušováním větších klastů (valounky, balvany) nebo drobných výchozů podloží částečkami unášenými větrem vznikají *hrance* ([Obr. 2](#fig:hranec)). Hrance se vyznačují jednou nebo více vybroušenými ploškami *facetami*. Jedna dominantní faceta odpovídá převládajícímu směru větru. Pokud má hranec více facet, je to spíše způsobené pohybem klastu než změnou směru větru {% cite livingstoneAeolianGeomorphologyNew2019 %}.
 
 <figure id="fig:hranec">
 <figure>
@@ -87,7 +87,7 @@ Nejmenší eolickým akumulačním tvarem jsou *čeřiny*. Jedná se o drobné h
 
 Zřejmě nejznámějším eolickým tvarem jsou *písečné duny* (přesypy). Jedná se o elevace tvořené navátým pískem. Duny vznikají díky poklesu rychlosti větru pod transportní rychlost. Pokles rychlosti je zpravidla zapříčiněn přítomností nějaké překážky (skalní výchoz, vegetace...).
 
-Základní dělení dun je na tzv. *volné duny* a *vázané duny*. Volné duny jsou formovan0 pouze činností větru, který volně přemisťuje písek. Podle tvaru se volné duny dále rozdělují na příčné, lineární a hvězdicové. 
+Základní dělení dun je na tzv. *volné duny* a *vázané duny*. Volné duny jsou formovány pouze činností větru, který volně přemisťuje písek. Podle tvaru se volné duny dále rozdělují na příčné, lineární a hvězdicové. 
 
 <figure id="fig:volneduny">
 <img src="/assets/obrazky/eolicka/typy_dun.png"/>
@@ -100,9 +100,9 @@ Základní dělení dun je na tzv. *volné duny* a *vázané duny*. Volné duny 
 
 Tvar volných dun je výsledkem mnoha faktorů. Zjednodušeně lze říct, že tvar duny závisí na množství písku v území a variabilitě směru větru ([Obr. 3](#fig:volneduny)).
 
-*Barchany* neboli také *srpovité duny* vznikají v oblastech, kde je málo písku a převládá jeden směr větru. Střední část barchanu je kolmo na směr proudění větru. Směrem k okrajům se ohýbá po směru větru a špičky jsou cca paralelní se směrem proudění. Duny na pobřeží mají čast tvar barchanů. Návětrná strana má sklon v rozmezí 10 až 14°. Sklon závětrné strany je blízko sypnému úhlu suchého písku (okolo 32 až 34°). S nárůstem množství materiálu se barchany propojují a vznikají *příčné duny*. Jelikož se tyto duny nacházejí v oblastech kde dominuje vítr z jednoho směru, jedná se o nejmobilnější duny. Rychlost migrace dun je závislá na celkové hmotě duny. Menší duny migrují rychleji, neboť stačí transportovat méně hmoty, než u velkých dun. Barchany a příčné duny tvoří asi 10 % všech dun {% cite breedMorphologyDistributionDunes1979 %}.
+*Barchany* neboli také *srpovité duny* vznikají v oblastech, kde je málo písku a převládá jeden směr větru. Střední část barchanu je kolmo na směr proudění větru. Směrem k okrajům se ohýbá po směru větru a špičky jsou cca paralelní se směrem proudění. Duny na pobřeží mají často tvar barchanů. Návětrná strana má sklon v rozmezí 10 až 14°. Sklon závětrné strany je blízko sypnému úhlu suchého písku (okolo 32 až 34°). S nárůstem množství materiálu se barchany propojují a vznikají *příčné duny*. Jelikož se tyto duny nacházejí v oblastech kde dominuje vítr z jednoho směru, jedná se o nejmobilnější duny. Rychlost migrace dun je závislá na celkové hmotě duny. Menší duny migrují rychleji, neboť stačí transportovat méně hmoty, než u velkých dun. Barchany a příčné duny tvoří asi 10 % všech dun {% cite breedMorphologyDistributionDunes1979 %}.
 
-Pokud je území vystaveno dvěma převládajícím směrům větru (polovinu roku fouká jedním směrem, polovinu druhým) a písčitého materiálu podobně jako v oblasti batrchanů, vytvářejí se *podélné duny* (*linear dunes* nebo také *longitudinal dunes*, [Obr. ](fig:linearniduny)). Jedná se o nejběžnější typ písečných dun. Mají podobu klikatících se (sinusoidních) hřbetů. Dosahují výšky až 200 m a na délku mohou mít i stovky kilometrů. Podélné duny jsou poměrně stabilní, což může vyhovovat vegetaci, která se uchycuje ve spodních partiích dun.
+Pokud je území vystaveno dvěma převládajícím směrům větru (polovinu roku fouká jedním směrem, polovinu druhým) a písčitého materiálu podobně jako v oblasti barchanů, vytvářejí se *podélné duny* (*linear dunes* nebo také *longitudinal dunes*, [Obr. ](#fig:linearniduny)). Jedná se o nejběžnější typ písečných dun. Mají podobu klikatících se (sinusoidních) hřbetů. Dosahují výšky až 200 m a na délku mohou mít i stovky kilometrů. Podélné duny jsou poměrně stabilní, což může vyhovovat vegetaci, která se uchycuje ve spodních partiích dun.
 
 
 <figure id="fig:linearniduny">
@@ -112,7 +112,7 @@ Pokud je území vystaveno dvěma převládajícím směrům větru (polovinu ro
 </figure>
 
 
-*Hvězdicové duny* jsou v oblastech s velkou variabilitou větru. Jedná se o rozsáhlá tělesa o výšce až 300 m. Duna se skládá z menších "ramen", které jednotlivým směrům větru.
+*Hvězdicové duny* jsou v oblastech s velkou variabilitou větru. Jedná se o rozsáhlá tělesa o výšce až 300 m. Duna se skládá z menších "ramen", které odpovídají jednotlivým směrům větru.
 
 <figure id="fig:volneduny">
 <img src="/assets/obrazky/eolicka/volne_duny.png" style="width:100.0%" />
@@ -123,14 +123,14 @@ rovnoměrném rozložení v ploše) a variabilitě směru větru (upraveno podle
 
 ## Vázané duny
 
-Jako *vázané duny* označujeme takové, které jsou přikotvené k nějaké překážce růyného tvaru a velikosti. *Nebkha* je duna, která vázaná na vegetaci zachytávající zrnka prachu, písku, ale i větších klastů. Velikost nebkhy může být od centimetrů (v iniciálních stádiích) až po více jak 10 m. Podoba vegetace, na kterou jsou nebkhy vázané, silně ovlivňuje jejich morfologii.
+Jako *vázané duny* označujeme takové, které jsou přikotvené k nějaké překážce různého tvaru a velikosti. *Nebkha* je duna, která vázaná na vegetaci zachytávající zrnka prachu, písku, ale i větších klastů. Velikost nebkhy může být od centimetrů (v iniciálních stádiích) až po více jak 10 m. Podoba vegetace, na kterou jsou nebkhy vázané, silně ovlivňuje jejich morfologii.
 
 *Vyváté deprese* (*blowouts*) jsou prohlubně rozličných tvarů. Nachází se v oblastech pokrytých sporadickou vegetací.
 
-*Parabolické duny* mohou vznikat po větru od vyvátých depresí. V půdorysu připomínají písmeno 'U' nebo 'V'. Narozdíl od barchanů jsou jejich výběžky otočené proti směru větru. *Lunety* jsou duny vznikají na okrajích jezer, playas. Jsou tvořeny
+*Parabolické duny* mohou vznikat po větru od vyvátých depresí. V půdorysu připomínají písmeno 'U' nebo 'V'. Narozdíl od barchanů jsou jejich výběžky otočené proti směru větru. *Lunety* jsou duny vznikající na okrajích jezer, playas. Jsou tvořeny
 zejména jílovou frakcí s variabilní příměsí písčité frakce. Jedná se o sedimenty vyváté ze dna bývalých jezer.
 
-*Čelní duny* jsou částo pobřežní duny vázané na pionýrská vegetaci. Označují se tak ale i duny před malou topografickou překážkou. Duny vzniklé až za překážkou jsou závětrné duny (*lee dunes*).
+*Čelní duny* jsou částo pobřežní duny vázané na pionýrskou vegetaci. Označují se tak ale i duny před malou topografickou překážkou. Duny vzniklé až za překážkou jsou závětrné duny (*lee dunes*).
 
 Před velkou topografickou bariérou (např. skalní stěna, hřbety), mohou vzniknout duny typu *echo*, které věrně kopírují průběh překážky. Duny nasedající na bariéru z návětrné strany nazýváme *šplhající duny* (*climbing dunes*). Jejich méně strmá varianta je označována jako *písečná rampa* (*sand ramp*). Na závětrné straně překážky se vyskytují *padající duny*.
 

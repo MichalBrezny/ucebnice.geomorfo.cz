@@ -4,7 +4,7 @@ layout: page
 slug: marinni
 ---
 
-*Pobřežní (litorální) zóna* je prostor na rozhraní moře, oceánu, ale i jiné velké vodní plochy (jezero) a souše. Tato zóna zahrnuje jak mělčiny, tak i přilehlou souš. Břežní pásmo je definováno  jako pás území ležící na styku pevniny a světového oceánu ve kterém se uskutečňuje interakce mezi pevninou a oceánem. *Dolní hranice* je místo na dně, kde končí geomorfologická schopnost i největších vln při bouřích. *Horní hranice* je vymezena *přímořskou čarou* -- linií maximálního působení vln při příboji.
+*Pobřežní (litorální) zóna* je prostor na rozhraní moře, oceánu, ale i jiné velké vodní plochy (jezero) a souše. Tato zóna zahrnuje jak mělčiny, tak i přilehlou souš. Břežní pásmo je definováno jako pás území ležící na styku pevniny a světového oceánu, ve kterém se uskutečňuje interakce mezi pevninou a oceánem. *Dolní hranice* je místo na dně, kde končí geomorfologická schopnost i největších vln při bouřích. *Horní hranice* je vymezena *přímořskou čarou* -- linií maximálního působení vln při příboji.
 
 <figure>
 <img src="/assets/obrazky/marinni/pobrezi.png" alt="Vymezení pobřežních zón (upraveno podle birdCoastalGeomorphologyIntroduction2008)" />
@@ -64,7 +64,7 @@ Směrem k pobřeží se postupující vlny stávají příkřejšími až převi
 
 # Vlnové proudy
 
-Postupující vlny k pobřeží jsou transformovány do dvou složek -- *příčné* a *podélné*. Příčnou složku tvoří vlnové proudy směrem k pobřeží a zpětné kompenzační (náporové) proudy (*rip current*). Zpětné náporové proudy jsou poměrně úzké, ale velice rychlé (až několik m/s), proto jsou schopné unášet velké množství materiálu z břežního pásma {% cite demekObecnaGeomorfologie1987}.
+Postupující vlny k pobřeží jsou transformovány do dvou složek -- *příčné* a *podélné*. Příčnou složku tvoří vlnové proudy směrem k pobřeží a zpětné kompenzační (náporové) proudy (*rip current*). Zpětné náporové proudy jsou poměrně úzké, ale velice rychlé (až několik m/s), proto jsou schopné unášet velké množství materiálu z břežního pásma {% cite demekObecnaGeomorfologie1987 %}.
 
 Podélná složka je tvořena *příbřežními* proudy. Ty nejlépe fungují při postupu vln šikmo k pobřeží. Tyto proudy jsou důležité pro přemísťování materiálu podél pobřeží.
 
@@ -78,7 +78,7 @@ Výčasové proudy se skládají z přílivových a odlivových proudů. Příli
 
 Zvětrávání na pobřeží je umocněno opakovaným zvhlčováním a schnutím hornin. Velký vliv má i solné zvětrávání a chemické zvětrávání (hlavně v tropech). Typ hornin má samozřejmě významný vliv na intenzitu zvětrávacích procesů. Např. solné zvětrávání bude probíhat intenzivněji v horninách nasákavých, které mohou absorbovat mořskou vodu. Rozpouštění vápenců na pobřeží je intenzivní v tropických oblastech.
 
-Pobřežní erozi nazýváme souhrnně *abraze*. Hlavním erozním činitelem na pobřeží jsou vlny. Jejich účinek je ovlivněn charakterem pobřeží a horninami. V případě strmých útesů  nedochází k lámání vln a ty se bez většího geomorfologického účinku odráží zpět. Mnohem silnější erozní účinek mají vlny, které se lámou. Dochází tam ke kombinaci účinku samotné dopadající vlny a vzduchu, který je stlačen mezi vlnou a břehem. Výsledkem je vytrhávání a vyrývání kusů hornin. Nejnáchylnější na erozi jsou slabě zpevněné sedimenty a značně rozpukané skalní horniny. 
+Pobřežní erozi nazýváme souhrnně *abraze*. Hlavním erozním činitelem na pobřeží jsou vlny. Jejich účinek je ovlivněn charakterem pobřeží a horninami. V případě strmých útesů nedochází k lámání vln a ty se bez většího geomorfologického účinku odráží zpět. Mnohem silnější erozní účinek mají vlny, které se lámou. Dochází tam ke kombinaci účinku samotné dopadající vlny a vzduchu, který je stlačen mezi vlnou a břehem. Výsledkem je vytrhávání a vyrývání kusů hornin. Nejnáchylnější na erozi jsou slabě zpevněné sedimenty a značně rozpukané skalní horniny. 
 
 Nezanedbatelný podíl na pobřežní erozi mají živé organizmy (různí měkkýši, mořské houby), které se zavrtávají do hornin a tak je rozrušují.
 
@@ -92,7 +92,7 @@ Hlavní směr pohybu sedimentů je podél pobřeží v důsledku příbřežníc
 
 ## Erozní pobřeží
 
-Skalnatá pobřeží mohou nabývat dvou základních forem. První představuje skalnatý útes -- *abrazní srub*, který se noří hluboko pod mořskou hladinu. Tento typ pobřeží nemá žádnou pláž a energie příboje se vybíjí přímo na útesech. Pobřeží je tvořené odolnými (zejména krystalickými) horninami. Strmé útesy mohly vzniknout tektonickými procesy případně vodní nebo ledovcovou erozí a následným zaplavením (např. pobřeží Norska). Druhá forma je charakteristická abrazním srubem, který přechází do *abrazní terasy* (Obr. [1](fig:abrazni)). Abrazní terasa (Obr. [3](fig:abrazni_terasa)) je horizontální nebo mírně ukloněná plošina. Vzniká postupným ústupem abrazního srubu. Na abrazní plošině je velmi malé množství materiálu, který je neustále v pohybu.
+Skalnatá pobřeží mohou nabývat dvou základních forem. První představuje skalnatý útes -- *abrazní srub*, který se noří hluboko pod mořskou hladinu. Tento typ pobřeží nemá žádnou pláž a energie příboje se vybíjí přímo na útesech. Pobřeží je tvořené odolnými (zejména krystalickými) horninami. Strmé útesy mohly vzniknout tektonickými procesy případně vodní nebo ledovcovou erozí a následným zaplavením (např. pobřeží Norska). Druhá forma je charakteristická abrazním srubem, který přechází do *abrazní terasy* (Obr. [1](#fig:abrazni)). Abrazní terasa (Obr. [3](#fig:abrazni_terasa)) je horizontální nebo mírně ukloněná plošina. Vzniká postupným ústupem abrazního srubu. Na abrazní plošině je velmi malé množství materiálu, který je neustále v pohybu.
 
 <figure id="fig:abrazni">
 <img src="/assets/obrazky/marinni/abrazni.jpg" />
@@ -116,7 +116,7 @@ Mikalsen, CC BY-SA 3.0, via Wikimedia Commons)
 
 <figure id="fig:abrazni_terasa">
 <img src="/assets/obrazky/marinni/utesy_terasy.png" />
-<figcaption>Možné podoby abrazních teras (upraveno podle {% cite birdCoastalGeomorphologyIntroduction2008 %}
+<figcaption>Možné podoby abrazních teras (upraveno podle {% cite birdCoastalGeomorphologyIntroduction2008 %})
 </figcaption>
 </figure>
 
@@ -144,7 +144,7 @@ V tzv. vlnovém stínu vznikají různé *písečné výběžky* (široké) a ú
 
 ### Přílivové plošiny a marše
 
-Rozsáhlé ploché akumulační formy, které jsou zaplavované během přílivu se označují jako *přílivové plošiny* nebo watty. Jsou tvořeny siltem a jílem. Velký podíl má i organická hmota. Postupnou agradací přílivových plošin se snižuje dosah průměrných přílivů, což umožňuje rozvoj vegetace, další agradaci a vznik půdy. Watyy tak přechází v *marše*, které jsou zaplavovány jen při skočném přílivu. Pokud i ty přestanou být pod vlivem přílivu, vzniká pobřežní nížina.
+Rozsáhlé ploché akumulační formy, které jsou zaplavované během přílivu se označují jako *přílivové plošiny* nebo watty. Jsou tvořeny siltem a jílem. Velký podíl má i organická hmota. Postupnou agradací přílivových plošin se snižuje dosah průměrných přílivů, což umožňuje rozvoj vegetace, další agradaci a vznik půdy. Watty tak přechází v *marše*, které jsou zaplavovány jen při skočném přílivu. Pokud i ty přestanou být pod vlivem přílivu, vzniká pobřežní nížina.
 
 <figure id="fig:watty">
 <img src="/assets/obrazky/marinni/watty.jpg" />
@@ -159,7 +159,7 @@ schopné odnést.
 
 Sedimentace dnových splavenin nastává okamžitě. Sedimentace plavenin (materiálu v suspenzi) je ovlivněna poměrem hustoty vodního toku a mořské či jezerní vody. V případě stejné hustoty obou vod dochází k rychlému promíchání a k okamžité sedimentaci. Toto se nastává zejména u sladkých vod, tedy když řeka vtéká do jezera. Druhý případ je, pokud má voda v řece větší hustotu než je voda v tělese, do kterého vtéká. Hustší říční voda se noří pod vodu s nižší hustotou a v podobě proudu u dna transportuje sedimenty daleko od břehu. K vývoji delty tak nemůže docházet. Toto nastává když například velice studená řeka vtéká (voda má nejvyšší hustotu při 4 °C) do teplého jezera. Poslední možnou variantu je, když říční voda má menší hustotu než voda, do které vtéká. V tomto případě se říční voda rozlije po povrchu a pokud transportuje velké množství splavenin, tak vytváří snadno identifikovatelné mračno, které postupuje daleko od břehu, než se voda dostatečně promíchá. Tato varianta je typické pro případy, kdy řeka (sladká voda, nízká hustota) vtéká do moře (slaná voda, vysoká hustota).
 
-Nejjednodušší podoba delty je tzv. *Gilbertova delta* (pojmenovaná podle amerického geologa Grove Karl Gilberta). Tyto delty vznikají zejména v jezerech, kde nedochází ke komplexním vlivům dalších procesů (příboje, slapových jevů, mořských proudů). Jedná se tedy o deltu s dominantní fluviální sedimentací. V sedimentech delty můžeme rozlišit tři základní jednotky: topset, foreset, bottomset. *Topset* jsou horní, (sub)horizontálně uložené sedimenty. *Foreset* jsou šikmé, do jezera se uklánějící vrstvy. Postupným budováním foresetu dochází k rozšiřování delty. *Topset* jsou (sub)horizontální vrstvy uložené v hluboké vodě na okraji delty. Jsou tvořené zejména jemnozrnným materiálem.
+Nejjednodušší podoba delty je tzv. *Gilbertova delta* (pojmenovaná podle amerického geologa Grove Karl Gilberta). Tyto delty vznikají zejména v jezerech, kde nedochází ke komplexním vlivům dalších procesů (příboje, slapových jevů, mořských proudů). Jedná se tedy o deltu s dominantní fluviální sedimentací. V sedimentech delty můžeme rozlišit tři základní jednotky: topset, foreset, bottomset. *Topset* jsou horní, (sub)horizontálně uložené sedimenty. *Foreset* jsou šikmé, do jezera se uklánějící vrstvy. Postupným budováním foresetu dochází k rozšiřování delty. *Bottomset* jsou (sub)horizontální vrstvy uložené v hluboké vodě na okraji delty. Jsou tvořené zejména jemnozrnným materiálem.
 
 <figure id="fig:gilbertdelta">
 <img src="/assets/obrazky/marinni/gilbert_delta.png" />
@@ -167,7 +167,7 @@ Nejjednodušší podoba delty je tzv. *Gilbertova delta* (pojmenovaná podle ame
 </figcaption>
 </figure>
 
-Delty vznikající u ústí řek do moří a oceánů jsou mnohem komplexnější jak svým vzhledem, tak sedimentací. Jejich podoba je závislá na množství sedimentů, které řeka unáší, síle proudu řeky a mořských proudů, energii vln a slapových jevů. Můžeme rozlišit tři základní  typy []{.citation cites="boggsPrinciplesSedimentologyStratigraphy2014"}. *Delty s dominancí říční sedimentace* se nacházejí v oblastech, kde vlny mají nízkou energii a rozdíl hladin během přílivu a odlivu je malý. Tyto delty mají charakteristický tvar "text"ptačí nohy. Příkladem je delta řeky Mississippi. *Delta s dominancí vlnění* je typ delty, kde distribuce sedimentů je řízena vlněním. Většina sedimentů, které se dostávají řekou do moře je proudy distribuovaná podél pobřeží. Delta Nilu se řadí do této skupiny. *Delty s dominancí slapových jevů* vznikají v oblastech s výrazným dmutím a slabým vlivem vln. Delta je formována silnými slapovými proudy, které působí erozně. Delta má podobu ostrovů, které jsou od sebe rozdělené širokými kanály.
+Delty vznikající u ústí řek do moří a oceánů jsou mnohem komplexnější jak svým vzhledem, tak sedimentací. Jejich podoba je závislá na množství sedimentů, které řeka unáší, síle proudu řeky a mořských proudů, energii vln a slapových jevů. Můžeme rozlišit tři základní typy {% cite boggsPrinciplesSedimentologyStratigraphy2014 %}. *Delty s dominancí říční sedimentace* se nacházejí v oblastech, kde vlny mají nízkou energii a rozdíl hladin během přílivu a odlivu je malý. Tyto delty mají charakteristický tvar ptačí nohy. Příkladem je delta řeky Mississippi. *Delta s dominancí vlnění* je typ delty, kde distribuce sedimentů je řízena vlněním. Většina sedimentů, které se dostávají řekou do moře je proudy distribuovaná podél pobřeží. Delta Nilu se řadí do této skupiny. *Delty s dominancí slapových jevů* vznikají v oblastech s výrazným dmutím a slabým vlivem vln. Delta je formována silnými slapovými proudy, které působí erozně. Delta má podobu ostrovů, které jsou od sebe rozdělené širokými kanály.
 
 <figure>
 <img src="/assets/obrazky/marinni/delty" alt="image" />
@@ -189,7 +189,7 @@ Estuáry jsou nálevkovitá ústí řek do moří. Mohou vznikat v důsledku tra
 
 *Korálové útesy* jsou podmořské skalnaté hřbety v mělkých vodách a vzniklé činností organismů -- zejména korálů, ale i vápnitých řas. Vznik korálových útesů je limitován environmentálními nároky korálů. Optimální teplota moře se pohybuje v intervalu 25 °C--29 °C. Světelné podmínky v moři omezují růst korálů na maximální hloubku okolo 90 m, nejintenzivnější růst probíhá do hloubky 20 m.
 
-Korálové útesy rozlišujeme na lemové, bariérové a atolové. *Lemové útesy* se nacházejí v blízkosti břežní čáry. *Bariérové útesy* vytváří valy, které jsou od pobřeží oddělené lagunou. Příkladem je Velký bariérový útes v Austrálii. *Atoly* (obr. [8](#fig:atol){reference="fig:atol" reference-type="ref"}) jsou korálové útesy, které zcela nebo z větší části obkružují lagunu. 
+Korálové útesy rozlišujeme na lemové, bariérové a atolové. *Lemové útesy* se nacházejí v blízkosti břežní čáry. *Bariérové útesy* vytváří valy, které jsou od pobřeží oddělené lagunou. Příkladem je Velký bariérový útes v Austrálii. *Atoly* (obr. [8](#fig:atol)) jsou korálové útesy, které zcela nebo z větší části obkružují lagunu. 
 
 <figure id="fig:atol">
 <img src="/assets/obrazky/marinni/atol.jpg" />
@@ -233,7 +233,7 @@ Commons)
 *Korálová pobřeží* jsou častým typem pobřeží tropických oblastí. 
 # Změny výšky mořské hladiny
 
-Vznikající tvary na pobřeží reflektují průměrnou výšku hladiny moře a souše. Avšak podél pobřeží lze najít celou řadu tvarů, které dokládají to, že hladina moře byla relativně výše nebo níže vůči pevnině. Tvary na pobřeží tak mohou být *ponořené* (*submerged*), pokud se relativní výška moře zvýšila. Došlo tedy k tzv. *transgresi* a zaplavení části pevniny. NEbo mohou být tvary *vynořené* (*emerged*) v případě kdy došlo k *regresi*, neboli ústupu moře.
+Vznikající tvary na pobřeží reflektují průměrnou výšku hladiny moře a souše. Avšak podél pobřeží lze najít celou řadu tvarů, které dokládají to, že hladina moře byla relativně výše nebo níže vůči pevnině. Tvary na pobřeží tak mohou být *ponořené* (*submerged*), pokud se relativní výška moře zvýšila. Došlo tedy k tzv. *transgresi* a zaplavení části pevniny. Nebo mohou být tvary *vynořené* (*emerged*) v případě kdy došlo k *regresi*, neboli ústupu moře.
 
 ## Příčiny změny výšky hladiny
 
@@ -246,7 +246,7 @@ Změny úrovně mořské hladiny se dějí i v důsledku tektonických pohybů
 
 Hladinu světového oceánu ovlivňují i isostatické pohyby, tedy pohyby zemské kůry v důsledku jejího odlehčení či zatížení. Nejpatrnější to je na příkladu glaciisostatických pohybů. Zemská kůra byla zatlačena v důsledku zatížení kontinentálními ledovci během glaciálů. Následným zánikem kontinentálního zalednění došlo k odlehčení zemské kůry a k jejímu opětovnému výzdvihu. Tento výzdvih kompenzuje nárůst hladiny, který je způsoben a ústupem ledovců došlo k odlehčení zemské kůry a k jejímu výzdvihu.
 
-Ledovcové příkrovy během glaciálů v sobě zadržovly obrovské objemy vody. Během posledního glaciálního maxima (cca 20 tisíc let zpět) byla hladina světového oceánu asi o 140 m níž než dnes. Následným táním ledovců se hladina začala zdvihat. Tato transgrese byla např. ve Skandinávii kompenzována výzdvihem pevniny v důsledku výše zmíněné glaciisostáze.
+Ledovcové příkrovy během glaciálů v sobě zadržovaly obrovské objemy vody. Během posledního glaciálního maxima (cca 20 tisíc let zpět) byla hladina světového oceánu asi o 140 m níž než dnes. Následným táním ledovců se hladina začala zdvihat. Tato transgrese byla např. ve Skandinávii kompenzována výzdvihem pevniny v důsledku výše zmíněné glaciisostáze.
 
 Relativní hladinu moře může ovlivnit i člověk svou činností. Například čerpání podzemní vody v pobřežních oblastech způsobuje poklesy pevniny v důsledku konsolidace sedimentů ve zvodních. Poklesem pobřeží se relativně zvyšuje hladina moře a dochází k zaplavování souše.
 

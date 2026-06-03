@@ -5,7 +5,7 @@ abstract: Periglaciální procesy a formy
 ---
 
 
-# Periglacální zóna
+# Periglaciální zóna
 
 Periglaciální zóna nebo také "příledovcová" zóna je prostředí, kde působí *kryogenní* geomorfologické procesy. Nejedná se o území trvale pokryté ledem (ledovci), ale o území, které je po velkou část roku ovlivněno teplotami pod bodem mrazu. Periglaciální zóna je charakteristická přítomností *permafrostu*. Přibližně čtvrtina zemské souše spadá do periglaciální zóny.
 
@@ -15,9 +15,9 @@ Rozsah současné periglaciální zóny je znatelně menší oproti pleistocénu
 
 *Permafrost* je dlouhodobě zmrzlá část litosféry a pedosféry (tzv. kryolitozóna). Permafrost tak může být tvořen zeminami („zmrzlá půda“), tak i skalními horninami. Zavedená definice permafrostu říká, že se jedná o část litosféry a pedosféry jejíž teplota je minimálně dva roky pod 0°C.
 
-Permafrost vzniká v oblastech se zápornou tepelnou bilancí, což znamená, že je více tepla z území vyzářeno, než se tam dostane slunečním zářením a tepelným tokem z nitra Země. Přítomnost permafrostu je tak soustředěna do vysokých zeměpisných šířek a vysokých nadmořských výšek. V současné době se permafrost nachází asi na 24 % souše severní polokoule ([Obr.](fig:permafrostdistr)). Zahrnuje to především území Kanady, Aljašky a Sibiře a Grónska. Na jižní polokouli je permafrost rozšířen zejména na území Antarktidy.
+Permafrost vzniká v oblastech se zápornou tepelnou bilancí, což znamená, že je více tepla z území vyzářeno, než se tam dostane slunečním zářením a tepelným tokem z nitra Země. Přítomnost permafrostu je tak soustředěna do vysokých zeměpisných šířek a vysokých nadmořských výšek. V současné době se permafrost nachází asi na 24 % souše severní polokoule ([Obr.](#fig:permafrostdistr)). Zahrnuje to především území Kanady, Aljašky a Sibiře a Grónska. Na jižní polokouli je permafrost rozšířen zejména na území Antarktidy.
 
-<figure>
+<figure id="fig:permafrostdistr">
 <img src="/assets/obrazky/periglac/permafrost_distr.jpg" alt="Distribuce permafrostu na severní polokouli.">
 <figcaption>Figure: Distribuce permafrostu na severní polokouli (převzato z {% cite obuNorthernHemispherePermafrost2019 %}).
 </figcaption>
@@ -54,7 +54,7 @@ Mezi aktivní vrstvou a samotným permafrostem můžeme vymezit ještě přechod
 
 ## Talik
 
-V permafrostu se vyskytují polohy, které nejsou zamrzlé. Označují se jako *talik*. V sedimentech jsou často nasyceny vodou. Taliky můžeme rozdělid do tří druhů. *Uzavřený talik* je na bocích a zdola obklopen permafrostem. Nad ním je aktivní vrstva. *Otevřený talik* sahá od aktivní vrstvy až po bázi permafrostu. *Vnitřní talik* je ze všech stran obklopen permafrostem.
+V permafrostu se vyskytují polohy, které nejsou zamrzlé. Označují se jako *talik*. V sedimentech jsou často nasyceny vodou. Taliky můžeme rozdělit do tří druhů. *Uzavřený talik* je na bocích a zdola obklopen permafrostem. Nad ním je aktivní vrstva. *Otevřený talik* sahá od aktivní vrstvy až po bázi permafrostu. *Vnitřní talik* je ze všech stran obklopen permafrostem.
 
 ## Podzemní led
 
@@ -76,7 +76,7 @@ Vavřík – Vlastní dílo, Volné dílo, via Wikimedia Commons)
 </figcaption>
 </figure>
 
-Na svazích i o malém sklonu dochází k *soliflukci* (*solifluction*), což je pomalé ploužení zemin. Termín soliflukce zastřešuje celou několik procesů (Obr. [3](fig:soliflukce): ploužení způsobené jehličkovým ledem (Obr. [2](fig:jehlickovyled)), mrazové ploužení, geliflukci. Typickým výsledným projevem soliflukce jsou tzv. *soliflukční laloky* (*solifluction lobes*, Obr. [4](fig:soliflukcnilaloky)).
+Na svazích i o malém sklonu dochází k *soliflukci* (*solifluction*), což je pomalé ploužení zemin. Termín soliflukce zastřešuje několik procesů (Obr. [3](#fig:soliflukce)): ploužení způsobené jehličkovým ledem (Obr. [2](#fig:jehlickovyled)), mrazové ploužení, geliflukci. Typickým výsledným projevem soliflukce jsou tzv. *soliflukční laloky* (*solifluction lobes*, Obr. [4](#fig:soliflukcnilaloky)).
 
 <figure id="fig:jehlickovyled">
 <img src="/assets/obrazky/periglac/jehlickovy_led.jpg">
@@ -117,7 +117,7 @@ Na březích vodních toků, jezer a oceánů dochází k intenzivní erozi vliv
 </figcaption>
 </figure>
 
-*Pingo* (Obr. [7](#fig:pingo){reference="fig:pingo" reference-type="ref"}) je drobná vyvýšenina na povrchu permafrostu. Výška pinga je řádově metry až desítky metrů. Vznikají promrznutím vody v taliku, čímž se zvětší objem a dojde tak k vyklenutí povrchu. Pingo má ledové jádro. Rozlišujeme dva typy: i) pingo vzniklé z otevřeného taliku (nad jezery) a ii) pingo z uzavřeného taliku (injektáž vody). Rozměrově drobnější analogií jsou sezónní pahorky z rašeliny nazývané *palsa*.
+*Pingo* (Obr. [7](#fig:pingo)) je drobná vyvýšenina na povrchu permafrostu. Výška pinga je řádově metry až desítky metrů. Vznikají promrznutím vody v taliku, čímž se zvětší objem a dojde tak k vyklenutí povrchu. Pingo má ledové jádro. Rozlišujeme dva typy: i) pingo vzniklé z otevřeného taliku (nad jezery) a ii) pingo z uzavřeného taliku (injektáž vody). Rozměrově drobnější analogií jsou sezónní pahorky z rašeliny nazývané *palsa*.
 
 <figure id="fig:pingo">
 <img src="/assets/obrazky/periglac/pingo_mackenzie.jpg">
@@ -127,7 +127,7 @@ Na březích vodních toků, jezer a oceánů dochází k intenzivní erozi vliv
 
 *Thufury* jsou dalším typem elevace. Jedná se o drobné kopečky (do cca 2 m) s minerálním jádrem, které bývá často promrzlé. Nejčastěji se vyskytují v horských polohách jako jsou sedla nebo vrcholové plošiny. Pro vznik thufurů je nutná půdní vlhkost.
 
-Degradací permafrostu vznikají různé *termokrasové tvary*. Jedná se především o různé sníženiny a zvlněný terén mezi nimi. Jejich rozsah je dán velikostí degradace permafrostu a množstvím podzemního ledu v zeminách. Termokras se významně vyvíjí v oblastech s množstvím ledových klínů. Postupným vývojem může být termokras ovlivňován i proudící vodou. K degradaci permafrostu může docházet shora nebo z boku. Degradace shora probíhá v plochém reliéfu. Započíná táním mrazových klínů a následným sesedáním povrchu. Vznikají deprese, které mohou být vyplněny jezerem -- *alasy* ([Obr. 8](#fig:alas)). Voda urychluje tání  ermafrostu, jelikož dokáže akumulovat velké množství tepla. Pod jezerem tak vzniká talik. Alasy mají běžně rozměry od několika metrů až do několika kilometrů. Po vyprázdnění jezera nebo jeho zanesená dochází k opětovnému promrzání taliku, což může vést ke vzniku pinga a polygonů ledových klínů. V členitém terénu dochází k degradaci z boku. Táním ledových klínů vznikají erozní rýhy. Ve svahu mohou vznikat i rozsáhlejší deprese nazývané *termokary*. V nich bývá často exponovaný podzemní led. Spojením alasů vznikají protáhlé sníženiny -- *termokrasová údolí*.
+Degradací permafrostu vznikají různé *termokrasové tvary*. Jedná se především o různé sníženiny a zvlněný terén mezi nimi. Jejich rozsah je dán velikostí degradace permafrostu a množstvím podzemního ledu v zeminách. Termokras se významně vyvíjí v oblastech s množstvím ledových klínů. Postupným vývojem může být termokras ovlivňován i proudící vodou. K degradaci permafrostu může docházet shora nebo z boku. Degradace shora probíhá v plochém reliéfu. Započíná táním mrazových klínů a následným sesedáním povrchu. Vznikají deprese, které mohou být vyplněny jezerem -- *alasy* ([Obr. 8](#fig:alas)). Voda urychluje tání permafrostu, jelikož dokáže akumulovat velké množství tepla. Pod jezerem tak vzniká talik. Alasy mají běžně rozměry od několika metrů až do několika kilometrů. Po vyprázdnění jezera nebo jeho zanesení dochází k opětovnému promrzání taliku, což může vést ke vzniku pinga a polygonů ledových klínů. V členitém terénu dochází k degradaci z boku. Táním ledových klínů vznikají erozní rýhy. Ve svahu mohou vznikat i rozsáhlejší deprese nazývané *termokary*. V nich bývá často exponovaný podzemní led. Spojením alasů vznikají protáhlé sníženiny -- *termokrasová údolí*.
 
 <figure id="fig:alas">
 <img src="/assets/obrazky/periglac/alas.jpg" >

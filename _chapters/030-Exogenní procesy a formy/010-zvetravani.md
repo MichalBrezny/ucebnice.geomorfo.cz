@@ -49,7 +49,7 @@ parku. (Autor: Ronnie Macdonald, CC BY 2.0 )
 
 *Chemické zvětrávání* (také rozklad nebo dekompozice) je změna chemických vlastností hornin a jejich minerálů. Dochází k nahrazení stávajících minerálů jinými. Změna chemických vlastností je provázena i zvětšením objemu a zmenšením hustoty minerálů. Základní podmínkou pro chemické zvětrávání je *přítomnost vody* a dostatečná *teplota*.
 
-Minerály, který vznikaly při podmínkách značně odlišných od těch co panují na zemském povrchu, zvětrávají rychleji, než ty které vznikaly za podmínek podobných. Tmavé (mafické) minerály zvětrávají na zemském povrchu rychleji než světlé (felsické) minerály. Tedy olivín a pyroxen zvětrává rychleji než muskovit či dokonce křemen. Tzv. *Goldichovo pravidlo zvětrávání* je v podstatě obráceným *Bowenovým krystalizačním schématem*, které znázorňuje pořadí minerálů krystalizujících z postupně chladnoucího magmatu. Ty minerály, které krystalizují při nejvyšších teplotách naopak nejrychleji podléhají zvětrávání. Samozřejmě v přírodních podmínkách to je poněkud komplikovanější.
+Minerály, které vznikaly při podmínkách značně odlišných od těch co panují na zemském povrchu, zvětrávají rychleji, než ty které vznikaly za podmínek podobných. Tmavé (mafické) minerály zvětrávají na zemském povrchu rychleji než světlé (felsické) minerály. Tedy olivín a pyroxen zvětrává rychleji než muskovit či dokonce křemen. Tzv. *Goldichovo pravidlo zvětrávání* je v podstatě obráceným *Bowenovým krystalizačním schématem*, které znázorňuje pořadí minerálů krystalizujících z postupně chladnoucího magmatu. Ty minerály, které krystalizují při nejvyšších teplotách naopak nejrychleji podléhají zvětrávání. Samozřejmě v přírodních podmínkách to je poněkud komplikovanější.
 
 Mobilita kationtů v minerálech ovlivňuje jak rychle se uvolní daný prvek z horniny, jak dlouho zůstává rozpuštěný ve vodě. Pořadí od nejmobilnějších k těm nejméně mobilním: Ca²⁺ > Na⁺ > Mg²⁺ > K⁺ > Fe²⁺ > Si⁴⁺ > Fe³⁺ > Al³⁺. Nejmobilnější kationy (Ca²⁺, Na⁺, Mg²⁺) jsou první, které jsou z hornin vyplavovány. Naopak málo mobilní kationy jako je Si⁴⁺, Fe³⁺, Al³⁺ zůstávají ve zvětralině, kde dochází postupně ke zvyšování jejich koncentrace.
 
@@ -83,11 +83,11 @@ Werner Schellmann, CC BY-SA 2.5, via Wikimedia Commons)
 
 # Biologické zvětrávání
 
-Zvětrávání v důsledku činnosti organismů může mít charakter fyzikálního, ale i chemické zvětrávání. Pod fyzikálním biologickým zvětráváním si snadno můžeme představit růst kořenů rostlin, a jejich rozrušování hornin (rozšiřování puklin mezivrstevních spár apod.). Chemické zvětrávání organismy spíše urychlují (např. zvýšené množství v důsledku dýchání).
+Zvětrávání v důsledku činnosti organismů může mít charakter fyzikálního, ale i chemického zvětrávání. Pod fyzikálním biologickým zvětráváním si snadno můžeme představit růst kořenů rostlin, a jejich rozrušování hornin (rozšiřování puklin mezivrstevních spár apod.). Chemické zvětrávání organismy spíše urychlují (např. zvýšené množství v důsledku dýchání).
 
 # Zvětralinová pokrývka
 
-Produktem zvětrávání je zvětralinová pokrývka. Její podoba je odvislá na typu zvětrávání. Fyzikální zvětrávání produkuje hrubší, ostrohranný materiál a naopak produkty chemického zvětrávání jsou daleko jemnější a mají hlinitojílovitý charakter. Mocnost zvětralinové pokrývky souvisí s charakterem podnebí, délce zvětrávání a samozřejmě s odolností horniny. Na svazích je mocnost zvětraliny menší než na rovinách. Zvětralinu, která je na místě svého vzniku (*in situ*) označujeme jako *saprolit*, naopak zvětralina, která je gravitačně přesouvána z vyšších částí svahu se nazývá *regolit*.
+Produktem zvětrávání je zvětralinová pokrývka. Její podoba je odvislá na typu zvětrávání. Fyzikální zvětrávání produkuje hrubší, ostrohranný materiál a naopak produkty chemického zvětrávání jsou daleko jemnější a mají hlinitojílovitý charakter. Mocnost zvětralinové pokrývky souvisí s charakterem podnebí, délkou zvětrávání a samozřejmě s odolností horniny. Na svazích je mocnost zvětraliny menší než na rovinách. Zvětralinu, která je na místě svého vzniku (*in situ*) označujeme jako *saprolit*, naopak zvětralina, která je gravitačně přesouvána z vyšších částí svahu se nazývá *regolit*.
 
 
 

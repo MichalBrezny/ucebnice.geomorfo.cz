@@ -6,7 +6,7 @@ slug: predmluva
 Pro nezasvěceného člověka je možná až nepředstavitelné, jak moc zemský
 reliéf ovlivňoval a ovlivňuje lidskou společnost. Vzpomeňte si na
 starověký Egypt a jeho závislost na pravidelných Nilských záplavách.
-Když chceme navštívit zříceninu hradu, tak zpravidla musím stoupat na
+Když chceme navštívit zříceninu hradu, tak zpravidla musíme stoupat na
 špatně dostupný kopec, který v dobách minulých umožňoval snadnou obranu
 a poskytoval rozhled do širokého okolí. Vinice jsou u nás na svazích s
 jižní orientací -- tak aby byly co nejlépe osluněné.
@@ -44,11 +44,11 @@ planety Země, ale pozornost se obrací i k dalším planetám Sluneční
 soustavy. Zkoumáním forem reliéfu se totiž můžeme dozvědět velké
 množství informací o procesech současných a minulých.
 
-Jak jsem se snažil v předchozích odstavcích naznačil, reliéf a
+Jak jsem se snažil v předchozích odstavcích naznačit, reliéf a
 reliéfotvorné procesy se projevují v mnoha oblastech. Myslím si, že to
 je docela pádný důvod pro to, aby každý měl alespoň základní ponětí o
 procesech, tvarech reliéfu a vazbách na další složky krajiny. Věřím, že
-Vám tato učebnice s pomůže s poznáním geomorfologie.
+Vám tato učebnice pomůže s poznáním geomorfologie.
 
 Tato učebnice si neklade za cíl obsáhnout všechna zákoutí geomorfologie
 a přinést vyčerpávající přehled tvarů reliéfu. Nebylo by to ani v mých
@@ -56,7 +56,7 @@ silách, neboť geomorfologie je velice široký obor. Mým cílem bylo
 vytvořit učebnici, která uceleně shrne základy geomorfologie a
 geomorfologických procesů pro studenty fyzické geografie, učitelství
 geografie ale i další příbuzných oborů. Doufám ale, že bude zajímavým
-čtením pro všechny, co se chtějí něco dozvědět krajině.
+čtením pro všechny, co se chtějí něco dozvědět o krajině.
 
 Stejně jako reliéf není v čase statický a nějakým způsobem se vyvíjí,
 tak i tato učebnice se bude vyvíjet. Budu rád, když mi napíšete
@@ -65,7 +65,7 @@ zavádějící vyjádření, či mi dáte tipy k doplnění.
 
 Učebnici tvořím podobně jako se tvoří programy, postupně vytvářím nové
 verze učebnice podle toho jak přidávám a upravuji obsah. Na mém GitHubu
-(<https://github.com/MichalBrezny/ucebnice.geomorfo.cz) najdete diskuzi a zároveň mě můžete upozornit na jakékoliv chyby či doporučit nějaké úpravy. 
+(<https://github.com/MichalBrezny/ucebnice.geomorfo.cz>) najdete diskuzi a zároveň mě můžete upozornit na jakékoliv chyby či doporučit nějaké úpravy. 
 
 Přeji příjemné a věřím, že i poučné čtení.
 

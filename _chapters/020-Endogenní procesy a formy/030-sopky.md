@@ -1,7 +1,7 @@
 ---
 title: Magmatismus, vulkanické procesy a formy reliéfu
 slug: vulkanismus
-abstract: Vulkaismus, typy sopek, vulkanické formy reliéfu
+abstract: Vulkanismus, typy sopek, vulkanické formy reliéfu
 ---
 
 
@@ -11,17 +11,17 @@ Pohyby magmatu ze zemského pláště do zemské kůry mají za následek celou 
 
 ## Velká intruzivní tělesa
 
-Mezi rozsáhlá intruzivní tělesa patří **batolity**, neboli také **plutony** ([Obr. 1](#fig:intrusion)). Tvoří je granitoidní horniny. Batolity jsou často v podloží nejvyšších částí kontinentálních orogénů. Intruze magmatu a vznik batolitu může způsobit vyklenutí nadložních sedimentárních hornin. Po exhumaci batolitu erozí nadložních hornin dochází k jeho zvětrávání podél puklin, které jsou organizované zpravidla do třech na sebe kolmých systémů. Obnažením intruzivních těles vede k uvolňování napětí v hornině a vzniku sekundárních (tzv. exfoliačních) puklinových systémů. **Lopolit** je dalším typem rozsáhlého intruzivního tělesa. Má tvar pánve a je tvořeno bazickými horninami typu gabro. Těleso menšího rozsahu než batolit je **peň**.
+Mezi rozsáhlá intruzivní tělesa patří **batolity**, neboli také **plutony** ([Obr. 1](#fig:intrusion)). Tvoří je granitoidní horniny. Batolity jsou často v podloží nejvyšších částí kontinentálních orogénů. Intruze magmatu a vznik batolitu může způsobit vyklenutí nadložních sedimentárních hornin. Po exhumaci batolitu erozí nadložních hornin dochází k jeho zvětrávání podél puklin, které jsou organizované zpravidla do tří na sebe kolmých systémů. Obnažením intruzivních těles vede k uvolňování napětí v hornině a vzniku sekundárních (tzv. exfoliačních) puklinových systémů. **Lopolit** je dalším typem rozsáhlého intruzivního tělesa. Má tvar pánve a je tvořeno bazickými horninami typu gabro. Těleso menšího rozsahu než batolit je **peň**.
 
 ## Intruzivní tělesa menšího rozměru
 
 Menší intruzivní tělesa doprovázejí větší intruzivní či extruzivní tělesa. Můžeme je rozdělit na konkordantní pokud probíhají podél
 původních vrstevních ploch a na diskordantní v případě jejich protnutí. Mezi diskordantní tělesa patří **pravé žíly** ([Obr.
-2](fig:zila)). Jedná se o 1 m až 10 m široká tělesa. Vyskytují se nejčastěji ve větších skupinách.
+2](#fig:zila)). Jedná se o 1 m až 10 m široká tělesa. Vyskytují se nejčastěji ve větších skupinách.
 
 <figure id="fig:intrusion">
 <img src="/assets/obrazky/sopky/Intrusion_types.png" />
-<figcaption>Obr. 1 Základní typy intruzí: 1. lakolit, 2. malá žíla, 3. batolit, 1. pravá žíla, 5. ložní žíla, 6. sopouch, 7. lopolit (Zdroj: Motilla, CC BY-SA 3.0 via Wikimedia Commons)
+<figcaption>Obr. 1 Základní typy intruzí: 1. lakolit, 2. malá žíla, 3. batolit, 4. pravá žíla, 5. ložní žíla, 6. sopouch, 7. lopolit (Zdroj: Motilla, CC BY-SA 3.0 via Wikimedia Commons)
 </figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Vulkanické erupce se dělí do tří typů a to na **exhalační**, kdy do vzdu
       <td>Kyselé, viskózní</td>
       <td>Proudy chybí; pokud jsou, tak různých mocností</td>
       <td>Velice silné</td>
-      <td>Rozsáhlé sopečné pumy a lapilli; bežně žádná tvorba kuželun</td>
+      <td>Rozsáhlé sopečné pumy a lapilli; běžně žádná tvorba kuželů</td>
     </tr>
     <tr>
       <td>Pélejský</td>
@@ -142,12 +142,12 @@ spojená s erupcemi pod ledovcem.
 
 ### Pyroklastický proud
 
-Pyroklastický proud (*pyroclastic flow*) je velice nebezpečný fenomén. Jedná se značně pohyblivou směs žhavých sopečných plynů a popela ([obr. 5](fig:pyroclastic){reference="fig:pyroclastic" reference-type="ref"}). Pohybuje se po sopečném svahu dolů rychlostmi, které se pohybují v rozmezí 150 km h^−1^--700 km h^−1^. Teplota tekoucího materiálu je od 100°C až 1100°C.
+Pyroklastický proud (*pyroclastic flow*) je velice nebezpečný fenomén. Jedná se značně pohyblivou směs žhavých sopečných plynů a popela ([Obr. 5](#fig:pyroclastic)). Pohybuje se po sopečném svahu dolů rychlostmi, které se pohybují v rozmezí 150 km h^−1^--700 km h^−1^. Teplota tekoucího materiálu je od 100°C až 1100°C.
 
 <figure id="fig:pyroclastic">
 <img src="/assets/obrazky/sopky/pyroclastic.jpg" />
 <figcaption>
-Obr. 5 Pyroklastické mračna tekoucá po úbočí sopky Mayon, Filipíny,
+Obr. 5 Pyroklastická mračna tekoucí po úbočí sopky Mayon, Filipíny,
 1984 (Autor: C.G. Newhall, USGS)
 </figcaption>
 </figure>
@@ -156,7 +156,7 @@ Obr. 5 Pyroklastické mračna tekoucá po úbočí sopky Mayon, Filipíny,
 
 *Sypaný kužel* (tufová sopka) má podobu kužele s kráterem uprostřed. Sypaný kužel je tvořen sopečným popelem, struskou a jeho výška je zpravidla do 300 m. Sypané kužely se často vyskytují ve skupinách případně v podobě parazitických sopouchů. Sypané kužely vznikají rychle (během jedné erupce – monogenetické).
 
-*Extruzivní sopky* neboli výtlačné kupy vznikají intruzí lávy. Kupy vzniklé vytlačením na povrch z kráteru se označují jako *hornitos*. Složité výtlačné kupy, které vnzikají jako intruzivní klenby a následně roztaví nadloží se nazývají *tholoidy*.
+*Extruzivní sopky* neboli výtlačné kupy vznikají intruzí lávy. Kupy vzniklé vytlačením na povrch z kráteru se označují jako *hornitos*. Složité výtlačné kupy, které vznikají jako intruzivní klenby a následně roztaví nadloží se nazývají *tholoidy*.
 
 *Maary* ([Obr. 6](#fig:maar)) jsou malé a mělké krátery. Vznikají silnými explozemi při nadměrné produkci plynů. Mají většinou konkávní formu s nízkým obvodovým lemem ze sopečného popela. Často bývají vyplněné jezery.
 
@@ -168,14 +168,14 @@ zóna (Autor: Giacomo Corti (přes imaggeo.egu.eu)).
 </figcaption>
 </figure>
 
-*Stratovulkány* jsou nejběžnějším typem sopky. Je to smíšená sopka. Kužel stratovulkánu je tvořen ze střídajících se vrstev lávy a tefry ([Obr. 7](fig:stratovulkan_rez)). Stratovulkány jsou tedy polygenetické. Na svazích se často nachází parazitické krátery. Pak  hovoříme o tzv. složených stratovulkánech.
+*Stratovulkány* jsou nejběžnějším typem sopky. Je to smíšená sopka. Kužel stratovulkánu je tvořen ze střídajících se vrstev lávy a tefry ([Obr. 7](#fig:stratovulkan_rez)). Stratovulkány jsou tedy polygenetické. Na svazích se často nachází parazitické krátery. Pak hovoříme o tzv. složených stratovulkánech.
 
 <figure id="fig:stratovulkan_rez">
 <img src="/assets/obrazky/sopky/Stratovolcano_cross-section.png">
 <figcaption>Obr. 7 Schematický řez stratovulkánem. A: magma stoupá z
 magmatického krbu centrálním sopečným komínem (B); C: parazitický kráter
 a pyroklastický kužel na svahu stratovulkánu; D: lávový proud; E: ložní
-(nepravá) žíla; F: akumulace pyroklastik; G: kráter a jeho výplnň; H:
+(nepravá) žíla; F: akumulace pyroklastik; G: kráter a jeho výplň; H:
 starý komín (Autor: Woudloper, CC BY-SA 3.0, via Wikimedia
 Commons)
 </figcaption>
@@ -189,11 +189,11 @@ dílo)
 </figcaption>
 </figure>
 
-Vůbec nejrozsáhlejší vulkanickou formou jsou **štítové sopky**. Mohou nabývat dvou forem: centrální sopka s jedním kráterem kruhového charakteru. Druhá podoba je lineární sopka (tzv. eldgjá). Štítové sopky mají širokou základnu, sklon svahů je velice mírný (většinou <10°). Dosahují ale velkých nadmořských výšek. Největší štítové sopky na Zemi lze nalézt na Havaji. Mauna Loa ([Obr. 9](fig:maunaloa) a Mauna Kea dosahují výšky 4000 m nad mořem. Avšak jejich základna o šířce přes 200 km se nachází v hloubce více jak 5000 m. Největší štítová sopka ve Sluneční soustavě se nachází ale na Marsu. Olympus Mons ční do výšky 26 km
+Vůbec nejrozsáhlejší vulkanickou formou jsou **štítové sopky**. Mohou nabývat dvou forem: centrální sopka s jedním kráterem kruhového charakteru. Druhá podoba je lineární sopka (tzv. eldgjá). Štítové sopky mají širokou základnu, sklon svahů je velice mírný (většinou <10°). Dosahují ale velkých nadmořských výšek. Největší štítové sopky na Zemi lze nalézt na Havaji. Mauna Loa ([Obr. 9](#fig:maunaloa)) a Mauna Kea dosahují výšky 4000 m nad mořem. Avšak jejich základna o šířce přes 200 km se nachází v hloubce více jak 5000 m. Největší štítová sopka ve Sluneční soustavě se nachází ale na Marsu. Olympus Mons ční do výšky 26 km
 
 <figure style="width:100%">
-<img src="/assets/obrazky/sopky/mauna_loa.jpg" alt="Štítová sopka Mauna Loa, největší aktivní sopka na Zemi. Fotografie z roku 1985the largest active volcano on Earth. (Credit: J.D. Griggs, USGS, volné dílo)" />
-<figcaption>Obr. 9 Štítová sopka Mauna Loa, největší aktivní sopka na Zemi. Fotografie z roku 1985the largest active volcano on Earth. (Credit: J.D. Griggs, USGS, volné dílo)
+<img src="/assets/obrazky/sopky/mauna_loa.jpg" alt="Štítová sopka Mauna Loa, největší aktivní sopka na Zemi. Fotografie z roku 1985. (Credit: J.D. Griggs, USGS, volné dílo)" />
+<figcaption>Obr. 9 Štítová sopka Mauna Loa, největší aktivní sopka na Zemi. Fotografie z roku 1985. (Credit: J.D. Griggs, USGS, volné dílo)
 </figcaption>
 </figure>
 
@@ -209,9 +209,9 @@ Obr. 10 Sopečná kaldera, ostrov Santorini, Řecko (Google Earth)
 Jak vzniká sopečná kaldera můžete vidět na následujícím modelu:
 {% include youtube.html id="BBGmXsZHInw" %}
 
-**Trappy** jsou lávové pokryvy, které pokrývají rozsáhlé oblasti v plochém terénu. Známé jsou tzv. Dekkánské trapy v západní Indii ([Obr. !!](#fig:trapy), které jsou jedním z nejrozsáhlejších vulkanických těles na světě. V současné době je jejich plocha přibližně 500000 km<sup>2</sup>.
+**Trappy** jsou lávové pokryvy, které pokrývají rozsáhlé oblasti v plochém terénu. Známé jsou tzv. Dekkánské trapy v západní Indii ([Obr. 11](#fig:trapy)), které jsou jedním z nejrozsáhlejších vulkanických těles na světě. V současné době je jejich plocha přibližně 500000 km<sup>2</sup>.
 
-<figure id="trappy">
+<figure id="fig:trapy">
 <img src="/assets/obrazky/sopky/trapy.jpg" alt="Dekkánské trapy (zdroj: Planet Labs, Inc - https://medium.com/planet-stories/earths-wonders-like-you-ve-never-seen-them-before-ac9e2f39aa56, CC BY-SA 4.0)"/>
 <figcaption>
 Obr. 11 Dekkánské trapy (zdroj: By Planet Labs, Inc – 

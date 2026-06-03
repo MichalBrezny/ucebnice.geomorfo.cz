@@ -14,7 +14,7 @@ Z forem reliéfu můžeme vyčíst celou řadu informací o procesech, které je
 
 Mnohé formy reliéfu jsou reliktem geomorfologických procesů dob minulých. Díky nim tak můžeme studovat historii a vývoj krajiny. Příkladem mohou být ledovcová údolí, kary a morény ve Vysokých Tatrách -- důkaz přítomnosti ledovců v pleistocénu.
 
-Z výše uvedeného je tedy zřejmé, že pro správně čtení zemského reliéfu je nezbytné chápat vazby mezi geomorfologickými procesy a tvary. Nesmíme ale zapomenout i na vazby s dalšími složkami krajiny (viz [úvod](/_chapters/010-Úvod/01-uvod.md))
+Z výše uvedeného je tedy zřejmé, že pro správné čtení zemského reliéfu je nezbytné chápat vazby mezi geomorfologickými procesy a tvary. Nesmíme ale zapomenout i na vazby s dalšími složkami krajiny (viz [úvod](/uvod.html))
 
 # Endogenní a exogenní procesy
 
@@ -22,7 +22,7 @@ Jak již bylo zmíněno, reliéf se vyvíjí působením **geomorfologických pr
 
 Ve své základní podstatě je georeliéf výsledkem protichůdných působení endogenních a exogenních procesů. Obecně můžeme říct, že endogenní procesy hlavně budují reliéf do výšky ([Obr. 1](#fig:zmenyvysky)). Jejich působením vznikají pohoří, sopky ale i drobnější tvary jako jsou zlomové stupně. Zvyšují tak vertikální členitost reliéfu. Vyčleňují se tři hlavní skupiny endogenních procesů. *Magmatické procesy* zahrnují přesuny roztavených hornin (magmatu) k zemskému povrchu. **Orogeneze** označuje vznik rozsáhlých pásemných pohoří. **Epeirogeneze** je výzdvih velkých území bez zjevného vrásnění či rozlámání hornin.
 
-Exogenní procesy naopak snižují a zarovnávají zemský reliéf ([Obr. 1](#fig:zmenyvysky)). Souhrnně se tomuto procesu zarovnávání říká **denudace**. Denudace zahrnuje jak odnos pevných částic, což je nazýváno jako **eroze**, tak i rozpuštěných látek (**chemická denudace**). Samozřejmě i exogenní procesy mohou lokalizovaně zvyšovat zemský reliéf. Představte si třeba pohybující se písečné duny; ledovec unášející velké mnoožství materiálu, které ukládá v podobě valů – morén.
+Exogenní procesy naopak snižují a zarovnávají zemský reliéf ([Obr. 1](#fig:zmenyvysky)). Souhrnně se tomuto procesu zarovnávání říká **denudace**. Denudace zahrnuje jak odnos pevných částic, což je nazýváno jako **eroze**, tak i rozpuštěných látek (**chemická denudace**). Samozřejmě i exogenní procesy mohou lokalizovaně zvyšovat zemský reliéf. Představte si třeba pohybující se písečné duny; ledovec unášející velké množství materiálu, které ukládá v podobě valů – morén.
 
 <figure id="fig:zmenyvysky">
 <figure>
@@ -36,7 +36,7 @@ Exogenní procesy naopak snižují a zarovnávají zemský reliéf ([Obr. 1](#f
 
 ## Prostorové měřítko
 
-Georeliéf lze studovat v různém *prostorovém měřítku*. V planetárním či kontinentálním měřítku studujeme například celé orogény (např. Andy, Himaláje), rychlost jejich výzdvihu, intenzitu denudačních procesů a vliv klimatu na ně. Při bližším pohledu se dostáváme na regionální (makro) měřítko. Jedná se zpravidla o území s jednotnou geologickou stavbou. Dalším přiblížením se již zaměřujeme na dílčí formy reliéfu. Studujeme malá povodí, jednotlivé meandry, písečné duny. Ve větším detailu (mikro měřítko) pak studujeme drobné tvary reliéfu – štěrkové lavice, zlomový sráz vzniklý jedním zemětřesením, mělké sesuvy. Lze se ale přiblížit ještě více. V největším detailu pak můžeme studovat mikroreliéf např. skalních stěn (příkladem drobných tvarů jsou voštiny[^1].
+Georeliéf lze studovat v různém *prostorovém měřítku*. V planetárním či kontinentálním měřítku studujeme například celé orogény (např. Andy, Himaláje), rychlost jejich výzdvihu, intenzitu denudačních procesů a vliv klimatu na ně. Při bližším pohledu se dostáváme na regionální (makro) měřítko. Jedná se zpravidla o území s jednotnou geologickou stavbou. Dalším přiblížením se již zaměřujeme na dílčí formy reliéfu. Studujeme malá povodí, jednotlivé meandry, písečné duny. Ve větším detailu (mikro měřítko) pak studujeme drobné tvary reliéfu – štěrkové lavice, zlomový sráz vzniklý jedním zemětřesením, mělké sesuvy. Lze se ale přiblížit ještě více. V největším detailu pak můžeme studovat mikroreliéf např. skalních stěn (příkladem drobných tvarů jsou voštiny[^1]).
 
 [^1]: Jedná se o drobné důlky na skalních površích, [voštiny na Wikipedii](https://cs.wikipedia.org/wiki/Vo%C5%A1tina_(geomorfologick%C3%BD_jev))
 
@@ -58,7 +58,7 @@ Georeliéf je dynamickým systémem, skrz který dochází k přesunům hmoty. H
 
 $$ I-O= \delta S$$
 
-kde $I$ je vstup hmoty (to co přibylo), $O$ jevýstup hmoty (to co z území ubylo) a $\delta S$ změna zásob hmoty v území.
+kde $I$ je vstup hmoty (to co přibylo), $O$ je výstup hmoty (to co z území ubylo) a $\delta S$ změna zásob hmoty v území.
 
 Velikost a charakter změn zásob hmoty v určitém území určují jeho geomorfologickou podobu. Hory, které erodují rychleji než je rychlost tektonického výzdvihu, se postupně snižují. Dalším příkladem mohou být řeky. Pokud se do toku začne dostávat více materiálu, než je voda schopna unášet, začne se koryto postupně zaplňovat. [^2] {% cite biermanKeyConceptsGeomorphology2014 %}.
 
@@ -78,7 +78,7 @@ Systém je udržován v dynamické rovnováze celou řadou zpětných vazeb. Nar
 
 ## Magnitudo a frekvence geomorfologických procesů
 
-Jevy malého magnituda (rozsahu, intenzity) se dějí často. Mají vysokou frekvenci opakování. Příklad na kterém toto lze snadno demonstrovat jsou zemětřesení. Slabá zemětřesení (magnitudo 3 a méně) jsou četná ([Obr. 2](fig:frekvence)). Ročně se jich vyskytne $> 10^6$. Silná zemětřesení s magnitudem $\geq 7$ a více se vyskytují jen v počtu zhruba $20$ za rok. K těm nejsilnějším dochází jen jednou za několik let. 
+Jevy malého magnituda (rozsahu, intenzity) se dějí často. Mají vysokou frekvenci opakování. Příklad na kterém toto lze snadno demonstrovat jsou zemětřesení. Slabá zemětřesení (magnitudo 3 a méně) jsou četná ([Obr. 2](#fig:frekvence)). Ročně se jich vyskytne $> 10^6$. Silná zemětřesení s magnitudem $\geq 7$ a více se vyskytují jen v počtu zhruba $20$ za rok. K těm nejsilnějším dochází jen jednou za několik let. 
 
 Události malého magnituda nemají zpravidla velký geomorfologický účinek. Naopak jevy velkého magnituda způsobují velké změny v reliéfu, postihují rozsáhlé oblasti apod. Opravdu silných zemětřesení se ročně vyskytne jen pár, ale mají dalekosáhlé důsledky jak pro společnost, tak pro georeliéf.[^3]
 

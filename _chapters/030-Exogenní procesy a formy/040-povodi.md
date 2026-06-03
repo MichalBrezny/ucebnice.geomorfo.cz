@@ -6,7 +6,7 @@ abstract: Tvar povodí a charakteristiky údolní sítě, typologie jezer.
 
 *Povodí* (*drainage basin, watershed, catchment*) je území, ze kterého odtéká voda a sedimenty do jednoho vodního toku či jezera. Hranice povodí je nazývaná *rozvodím*. K odtoku z povodí dochází v nejnižším bodě -- *závěrovém profilu* (*outlet*).
 
-Povodí jsou pro celou řadu studií (geomorfologických, hydrologických) základní jednotkou krajiny, na které se sleduje srážko-odtokový proces chod sedimentů ale také třeba jakým způsobem tyto procesy ovlivňují změny v hospodaření.
+Povodí jsou pro celou řadu studií (geomorfologických, hydrologických) základní jednotkou krajiny, na které se sleduje srážko-odtokový proces, chod sedimentů, ale také třeba jakým způsobem tyto procesy ovlivňují změny v hospodaření.
 
 Tvar povodí je ovlivněn celou řadou fyzickogeografických a geologických faktorů. Například ukloněním ker zemské kůry vznikají asymetrická povodí (jedna strana povodí je větší než druhá).
 
@@ -18,7 +18,7 @@ Tvar povodí je ovlivněn celou řadou fyzickogeografických a geologických fak
 
 # Geometrie údolní sítě
 
-Uspořádání údolní sítě je výsledkem celé řady faktorů. Nejvýznamnější vliv má ale geologická struktura. *Stromovitá údolní síť* má uspořádánítoků podobné větvím stromu. Tento typ sítě se vyvíjí v oblastech tvořených z hornin podobné geomorfologické odolnosti. Vývoj sítě tak není ovlivněn litologií ale hlavně sklonem reliéfu.
+Uspořádání údolní sítě je výsledkem celé řady faktorů. Nejvýznamnější vliv má ale geologická struktura. *Stromovitá údolní síť* má uspořádání toků podobné větvím stromu. Tento typ sítě se vyvíjí v oblastech tvořených z hornin podobné geomorfologické odolnosti. Vývoj sítě tak není ovlivněn litologií ale hlavně sklonem reliéfu.
 
 <table>
   <thead>
@@ -34,7 +34,7 @@ Uspořádání údolní sítě je výsledkem celé řady faktorů. Nejvýznamně
       <td>A</td>
       <td>Stromovitá</td>
       <td>Stromovitá struktura, hlavní tok vypadá kmen, přítoky větve. Bez zřejmého usměrnění toků.</td>
-      <td>Horizontálně uložené sediment, homogení krystalické horniny, stejná odolnost hornin. Bez vlivu geologických strukltur.</td>
+      <td>Horizontálně uložené sedimenty, homogenní krystalické horniny, stejná odolnost hornin. Bez vlivu geologických struktur.</td>
     </tr>
     <tr>
       <td>B</td>
@@ -58,7 +58,7 @@ Uspořádání údolní sítě je výsledkem celé řady faktorů. Nejvýznamně
       <td>E</td>
       <td>Radiální</td>
       <td>Vodní toky tečou od středu</td>
-      <td>Sopešné kužely, klenby</td>
+      <td>Sopečné kužely, klenby</td>
     </tr>
     <tr>
       <td>F</td>
@@ -80,9 +80,9 @@ Uspořádání údolní sítě je výsledkem celé řady faktorů. Nejvýznamně
   </tbody>
 </table>
 
-# Hiearchizace říční sítě
+# Hierarchizace říční sítě
 
-Vodní toky v krajině rozdělujeme dle jejich řádu ([Obr. 2](fig:radtoku)). V hydrologii se běžně používá číslování „zespod nahoru“. Tedy postupuje se od toku, co ústí do moře. Tento tok je hlavní a označuje se jako tok I. řádu (např. Dunaj). Řeka Morava je pak II. řádu atd.
+Vodní toky v krajině rozdělujeme dle jejich řádu ([Obr. 2](#fig:radtoku)). V hydrologii se běžně používá číslování „zespod nahoru“. Tedy postupuje se od toku, co ústí do moře. Tento tok je hlavní a označuje se jako tok I. řádu (např. Dunaj). Řeka Morava je pak II. řádu atd.
 
 V geomorfologii se uplatňuje odlišné číslování "shora dolů". Postupuje se od nejmenších toků v pramenných oblastech do nižších poloh ke stále větším tokům. Na tomto principu je založená Strahlerova nebo Shrevova klasifikace. *Strahlerova klasifikace* říká, že spojením toků stejného řádu vzniká tok o jeden řád vyšší (např. spojením toků prvního řádu vzniká tok druhého řádu). Při soutoku řek odlišných řádů (např. 1. a 2.) zůstává zachován nejvyšší řád. *Shrevova klasifikace* na soutocích řády sčítá. Tedy soutok dvou řek 1. řádu dá tok 2. řádu, soutok 3. a 1. řádu dá tok 4. řádu.
 
@@ -108,7 +108,7 @@ Jedna z klasifikací jezer je podle jejich vzniku. Rozlišujeme tak:
 -   Jezera činností organismů
 -   Meteoritická jezera
 
-Tvar jezerních pánví často odpovídá jejich genezi. Kruhový či oválný tvar mají jezeera vulkanická, závrtová nebo alasová. Jezera vzniklá v důsledku tektonických pohybů mají pravoúhlý tvar. Mrtvá ramena mají srpovitý tvar.
+Tvar jezerních pánví často odpovídá jejich genezi. Kruhový či oválný tvar mají jezera vulkanická, závrtová nebo alasová. Jezera vzniklá v důsledku tektonických pohybů mají pravoúhlý tvar. Mrtvá ramena mají srpovitý tvar.
 
 
 

@@ -5,9 +5,9 @@ slug: glacialni
 ---
 
 
-Kryosféra je termín zastřešující veškerou vodu v pevném skupenství (ledu), která se nachází na zemském povrchu. Komponenty kryosféry a jejich délka trvání je znázorněna na ([obr. 1](fig:komponentykryosfery)). Jednou z nejdůležitějších komponent jsou ledovce.
+Kryosféra je termín zastřešující veškerou vodu v pevném skupenství (ledu), která se nachází na zemském povrchu. Komponenty kryosféry a jejich délka trvání je znázorněna na ([Obr. 1](#fig:komponentykryosfery)). Jednou z nejdůležitějších komponent jsou ledovce.
 
-<figure>
+<figure id="fig:komponentykryosfery">
 <img src="/assets/obrazky/glac/komponenty_kryosfery.jpg" alt="Komponenty kryosféry a jejich časové škály.">
 <figcaption>
 Komponenty kryosféry a jejich časové škály (převzato z {% cite lemkeObservationsChangesSnow2007 %})
@@ -21,7 +21,7 @@ Komponenty kryosféry a jejich časové škály (převzato z {% cite lemkeObserv
 
 ## Vznik ledovců a bilance hmoty
 
-Čerstvě napadaný sníh má velice nízkou hustotu ([tab. 1](tab:snih_led)). Postupnou kompakcí vlivem tlaku sněhové hmoty v nadloží a rekrystalizací se jeho hustota zvyšuje a mění se ve *firn*. Další kompakcí, zcelováním jednotlivých ledových krystalů do jednolité hmoty se firn mění v *ledovcový led* jehož hustota se pohybuje mezi 830 kg m<sup>−3</sup> až 923 kg m<sup>−3</sup> ([tab.1](tab:snih_led); {% cite cuffeyPhysicsGlaciers2010 %}).
+Čerstvě napadaný sníh má velice nízkou hustotu ([tab. 1](tab:snih_led)). Postupnou kompakcí vlivem tlaku sněhové hmoty v nadloží a rekrystalizací se jeho hustota zvyšuje a mění se ve *firn*. Další kompakcí, zcelováním jednotlivých ledových krystalů do jednolité hmoty se firn mění v *ledovcový led* jehož hustota se pohybuje mezi 830 kg m<sup>−3</sup> až 923 kg m<sup>−3</sup> ([Tab. 1](#tab:snih_led); {% cite cuffeyPhysicsGlaciers2010 %}).
 
 <table id="tab:snih_led"> 
 <caption>
@@ -67,10 +67,10 @@ Tab. 1 Typická hustota sněhu, firnu a ledovcového ledu v kg m<sup>-3</sup> (u
 
 Ledovce mění svůj objem v závislosti na přísunu hmoty (ledu) – *akumulaci*, a jeho úbytku neboli *ablaci*. Přírůstky ledu jsou způsobené zejména sněhovými srážkami, které dopadají přímo na ledovec nebo jsou na něj dopraveny pomocí lavin či převáty větrem z okolí. Úbytek hmoty je způsoben táním ledu a následným odtokem tavných vod, odlamování ker (tzv. telení), větrnou erozí, ale i sublimací ledu (přímou přeměnou ledu ve vodní páru).
 
-Na ledovci rozlišujeme z hlediska bilance dvě základní zóny: akumulační a ablační ([Obr](fig:ledovecmassbalance)). Do *akumulační zóny* spadá ta část ledovce, která má pozitivní bilanci (přírůstky hmoty). *Ablační zóna* má zápornou bilanci, dochází zde k úbytku hmoty. Hranicí mezi akumulační a ablační zónou je tzv. *čára rovnováhy* (*equilibrium line altitude*). Pokud je celková bilance ledovce záporná, ledovec se zmenšuje a naopak. Bilance hmoty v ledovci se zpravidla určuje pro období mezi dvěma okamžiky, kdy ablace dosáhla svého maxima (konec léta 1 – konec léta 2).
+Na ledovci rozlišujeme z hlediska bilance dvě základní zóny: akumulační a ablační ([Obr.](#fig:ledovecmassbalance)). Do *akumulační zóny* spadá ta část ledovce, která má pozitivní bilanci (přírůstky hmoty). *Ablační zóna* má zápornou bilanci, dochází zde k úbytku hmoty. Hranicí mezi akumulační a ablační zónou je tzv. *čára rovnováhy* (*equilibrium line altitude*). Pokud je celková bilance ledovce záporná, ledovec se zmenšuje a naopak. Bilance hmoty v ledovci se zpravidla určuje pro období mezi dvěma okamžiky, kdy ablace dosáhla svého maxima (konec léta 1 – konec léta 2).
 
 
-<figure>
+<figure id="fig:ledovecmassbalance">
 <img src="/assets/obrazky/glac/ledovec_mass_balance.png" alt="Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty." >
 <figcaption>
 Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty (upraveno podle {% cite summerfieldGlobalGeomorphologyIntroduction1999 %})
@@ -112,9 +112,9 @@ Velice důležitým faktorem, který ovlivňuje pohyb ledovce a jeho schopnost m
 
 ## Pohyb ledovců
 
-Působením tíhové síly je v ledovci vyvoláváno smykové napětí, které uvádí ledovce do pohybu. Rozlišujeme dva základní mechanismy. První mechanismus, kterým se pohybují všechny ledovce je vnitřní (plastická) deformace nazývaná ledovcový kríp ("ice creep"). Druhý mechanismus je *bazální klouzání* (smýkání). Ledovce s teplou bází se dominantně pohybují bazálním smýkáním, vnitřní deformací samotného ledu jerealizován jen zlomek celkového pohybu. U ledovců se studenou bází to je naopak. Bazální klouzání je téměř nulové a ledovcová masa se pohybuje vnitřní deformací ledu.
+Působením tíhové síly je v ledovci vyvoláváno smykové napětí, které uvádí ledovce do pohybu. Rozlišujeme dva základní mechanismy. První mechanismus, kterým se pohybují všechny ledovce je vnitřní (plastická) deformace nazývaná ledovcový kríp ("ice creep"). Druhý mechanismus je *bazální klouzání* (smýkání). Ledovce s teplou bází se dominantně pohybují bazálním smýkáním, vnitřní deformací samotného ledu je realizován jen zlomek celkového pohybu. U ledovců se studenou bází to je naopak. Bazální klouzání je téměř nulové a ledovcová masa se pohybuje vnitřní deformací ledu.
 
-<figure>
+<figure id="fig:flowvelocity">
 <img src="/assets/obrazky/glac/flow_velocity.png" alt="Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu.">
 <figcaption>Rychlost pohybu ledovce v závislosti na teplotě báze a přítomnosti tillu (Upraveno podle {% cite biermanKeyConceptsGeomorphology2014 %})
 </figcaption>
@@ -131,13 +131,13 @@ kde $\dot{\epsilon}$ je rychlost deformace, $A$ je koeficient, který s teplotou
 
 Jak je patrné z rovnice (jelikož $n > 1$), tak i malé změny smykového napětí vedou k velkým změnám v úrovni deformace.
 
-Průměrná rychlost pohybu ledovce je v rozmezí 3 m až 300 m za rok. Rychlost pohybu se mění v prostoru a čase. Největší rychlost pohybu ledovce je na jeho povrchu a směrem dolů klesá ([Obr. ](fig:flowvelocity)). V podélném profilu se rychlost mění v závislosti na akumulaci a ablaci.
+Průměrná rychlost pohybu ledovce je v rozmezí 3 m až 300 m za rok. Rychlost pohybu se mění v prostoru a čase. Největší rychlost pohybu ledovce je na jeho povrchu a směrem dolů klesá ([Obr. ](#fig:flowvelocity)). V podélném profilu se rychlost mění v závislosti na akumulaci a ablaci.
 
 # Glaciální procesy
 
 ## Erozní činnost ledovců
 
-Celkem rozlišujeme čtyři mechanismy glaciální eroze. *Deterze* jeohlazování skalního podloží. *Exarace* rýhování skalního podloží. Tímto procesem vznikají striace. Podle striací skalního podloží lze určit směr pohybu ledovce. *Detrakce* je proces odlamování Čtvrtý mechanismus *plucking* je spojený s účinky mrazového zvětrávání a tlaku ledovce.Jedná se o vytrhování kusů horniny z podloží.
+Celkem rozlišujeme čtyři mechanismy glaciální eroze. *Deterze* je ohlazování skalního podloží. *Exarace* rýhování skalního podloží. Tímto procesem vznikají striace. Podle striací skalního podloží lze určit směr pohybu ledovce. *Detrakce* je proces odlamování. Čtvrtý mechanismus *plucking* je spojený s účinky mrazového zvětrávání a tlaku ledovce. Jedná se o vytrhování kusů horniny z podloží.
 
 <figure id="fig:ledovec">
 <img src="/assets/obrazky/glac/ledovec_svyc.jpg">
@@ -197,9 +197,9 @@ Typické trogy. Pohled do Velké a Malé Studené doliny ve Vysokých Tatrách. 
 
 ## Tvary ledovcové akumulace
 
-Glaciální sediment se nazývá *till*. Je tvořen nevytříděným materiál (obsahuje různé frakce). Till obshuje různě opracovaný materiál -- jak ostrohranné, tak i zaoblené klasty. Na klastech jsou patrné ohlazy a *striace*. Till je nevrstevnatý a litologicky heterogenní.
+Glaciální sediment se nazývá *till*. Je tvořen nevytříděným materiálem (obsahuje různé frakce). Till obsahuje různě opracovaný materiál -- jak ostrohranné, tak i zaoblené klasty. Na klastech jsou patrné ohlazy a *striace*. Till je nevrstevnatý a litologicky heterogenní.
 
-Akumulační formy tvořené tillem se označují jako *morény*. Morény jsou důležitým indikátorem dynamiky ledovce, jeho maximálního rozsahu apod. Rozlišujeme několik základních druhů morén. *Čelní morény* jsou valy, které vznikají před čelem ledovce. Omezují nejzazší místo, kam se ledovec dostal. *Boční morény* jsou akumulace po bocích ledovce. Při spojení dvou ledovců dochází i ke splynutí jejich bočních morén, vzniká tak *střední moréna*. *Ústupové morény* jsou drobnější morény mezi čelnímorénou a zbytkem ledovce případně karem. Vyznačují místa, kde došlo ke krátkodobé stabilizaci ustupujícího ledovce. *Svrchní moréna* pokrývá ledovec. Malá vrstva svrchní morény snižuje albedo a může způsobit intenzivnější tání ledovce. Pokud je ale svrchní moréna mocnější, tak může naopak působit jako izolant. Materiál v těle ledovce označujeme jako *vnitřní morénu*. V podloží ledovce se nachází *spodní moréna*.
+Akumulační formy tvořené tillem se označují jako *morény*. Morény jsou důležitým indikátorem dynamiky ledovce, jeho maximálního rozsahu apod. Rozlišujeme několik základních druhů morén. *Čelní morény* jsou valy, které vznikají před čelem ledovce. Omezují nejzazší místo, kam se ledovec dostal. *Boční morény* jsou akumulace po bocích ledovce. Při spojení dvou ledovců dochází i ke splynutí jejich bočních morén, vzniká tak *střední moréna*. *Ústupové morény* jsou drobnější morény mezi čelní morénou a zbytkem ledovce případně karem. Vyznačují místa, kde došlo ke krátkodobé stabilizaci ustupujícího ledovce. *Svrchní moréna* pokrývá ledovec. Malá vrstva svrchní morény snižuje albedo a může způsobit intenzivnější tání ledovce. Pokud je ale svrchní moréna mocnější, tak může naopak působit jako izolant. Materiál v těle ledovce označujeme jako *vnitřní morénu*. V podloží ledovce se nachází *spodní moréna*.
 
 *Drumlin* může na první pohled připomínat oblík. Je tvořen ale sedimenty a jeho podélný profil je opačný. Strmý svah je proti pohybu ledovce a mírný svah po směru pohybu.
 

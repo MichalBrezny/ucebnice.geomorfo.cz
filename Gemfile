@@ -10,6 +10,7 @@ gem 'jemoji'
 gem 'webrick'
 gem 'jekyll-scholar'
 gem 'jekyll-relative-links'
+gem "observer"
 group :jekyll_plugins do
     gem "jekyll-youtube"
   end

@@ -56,8 +56,8 @@ naopak nulové normálové napětí a smykové se rovná tíhovému napětí.
 </figure>
 <figcaption>
 A: Rozklad tíhového napětí (síly) na normálové napětí ($\sigma$) a smykové napětí ($\tau$) v závislosti na sklonu svahu
-($\beta$). 
-B: ukázka rozložení sil na svahu (upraveno podle {% cite selbyHillslopeMaterialsProcesses1993 %}
+($\theta$). 
+B: ukázka rozložení sil na svahu (upraveno podle {% cite selbyHillslopeMaterialsProcesses1993 %})
 </figcaption>
 </figure>
 
@@ -95,13 +95,13 @@ kde $c$ je koheze, $\phi$ je úhel vnitřního tření a $\sigma^\prime$ je efek
 
 *Koheze materiálu* ($c$) nebo také soudržnost materiálu je veličina, která udává jak jednotlivé částice materiálu drží pospolu. Je nezávislá na vnějších tlacích a je dána zejména chemickými vazbami a adhezí.
 
-*Úhel vnitřního tření materiálu* $\phi$ je závislý na velikosti částic, jejich tvarem a rozmítění.
+*Úhel vnitřního tření materiálu* $\phi$ je závislý na velikosti částic, jejich tvaru a rozmístění.
 
 *Normálové napětí* zvyšuje úhel vnitřního tření. Jelikož proti normálovému napětí působí tlak vody v pórech (tzv. pórové tlaky) snižuje se o jejich hodnotu velikost normálového napětí. Hovoříme potom o *efektivním normálovém napětí* $\sigma^\prime$.
 
 Stabilita svahu je stav, který se mění v čase v závislosti na celé řadě podmínek. Může se zvyšovat, ale i snižovat.
 
-Tabulka [tab:stabilita_faktory](tab:stabilita_faktory) obsahuje příklady různých příčin sesuvů a jiných svahových pohybů. Tyto příčiny můžeme rozdělit do tří skupin:
+Tabulka níže obsahuje příklady různých příčin sesuvů a jiných svahových pohybů. Tyto příčiny můžeme rozdělit do tří skupin:
 1.  Predispozice
 2.  Přípravné faktory
 3.  Spouštěcí faktory
@@ -342,7 +342,7 @@ Smyková plocha je plocha, podél které došlo k sesouvání. Sesouvání můž
 <img src="/assets/obrazky/svahy/rotacni.jpg"/>
 <figcaption>Rotační sesuv poblíž Cusca, Peru roku 2018 (autor:
 Ministerio de Defensa del Perú - <a href="https://www.flickr.com/photos/ministeriodedefensaperu/39935939755/in/dateposted/">https://www.flickr.com/photos/ministeriodedefensaperu/39935939755/in/dateposted/</a>,
-CC BY 2.0
+CC BY 2.0)
 </figcaption>
 </figure>
 
@@ -364,7 +364,7 @@ Jedná se o pomalé pohyby (mm/rok), které ale mohou být extrémně rychlé v
 
 ### Tečení
 
-Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost tečení je různorodá. Pohybuje se od  několika centimetrů až 100 km za hodinu. Výsledný tvar je *proud*. Blokovobahenní proud, mura (debris flow). Hlavní příčinou tečení je nasycení materiálu vodou. Tečením mohou být transportovány i bloky hornin i metrových velikostí.
+Tečení je svahový pohyb, kdy materiál je ve viskózním stavu. Rychlost tečení je různorodá. Pohybuje se od  několika centimetrů až 100 km za hodinu. Výsledný tvar je *proud*. Hlavní příčinou tečení je nasycení materiálu vodou. Tečením mohou být transportovány i bloky hornin i metrových velikostí.
 
 Častým typem tečení jsou tzv. *blokovobahenní proudy* (*debris flow*), také nazývané *mury*. Vyskytují se typicky v horském terénu. Jedná se o rychlý pohyb ztekuceného materiálu (bahna a velkých balvanů) ve stržích či údolích prvních řádů, kde se tyto proudy pravidelně opakují. K blokovobahenním proudům dochází zejména po prudkých deštích. Často se vyskytují během povodňových událostí. Prvopočátek blokovobahenního proudu může být v podobě sesuvu vodou saturovaného koluvia. Když tento sesuv narazí na dno strže/údolí dochází ke ztekucení materiálu a vzniku samotného blokovobahenního proudu. Ten má velkou erozní schopnost a díky tomu nabírá další hmotu během svého pohybu. V případě, že tekoucí materiál neobsahuje velké balvany a skládá se především ze siltu hovoříme o *bahnotoku*. Pro velké bahnotoky a blokovobahenní proudy ze sopečného materiálu se používá termín *lahary*.
 
@@ -380,7 +380,7 @@ Video o blokovobahenních proudech v Illgraben, Švýcarsko:
 
 *Zemní proud* (*earthflow*) je relativně pomalý proces tečení zemin. Pro zemní proudy jsou typická období klidu (desítky i stovky let) proložená epizodami náhlé aktivity. Jejich rychlost pohybu se pohybuje od metrů za rok až po metry za hodinu. Délka zemních proudů je v řádu desítek metrů až několika kilometrů.
 
-*Skalní laviny* jsou extrémním svahovým procesem. Jejich počátek je zpravidla v podobě velkého skalního sesuvu, který se ale záhy rozpadá a výsledkem je extrémně rychlý proud úlomků hornin. Objem sesunutých hornin bývá obrovský – od 1 milionu m^3^, ale může dosahovat i desítek Gm^3^. Skalní laviny mají oproti klasickým sesuvům ohromnou mobilitu, tudíž mohou dosáhnout značných vzdáleností od svého počátku (i desítky km). Rychlost pohybu je v řádu stovek kilometrů za hodinu.
+*Skalní laviny* jsou extrémním svahovým procesem. Jejich počátek je zpravidla v podobě velkého skalního sesuvu, který se ale záhy rozpadá a výsledkem je extrémně rychlý proud úlomků hornin. Objem sesunutých hornin bývá obrovský – od 1 milionu m<sup>3</sup>, ale může dosahovat i desítek Gm<sup>3</sup>. Skalní laviny mají oproti klasickým sesuvům ohromnou mobilitu, tudíž mohou dosáhnout značných vzdáleností od svého počátku (i desítky km). Rychlost pohybu je v řádu stovek kilometrů za hodinu.
 
 ### Svahové deformace
 
@@ -391,7 +391,7 @@ Termínem *svahové deformace* označujeme extrémně pomalé pohyby (mm až m z
 
 #### Povrchové ploužení
 
-Povrchové ploužení je pomalý plastický pohyb zvětralinového pláště (deluvia) a půd na svazích. Projevuje se už na velmi mírných svazích. Hloubkový dosah je v řádu m. K ploužení dochází z důsledku cyklických objemových změn ve zvětralinách v důsledku klimatický vlivů. K expanzi dochází např. při zvlhčení nebo mrznutí, kontrakci pak při vysychání a tání. Dále se uplatňuje růst ledových krystalků *jehlovitého ledu*. Mezi důsledky povrchového ploužení, ale i dobrým identifikačním znakem jsou ohnuté kmeny stromů (tzv. opilý les). Ploužení může způsobovat také *hákování vrstev*, což je ohnutí vrstev směrem po svahu.
+Povrchové ploužení je pomalý plastický pohyb zvětralinového pláště (deluvia) a půd na svazích. Projevuje se už na velmi mírných svazích. Hloubkový dosah je v řádu m. K ploužení dochází v důsledku cyklických objemových změn ve zvětralinách vyvolaných klimatickými vlivy. K expanzi dochází např. při zvlhčení nebo mrznutí, kontrakci pak při vysychání a tání. Dále se uplatňuje růst ledových krystalků *jehlovitého ledu*. Mezi důsledky povrchového ploužení, ale i dobrým identifikačním znakem jsou ohnuté kmeny stromů (tzv. opilý les). Ploužení může způsobovat také *hákování vrstev*, což je ohnutí vrstev směrem po svahu.
 
 *Soliflukce* označuje pomalé stékání činné vrstvy permafrostu po zmrzlém podloží, což vede ke vzniku soliflukčních laloků.
 
@@ -407,7 +407,7 @@ Pro hlubinné ploužení se často používá termín *sackung*. Tento proces po
 
 ## Československá klasifikace svahových pohybů
 
-Na území ČR je používaná klasifikace svahových pohybů podle Nemčoka, Paška, Rybáře []{.citation cites=„nemcokDeleniSvahovychPohybu1974“}.Svahové pohyby dělí na základě mechanismu pohybu a rychlosti pohybu. Tato klasifikace je jednodušší na počet základních typů svahových pohybů, ale v podstatě pokrývá vše co je uvedené v mezinárodní Varnesově klasifikaci. Svahové pohyby dělí do čtyř základních skupin:
+Na území ČR je používaná klasifikace svahových pohybů podle Nemčoka, Paška, Rybáře {% cite nemcokDeleniSvahovychPohybu1974 %}. Svahové pohyby dělí na základě mechanismu pohybu a rychlosti pohybu. Tato klasifikace je jednodušší na počet základních typů svahových pohybů, ale v podstatě pokrývá vše co je uvedené v mezinárodní Varnesově klasifikaci. Svahové pohyby dělí do čtyř základních skupin:
 -   ploužení
 -   sesouvání
 -   stékání
@@ -434,7 +434,7 @@ class="uri">http://www.geology.cz/foto/19777</a>
 
 Sesouvání je krátkodobě klouzavý pohyb horninových hmot na svahu podél jedné nebo více průběžných smykových ploch. Jedná se o relativně rychlý pohyb (řádově cm/h až m/h). Výslednou formou sesuvného pohybu je sesuv. Sesuvy dále dělíme podle tvaru smykové plochy (viz výše).
 
-### Tečení
+### Stékání
 
 Stékání je rychlý (km/h) krátkodobý pohyb horninových hmot ve viskózním stavu. Podstatná část hmot vyteče z odlučného prostoru (jámy) a přemístí se po povrchu terénu na velkou vzdálenost (v ČR i stovky metrů). Stékající hmoty jsou ostře odděleny od neporušeného podloží. Výslednou formou je proud. V konečné fázi vývoje může stékání přecházet do pomalého ploužení. V ČR se vyskytuje nepravidelně a je vázán na extrémní srážky spolu s vhodnými geologickými a geomorfologickými podmínkami.
 
@@ -483,8 +483,8 @@ Propojení vodních toků a svahů je důležité z důvodu chodu sedimentů.
 
 Způsob jakým jsou sesuvy a další gravitační procesy propojené s vodními toky lze rozdělit do pěti skupin {% cite korupGeomorphicImprintLandslides2005 %}.
 
-1. Plošné – rozsáhlých svahových deformací, které překračují jednotlivá rozvodí
-2. Liniové – sesuv ve svém pohybu pokračuje v údolí ve vodním toku. Dojde například k tranformaci sesuvu na blokovobahenní proud apod
+1. Plošné – rozsáhlé svahové deformace, které překračují jednotlivá rozvodí
+2. Liniové – sesuv ve svém pohybu pokračuje v údolí ve vodním toku. Dojde například k transformaci sesuvu na blokovobahenní proud apod.
 3. Bodové – akumulační oblast sesuvu zasahuje do vodního toku.
 4. Nepřímé – Nepřímé působení je v případě sesunutí do vodní nádrže (přírodní či umělé).
 5. Žádné – nedochází k interakci mezi sesuvem a vodním tokem (akumulace nezasahuje na dno údolí)
@@ -504,7 +504,7 @@ Způsob jakým jsou sesuvy a další gravitační procesy propojené s vodními 
 
 Difuzní procesy jsou charakteristické tím, že se na transportu sedimentů nepodílí soustředěný tok vody, větru či ledu. Tyto procesy zahlazují nerovnosti na svahu a postupně snižují vertikální členitost reliéfu. 
 
-*Bombardování vodními kapkami* se uplatňuje zejména tam, kde *vegetační kryt je velice řídký či zcela chybí* (pouště, badlandy). Vodní kapka, která dopadá na ukloněný povrch vymrští částečky, které letí proti a po svahu. Ty, které jsou odmrštěny proti svahu mají kratší trajektorii, než ty, které letí po svahu dolů. Tímto způsobem se tak materiál postupně přesouvá směrem po svahu. samozřejmě čím větší je sklon, tím delší je transport po svahu dolů.
+*Bombardování vodními kapkami* se uplatňuje zejména tam, kde *vegetační kryt je velice řídký či zcela chybí* (pouště, badlandy). Vodní kapka, která dopadá na ukloněný povrch vymrští částečky, které letí proti a po svahu. Ty, které jsou odmrštěny proti svahu mají kratší trajektorii, než ty, které letí po svahu dolů. Tímto způsobem se tak materiál postupně přesouvá směrem po svahu. Samozřejmě čím větší je sklon, tím delší je transport po svahu dolů.
 
 Významnějším procesem je *plošný (ronový) splach*. Jako *ron* označujeme nesoustředěný odtok vody po povrchu. Největší účinky má plošný splach opět na svazích, které nejsou pokryté vegetací. K tomuto *povrchovému odtoku* dochází při překročení infiltrační kapacity půdy nebo jejímu nasycení vodou. Se zvětšujícím se sklonem a narůstajícím množstvím vody se laminární proudění mění na turbulentní. To způsobuje soustředění odtoku a začátek hloubkové eroze, což v důsledku vede ke vzniku stružek a následně strží.
 

@@ -13,13 +13,13 @@ Rozsah současné periglaciální zóny je znatelně menší oproti pleistocénu
 
 # Permafrost
 
-*Permafrost* je dlouhodobě zmrzlá část litosféry a pedosféry (tzv. kryolitozóna). Permafrost tak může být tvořen zeminami („zmrzlá půda“), tak i skalními horninami. Zavedená definice permafrostu říká, že se jedná o část litosféry a pedosféry jejíž teplota je minimálně dva roky pod 0°C.
+*Permafrost* je dlouhodobě zmrzlá část litosféry a pedosféry (tzv. kryolitozóna). Permafrost tak může být tvořen jak zeminami („zmrzlá půda“), tak i skalními horninami. Zavedená definice permafrostu říká, že se jedná o část litosféry a pedosféry jejíž teplota je minimálně dva roky pod 0 °C.
 
-Permafrost vzniká v oblastech se zápornou tepelnou bilancí, což znamená, že je více tepla z území vyzářeno, než se tam dostane slunečním zářením a tepelným tokem z nitra Země. Přítomnost permafrostu je tak soustředěna do vysokých zeměpisných šířek a vysokých nadmořských výšek. V současné době se permafrost nachází asi na 24 % souše severní polokoule ([Obr.](#fig:permafrostdistr)). Zahrnuje to především území Kanady, Aljašky a Sibiře a Grónska. Na jižní polokouli je permafrost rozšířen zejména na území Antarktidy.
+Permafrost vzniká v oblastech se zápornou tepelnou bilancí, což znamená, že je více tepla z území vyzářeno, než se tam dostane slunečním zářením a tepelným tokem z nitra Země. Přítomnost permafrostu je tak soustředěna do vysokých zeměpisných šířek a vysokých nadmořských výšek. V současné době se permafrost nachází asi na 24 % souše severní polokoule ([Obr.](#fig:permafrostdistr)). Zahrnuje to především území Kanady, Aljašky, Sibiře a Grónska. Na jižní polokouli je permafrost rozšířen zejména na území Antarktidy.
 
 <figure id="fig:permafrostdistr">
 <img src="/assets/obrazky/periglac/permafrost_distr.jpg" alt="Distribuce permafrostu na severní polokouli.">
-<figcaption>Figure: Distribuce permafrostu na severní polokouli (převzato z {% cite obuNorthernHemispherePermafrost2019 %}).
+<figcaption>Distribuce permafrostu na severní polokouli (převzato z {% cite obuNorthernHemispherePermafrost2019 %}).
 </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Podle lokalit, kde se permafrost nachází ho můžeme rozdělit na pásemný (p
 
 <figure>
 <img src="/assets/obrazky/periglac/talik.png" alt="A – vymezení permafrostu, jeho horní hranice a báze (upraveno podle \textcite {jrPermafrostRelatedEngineering1969}), B – rozdělení taliků na uzavřený (obklopen permafrostem zespod a ze stran), často pod mělkými jezery; otevřený talik (pod hlubokým jezerem či vodním tokem); vnitřní talik" width = "100%">
-<figcaption>Figure: A – vymezení permafrostu, jeho horní hranice a báze (upraveno podle {% cite jrPermafrostRelatedEngineering1969 %}), B – rozdělení taliků na uzavřený (obklopen permafrostem zespod a ze stran), často pod mělkými jezery; otevřený talik (pod hlubokým jezerem či vodním tokem); vnitřní talik (upraveno podle {%cite demekObecnaGeomorfologie1987 %})
+<figcaption>A – vymezení permafrostu, jeho horní hranice a báze (upraveno podle {% cite jrPermafrostRelatedEngineering1969 %}), B – rozdělení taliků na uzavřený (obklopen permafrostem zespod a ze stran), často pod mělkými jezery; otevřený talik (pod hlubokým jezerem či vodním tokem); vnitřní talik (upraveno podle {%cite demekObecnaGeomorfologie1987 %})
 </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Mezi aktivní vrstvou a samotným permafrostem můžeme vymezit ještě přechod
 
 <figure>
 <img src="/assets/obrazky/periglac/aktivni_vrstva.png" alt="Model rozhraní aktivní vrstvy a permafrostu o třech vrstvách. Aktivní vrstva taje a zamrzá sezónně. Přechodná vrstva roztává a zamrzává v horizontu desetiletí až staletí. Permafrost je dlouhodobě zmrzlý a jeho tání a zamrzání je otázkou staletí až tisíciletí">
-<figcaption>Figure: Model rozhraní aktivní vrstvy a permafrostu o třech vrstvách. Aktivní vrstva taje a zamrzá sezónně. Přechodná vrstva roztává a zamrzává v horizontu desetiletí až staletí. Permafrost je dlouhodobě zmrzlý a jeho tání a zamrzání je otázkou staletí až tisíciletí (upraveno podle {% cite frenchPeriglacialEnvironment2017 %}).
+<figcaption>Model rozhraní aktivní vrstvy a permafrostu o třech vrstvách. Aktivní vrstva taje a zamrzá sezónně. Přechodná vrstva roztává a zamrzává v horizontu desetiletí až staletí. Permafrost je dlouhodobě zmrzlý a jeho tání a zamrzání je otázkou staletí až tisíciletí (upraveno podle {% cite frenchPeriglacialEnvironment2017 %}).
 </figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ slug: predmluva
 
 Pro nezasvěceného člověka je možná až nepředstavitelné, jak moc zemský
 reliéf ovlivňoval a ovlivňuje lidskou společnost. Vzpomeňte si na
-starověký Egypt a jeho závislost na pravidelných Nilských záplavách.
+starověký Egypt a jeho závislost na pravidelných nilských záplavách.
 Když chceme navštívit zříceninu hradu, tak zpravidla musíme stoupat na
 špatně dostupný kopec, který v dobách minulých umožňoval snadnou obranu
 a poskytoval rozhled do širokého okolí. Vinice jsou u nás na svazích s
@@ -39,7 +39,7 @@ mají na svědomí velké množství lidských životů a obrovské ekonomické
 škody.
 
 Studiem tvarů reliéfu a procesů, které ho utvářejí se zabývá
-geomorfologie. V současně době již objektem studia není jen reliéf
+geomorfologie. V současné době již objektem studia není jen reliéf
 planety Země, ale pozornost se obrací i k dalším planetám Sluneční
 soustavy. Zkoumáním forem reliéfu se totiž můžeme dozvědět velké
 množství informací o procesech současných a minulých.
@@ -55,7 +55,7 @@ a přinést vyčerpávající přehled tvarů reliéfu. Nebylo by to ani v mých
 silách, neboť geomorfologie je velice široký obor. Mým cílem bylo
 vytvořit učebnici, která uceleně shrne základy geomorfologie a
 geomorfologických procesů pro studenty fyzické geografie, učitelství
-geografie ale i další příbuzných oborů. Doufám ale, že bude zajímavým
+geografie, ale i dalších příbuzných oborů. Doufám ale, že bude zajímavým
 čtením pro všechny, co se chtějí něco dozvědět o krajině.
 
 Stejně jako reliéf není v čase statický a nějakým způsobem se vyvíjí,

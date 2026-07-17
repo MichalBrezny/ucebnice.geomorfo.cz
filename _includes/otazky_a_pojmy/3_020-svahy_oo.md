@@ -3,7 +3,7 @@
 - Jaké faktory ovlivňují stabilitu svahu?
 - Co může snížit nebo naopak zvýšit stabilitu svahu?
 - Jaké základní typy svahových pohybů existují?
-- Jak moho sesuvy interagovat s vodními toky?
+- Jak mohou sesuvy interagovat s vodními toky?
 - Co to jsou difuzní procesy? Jaký mají efekt na svahu?
 
 Další klíčové pojmy k zapamatování

@@ -11,7 +11,7 @@ Pohyby magmatu ze zemského pláště do zemské kůry mají za následek celou 
 
 ## Velká intruzivní tělesa
 
-Mezi rozsáhlá intruzivní tělesa patří **batolity**, neboli také **plutony** ([Obr. 1](#fig:intrusion)). Tvoří je granitoidní horniny. Batolity jsou často v podloží nejvyšších částí kontinentálních orogénů. Intruze magmatu a vznik batolitu může způsobit vyklenutí nadložních sedimentárních hornin. Po exhumaci batolitu erozí nadložních hornin dochází k jeho zvětrávání podél puklin, které jsou organizované zpravidla do tří na sebe kolmých systémů. Obnažením intruzivních těles vede k uvolňování napětí v hornině a vzniku sekundárních (tzv. exfoliačních) puklinových systémů. **Lopolit** je dalším typem rozsáhlého intruzivního tělesa. Má tvar pánve a je tvořeno bazickými horninami typu gabro. Těleso menšího rozsahu než batolit je **peň**.
+Mezi rozsáhlá intruzivní tělesa patří **batolity**, neboli také **plutony** ([Obr. 1](#fig:intrusion)). Tvoří je granitoidní horniny. Batolity jsou často v podloží nejvyšších částí kontinentálních orogénů. Intruze magmatu a vznik batolitu může způsobit vyklenutí nadložních sedimentárních hornin. Po exhumaci batolitu erozí nadložních hornin dochází k jeho zvětrávání podél puklin, které jsou organizované zpravidla do tří na sebe kolmých systémů. Obnažení intruzivních těles vede k uvolňování napětí v hornině a vzniku sekundárních (tzv. exfoliačních) puklinových systémů. **Lopolit** je dalším typem rozsáhlého intruzivního tělesa. Má tvar pánve a je tvořen bazickými horninami typu gabro. Těleso menšího rozsahu než batolit je **peň**.
 
 ## Intruzivní tělesa menšího rozměru
 
@@ -29,7 +29,7 @@ původních vrstevních ploch a na diskordantní v případě jejich protnutí. 
 
 <figure id="fig:zila">
 <img src="/assets/obrazky/sopky/zila.jpg" />
-<figcaption>Obr. 2 Pravá žíla tvořená lamprofyrem. Stará 27-32 miliónu let. (Navajo Volcanic Field, New Mexico, USA). (Zdroj: James St. John https://www.flickr.com/people/jsjgeology/, CC BY 2.0, via Wikimedia Commons)
+<figcaption>Obr. 2 Pravá žíla tvořená lamprofyrem. Stará 27–32 miliónů let. (Navajo Volcanic Field, New Mexico, USA). (Zdroj: James St. John https://www.flickr.com/people/jsjgeology/, CC BY 2.0, via Wikimedia Commons)
 </figcaption>
 </figure>
 
@@ -43,10 +43,10 @@ Sopečná činnost není rozložená rovnoměrně po zemském povrchu, ale je so
 
 ## Typy erupcí
 
-Podoba sopečné erupce je závislá na chemickém složení magmatu (zejména množství ), obsahu plynné složky a vody, jelikož ovlivňují jeho
-**viskozitu**. *Kyselé (felsické) magma* (s velkým obsahem ) je viskózní, teče tedy pomalu. Neumožňuje snadný únik sopečných plynů, čímž se v sopce stupňuje tlak a často pak dochází k explozivním erupcím. Kyselá láva má malý prostorový dosah.
+Podoba sopečné erupce je závislá na chemickém složení magmatu (zejména množství SiO<sub>2</sub>), obsahu plynné složky a vody, jelikož ovlivňují jeho
+**viskozitu**. *Kyselé (felsické) magma* (s obsahem SiO<sub>2</sub> > 66 %) je viskózní, teče tedy pomalu. Neumožňuje snadný únik sopečných plynů, čímž se v sopce stupňuje tlak a často pak dochází k explozivním erupcím. Kyselá láva má malý prostorový dosah.
 
-Málo viskózní *bazické (mafické) magma* (bazaltové), obsahuje cca jen 5 % . Materiál magmatu pochází z větších hloubek, zejména ze svrchního pláště. Toto magma je vázáno hlavně na riftové oblasti a horké skvrny. Erupce jsou mnohem klidnější. Dochází k výlevům magmatu na povrch. Díky malé viskozitě se láva roztéká do velkých ploch.
+Málo viskózní *bazické (mafické) magma* (bazaltové), obsahuje cca  45 až 52 % SiO<sub>2</sub>. Materiál magmatu pochází z větších hloubek, zejména ze svrchního pláště. Toto magma je vázáno hlavně na riftové oblasti a horké skvrny. Erupce jsou mnohem klidnější. Dochází k výlevům magmatu na povrch. Díky malé viskozitě se láva roztéká do velkých ploch.
 
 Vulkanické erupce se dělí do tří typů a to na **exhalační**, kdy do vzduchu unikají sopečné plyny. V případě, že dochází k výlevům lávy, tak je označována za **efuzivní**. V případě výbuchu hovoříme o **explozivním** typu vulkanické erupce. Do vzduchu je vyvrhován pevný materiál označovaný jako **tefra**.
 
@@ -104,7 +104,7 @@ Vulkanické erupce se dělí do tří typů a to na **exhalační**, kdy do vzdu
       <td>Rozsáhlé sopečné pumy a lapilli; běžně žádná tvorba kuželů</td>
     </tr>
     <tr>
-      <td>Pélejský</td>
+      <td>Pélejská</td>
       <td>Kyselé, viskózní</td>
       <td>Dómy a/nebo krátké, mocné proudy; mohou chybět</td>
       <td>Podobně jako Vulkánský typ ale s nuees ardentes</td>
@@ -127,7 +127,7 @@ Magma, které se dostává na zemský povrch se označuje jako láva. Podoba lá
 
 ### Tefra
 
-Pyroklastický materiál, který sopky chrlí do okolí dělíme dle velikosti jednotlivých klastů. Nejjemnější je **sopečný popel**, kdy průměr částic je < 2 mm. Po zpevnění je nazýván tufem. Větší částice o průměru 2 mm--64 mm nazýváme **lapilli**. Největší pyroklastika jsou **sopečné pumy** (průměr 64 mm, [Obr. 4](#fig:puma)). 
+Pyroklastický materiál, který sopky chrlí do okolí dělíme dle velikosti jednotlivých klastů. Nejjemnější je **sopečný popel**, kdy průměr částic je < 2 mm. Po zpevnění je nazýván tufem. Větší částice o průměru 2 mm--64 mm nazýváme **lapilli**. Největší pyroklastika jsou **sopečné pumy** (průměr >64 mm, [Obr. 4](#fig:puma)). 
 
 <figure id="fig:puma">
 <img src="/assets/obrazky/sopky/puma.jpg">
@@ -142,7 +142,7 @@ spojená s erupcemi pod ledovcem.
 
 ### Pyroklastický proud
 
-Pyroklastický proud (*pyroclastic flow*) je velice nebezpečný fenomén. Jedná se značně pohyblivou směs žhavých sopečných plynů a popela ([Obr. 5](#fig:pyroclastic)). Pohybuje se po sopečném svahu dolů rychlostmi, které se pohybují v rozmezí 150 km h^−1^--700 km h^−1^. Teplota tekoucího materiálu je od 100°C až 1100°C.
+Pyroklastický proud (*pyroclastic flow*) je velice nebezpečný fenomén. Jedná se o značně pohyblivou směs žhavých sopečných plynů a popela ([Obr. 5](#fig:pyroclastic)). Pohybuje se po sopečném svahu dolů rychlostmi, které se pohybují v rozmezí 150 km h<sup>−1</sup>–700 km h<sup>−1</sup>. Teplota tekoucího materiálu je od 100 °C do 1100 °C.
 
 <figure id="fig:pyroclastic">
 <img src="/assets/obrazky/sopky/pyroclastic.jpg" />
@@ -189,7 +189,7 @@ dílo)
 </figcaption>
 </figure>
 
-Vůbec nejrozsáhlejší vulkanickou formou jsou **štítové sopky**. Mohou nabývat dvou forem: centrální sopka s jedním kráterem kruhového charakteru. Druhá podoba je lineární sopka (tzv. eldgjá). Štítové sopky mají širokou základnu, sklon svahů je velice mírný (většinou <10°). Dosahují ale velkých nadmořských výšek. Největší štítové sopky na Zemi lze nalézt na Havaji. Mauna Loa ([Obr. 9](#fig:maunaloa)) a Mauna Kea dosahují výšky 4000 m nad mořem. Avšak jejich základna o šířce přes 200 km se nachází v hloubce více jak 5000 m. Největší štítová sopka ve Sluneční soustavě se nachází ale na Marsu. Olympus Mons ční do výšky 26 km
+Vůbec nejrozsáhlejší vulkanickou formou jsou **štítové sopky**. Mohou nabývat dvou forem: centrální sopka s jedním kráterem kruhového charakteru. Druhá podoba je lineární sopka (tzv. eldgjá). Štítové sopky mají širokou základnu, sklon svahů je velice mírný (většinou <10°). Dosahují ale velkých nadmořských výšek. Největší štítové sopky na Zemi lze nalézt na Havaji. Mauna Loa ([Obr. 9](#fig:maunaloa)) a Mauna Kea dosahují výšky 4000 m nad mořem. Avšak jejich základna o šířce přes 200 km se nachází v hloubce více jak 5000 m. Největší štítová sopka ve Sluneční soustavě se nachází ale na Marsu. Olympus Mons ční do výšky 26 km.
 
 <figure style="width:100%">
 <img src="/assets/obrazky/sopky/mauna_loa.jpg" alt="Štítová sopka Mauna Loa, největší aktivní sopka na Zemi. Fotografie z roku 1985. (Credit: J.D. Griggs, USGS, volné dílo)" />
@@ -209,7 +209,7 @@ Obr. 10 Sopečná kaldera, ostrov Santorini, Řecko (Google Earth)
 Jak vzniká sopečná kaldera můžete vidět na následujícím modelu:
 {% include youtube.html id="BBGmXsZHInw" %}
 
-**Trappy** jsou lávové pokryvy, které pokrývají rozsáhlé oblasti v plochém terénu. Známé jsou tzv. Dekkánské trapy v západní Indii ([Obr. 11](#fig:trapy)), které jsou jedním z nejrozsáhlejších vulkanických těles na světě. V současné době je jejich plocha přibližně 500000 km<sup>2</sup>.
+**Trapy** jsou lávové pokryvy, které pokrývají rozsáhlé oblasti v plochém terénu. Známé jsou tzv. Dekkánské trapy v západní Indii ([Obr. 11](#fig:trapy)), které jsou jedním z nejrozsáhlejších vulkanických těles na světě. V současné době je jejich plocha přibližně 500000 km<sup>2</sup>.
 
 <figure id="fig:trapy">
 <img src="/assets/obrazky/sopky/trapy.jpg" alt="Dekkánské trapy (zdroj: Planet Labs, Inc - https://medium.com/planet-stories/earths-wonders-like-you-ve-never-seen-them-before-ac9e2f39aa56, CC BY-SA 4.0)"/>

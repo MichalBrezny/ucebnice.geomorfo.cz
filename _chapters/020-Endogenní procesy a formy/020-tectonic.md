@@ -161,7 +161,7 @@ Pukliny mohou pasivně ovlivňovat vývoj reliéfu, jelikož to jsou místa osla
 
 # Vrásy
 
-*Vrásy* („folds“) vznikají duktilní deformací hornin. Jedná se o spojité tektonické struktury. K vrásnění dochází při kompresním režimu, kdy se ohybem planárních struktur hornin (např. vrstev) zkracuje zemská kůra. Jednoduché prohnutí vrstev je označováno jako *flexura*. Narozdíl od vrás mohou flexury vznikat i v extenzním režimu. Vrásy jsou často ve spojení se zlomy.
+*Vrásy* („folds“) vznikají duktilní deformací hornin. Jedná se o spojité tektonické struktury. K vrásnění dochází při kompresním režimu, kdy se ohybem planárních struktur hornin (např. vrstev) zkracuje zemská kůra. Jednoduché prohnutí vrstev je označováno jako *flexura*. Na rozdíl od vrás mohou flexury vznikat i v extenzním režimu. Vrásy jsou často ve spojení se zlomy.
 
 Rozlišujeme *antiklinálu*, což je část, která je vyklenutá vzhůru a *synklinálu*, jejíž vyklenutí je směrem dolů. Část, která spojuje antiklinálu a synklinálu, se nazývá *rameno vrásy* nebo také křídlo vrásy.
 
@@ -191,7 +191,7 @@ Další dělení vrás je podle sevřenosti jejich ramen:
 <figure>
 <img src="/assets/obrazky/tectonic/typy_vras.gif" width="300"/>
 </figure>
-<figcaption>Obr. 7 Druhy vrás: 1 - přímá vrása, šikmá, 3 - překocená (střední rameno je překocené), 4 - ležatá, 5 - ponořená. Osní plocha je čárkovanou čarou.  (Autor: Prof. Jan Petránek, Převzato z 
+<figcaption>Obr. 7 Druhy vrás: 1 - přímá vrása, 2 - šikmá, 3 - překocená (střední rameno je překocené), 4 - ležatá, 5 - ponořená. Osní plocha je čárkovanou čarou.  (Autor: Prof. Jan Petránek, Převzato z 
 <a href="http://www.geology.cz/aplikace/encyklopedie/term.pl?o=244">Online geologické encyklopedie)
 </a>
 </figcaption>
@@ -208,7 +208,7 @@ Ukázka vrásnění:
 
 Specifickou formou vrás jsou tzv. izometrické vrásy. Jedná se o vrásové struktury, které nejsou protažené jedním směrem.
 
-Synklinální sníženiny oválného až kruhovitého půdorysu se nazývají *pánve*. Výraznost pánevních oblastí je daná velikostí prohnutí vrstev (čím větší, tím je pánve výraznější) a na míře zaplnění pánve sedimenty. Na okrajích pánví lze nalézt asymetrické hřbety – kuesty (viz dále).
+Synklinální sníženiny oválného až kruhovitého půdorysu se nazývají *pánve*. Výraznost pánevních oblastí je daná velikostí prohnutí vrstev (čím větší, tím je pánev výraznější) a mírou zaplnění pánve sedimenty. Na okrajích pánví lze nalézt asymetrické hřbety – kuesty (viz dále).
 
 Vyklenutím hornin vzhůru vznikají *klenby*. Jedná se o velká tělesa oválného až kruhového půdorysu. Klenby mohou vznikat intruzí magmatu mezi vrstevní plochy, což způsobuje vyklenutí nadložních vrstev. V takovém případě se jedná o *klenby s krystalickým jádrem*. *Sedimentární klenba* nemá krystalické jádro, vzniká prostým prohnutím sedimentárních hornin v důsledku bočních tlaků. K vyklenutí může dojít také kvůli intruzím solných diapirů působením hydrostatických nebo tektonických tlaků. Vznikají tak *solné klenby*.
 
@@ -216,7 +216,7 @@ Vyklenutím hornin vzhůru vznikají *klenby*. Jedná se o velká tělesa ovál
 
 Vztah mezi zvrásněným podložím a georeliéfem může nabývat celé řady podob. Vrásy vytvářejí *vrásová pohoří*. Vazba mezi reliéfem a strukturou může být *přímá* – v místě antiklinály se nachází hřbet a v místě synklinály údolí.
 
-Jednoduchá vrásová pohoří jsou tvořená vrásami, které mají jen minimálně zvlněné osy. Tvoří paralelně probíhající soustavu hřbetů a údolí. Takový typ pohoří je označován jako jurský typ reliéfu (podle pohoří Jura ve Švýcarsku). Dalším příkladem je pohoří Zagros v Íránu([Obr. 8](#fig:zagros)).
+Jednoduchá vrásová pohoří jsou tvořená vrásami, které mají jen minimálně zvlněné osy. Tvoří paralelně probíhající soustavu hřbetů a údolí. Takový typ pohoří je označován jako jurský typ reliéfu (podle pohoří Jura ve Švýcarsku). Dalším příkladem je pohoří Zagros v Íránu ([Obr. 8](#fig:zagros)).
 
 Při značném zvlnění os vrás, vznikají složitá vrásová pohoří tvořená soustavou brachyantiklinál a brachysynklinál. Tento typ se označuje jako Apalačský podle pohoří v USA ([Obr. 9](#fig:apalachian)).
 
@@ -247,7 +247,7 @@ Obr. 10 Strukturní reliéf -- tvary na horizontálních a ukloněných vrstvác
 ## Horizontálně uložené vrstvy
 
 Sedimentární horniny, které nebyly postižené vrásněním mají zpravidla horizontálně až subhorizontálně uložené vrstvy. Fluviální erozí a svahovými procesy se v takových oblastech vyvíjí *strukturní tabule* (*plateaux*), což jsou rozsáhlé ploché elevace, které jsou od svého
-okolí oddělené strmými svahy. Postupným rozrušováním tabule vznikají plošně menší *stolové hory* (*mesa*), *svědecké vrchy* až *odlehlíky* (*butte*) a úzké, vysoké *skalní jehly* (*pinnacles)*. Důležitou podmínkou je přítomnost odolnějších hornin v nadloží (*caprock*) které brání celkové erozi ([Obr. 10](#fig:strukturnitvary)).
+okolí oddělené strmými svahy. Postupným rozrušováním tabule vznikají plošně menší *stolové hory* (*mesa*), *svědecké vrchy* až *odlehlíky* (*butte*) a úzké, vysoké *skalní jehly* (*pinnacles*). Důležitou podmínkou je přítomnost odolnějších hornin v nadloží (*caprock*), které brání celkové erozi ([Obr. 10](#fig:strukturnitvary)).
 
 V oblastech, kde je časté střídání tvrdých (odolných) a měkkých (málo odolných) vrstev, se vyvíjejí *strukturní stupňoviny*. Kdy odolné vrstvy tvoří stupně -- *strukturní terasy*.
 
@@ -256,7 +256,7 @@ V oblastech, kde je časté střídání tvrdých (odolných) a měkkých (málo
 Na ukloněných horninách (do 7 °), které mají různou odolnost, se vyvíjejí asymetrické hřbety -- *kuesty* ([Obr. 10](#fig:strukturnitvary)). Čelo kuesty je strmé a vzniklo erozí ukloněných vrstev. Týlní svah je mírný a odpovídá sklonu vrstev ("dipslope").
 Kuesty se často nacházejí ve skupinách a jejich počet odpovídá počtu odolných vrstev. 
 
-Při větším sklonu vrstev (7 °--40 °) vznikají asymetrické hřbety označované jako *homoklinální*. Při sklonu nad 40 ° pak *kozí hřbety*, které mohou být v příčnem profilu již symetrické ([Obr. 10](#fig:strukturnitvary)).
+Při větším sklonu vrstev (7 °--40 °) vznikají asymetrické hřbety označované jako *homoklinální*. Při sklonu nad 40 ° pak *kozí hřbety*, které mohou být v příčném profilu již symetrické ([Obr. 10](#fig:strukturnitvary)).
 
 {% include admonition.html type="question" title="Otázky a pojmy na závěr" content="/otazky_a_pojmy/2_020-tectonic_oo.md" %}
 

@@ -31,7 +31,7 @@ Proudění může být *ustálené* neboli stacionární (*steady flow*). Při t
 
 ## Charakter proudění v korytech
 
-*Laminární proudění* je takové proudění, kdy se kapalina pohybuje ve vrstvách – laminách, které navzájem kloužou po sobě ([Obr. 1](#fig:laminarturbul)). Laminárním prouděním jsou typické vysoce viskózní kapaliny. Jelikož voda má malou viskozitu, laminární proudění se projevuje jen při nízkých rychlostech. 
+*Laminární proudění* je takové proudění, kdy se kapalina pohybuje ve vrstvách – laminách, které navzájem kloužou po sobě ([Obr. 1](#fig:laminarturbul)). Laminární proudění je typické pro vysoce viskózní kapaliny. Jelikož voda má malou viskozitu, laminární proudění se projevuje jen při nízkých rychlostech. 
 
 *Turbulentní proudění* je chaotické a všesměrné ([Obr. 1](#fig:laminarturbul)). Pohyb je realizován po i proti proudu, do stran, nahoru či dolů.
 
@@ -42,13 +42,13 @@ Laminární a turbulentní proudění
 </figcaption>
 </figure>
 
-*Reynoldsovo číslo* vyjadřuje, zda proudění bude laminární nebo turbulentní. Jedná se o bezrozměrné číslo, které je dáno poměrem inertních sil a viskózních sil.
+*Reynoldsovo číslo* vyjadřuje, zda proudění bude laminární nebo turbulentní. Jedná se o bezrozměrné číslo, které je dáno poměrem inerčních sil a viskózních sil.
 
 $$ Re = \frac{\text{Inerční síly}}{\text{viskózní síly}} = \frac{vR}{\nu_{s}}$$
 
 kde $Re$ je Reynoldsovo číslo (bezrozměrné), $v$ je Rychlost proudění ms<sup>-1</sup>, $R$ je hydraulický poloměr [m] a $\nu_{s}$ je kinematická viskozita [m<sup>2</sup> s<sup>-1</sup>]
 
-Laminární proudění je do hodnoty $Re < 500$, při hodnotách $Re = 500 \text{ až } 1000$ má proudění přechodný charakter. Turbulentní proudění má hodnoty $Re > 2000$.
+Laminární proudění je do hodnoty $Re < 500$, při hodnotách $Re = 500 \text{ až } 2000$ má proudění přechodný charakter. Turbulentní proudění má hodnoty $Re > 2000$.
 
 Na základě *Froudeho čísla ($Fr$)* rozdělujeme proudění na *bystřinné* a *říční*. Pokud je $Fr >1$ jedná se proudění *bystřinné* neboli *nadkritické* (*supercritical flow*). V případě $Fr <1$ jde o *říční (podkritické) proudění* (*subcritical flow*). $Fr = 1$ značí *kritické* proudění. Froudeho číslo je závislé na rychlosti a hloubce proudění:
 
@@ -192,7 +192,7 @@ Proudící voda může erozně působit několika způsoby. *Koroze* je proces c
 
 *Abraze (koraze)* je proces mechanického působení a odnosu podloží koryta v důsledku působení transportovaných částic. Účinek abraze závisí na množství a velikosti částic, jejich kinetické energii a odolnosti podloží. Rychlost proudění má velký účinek, neboť kinetická energie se mění se čtvercem rychlosti.
 
-Samotná proudící voda působí mechanicky na podloží. Tlakem vodního proudu může vytrhávat zvětralé podloží (tzv. *plucking*). Intenzivnější je *kavitace*. Jedná se o erozní činnost explodujících vzduchových bublin ve vodě. Intenzivně se plucking projevuje u vodopádů a peřejí. Třetím typem je mechanického působení je *evorze*, což je mechanické působení turbulentního proudění. Jeho působením vznikají evorzní prohlubně – *obří (evorzní) hrnce*.
+Samotná proudící voda působí mechanicky na podloží. Tlakem vodního proudu může vytrhávat zvětralé podloží (tzv. *plucking*). Intenzivnější je *kavitace*. Jedná se o erozní činnost explodujících vzduchových bublin ve vodě. Intenzivně se kavitace projevuje u vodopádů a peřejí. Třetím typem mechanického působení je *evorze*, což je mechanické působení turbulentního proudění. Jeho působením vznikají evorzní prohlubně – *obří (evorzní) hrnce*.
 
 ### Eroze v aluviálních korytech
 
@@ -230,7 +230,7 @@ Co je potřeba, aby vodní tok uvedl do pohybu jednotlivé klasty? Klast ležíc
 </figure>
 
 
-Kromě velikosti, hustoty, tvaru klastu hraje při jeho mobilizaci i to, jak je vystaven toku a také na rychlosti proudění nebo přesněji na kritickém tečném napětí. Tzv. Hjulstrømův diagram ([Obr.](#fig:hjulstr)) znázorňuje při jakých rychlostech proudění se částice o dané velikosti začne pohybovat (je vodním tokem stržena), zůstává v pohybu a nebo sedimentuje. Tento diagram vznikl na základě laboratorních experimentů a ve volné přírodě jsou tyto vztahy složitější. Jak je z diagramu patrné, tak nejsnáze jsou erodované částice písku okolo 0.1 mm--0.5 mm. Jílové částice jsou drženy pospolu kohezními silami, proto jsou nutné vyšší rychlosti proudění pro jejich uvedení do pohybu.
+Kromě velikosti, hustoty, tvaru klastu hraje při jeho mobilizaci roli i to, jak je vystaven toku a také na rychlosti proudění nebo přesněji na kritickém tečném napětí. Tzv. Hjulstrømův diagram ([Obr.](#fig:hjulstr)) znázorňuje při jakých rychlostech proudění se částice o dané velikosti začne pohybovat (je vodním tokem stržena), zůstává v pohybu a nebo sedimentuje. Tento diagram vznikl na základě laboratorních experimentů a ve volné přírodě jsou tyto vztahy složitější. Jak je z diagramu patrné, tak nejsnáze jsou erodované částice písku okolo 0,1 mm–0,5 mm. Jílové částice jsou drženy pospolu kohezními silami, proto jsou nutné vyšší rychlosti proudění pro jejich uvedení do pohybu.
 
 <figure class="figure">
 <img src="/assets/obrazky/fluvial/hjulstr.png" alt="Hjulstrømův diagram znázorňující vztah mezi velikostí částice, rychlostí proudění a procesem (upraveno podle Summerfield, 1999)" width="100%">
@@ -239,8 +239,8 @@ Kromě velikosti, hustoty, tvaru klastu hraje při jeho mobilizaci i to, jak je 
 </figure>
 
 <figure class="figure">
-<img src="/assets/obrazky/fluvial/lanes_balance.jpg" alt="Bilance mezi paramtry koryta, sedimenty, průtokem (převzato z Dust, 2012)" >
-<figcaption>Bilance mezi paramtry koryta, sedimenty, průtokem (převzato z {% cite dustConceptualModelComplex2012 %}).
+<img src="/assets/obrazky/fluvial/lanes_balance.jpg" alt="Bilance mezi parametry koryta, sedimenty, průtokem (převzato z Dust, 2012)" >
+<figcaption>Bilance mezi parametry koryta, sedimenty, průtokem (převzato z {% cite dustConceptualModelComplex2012 %}).
 </figcaption>
 </figure>
 
@@ -259,7 +259,7 @@ geomorfologický efekt na koryto. S délkou transportu se zvětšuje opracován
 </figcaption>
 </figure>
 
-*Rozpuštěný materiál* (*dissolved load*) je transportovaný v roztoku (např. ionty Ca<sup>2-</sup>, Mg<sup>2-</sup>, Na<sup>-</sup>, SiO<sub>2</sub>, HCO<sub>3</sub><sup>-</sup>), živiny na bázi fosforu, dusíku, rozpuštěné plyny. Globálně rozpuštěné látky odpovídají přibližně 20 % celkové denudace. Koncentrace látek klesá s rostoucím průtokem. Morfologický efekt rozpuštěných látek na koryto je malý.
+*Rozpuštěný materiál* (*dissolved load*) je transportovaný v roztoku (např. ionty Ca<sup>2+</sup>, Mg<sup>2+</sup>, Na<sup>+</sup>, SiO<sub>2</sub>, HCO<sub>3</sub><sup>-</sup>), živiny na bázi fosforu, dusíku, rozpuštěné plyny. Globálně rozpuštěné látky odpovídají přibližně 20 % celkové denudace. Koncentrace látek klesá s rostoucím průtokem. Morfologický efekt rozpuštěných látek na koryto je malý.
 
 # Říční koryto
 
@@ -279,13 +279,13 @@ Jak již bylo řečeno, aluviální koryta jsou tvořena vlastními říčními 
 
 ### Přechodná koryta
 
-Do kategorie spadající mezi aluviální a skalní koryta patři ty, které jsou lokálně ovlivněny skalním podložím případně jsou v aluviu odolném vůči erozi.
+Do kategorie spadající mezi aluviální a skalní koryta patří ta, která jsou lokálně ovlivněna skalním podložím, případně jsou v aluviu odolném vůči erozi.
 
 ## Geometrický vzor toku
 
 Na rozdíl od skalních koryt mohou koryta v aluviu nabývat celé řady podob. Rozlišujeme několik základních vzorů.
 
-Podle sinuosity (poměr mezi délkou koryta k délce údolnice) rozlišujeme:
+Podle sinusoity (poměr mezi délkou koryta k délce údolnice) rozlišujeme:
 - Přímá koryta
 - Koryta se zákruty a meandry
 - Divočící koryta
@@ -299,7 +299,7 @@ Podle sinuosity (poměr mezi délkou koryta k délce údolnice) rozlišujeme:
 
 Meandrující toky jsou patrně nejrozšířenější formou. Jedná se o řeky, které se rozličně klikatí krajinou. Meandrující toky mají sinusoitu větší než $1,5$ {% cite huggettFundamentalsGeomorphology2017 %}. Vlnová délka meandrů je přímo závislá na šířce koryta. Větší toky mají i větší vlnovou délku meandrů. Do tohoto vztahu vstupují ale i další faktory jako je například materiál aluvia.
 
-Meandry vznikají rozkmitáním proudnice a díky přítomnosti sekundárního tzv. heliakálního proudění. Toto proudění zvyšuje erozi na nárazovém *výsepním* břehu a napomáhá sedimentaci na vnitřním *jesepním* břehu.
+Meandry vznikají rozkmitáním proudnice a díky přítomnosti sekundárního tzv. helikálního proudění. Toto proudění zvyšuje erozi na nárazovém *výsepním* břehu a napomáhá sedimentaci na vnitřním *jesepním* břehu.
 
 
 <figure>
@@ -348,13 +348,13 @@ Tvar údolí je výsledkem vztahu mezi lineární erozí vodního toku a vývoje
 
 ## Vodní toky a morfostruktura
 
-Vodní toky můžeme rozdělit podle jejich vztahu k morfostruktuře. @demekObecnaGeomorfologie1987 rozlišuje *konsekventní toky*, které mají směr toku určený původním sklonem georeliéfu. Tento typ vodních toků zpravidla není závislý na morfostruktuře. *Subsekventní toky* jsou vázané na méně odolné horniny nebo na tektonické linie. Jejich směr je shodný se směrem a úklonem vrstev nebo shodný s průběhem tektonických  linií. *Resekventní toky* mají stejný směr jako konsekventní. Nacházejí se ale na erozním případně strukturním povrchu nižší úrovně než konsekventní toky. *Obsekventní toky* mají směro opačný než je generelní sklon povrchu krajiny. Tento typ toků je často vázán na tektonické linie. *Insekventní toky* nejsou nijak závislé na morfostruktuře či původním sklonu.
+Vodní toky můžeme rozdělit podle jejich vztahu k morfostruktuře. @demekObecnaGeomorfologie1987 rozlišuje *konsekventní toky*, které mají směr toku určený původním sklonem georeliéfu. Tento typ vodních toků zpravidla není závislý na morfostruktuře. *Subsekventní toky* jsou vázané na méně odolné horniny nebo na tektonické linie. Jejich směr je shodný se směrem a úklonem vrstev nebo shodný s průběhem tektonických  linií. *Resekventní toky* mají stejný směr jako konsekventní. Nacházejí se ale na erozním případně strukturním povrchu nižší úrovně než konsekventní toky. *Obsekventní toky* mají směr opačný než je generelní sklon povrchu krajiny. Tento typ toků je často vázán na tektonické linie. *Insekventní toky* nejsou nijak závislé na morfostruktuře či původním sklonu.
 
-Rozlišují se i specifická průlomová údolí. *Antecedentní údolí* vzniká tehdy, když se vodní tok zařezává do postupně se vyzdvihujícího se území. Je ale potřeba, aby výzdvih byl celkově pomalejší, než hloubková eroze toku. *Epigenetické údolí* vzniká zařezáváním do měkkého podloží, kde i po dosažení odolnějších hornin dojde k zachování směru toku.
+Rozlišují se i specifická průlomová údolí. *Antecedentní údolí* vzniká tehdy, když se vodní tok zařezává do postupně se vyzdvihujícího území. Je ale potřeba, aby výzdvih byl celkově pomalejší, než hloubková eroze toku. *Epigenetické údolí* vzniká zařezáváním do měkkého podloží, kde i po dosažení odolnějších hornin dojde k zachování směru toku.
 
 ## Podélný profil a erozní báze
 
-Podélný profil (*longitudal profile*) vodního toku (také spádová křivka vodního toku) zobrazuje jak se mění nadmořská výška toku se vzdáleností od pramene k ústí. Ideální tzv. *vyrovnaný podélný profil* je konkávní a hladký (bez různých zálomů). V horní části vodního toku je křivka nejstrmější a směrem k ústí se zmírňuje. Tento "ideální" vodní tok neeroduje své podloží ani neakumuluje sedimenty. Je totiž schopen veškerý materiál, který se do něj dostane např. svahovými procesy, transportovat. K vyrovnanému podélnému profilu spějí veškeré vodní toky. Je však nedostižným ideálem, protože do vývoje podélného profilu zasahuje celá řada faktorů jako je odolnost hornin, donáška sedimentů, tektonické pohyby, změny v průtoku apod.
+Podélný profil (*longitudinal profile*) vodního toku (také spádová křivka vodního toku) zobrazuje jak se mění nadmořská výška toku se vzdáleností od pramene k ústí. Ideální tzv. *vyrovnaný podélný profil* je konkávní a hladký (bez různých zálomů). V horní části vodního toku je křivka nejstrmější a směrem k ústí se zmírňuje. Tento "ideální" vodní tok neeroduje své podloží ani neakumuluje sedimenty. Je totiž schopen veškerý materiál, který se do něj dostane např. svahovými procesy, transportovat. K vyrovnanému podélnému profilu spějí veškeré vodní toky. Je však nedostižným ideálem, protože do vývoje podélného profilu zasahuje celá řada faktorů jako je odolnost hornin, donáška sedimentů, tektonické pohyby, změny v průtoku apod.
 
 S podélným profilem vodního toku je třeba zmínit i *erozní bázi*. Erozní báze je místo o určité nadmořské výšce pod kterou se vodní tok nedokáže zahlubovat případně se zahlubuje jen velice obtížně. *Globální erozní bází* je hladina světového oceánu. *Lokální erozní bází* může být ústí vodního toku do větší řeky, jezera. Může to být ale vrstva odolných hornin nebo antropogenní prvek v korytě jako je jez.
 
@@ -402,7 +402,7 @@ Ukládání sedimentů v nivě probíhá vertikální a boční akrecí. K *vert
 
 ## Říční terasy
 
-*Říční terasy* (*river terraces*) jsou zbytky údolních den, které se nacházejí v různých výškách nad současným vodním tokem. Vznikly v důsledku zahloubení toku. Říční terasa se skládá z plošiny terasy a terasového stupně. *Plošina terasy* je zbytek povrchu staré nivy. *Terasový stupeň (svah)* odděluje terasu od současné nivy nebo terasy jiné úrovně. Terasy dělíme na skalní terasy (strath) a aluviální terasy. *Skalní (strath) terasy* mají jen tenkou pokrývku ze sedimentů a jsou erozního původu. Terasy v aluviu mohou být akumulační a erozní.*Akumulační terasy* jsou zbytky údolní nivy, které vodní tok prořízly až na skalní podklad. Pokud se vodní tok neproeroduje až na skalní podloži, vznikají *vložené erozní terasy*. Dále se terasy dělí na *párové* (vyskytují se na obou stranách údolí) a *nepárové* (je pouze na jedné straně údolí). Vznik teras je ovlivněn změnami klimatu, oscilací erozních bází nebo tektonickou aktivitou.
+*Říční terasy* (*river terraces*) jsou zbytky údolních den, které se nacházejí v různých výškách nad současným vodním tokem. Vznikly v důsledku zahloubení toku. Říční terasa se skládá z plošiny terasy a terasového stupně. *Plošina terasy* je zbytek povrchu staré nivy. *Terasový stupeň (svah)* odděluje terasu od současné nivy nebo terasy jiné úrovně. Terasy dělíme na skalní terasy (strath) a aluviální terasy. *Skalní (strath) terasy* mají jen tenkou pokrývku ze sedimentů a jsou erozního původu. Terasy v aluviu mohou být akumulační a erozní. *Akumulační terasy* jsou zbytky údolní nivy, které vodní tok prořízl až na skalní podklad. Pokud se vodní tok neproeroduje až na skalní podloží, vznikají *vložené erozní terasy*. Dále se terasy dělí na *párové* (vyskytují se na obou stranách údolí) a *nepárové* (je pouze na jedné straně údolí). Vznik teras je ovlivněn změnami klimatu, oscilací erozních bází nebo tektonickou aktivitou.
 
 
 <figure>
@@ -433,7 +433,7 @@ Spojením velkých kuželů na úpatí pohoří do jednoho rozsáhlého celku vz
 <figure>
 <img src="/assets/obrazky/fluvial/bajada.jpg" alt="Bajady v Údolí smrti (Autor: Dicklyon, CC BY-SA 4.0 via Wikimedia
 Commons)">
-<figcaption>Bajady v Údolí smrti (Autor: Dicklyon, CC BY-SA 4.0 via Wikimedia Commons))
+<figcaption>Bajady v Údolí smrti (Autor: Dicklyon, CC BY-SA 4.0 via Wikimedia Commons)
 </figcaption>
 </figure>
 

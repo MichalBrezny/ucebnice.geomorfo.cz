@@ -33,14 +33,14 @@ Uspořádání údolní sítě je výsledkem celé řady faktorů. Nejvýznamně
     <tr>
       <td>A</td>
       <td>Stromovitá</td>
-      <td>Stromovitá struktura, hlavní tok vypadá kmen, přítoky větve. Bez zřejmého usměrnění toků.</td>
+      <td>Stromovitá struktura, hlavní tok vypadá jako kmen, přítoky jako větve. Bez zřejmého usměrnění toků.</td>
       <td>Horizontálně uložené sedimenty, homogenní krystalické horniny, stejná odolnost hornin. Bez vlivu geologických struktur.</td>
     </tr>
     <tr>
       <td>B</td>
       <td>Rovnoběžný</td>
       <td>Hlavní toky jsou jednoho směru, rovnoběžné s pravidelnými rozestupy. Přítoky se napojují pod ostrými úhly.</td>
-      <td>Zlomy v těsných rozestupech, monoklinální struktury nebo isoclinální vrásy</td>
+      <td>Zlomy v těsných rozestupech, monoklinální struktury nebo izoklinální vrásy</td>
     </tr>
     <tr>
       <td>C</td>
@@ -94,7 +94,7 @@ V geomorfologii se uplatňuje odlišné číslování "shora dolů". Postupuje s
 
 # Jezera
 
-*Jezera* jsou přirozené akumulace vody ve sníženinách na pevnině, které nejsou přímo spojené se světovým oceánem. Zaujímají přibližně [\\(1,8 \\%\\)] souše. Jezera jsou místní erozní bází, tudíž se toky nad jezerem nemohou zahlubovat pod úroveň jezera. Z dlouhodobého hlediska jsou jezera jen přechodným prvkem v krajině, neboť postupem času dochází k jejich zanesení sedimenty.
+*Jezera* jsou přirozené akumulace vody ve sníženinách na pevnině, které nejsou přímo spojené se světovým oceánem. Zaujímají přibližně 1,8 % souše. Jezera jsou místní erozní bází, tudíž se toky nad jezerem nemohou zahlubovat pod úroveň jezera. Z dlouhodobého hlediska jsou jezera jen přechodným prvkem v krajině, neboť postupem času dochází k jejich zanesení sedimenty.
 
 Jedna z klasifikací jezer je podle jejich vzniku. Rozlišujeme tak:
 -   Tektonická jezera
@@ -104,7 +104,6 @@ Jedna z klasifikací jezer je podle jejich vzniku. Rozlišujeme tak:
 -   Jezera vzniklá rozpouštěním
 -   Fluviální jezera
 -   Limanová jezera 
--   Jezera vzniklá rozpouštěním
 -   Jezera činností organismů
 -   Meteoritická jezera
 

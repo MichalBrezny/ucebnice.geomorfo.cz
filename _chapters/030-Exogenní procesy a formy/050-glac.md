@@ -17,11 +17,11 @@ Komponenty kryosféry a jejich časové škály (převzato z {% cite lemkeObserv
 
 # Ledovce
 
-*Ledovce* jsou tekoucí tělesa ledu, která pokrývají zemskou souš. V současné tak činí z cca 10 % {% cite cuffeyPhysicsGlaciers2010 %}, v dobách maximálního zalednění to byl ale zhruba trojnásobek. Vlivem klimatické změny ale dochází k rychlým změnám v celkovém objemu a rozloze ledovců. V období 2000–2019 činila ztráta hmoty ledovců okolo 270 Gt za rok {% cite hugonnetAcceleratedGlobalGlacier2021 %}.
+*Ledovce* jsou tekoucí tělesa ledu, která pokrývají zemskou souš. V současné době tak činí z cca 10 % {% cite cuffeyPhysicsGlaciers2010 %}, v dobách maximálního zalednění to byl ale zhruba trojnásobek. Vlivem klimatické změny ale dochází k rychlým změnám v celkovém objemu a rozloze ledovců. V období 2000–2019 činila ztráta hmoty ledovců okolo 270 Gt za rok {% cite hugonnetAcceleratedGlobalGlacier2021 %}.
 
 ## Vznik ledovců a bilance hmoty
 
-Čerstvě napadaný sníh má velice nízkou hustotu ([tab. 1](tab:snih_led)). Postupnou kompakcí vlivem tlaku sněhové hmoty v nadloží a rekrystalizací se jeho hustota zvyšuje a mění se ve *firn*. Další kompakcí, zcelováním jednotlivých ledových krystalů do jednolité hmoty se firn mění v *ledovcový led* jehož hustota se pohybuje mezi 830 kg m<sup>−3</sup> až 923 kg m<sup>−3</sup> ([Tab. 1](#tab:snih_led); {% cite cuffeyPhysicsGlaciers2010 %}).
+Čerstvě napadaný sníh má velice nízkou hustotu ([tab. 1](#tab:snih_led)). Postupnou kompakcí vlivem tlaku sněhové hmoty v nadloží a rekrystalizací se jeho hustota zvyšuje a mění se ve *firn*. Další kompakcí, zcelováním jednotlivých ledových krystalů do jednolité hmoty se firn mění v *ledovcový led*, jehož hustota se pohybuje mezi 830 kg m<sup>−3</sup> až 923 kg m<sup>−3</sup> ([Tab. 1](#tab:snih_led); {% cite cuffeyPhysicsGlaciers2010 %}).
 
 <table id="tab:snih_led"> 
 <caption>
@@ -79,7 +79,7 @@ Ablační a akumulační zóna na idealizovaném ledovci a jeho bilance hmoty (u
 
 ## Typy ledovců
 
-Základní klasifikace ledovců na ty, které nejsou limitované reliéfem (např. Grónský ledový příkrov) a ty které jsou nějak omezené reliéfem jako je v případě údolních ledovců v Alpách.
+Základní klasifikace ledovců je na ty, které nejsou limitované reliéfem (např. Grónský ledový příkrov) a na ty, které jsou nějak omezené reliéfem, jako je v případě údolních ledovců v Alpách.
 
 ### Ledové příkrovy, čapky a šelfové ledovce
 
@@ -103,11 +103,11 @@ Mezi ledovce, které jsou ovlivněné či řízené reliéfem řadíme *Ledovcov
 
 *Ledovcová pole* ("ice fields") připomínají ledové čapky, avšak nemají kopulovitou topografii, takže tok ledu je řízen hlavně reliéfem v podloží.
 
-Velkou skupinu tvoří *horské ledovce*. *Svahové ledovce* vznikají v mělkých depresích či strukturních stupních na příkrých svazích. *Karový ledovec* ("cirque (corrie) glacier") je relativně malý ledovec, který vyplňuje *kar*. Kar je oválná deprese, která je otevřená jedním směrem a byla vytvořená erozivní činností ledovce. Když karový ledovec přeteče přes hranu karu do údolí, stává se z něj *údolní ledovec* (někdy sedodává alpského typu, angl. "valley glacier"). Ledovce vytékající až do podhůří, kde se mohou spojovat do jednoho velkého lemu se nazývají *úpatní* nebo *piedmontní* ledovce ("piedmont glaciers").
+Velkou skupinu tvoří *horské ledovce*. *Svahové ledovce* vznikají v mělkých depresích či strukturních stupních na příkrých svazích. *Karový ledovec* ("cirque (corrie) glacier") je relativně malý ledovec, který vyplňuje *kar*. Kar je oválná deprese, která je otevřená jedním směrem a byla vytvořená erozivní činností ledovce. Když karový ledovec přeteče přes hranu karu do údolí, stává se z něj *údolní ledovec* (někdy se dodává alpského typu, angl. "valley glacier"). Ledovce vytékající až do podhůří, kde se mohou spojovat do jednoho velkého lemu se nazývají *úpatní* nebo *piedmontní* ledovce ("piedmont glaciers").
 
 ### Typy ledovců podle teploty báze
 
-Velice důležitým faktorem, který ovlivňuje pohyb ledovce a jeho schopnost modelovat své podloží, je teplota báze ledovce (rozhraní ledovec--podloží). *Ledovec s chladnou bází* má na kontaktu s podložím takovou teplotu, při které led netaje. Ledovec je přimrzlý k podloží. Důsledkem toho takový ledovec nemodeluje své podloží. *Ledovec s teplou bází* je naopak na kontaktu roztáté. Nachází se tam množství tavné vody. Ledovce s teplou bází intenzivně modelují své podloží. *Polytermální ledovce* jsou na pomezí předešlých dvou typů. Jedná se většinou o rozsáhlejší ledovce, kde se střídají oblasti s chladnou a teplou bází.
+Velice důležitým faktorem, který ovlivňuje pohyb ledovce a jeho schopnost modelovat své podloží, je teplota báze ledovce (rozhraní ledovec--podloží). *Ledovec s chladnou bází* má na kontaktu s podložím takovou teplotu, při které led netaje. Ledovec je přimrzlý k podloží. Důsledkem toho takový ledovec nemodeluje své podloží. *Ledovec s teplou bází* je naopak na kontaktu roztátý. Nachází se tam množství tavné vody. Ledovce s teplou bází intenzivně modelují své podloží. *Polytermální ledovce* jsou na pomezí předešlých dvou typů. Jedná se většinou o rozsáhlejší ledovce, kde se střídají oblasti s chladnou a teplou bází.
 
 
 ## Pohyb ledovců
@@ -174,7 +174,7 @@ Výstupy skalního podloží ledovec přemodelovává v *oblík*, což jsou v po
 
 V uzávěrách údolí, pramenných oblastech říčních údolí vznikají ledovcovou erozí *kary* (*cirque*). Tvar karu by se dal připodobnit křeslu. Vysoké a strmé stěny karu navazují na prohloubené konkávní dno karu. Od údolí je kar oddělen karovým stupněm.
 
-Ústupem zadních stěn karů z více stran vznikají ostré horské *štíty* taktéž známé jako *karlingy*, *ârety* nebo *(matter)horn* podle typického horského štítu Matterhorn (Obr. [4](#fig:matterhorn)) ve Švýcarských alpách.
+Ústupem zadních stěn karů z více stran vznikají ostré horské *štíty* taktéž známé jako *karlingy*, *arêty* nebo *(matter)horn* podle typického horského štítu Matterhorn (Obr. [4](#fig:matterhorn)) ve Švýcarských Alpách.
 
 <figure id="fig:matterhorn">
 <img src="/assets/obrazky/glac/matterhorn.jpg">
@@ -203,7 +203,7 @@ Akumulační formy tvořené tillem se označují jako *morény*. Morény jsou d
 
 *Drumlin* může na první pohled připomínat oblík. Je tvořen ale sedimenty a jeho podélný profil je opačný. Strmý svah je proti pohybu ledovce a mírný svah po směru pohybu.
 
-Táním tzv. mrtvého ledu (ledových čoček) vznikají sníženiny, které mohou být vyplněné vodou. Označují se jako *kotlíkové jámy* a v případně zaplnění vodou *kotlíková jezera* (*kettle lakes*).
+Táním tzv. mrtvého ledu (ledových čoček) vznikají sníženiny, které mohou být vyplněné vodou. Označují se jako *kotlíkové jámy* a v případě zaplnění vodou *kotlíková jezera* (*kettle lakes*).
 
 ## Fluvioglaciální tvary reliéfu
 

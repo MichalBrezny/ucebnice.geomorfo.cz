@@ -11,7 +11,7 @@ Zvětrávání je změna fyzikálních a chemických vlastností hornin po jejic
 
 # Fyzikální (mechanické) zvětrávání
 
-Při fyzikálním zvětrávání dochází k rozrušování horniny a rozpadu na menší částice. Mění se tedy fyzikální vlastnosti hornin a ne chemické složení. U některých typů fyzikálního zvětrávání dochází až k rozpadu na jednotlivá minerální zrna. Příčinou jsou vždy změny objemu v horninovém masivu
+Při fyzikálním zvětrávání dochází k rozrušování horniny a rozpadu na menší částice. Mění se tedy fyzikální vlastnosti hornin a ne chemické složení. U některých typů fyzikálního zvětrávání dochází až k rozpadu na jednotlivá minerální zrna. Příčinou jsou vždy změny objemu v horninovém masivu.
 
 ## Změny teplot
 
@@ -59,7 +59,7 @@ Nejjednodušším typem chemického zvětrávání je *rozpouštění*. Rozpustn
 
 Dalším typem chemického zvětrávání je *hydrolýza*. Molekula vody se dělí na proton (H<sup>+</sup>) a hydroxidový aniont (OH<sup>-</sup>). Vodíkový kation nahrazuje v krystalické mřížce kationy kovů (K<sup>+</sup>, Na<sup>+</sup>, Ca<sup>2+</sup>, Mg<sup>2+</sup>) a ty se slučují s hydroxidovým aniontem a stávají se součástí roztoku. Hydrolýza je hlavním procesem zvětrávání u silikátových hornin.
 
-*Oxidace* je typem reakce, při které prvek nebo sloučenina ztrácí jeden elektron (zvyšuje se tak jeho oxidační číslo). Například železnaté sloučeniny se oxidují na železité (Fe<sup>2+</sup> na Fe<sup>3+</sup>). Oxidačním činitelem nemusí být jen kyslík, ale například trojmocné železo, čtyřmocný mangan aj., zkrátka ty ionty, které jsou schopny přijmout elektron od oxidované sloučeniny. Oxidace je dominantní u minerálů, které obsahují železo (pyrit, siderit atd.), ale také hliník, hořčík mangan a chrom. Opakem oxidace je *redukce*. Redukovaná sloučenina přibírá elektron. Redukčním činitelem jsou ty ionty, které mohou elektrony předávat (např. dvojmocné železo, dvojmocný mangan). Projevy oxidace a redukce lze ve zvětralině či půdě poznat podle barvy. Hnědé či červené zbarvení poukazuje na oxidační prostředí, jelikož je typickým znakem oxidů trojmocného železa, kdežto šedá až šedozelená barva je typická pro redukční prostředí.
+*Oxidace* je typem reakce, při které prvek nebo sloučenina ztrácí jeden elektron (zvyšuje se tak jeho oxidační číslo). Například železnaté sloučeniny se oxidují na železité (Fe<sup>2+</sup> na Fe<sup>3+</sup>). Oxidačním činitelem nemusí být jen kyslík, ale například trojmocné železo, čtyřmocný mangan aj., zkrátka ty ionty, které jsou schopny přijmout elektron od oxidované sloučeniny. Oxidace je dominantní u minerálů, které obsahují železo (pyrit, siderit atd.), ale také hliník, hořčík, mangan a chrom. Opakem oxidace je *redukce*. Redukovaná sloučenina přibírá elektron. Redukčním činitelem jsou ty ionty, které mohou elektrony předávat (např. dvojmocné železo, dvojmocný mangan). Projevy oxidace a redukce lze ve zvětralině či půdě poznat podle barvy. Hnědé či červené zbarvení poukazuje na oxidační prostředí, jelikož je typickým znakem oxidů trojmocného železa, kdežto šedá až šedozelená barva je typická pro redukční prostředí.
 
 *Hydratace* označuje proces obohacování minerálu vodou. Ta se dostává do krystalické mřížky. Sloučenina, která přijímá vodu, zvětšuje svůj objem a tím může mechanicky působit na své okolí. Opakem tohoto procesu je *dehydratace*.
 
@@ -83,11 +83,11 @@ Werner Schellmann, CC BY-SA 2.5, via Wikimedia Commons)
 
 # Biologické zvětrávání
 
-Zvětrávání v důsledku činnosti organismů může mít charakter fyzikálního, ale i chemického zvětrávání. Pod fyzikálním biologickým zvětráváním si snadno můžeme představit růst kořenů rostlin, a jejich rozrušování hornin (rozšiřování puklin mezivrstevních spár apod.). Chemické zvětrávání organismy spíše urychlují (např. zvýšené množství v důsledku dýchání).
+Zvětrávání v důsledku činnosti organismů může mít charakter fyzikálního, ale i chemického zvětrávání. Pod fyzikálním biologickým zvětráváním si snadno můžeme představit růst kořenů rostlin, a jejich rozrušování hornin (rozšiřování puklin mezivrstevních spár apod.). Chemické zvětrávání organismy spíše urychlují (např. zvýšené množství CO<sub>2</sub> v důsledku dýchání).
 
 # Zvětralinová pokrývka
 
-Produktem zvětrávání je zvětralinová pokrývka. Její podoba je odvislá na typu zvětrávání. Fyzikální zvětrávání produkuje hrubší, ostrohranný materiál a naopak produkty chemického zvětrávání jsou daleko jemnější a mají hlinitojílovitý charakter. Mocnost zvětralinové pokrývky souvisí s charakterem podnebí, délkou zvětrávání a samozřejmě s odolností horniny. Na svazích je mocnost zvětraliny menší než na rovinách. Zvětralinu, která je na místě svého vzniku (*in situ*) označujeme jako *saprolit*, naopak zvětralina, která je gravitačně přesouvána z vyšších částí svahu se nazývá *regolit*.
+Produktem zvětrávání je zvětralinová pokrývka. Její podoba je odvislá od typu zvětrávání. Fyzikální zvětrávání produkuje hrubší, ostrohranný materiál a naopak produkty chemického zvětrávání jsou daleko jemnější a mají hlinitojílovitý charakter. Mocnost zvětralinové pokrývky souvisí s charakterem podnebí, délkou zvětrávání a samozřejmě s odolností horniny. Na svazích je mocnost zvětraliny menší než na rovinách. Zvětralinu, která je na místě svého vzniku (*in situ*) označujeme jako *saprolit*, naopak zvětralina, která je gravitačně přesouvána z vyšších částí svahu se nazývá *regolit*.
 
 
 

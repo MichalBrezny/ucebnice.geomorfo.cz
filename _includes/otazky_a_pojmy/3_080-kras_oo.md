@@ -3,10 +3,11 @@
 - Jaké faktory ovlivňují dynamiku krasových procesů?
 - Jaký je rozdíl mezi syngenetickou a epigenetickou jeskyní?
 
-Další klíčové pojmy k zapamatování
+Další klíčové pojmy k zapamatování
+
 | Termín          | Popis                                                                                       |
 |-----------------|---------------------------------------------------------------------------------------------|
-| Škrapy          | Malé zařezy či rýhy a jiné vyhloubeniny na povrchu krasových hornin.                        |
+| Škrapy          | Malé zářezy či rýhy a jiné vyhloubeniny na povrchu krasových hornin.                        |
 | Závrt           | Uzavřené deprese rozličných rozměrů, připomínající trychtýř nebo mísy.                      |
 | Úvala           | Sníženiny vzniklé spojením závrtů, často protažené podle průběhu vrstev nebo zlomu.         |
 | Polje           | Velké, uzavřené sníženiny se strmými okrajovými svahy a plochým dnem, mohou být suchá nebo vyplněná jezerem. |

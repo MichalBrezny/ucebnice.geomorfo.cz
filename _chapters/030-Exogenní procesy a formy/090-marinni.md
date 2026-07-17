@@ -17,7 +17,7 @@ Charakter a modelace břežního pásma je ovlivněna aktivními a pasivními č
 
 # Vlnění
 
-Vlny jsou hlavním aktivním činitelem, který utváří pobřeží. Jsou popisovány několika parametry. Vlnová délka ($\lambda$ nebo $L$) je vzdálenost mezi dvěma hřbety vln. Perioda vlny ($T$) je čas, který uplyne než se následující vlna dostane do pozice vlny předchozí. Rychlost vlny ($V$) je daná rovnicí $V = \lambda/T$. Výška vlny nebo také amplituda ($H$) je vertikální vzdálenost mezi nejnižším místem (dolem) a hřbetem vlny. Vlnění směrem do hloubky postupně ustává a zaniká v hloubce rovnající se polovině vlnové délky. Tuto hloubku označujeme jako *báze vlny*. Vrchol vlny se nazývá hřbet a nejnižší bod se označuje jako důl nebo vpadlina.
+Vlny jsou hlavním aktivním činitelem, který utváří pobřeží. Jsou popisovány několika parametry. Vlnová délka ($\lambda$ nebo $L$) je vzdálenost mezi dvěma hřbety vln. Perioda vlny ($T$) je čas, který uplyne než se následující vlna dostane do pozice vlny předchozí. Rychlost vlny ($V$) je daná rovnicí $V = \lambda/T$. Výška vlny ($H$) je vertikální vzdálenost mezi nejnižším místem (dolem) a hřbetem vlny. Vlnění směrem do hloubky postupně ustává a zaniká v hloubce rovnající se polovině vlnové délky. Tuto hloubku označujeme jako *báze vlny*. Vrchol vlny se nazývá hřbet a nejnižší bod se označuje jako důl nebo vpadlina.
 
 
 <figure>
@@ -43,8 +43,8 @@ velké vlny s vysokou kinetickou energií.
 V hlubokých vodách, tedy tam, kde báze vlny neprotíná dno probíhá pohyb molekul po kružnici. Směrem do hloubky se jejich průměr zmenšuje. Toto vlnění označujeme jako *vlnění hluboké vody*. Když vlna dosáhne mělčích vod (hloubka $< 0,5\lambda$), začíná vlna interagovat se dnem. Pohyb částic již neprobíhá po kružnicích, ale po elipsách. Část energie vln je vynaložena na transport sypkého materiálu na dně a modelaci dna. Dochází ke zkracování vln a jejich zpomalování. Výška vlny ale naopak narůstá a čelní svah vlny se stává strmějším. Zvyšuje se tak poměr mezi výškou vlny a vlnovou délkou ($H/\lambda$). Směrem k pobřeží se tato transformace zesiluje. Když $H/\lambda$ překročí $1/7$, hřbet vlny ztrácí oporu a dochází k lámání vlny. Vzniká tak *příboj* (*surf*), který mění potenciální energii vlny na kinetickou. Způsob jakým se vlna láme je dán strmostí vlny a sklonem pobřeží.
 
 <figure>
-<img src="/assets/obrazky/marinni/vlny_transformace.png" alt="Vlny hluboké vlny a jejich transformace postupem ke břehu" />
-<figcaption>Vlny hluboké vlny a jejich transformace postupem ke břehu
+<img src="/assets/obrazky/marinni/vlny_transformace.png" alt="Vlny hluboké vody a jejich transformace postupem ke břehu" />
+<figcaption>Vlny hluboké vody a jejich transformace postupem ke břehu
 </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Vlny mají tendenci ohýbat své čelo paralelně s pobřežím – dochází k 
 
 ## Bouřkové vlny
 
-Dalším typem je *bouřkové vlnění* (*storm surges)*, které vzniká kombinací extrémně nízkého tlaku, silného větru a přílivu.
+Dalším typem je *bouřkové vlnění* (*storm surges*), které vzniká kombinací extrémně nízkého tlaku, silného větru a přílivu.
 
 ## Seismické mořské vlny
 
@@ -60,7 +60,7 @@ V důsledku zemětřesení mohou vzniknout vlny *tsunami*. Jejich vznik je spoje
 
 # Příboj
 
-Směrem k pobřeží se postupující vlny stávají příkřejšími až převislými - dochází k lomu vlny a vzniku příboje resp. příbojového proudu. Charakter příboje je ovlivněn sklonem pobřeží. Mírné písčité pláže jsou typické příbojem typu *spilling breaker*. Vlna se postupně bortí do podoby zpěněné nerovnoměrné vlnové fronty. Voda pak v poklidu odtéká z pláže. Zcela kontrastní jsou tzv. *plunging breakers* a *surging breakers*. Vznikají na březích se strmějším dnem. Rysem *plunging breaker* je lámání vrcholu vlny. Vlna se překlápí dopředu a padá na hladinu. Vzniká turbulentní vodní masa vody. *Surging breaker* je třetí typ. Tímto divokým příbojem jsou charakteristické strmé pláže. Nedochází k lomu vrcholu vlny, ale ta naráží plnou silou na pláž.
+Směrem k pobřeží se postupující vlny stávají příkřejšími až převislými - dochází k lomu vlny a vzniku příboje resp. příbojového proudu. Charakter příboje je ovlivněn sklonem pobřeží. Mírné písčité pláže jsou typické příbojem typu *spilling breaker*. Vlna se postupně bortí do podoby zpěněné nerovnoměrné vlnové fronty. Voda pak v poklidu odtéká z pláže. Zcela kontrastní jsou tzv. *plunging breakers* a *surging breakers*. Vznikají na březích se strmějším dnem. Rysem *plunging breaker* je lámání vrcholu vlny. Vlna se překlápí dopředu a padá na hladinu. Vzniká turbulentní vodní masa. *Surging breaker* je třetí typ. Tímto divokým příbojem jsou charakteristické strmé pláže. Nedochází k lomu vrcholu vlny, ale ta naráží plnou silou na pláž.
 
 # Vlnové proudy
 
@@ -154,10 +154,10 @@ Rozsáhlé ploché akumulační formy, které jsou zaplavované během přílivu
 
 ### Říční delta
 
-*Delta* je akumulační tvar vznikající při ústí řek do jezer, moří či oceánů. Vodní tok při zaústění do vodního tělesa se rozšiřuje a razantně klesá rychlost proudění. To způsobuje snížení transportní kapacity a dochází k splavenin. Důležitou podmínkou pro vznik delty je, aby řeka přinášela velké množství materiálu, které pobřežní procesy nejsou
+*Delta* je akumulační tvar vznikající při ústí řek do jezer, moří či oceánů. Vodní tok při zaústění do vodního tělesa se rozšiřuje a razantně klesá rychlost proudění. To způsobuje snížení transportní kapacity a dochází k ukládání splavenin. Důležitou podmínkou pro vznik delty je, aby řeka přinášela velké množství materiálu, které pobřežní procesy nejsou
 schopné odnést. 
 
-Sedimentace dnových splavenin nastává okamžitě. Sedimentace plavenin (materiálu v suspenzi) je ovlivněna poměrem hustoty vodního toku a mořské či jezerní vody. V případě stejné hustoty obou vod dochází k rychlému promíchání a k okamžité sedimentaci. Toto se nastává zejména u sladkých vod, tedy když řeka vtéká do jezera. Druhý případ je, pokud má voda v řece větší hustotu než je voda v tělese, do kterého vtéká. Hustší říční voda se noří pod vodu s nižší hustotou a v podobě proudu u dna transportuje sedimenty daleko od břehu. K vývoji delty tak nemůže docházet. Toto nastává když například velice studená řeka vtéká (voda má nejvyšší hustotu při 4 °C) do teplého jezera. Poslední možnou variantu je, když říční voda má menší hustotu než voda, do které vtéká. V tomto případě se říční voda rozlije po povrchu a pokud transportuje velké množství splavenin, tak vytváří snadno identifikovatelné mračno, které postupuje daleko od břehu, než se voda dostatečně promíchá. Tato varianta je typické pro případy, kdy řeka (sladká voda, nízká hustota) vtéká do moře (slaná voda, vysoká hustota).
+Sedimentace dnových splavenin nastává okamžitě. Sedimentace plavenin (materiálu v suspenzi) je ovlivněna poměrem hustoty vodního toku a mořské či jezerní vody. V případě stejné hustoty obou vod dochází k rychlému promíchání a k okamžité sedimentaci. Toto nastává zejména u sladkých vod, tedy když řeka vtéká do jezera. Druhý případ je, pokud má voda v řece větší hustotu než je voda v tělese, do kterého vtéká. Hustší říční voda se noří pod vodu s nižší hustotou a v podobě proudu u dna transportuje sedimenty daleko od břehu. K vývoji delty tak nemůže docházet. Toto nastává když například velice studená řeka vtéká (voda má nejvyšší hustotu při 4 °C) do teplého jezera. Poslední možnou variantou je, když říční voda má menší hustotu než voda, do které vtéká. V tomto případě se říční voda rozlije po povrchu a pokud transportuje velké množství splavenin, tak vytváří snadno identifikovatelné mračno, které postupuje daleko od břehu, než se voda dostatečně promíchá. Tato varianta je typická pro případy, kdy řeka (sladká voda, nízká hustota) vtéká do moře (slaná voda, vysoká hustota).
 
 Nejjednodušší podoba delty je tzv. *Gilbertova delta* (pojmenovaná podle amerického geologa Grove Karl Gilberta). Tyto delty vznikají zejména v jezerech, kde nedochází ke komplexním vlivům dalších procesů (příboje, slapových jevů, mořských proudů). Jedná se tedy o deltu s dominantní fluviální sedimentací. V sedimentech delty můžeme rozlišit tři základní jednotky: topset, foreset, bottomset. *Topset* jsou horní, (sub)horizontálně uložené sedimenty. *Foreset* jsou šikmé, do jezera se uklánějící vrstvy. Postupným budováním foresetu dochází k rozšiřování delty. *Bottomset* jsou (sub)horizontální vrstvy uložené v hluboké vodě na okraji delty. Jsou tvořené zejména jemnozrnným materiálem.
 
@@ -240,11 +240,11 @@ Vznikající tvary na pobřeží reflektují průměrnou výšku hladiny moře a
 Možných příčin změny mořské hladiny je celá řada. *Eustatické pohyby* hladiny světového oceánu jsou způsobené změnami objemu vody a projevují se v celoplanetárním měřítku. Objem vody a tím i výška hladiny se mění i s měnící se teplotou z důvodu teplotní roztažnosti vody. Nárůst průměrné teploty oceánů o 1 °C by způsobil zvýšení hladiny o přibližně 2 m. Objem vody ovlivňuje i salinita. Zvýšení salinity způsobuje zmenšení objemu a
 naopak.
 
-Podobně jak se postupem času zanáší vodní nádrž sedimenty, které unáší vodní tok, stejně se postupně zasedimentovávají i oceánské pánve. Zmenšování jejich objemu způsobuje velice pomalé zvyšování hladiny světového oceánu. Udává se, že současná globální denudace způsobuje zvýšení hladiny o přibližně 3 mm.
+Podobně jak se postupem času zanáší vodní nádrž sedimenty, které unáší vodní tok, stejně se postupně zanášejí i oceánské pánve. Zmenšování jejich objemu způsobuje velice pomalé zvyšování hladiny světového oceánu. Udává se, že současná globální denudace způsobuje zvýšení hladiny o přibližně 2 mm za století (0,03 mm/rok).
 
-Změny úrovně mořské hladiny se dějí i v důsledku tektonických pohybů. Poklesy oceánských pánví způsobují nárůst jejich kapacity, což v důsledku způsobuje pokles hladiny vůči pevnině. Naopak výzdvih či zmenšování oceánský pánví v důsledku pohybů litosférických desek vede k nárůstu hladiny. Epeirogenetické a orogenické pohyby také ovlivňují relativní výšku hladiny moře vůči pevnině. Známé jsou bývalé antické přístavy ze středomoří, které jsou v současnosti vyzdviženy nad současnou hladinu Středozemního moře.
+Změny úrovně mořské hladiny se dějí i v důsledku tektonických pohybů. Poklesy oceánských pánví způsobují nárůst jejich kapacity, což v důsledku způsobuje pokles hladiny vůči pevnině. Naopak výzdvih či zmenšování oceánských pánví v důsledku pohybů litosférických desek vede k nárůstu hladiny. Epeirogenetické a orogenické pohyby také ovlivňují relativní výšku hladiny moře vůči pevnině. Známé jsou bývalé antické přístavy ze Středomoří, které jsou v současnosti vyzdviženy nad současnou hladinu Středozemního moře.
 
-Hladinu světového oceánu ovlivňují i isostatické pohyby, tedy pohyby zemské kůry v důsledku jejího odlehčení či zatížení. Nejpatrnější to je na příkladu glaciisostatických pohybů. Zemská kůra byla zatlačena v důsledku zatížení kontinentálními ledovci během glaciálů. Následným zánikem kontinentálního zalednění došlo k odlehčení zemské kůry a k jejímu opětovnému výzdvihu. Tento výzdvih kompenzuje nárůst hladiny, který je způsoben a ústupem ledovců došlo k odlehčení zemské kůry a k jejímu výzdvihu.
+Hladinu světového oceánu ovlivňují i isostatické pohyby, tedy pohyby zemské kůry v důsledku jejího odlehčení či zatížení. Nejpatrnější to je na příkladu glaciisostatických pohybů. Během glaciálů byla zemská kůra zatlačena v důsledku zatížení kontinentálními ledovci. Následným zánikem kontinentálního zalednění došlo k odlehčení zemské kůry a k jejímu opětovnému výzdvihu. Tento výzdvih kompenzuje růst hladiny, který je způsoben tání ledovců.
 
 Ledovcové příkrovy během glaciálů v sobě zadržovaly obrovské objemy vody. Během posledního glaciálního maxima (cca 20 tisíc let zpět) byla hladina světového oceánu asi o 140 m níž než dnes. Následným táním ledovců se hladina začala zdvihat. Tato transgrese byla např. ve Skandinávii kompenzována výzdvihem pevniny v důsledku výše zmíněné glaciisostáze.
 

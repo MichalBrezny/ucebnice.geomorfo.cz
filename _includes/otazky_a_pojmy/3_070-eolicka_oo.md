@@ -3,7 +3,7 @@
 - Které částice jsou nejlépe větrem unášeny?
 - Co ovlivňuje podobu písečných dun?
 
-
+Další klíčové pojmy k zapamatování
 
 | Termín            | Popis                                                                                      |
 |-------------------|---------------------------------------------------------------------------------------------|

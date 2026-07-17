@@ -18,7 +18,7 @@ Z výše uvedeného je tedy zřejmé, že pro správné čtení zemského relié
 
 # Endogenní a exogenní procesy
 
-Jak již bylo zmíněno, reliéf se vyvíjí působením **geomorfologických procesů**. Tyto procesy dělíme do dvou základních skupin, a to na endogenní a exogenní. **Endogenní** procesy mají svůj původ v zemském nitru. Jejich hlavní zdroj energie je rozpad radioaktivních prvků v zemském jádře. Projev endogenních procesů je například vulkanismus, zemětřesení, pohyby litosférických desek. Naopak **exogenní** procesy mají svůj zdroj energie ve Slunci. Uplatňuje se u nich ale i gravitace, zemská rotace a slapové jevy.
+Jak již bylo zmíněno, reliéf se vyvíjí působením **geomorfologických procesů**. Tyto procesy dělíme do dvou základních skupin, a to na endogenní a exogenní. **Endogenní** procesy mají svůj původ v zemském nitru. Jejich hlavní zdroj energie je rozpad radioaktivních prvků v zemském nitru. Projev endogenních procesů je například vulkanismus, zemětřesení, pohyby litosférických desek. Naopak **exogenní** procesy mají svůj zdroj energie ve Slunci. Uplatňuje se u nich ale i gravitace, zemská rotace a slapové jevy.
 
 Ve své základní podstatě je georeliéf výsledkem protichůdných působení endogenních a exogenních procesů. Obecně můžeme říct, že endogenní procesy hlavně budují reliéf do výšky ([Obr. 1](#fig:zmenyvysky)). Jejich působením vznikají pohoří, sopky ale i drobnější tvary jako jsou zlomové stupně. Zvyšují tak vertikální členitost reliéfu. Vyčleňují se tři hlavní skupiny endogenních procesů. *Magmatické procesy* zahrnují přesuny roztavených hornin (magmatu) k zemskému povrchu. **Orogeneze** označuje vznik rozsáhlých pásemných pohoří. **Epeirogeneze** je výzdvih velkých území bez zjevného vrásnění či rozlámání hornin.
 

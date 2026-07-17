@@ -9,4 +9,4 @@ slug: odkazy
 
 Mezinárodní asociace geomorfologů ([www.geomorph.org/](http://www.geomorph.org/))
 
-Česká geografická společnost ([www.cgs.cz](https://geography.cz/))
+Česká geografická společnost ([geography.cz](https://geography.cz/))

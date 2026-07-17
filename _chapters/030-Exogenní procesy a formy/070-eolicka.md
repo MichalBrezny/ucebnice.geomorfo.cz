@@ -38,13 +38,13 @@ Nejjemnější sedimenty jsou transportovány v *suspenzi* ("suspension"). Vítr
 </figcaption>
 </figure>
 
-Hrubší částečky se přesouvají *saltací* ("saltation"). Jedná se o
+Hrubší částečky se přesouvají *saltací* ("saltation", [Obr. 3](#fig:saltace)). Jedná se o
 proces, kdy je klast větrem vyzdvižen a po chvilce letu vzduchem dopadá
 zpět na zem. V podstatě to je poskakování jednotlivých zrníček. Většina
 zrn je vyzdvižena maximálně do cca 10 mm nad povrch a přenesena do
 vzdálenosti 0,5 m až 1,5 m.
 
-Klasty, které jsou natoli těžké, že je vítr nedokáže zvednout se po
+Klasty, které jsou natolik těžké, že je vítr nedokáže zvednout se po
 povrchu sunou nebo kutálí. Souhrnně se tento pohyb označuje jako
 *ploužení* ("creep").
 
@@ -61,27 +61,27 @@ Pohyb vymrštěných zrnek je jen na velice krátkou vzdálenost (cca v
 
 # Erozní formy
 
-Obrušováním větších klastů (valounky, balvany) nebo drobných výchozů podloží částečkami unášenými větrem vznikají *hrance* ([Obr. 2](#fig:hranec)). Hrance se vyznačují jednou nebo více vybroušenými ploškami *facetami*. Jedna dominantní faceta odpovídá převládajícímu směru větru. Pokud má hranec více facet, je to spíše způsobené pohybem klastu než změnou směru větru {% cite livingstoneAeolianGeomorphologyNew2019 %}.
+Obrušováním větších klastů (valounky, balvany) nebo drobných výchozů podloží částečkami unášenými větrem vznikají *hrance* ([Obr. 4](#fig:hranec)). Hrance se vyznačují jednou nebo více vybroušenými ploškami *facetami*. Jedna dominantní faceta odpovídá převládajícímu směru větru. Pokud má hranec více facet, je to spíše způsobené pohybem klastu než změnou směru větru {% cite livingstoneAeolianGeomorphologyNew2019 %}.
 
 <figure id="fig:hranec">
 <figure>
 <img src="/assets/obrazky/eolicka/ventifact_mojave.jpg"/>
 </figure>
-<figcaption> Obr. Hranec v Mohavské poušti (zdroj: Wikimedia Commons, volné dílo)
+<figcaption> Obr. 4 Hranec v Mohavské poušti (zdroj: Wikimedia Commons, volné dílo)
 </figcaption>
 </figure>
 
-*Jardangy* (*yardangs*) jsou nízké, protáhlé hřbety, které mají směr totožný se směrem převládajícího větru. Vznikají v suchých oblastech se silnými větry jednoho převládající směru a s podložím tvořeným málo odolnými sedimentárními horninami. Jardangy se nacházejí zpravidla na velkých plochách, kde je několik těchto paralelních hřbítků. Jardangy vznikají korazí -- obrušováním větrem nesených částeček a deflací uvolněného materiálu. 
+*Jardangy* (*yardangs*) jsou nízké, protáhlé hřbety, které mají směr totožný se směrem převládajícího větru. Vznikají v suchých oblastech se silnými větry jednoho převládajícího směru a s podložím tvořeným málo odolnými sedimentárními horninami. Jardangy se nacházejí zpravidla na velkých plochách, kde je několik těchto paralelních hřbítků. Jardangy vznikají korazí -- obrušováním větrem nesených částeček a deflací uvolněného materiálu. 
 
-*Hamada* je rozsáhlá kamenitá plocha (kamenité pouště). Jedná se o planiny pokryté ostrohrannými klasty velikosti valounů až balvanů. Jemný materiál zcela chybí, neboť podlehnul deflaci. *Pouštní dlažba* je podobná hamadě. Zásadní rozdíl je v podobě klastů. Pouštní dlažba je tvořena menšími, suboválnými klasty, které jsou navíc do sebe zaklesnuté. Tvoří tak armorovaný povrch, který chrání podloží z nekonsolidovaných sedimentů před další erozí.
+*Hamada* je rozsáhlá kamenitá plocha (kamenité pouště). Jedná se o planiny pokryté ostrohrannými klasty velikosti valounů až balvanů. Jemný materiál zcela chybí, neboť podlehnul deflaci. *Pouštní dlažba* je podobná hamadě. Zásadní rozdíl je v podobě klastů. Pouštní dlažba je tvořena menšími, suboválnými klasty, které jsou navíc do sebe zaklesnuté. Tvoří tak armovaný povrch, který chrání podloží z nekonsolidovaných sedimentů před další erozí.
 
-*Deflační pánve (vany)* ("deflation basin") jsou mělké deprese které vznikly odnosem jemnozrného materiálu. Jedna z největších deflačních pánví - Qattara Depressiuon v Egyptě má na délku okolo 300 km, šířku 145 km a dosahuje hloubky -134 metrů pod mořem {% cite albrittonOriginQattaraDepression1990 %}. V mnoha případech je dno pánve v úrovni hladiny podzemní vody a vznikají tam oázy.
+*Deflační pánve (vany)* ("deflation basin") jsou mělké deprese které vznikly odnosem jemnozrnného materiálu. Jedna z největších deflačních pánví - Qattara Depression v Egyptě má na délku okolo 300 km, šířku 145 km a dosahuje hloubky -134 metrů pod mořem {% cite albrittonOriginQattaraDepression1990 %}. V mnoha případech je dno pánve v úrovni hladiny podzemní vody a vznikají tam oázy.
 
 Vítr erozně působí jen do omezené výšky. Díky tomu mohou vznikat i tzv. *skalní hřiby*.
 
 # Akumulační formy
 
-Nejmenší eolickým akumulačním tvarem jsou *čeřiny*. Jedná se o drobné hřbítky, které jsou kolmo na směr větru. Vznikají na površích tvořených sypkým materiálem. Nemají dlouhou životnost.
+Nejmenším eolickým akumulačním tvarem jsou *čeřiny*. Jedná se o drobné hřbítky, které jsou kolmo na směr větru. Vznikají na površích tvořených sypkým materiálem. Nemají dlouhou životnost.
 
 ## Písečné duny
 
@@ -91,60 +91,58 @@ Základní dělení dun je na tzv. *volné duny* a *vázané duny*. Volné duny 
 
 <figure id="fig:volneduny">
 <img src="/assets/obrazky/eolicka/typy_dun.png"/>
-<figcaption>Obr. 3 Rozdělení dun
+<figcaption>Obr. 5 Rozdělení dun
 </figcaption>
 </figure>
 
 
 ## Volné duny
 
-Tvar volných dun je výsledkem mnoha faktorů. Zjednodušeně lze říct, že tvar duny závisí na množství písku v území a variabilitě směru větru ([Obr. 3](#fig:volneduny)).
+Tvar volných dun je výsledkem mnoha faktorů. Zjednodušeně lze říct, že tvar duny závisí na množství písku v území a variabilitě směru větru ([Obr. 5](#fig:volneduny)).
 
 *Barchany* neboli také *srpovité duny* vznikají v oblastech, kde je málo písku a převládá jeden směr větru. Střední část barchanu je kolmo na směr proudění větru. Směrem k okrajům se ohýbá po směru větru a špičky jsou cca paralelní se směrem proudění. Duny na pobřeží mají často tvar barchanů. Návětrná strana má sklon v rozmezí 10 až 14°. Sklon závětrné strany je blízko sypnému úhlu suchého písku (okolo 32 až 34°). S nárůstem množství materiálu se barchany propojují a vznikají *příčné duny*. Jelikož se tyto duny nacházejí v oblastech kde dominuje vítr z jednoho směru, jedná se o nejmobilnější duny. Rychlost migrace dun je závislá na celkové hmotě duny. Menší duny migrují rychleji, neboť stačí transportovat méně hmoty, než u velkých dun. Barchany a příčné duny tvoří asi 10 % všech dun {% cite breedMorphologyDistributionDunes1979 %}.
 
-Pokud je území vystaveno dvěma převládajícím směrům větru (polovinu roku fouká jedním směrem, polovinu druhým) a písčitého materiálu podobně jako v oblasti barchanů, vytvářejí se *podélné duny* (*linear dunes* nebo také *longitudinal dunes*, [Obr. ](#fig:linearniduny)). Jedná se o nejběžnější typ písečných dun. Mají podobu klikatících se (sinusoidních) hřbetů. Dosahují výšky až 200 m a na délku mohou mít i stovky kilometrů. Podélné duny jsou poměrně stabilní, což může vyhovovat vegetaci, která se uchycuje ve spodních partiích dun.
+Pokud je území vystaveno dvěma převládajícím směrům větru (polovinu roku fouká jedním směrem, polovinu druhým) a písčitého materiálu podobně jako v oblasti barchanů, vytvářejí se *podélné duny* (*linear dunes* nebo také *longitudinal dunes*, [Obr. 6](#fig:linearniduny)). Jedná se o nejběžnější typ písečných dun. Mají podobu klikatících se (sinusoidních) hřbetů. Dosahují výšky až 200 m a na délku mohou mít i stovky kilometrů. Podélné duny jsou poměrně stabilní, což může vyhovovat vegetaci, která se uchycuje ve spodních partiích dun.
 
 
 <figure id="fig:linearniduny">
 <img src="/assets/obrazky/eolicka/linearniduny.jpg" style="width:100.0%" />
-<figcaption>Lineární duny
+<figcaption>Obr. 6 Lineární duny
 </figcaption>
 </figure>
 
 
-*Hvězdicové duny* jsou v oblastech s velkou variabilitou větru. Jedná se o rozsáhlá tělesa o výšce až 300 m. Duna se skládá z menších "ramen", které odpovídají jednotlivým směrům větru.
+*Hvězdicové duny* jsou v oblastech s velkou variabilitou větru. Jedná se o rozsáhlá tělesa o výšce až 300 m. Duna se skládá z menších "ramen", které odpovídají jednotlivým směrům větru ([Obr. 7](#fig:duny_variabilita)).
 
-<figure id="fig:volneduny">
+<figure id="fig:duny_variabilita">
 <img src="/assets/obrazky/eolicka/volne_duny.png" style="width:100.0%" />
-<figcaption>Závislost typu volných dun na mocnosti písku (při
+<figcaption>Obr. 7 Závislost typu volných dun na mocnosti písku (při
 rovnoměrném rozložení v ploše) a variabilitě směru větru (upraveno podle {% cite wassonFactorsDeterminingDesert1983 %})
 </figcaption>
 </figure>
 
 ## Vázané duny
 
-Jako *vázané duny* označujeme takové, které jsou přikotvené k nějaké překážce různého tvaru a velikosti. *Nebkha* je duna, která vázaná na vegetaci zachytávající zrnka prachu, písku, ale i větších klastů. Velikost nebkhy může být od centimetrů (v iniciálních stádiích) až po více jak 10 m. Podoba vegetace, na kterou jsou nebkhy vázané, silně ovlivňuje jejich morfologii.
+Jako *vázané duny* označujeme takové, které jsou přikotvené k nějaké překážce různého tvaru a velikosti. *Nebkha* je duna, která je vázaná na vegetaci zachytávající zrnka prachu, písku, ale i větších klastů. Velikost nebkhy může být od centimetrů (v iniciálních stádiích) až po více jak 10 m. Podoba vegetace, na kterou jsou nebkhy vázané, silně ovlivňuje jejich morfologii.
 
 *Vyváté deprese* (*blowouts*) jsou prohlubně rozličných tvarů. Nachází se v oblastech pokrytých sporadickou vegetací.
 
-*Parabolické duny* mohou vznikat po větru od vyvátých depresí. V půdorysu připomínají písmeno 'U' nebo 'V'. Narozdíl od barchanů jsou jejich výběžky otočené proti směru větru. *Lunety* jsou duny vznikající na okrajích jezer, playas. Jsou tvořeny
+*Parabolické duny* mohou vznikat po větru od vyvátých depresí. V půdorysu připomínají písmeno 'U' nebo 'V'. Na rozdíl od barchanů jsou jejich výběžky otočené proti směru větru. *Lunety* jsou duny vznikající na okrajích jezer, playas. Jsou tvořeny
 zejména jílovou frakcí s variabilní příměsí písčité frakce. Jedná se o sedimenty vyváté ze dna bývalých jezer.
 
-*Čelní duny* jsou částo pobřežní duny vázané na pionýrskou vegetaci. Označují se tak ale i duny před malou topografickou překážkou. Duny vzniklé až za překážkou jsou závětrné duny (*lee dunes*).
+*Čelní duny* jsou často pobřežní duny vázané na pionýrskou vegetaci. Označují se tak ale i duny před malou topografickou překážkou. Duny vzniklé až za překážkou jsou závětrné duny (*lee dunes*).
 
 Před velkou topografickou bariérou (např. skalní stěna, hřbety), mohou vzniknout duny typu *echo*, které věrně kopírují průběh překážky. Duny nasedající na bariéru z návětrné strany nazýváme *šplhající duny* (*climbing dunes*). Jejich méně strmá varianta je označována jako *písečná rampa* (*sand ramp*). Na závětrné straně překážky se vyskytují *padající duny*.
 
 # Spraš
 
-Spraš (*loess*) je eolický sediment tvořený hlavně siltem (prach, frakce 0,01 mm – 0,05 mm) s významnou příměsí. Má okrovou barvu, což je způsobené přítomností oxidů železa. Spraše pokrývají 5--10 % zemského povrchu ([Obr. 4](#fig:spras_distribuce)) {% cite biermanKeyConceptsGeomorphology2014 %}. Převážná část spraší se nachází na severní polokouli ve středních zeměpisných šířkách. Mocnost sprašových akumulací se pohybuje od centimetrů až po stovky metrů. Materiál spraší má rozličný původ. Významným zdrojem prachu byly v glaciálech rozsáhlé předledovcové plošiny, kde tavné vody z ledovců ukládaly velké množství materiálu. V jiných oblastech jsou zdrojem půdy vzniklé na málo odolných horninách (prachovce), případně rozsáhlé nížiny se sporým porostem vegetace. V současné době jsou zdrojem prachu hlavně pouštní oblasti.
+Spraš (*loess*) je eolický sediment tvořený hlavně křemitým siltem (prach, frakce 0,01 mm – 0,05 mm) s významnou příměsí uhličitanu vápenatého (CaCO<sub>3</sub>). Má okrovou barvu, což je způsobené přítomností oxidů železa. Spraše pokrývají 5--10 % zemského povrchu ([Obr. 8](#fig:spras_distribuce)) {% cite biermanKeyConceptsGeomorphology2014 %}. Převážná část spraší se nachází na severní polokouli ve středních zeměpisných šířkách. Mocnost sprašových akumulací se pohybuje od centimetrů až po stovky metrů. Materiál spraší má rozličný původ. Významným zdrojem prachu byly v glaciálech rozsáhlé předledovcové plošiny, kde tavné vody z ledovců ukládaly velké množství materiálu. V jiných oblastech jsou zdrojem půdy vzniklé na málo odolných horninách (prachovce), případně rozsáhlé nížiny se sporým porostem vegetace. V současné době jsou zdrojem prachu hlavně pouštní oblasti.
 
 Spraš je významným kvartérním sedimentem nejen střední Evropy. Díky zachování mocných akumulací jsou významným archivem uchovávajícím velké množství informací o kvartéru. Rychlost ukládání spraší se v průběhu kvartéru měnila. Během glaciálu se ukládalo největší množství, neboť podnebí bylo větrnější, sušší, chladnější. Při interglaciálech byla rychlost sedimentace snížena. Navíc vlhčí podmínky a větší množství vegetace umožnily rychlejší pedogenezi -- vznik půd. Během dalšího glaciálu byly tyto půdy pohřbené pod další vrstvou spraše. Opakováním těchto glaciálních a interglaciálních cyklů (případně i kratších výkyvů) vznikaly sekvence pohřbených půd.
 
 <figure id="fig:spras_distribuce">
-<figure>
 <img src="/assets/obrazky/eolicka/loes_distr.jpg"/>
-</figure>
-<figcaption>Rozšíření spraše a její mocnost (zdroj: {% cite liLoessGenesisWorldwide2020 %})
+<figcaption>Obr. 8 Rozšíření spraše a její mocnost (zdroj: {% cite liLoessGenesisWorldwide2020 %})
 </figcaption>
 </figure>
 

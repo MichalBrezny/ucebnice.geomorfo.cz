@@ -30,10 +30,17 @@ Postup nasazení:
 3. Zbuildované HTML dostat do větve `site`. Tento krok se v čase měnil a je potřeba ho na daném počítači mít nastavený:
    - **Historicky:** samostatná složka = klon větve `site`, kam se ručně zkopíroval obsah `_site/` a pushnul se (přes GitHub Desktop) – jen HTML soubory.
    - **Skriptově:** `bin/deploy.ps1` – při prvním spuštění nastaví `_site/` jako git **worktree** větve `site`, při dalších spuštěních commitne a pushne.
-   - **Stav na tomto počítači (2026-07-17):** `_site/` je zatím jen build output, NENÍ worktree větve `site` (`git worktree list` ukazuje jen hlavní strom). Pro deploy odsud je třeba buď spustit one-time setup v `deploy.ps1`, nebo použít samostatnou složku s klonem `site`.
+   - **Stav na tomto počítači (od 2026-07-18):** `_site/` už JE nastavený jako git worktree větve `site` (one-time setup přes `deploy.ps1` proběhl). Další deploy = jen znovu spustit `deploy.ps1` (commit + push).
 4. Push do `site` **automaticky** spustí GitHub Action `.github/workflows/deploy-wedos.yaml` (žije na větvi `site`), která přes FTPS nahraje soubory na WEDOS hosting → web je live. FTP údaje jsou v GitHub Secrets (`WEDOS_FTP_*`).
 
 Pozn.: push do `main` sám o sobě web NENASADÍ – automatická je jen část `site → WEDOS`.
+
+⚠️ **Důležité – čistý build vs. watch:** Devcontainer běží `jekyll serve --watch`, který do `_site/` zapisuje **dev build** a **NEMAŽE** už zkopírované obsolete soubory. `deploy.ps1` sám nebuilduje – jen commitne, co je v `_site/`. Takže když se deployuje nad watch-buildem, jde na web neuklizený dev build (přesně proto se na web od června dostaly `CLAUDE.md`, `TODO-*`, `docker-compose.yml`, než jsme je 2026-07-18 přidali do `exclude`). **Před deployem dělat čistý produkční build**, který pročistí `_site/`:
+```
+docker run --rm -e JEKYLL_ENV=production -e JEKYLL_NO_BUNDLER_REQUIRE=true \
+  -v "<projekt>:/srv/jekyll" -w /srv/jekyll <devcontainer-image> bash -lc "jekyll build"
+```
+(`JEKYLL_NO_BUNDLER_REQUIRE=true` obchází Bundler – jinak padá na `Gemfile.lock`; `entry_point.sh` to řeší mazáním `Gemfile.lock`.) Ideálně tenhle čistý build zadrátovat přímo do `deploy.ps1`, aby se na to nezapomínalo.
 
 **Úklid k uvážení:** `bin/deploy` (bash, deploy do `gh-pages`) je starý pozůstatek šablony jekyll-chapterbook a nepoužívá se – lze smazat.
 

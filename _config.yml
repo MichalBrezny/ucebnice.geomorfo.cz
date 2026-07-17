@@ -105,6 +105,11 @@ exclude:
   - .devcontainer
   - bin/
   - apps-script/
+  - memory/
+  - CLAUDE.md
+  - TODO-backlog.md
+  - TODO-callouts.md
+  - docker-compose.yml
 
 page_width: 800px
 

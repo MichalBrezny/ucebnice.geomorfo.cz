@@ -27,7 +27,7 @@ Zásadní podmínkou pro vývoj krasu je samozřejmě přítomnost rozpustných 
 
 Do této skupiny hornin spadá vápenec, krystalický vápenec, dolomit a usazené či zpevněné horniny s vápnitým tmelem (písčité vápence, vápnité pískovce). Hlavním rozpouštědlem je disociovaná kyselina uhličitá (H<sub>2</sub>CO<sub>3</sub>). Intenzita krasovění je závislá na množství (parciálním tlaku) oxidu uhličitého (atmosférický a půdní) v roztoku. Přenos probíhá ve formě  Ca(HCO<sub>3</sub>)<sub>2</sub> a opětovné srážení se děje poklesem parciálního tlaku, tedy jeho únikem zpět do atmosféry (např. v jeskyni). Rovnice krasovění:
 
-$$CaCO_3 + H_2O + CO_2 \leftrightharpoons Ca(HCO_3)_2$$
+$$\ce{CaCO3 + H2O + CO2 <=> Ca(HCO3)2}$$
 
 Rovnice je reverzibilní, což znamená, že při vzrůstu teploty, poklesu atmosférického tlaku nebo při působení rostlin dochází k uvolnění a vysrážení CaCO<sub>3</sub> v krystalické modifikaci (kalcit, aragonit), v podobě pěnovců, travertinů a sintrů.
 

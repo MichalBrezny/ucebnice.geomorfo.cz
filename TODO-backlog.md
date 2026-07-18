@@ -23,7 +23,14 @@ Mrtvý v2 loader (`cdn.mathjax.org`, vypnuto 2017) i v2 config v [`_includes/hea
 
 Rovnice krasovění v `080-kras.md` přepsána z ručního TeXu na `\ce{...}`.
 
-⚠️ Renderování všech rovnic se tím mění → **před nasazením ověřit buildem/serverem** (dosud neověřeno, Docker při úpravě neběžel).
+Nasazeno 2026-07-18. Ověřeno headless MathJaxem (Node) nad vygenerovanými stránkami: 126 vzorců, 0 chyb TeXu.
+
+### Jak psát matematiku (pozor na dolar v textu)
+
+- `$$...$$` – rovnice na samostatném řádku. Převádí **kramdown už při buildu** na `\[...\]`.
+- `$...$` – proměnné v textu (`$Re$`, `$\tau$`). Kramdown je **neumí** (zná jen dvojité), zpracuje je až **MathJax v prohlížeči** – proto je v [`_includes/head.html`](_includes/head.html) v konfiguraci `inlineMath` s jednoduchým dolarem. Bez toho by se na webu zobrazovaly doslova i s dolary.
+
+⚠️ **Důsledek:** dolar v textu se od té doby bere jako oddělovač vzorce. Když v odstavci napíšeš např. „cena 5 $" a někde dál padne další osamocený dolar, MathJax si je spáruje a vysází mezi nimi nesmysl. Pro dolar jako znak psát **`\$`** (`processEscapes` je zapnutý). Aktuálně jsou všechny výskyty `$` v kapitolách matematika, takže problém nikde nenastává.
 
 ## Deploy – jak to funguje (poznámka pro připomenutí)
 

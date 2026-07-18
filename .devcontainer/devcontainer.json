@@ -5,12 +5,8 @@
     "context": ".."
   },
 
-  "mounts": [
-    "source=${localWorkspaceFolder}/../ucebnice.geomorfo.cz-site,target=/workspaces/ucebnice.geomorfo.cz-site,type=bind"
-  ],
-
   "features": {
-    "ghcr.io/devcontainers-contrib/features/prettier:1": {}
+    "ghcr.io/devcontainers-extra/features/prettier:1": {}
   },
 
   "forwardPorts": [8080],

@@ -17,6 +17,14 @@ Do slovníku patří odborné termíny geomorfologie, cizí místní/osobní ná
 ## Automatické číslování obrázků
 Čísla obrázků jsou teď zapsaná ručně v popiscích i odkazech, takže při přidání/odebrání obrázku je nutné vše přečíslovat ručně (riziko rozjetí, jako u eolické kapitoly). Zvážit automatické číslování – např. CSS counters (`counter-reset`/`counter-increment` nad `<figure>`/`<figcaption>`) pro popisky, ideálně spolu s Liquid/pluginem pro odkazy „Obr. X" v textu, aby čísla i křížové odkazy generovala sazba. Řešit jednotně pro celou učebnici, ne jen eolickou kapitolu.
 
+## ~~MathJax – dokončit migraci na v3 + zapnout mhchem~~ (hotovo 2026-07-18)
+
+Mrtvý v2 loader (`cdn.mathjax.org`, vypnuto 2017) i v2 config v [`_includes/head.html`](_includes/head.html) nahrazeny jedním v3 configem + async loaderem `tex-chtml.js` z jsdelivr; zakomentovaný v3 loader v [`_includes/footer.html`](_includes/footer.html) smazán. Zapnut balíček **mhchem** → lze psát chemické rovnice přes `\ce{...}`.
+
+Rovnice krasovění v `080-kras.md` přepsána z ručního TeXu na `\ce{...}`.
+
+⚠️ Renderování všech rovnic se tím mění → **před nasazením ověřit buildem/serverem** (dosud neověřeno, Docker při úpravě neběžel).
+
 ## Deploy – jak to funguje (poznámka pro připomenutí)
 
 Větve:
@@ -41,6 +49,8 @@ docker run --rm -e JEKYLL_ENV=production -e JEKYLL_NO_BUNDLER_REQUIRE=true \
   -v "<projekt>:/srv/jekyll" -w /srv/jekyll <devcontainer-image> bash -lc "jekyll build"
 ```
 (`JEKYLL_NO_BUNDLER_REQUIRE=true` obchází Bundler – jinak padá na `Gemfile.lock`; `entry_point.sh` to řeší mazáním `Gemfile.lock`.) Ideálně tenhle čistý build zadrátovat přímo do `deploy.ps1`, aby se na to nezapomínalo.
+
+⚠️ **`keep_files` v `_config.yml` neodstraňovat.** Ve větvi `site` (= obsah `_site/`) žije i `.github/workflows/deploy-wedos.yaml`. Výchozí `keep_files` Jekyllu je jen `['.git', '.svn']`, takže čistý build by workflow smazal → push do `site` by zrušil automatický deploy na WEDOS. Proto je od 2026-07-18 v configu `keep_files: ['.git', '.github']` (ověřeno: workflow build přežije, obsolete soubory se dál mažou).
 
 **Úklid k uvážení:** `bin/deploy` (bash, deploy do `gh-pages`) je starý pozůstatek šablony jekyll-chapterbook a nepoužívá se – lze smazat.
 

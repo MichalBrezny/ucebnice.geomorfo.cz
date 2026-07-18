@@ -114,6 +114,9 @@ exclude:
 page_width: 800px
 
 destination: ./_site
+# _site je git worktree větve `site`; .github tam drží deploy workflow na WEDOS.
+# Bez tohoto by je čistý build smazal (výchozí keep_files je jen .git a .svn).
+keep_files: ['.git', '.github']
 incremental: false
 regenerate: true
 

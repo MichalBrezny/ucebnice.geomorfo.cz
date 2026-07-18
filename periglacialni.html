@@ -38,43 +38,23 @@
 
 
 
-<!-- 
+<!-- MathJax 3. Kramdown (math_engine: mathjax) sází vzorce do \(...\) a \[...\],
+     což jsou výchozí oddělovače MathJaxu 3. Balíček mhchem umožňuje \ce{...}. -->
 <script>
   MathJax = {
-    TeX: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
-    },
-    svg: {
-      fontCache: 'global'
-    }
-  };
-</script>
--->
-
-
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    jax: ["input/TeX","input/MathML","output/SVG", "output/CommonHTML"],
-    extensions: ["tex2jax.js","mml2jax.js","MathMenu.js","MathZoom.js", "CHTML-preview.js"],
-  TeX: {
-    extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"]
-},
-  tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+    loader: { load: ['[tex]/mhchem'] },
+    tex: {
+      packages: { '[+]': ['mhchem'] },
       processEscapes: true,
       processEnvironments: true
     },
     chtml: {
-      mtextInheritFont: true,
-      scale: 1      
-    },
-    "HTML-CSS": { availableFonts: ["TeX"] }
-  });
+      mtextInheritFont: true
+    }
+  };
 </script>
 
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full"></script>
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
       <link rel="canonical" href="ucebnice.geomorfo.cz/periglacialni.html" />
     
 
@@ -2362,7 +2342,7 @@
     </div>
   
 
-  <time class="dt-published" datetime="2026-07-17T22:54:35+00:00" itemprop="datePublished">Poslední úpravy: 17. 07. 2026</time>
+  <time class="dt-published" datetime="2026-07-18T11:18:50+00:00" itemprop="datePublished">Poslední úpravy: 17. 07. 2026</time>
 
   
     
@@ -2803,10 +2783,6 @@ sněžníku</p>
 -->
 <script src="/assets/gitbook/gitbook-plugin-back-to-top-button/plugin.js"></script>
 
-<!--
-<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
--->
-
 
 <script>
       // var gitbook = gitbook || [];
@@ -2874,12 +2850,12 @@ sněžníku</p>
   },
   "file": {
     "path": "_chapters/030-Exogenní procesy a formy/060-periglac.md",
-    "mtime": "2026-07-17 22:54:35 +0000",
+    "mtime": "2026-07-18 11:18:50 +0000",
     "type": "markdown"
   },
   "gitbook": {
     "version": "",
-    "time": "2026-07-17 22:54:35 +0000"
+    "time": "2026-07-18 11:18:50 +0000"
   },
   "basePath": "",
   "book": {

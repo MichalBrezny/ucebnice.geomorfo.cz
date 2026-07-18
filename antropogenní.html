@@ -38,13 +38,17 @@
 
 
 
-<!-- MathJax 3. Kramdown (math_engine: mathjax) sází vzorce do \(...\) a \[...\],
-     což jsou výchozí oddělovače MathJaxu 3. Balíček mhchem umožňuje \ce{...}. -->
+<!-- MathJax 3. Kramdown (math_engine: mathjax) umí jen dvojite oddelovace a sazi
+     je do \(...\) a \[...\]. Jednoduche dolarove oddelovace nechava jako text,
+     proto je nize inline oddelovac navic - jinak by se promenne v textu
+     zobrazovaly doslova i s dolary. Balíček mhchem umožňuje \ce{...}. -->
 <script>
   MathJax = {
     loader: { load: ['[tex]/mhchem'] },
     tex: {
       packages: { '[+]': ['mhchem'] },
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true,
       processEnvironments: true
     },
@@ -2344,7 +2348,7 @@
 
   
 
-  <time class="dt-published" datetime="2026-07-18T11:18:50+00:00" itemprop="datePublished">Poslední úpravy: 21. 07. 2024</time>
+  <time class="dt-published" datetime="2026-07-18T17:53:53+00:00" itemprop="datePublished">Poslední úpravy: 21. 07. 2024</time>
 
   
     
@@ -2592,12 +2596,12 @@
   },
   "file": {
     "path": "_chapters/030-Exogenní procesy a formy/0110.draft-antropo.md",
-    "mtime": "2026-07-18 11:18:50 +0000",
+    "mtime": "2026-07-18 17:53:53 +0000",
     "type": "markdown"
   },
   "gitbook": {
     "version": "",
-    "time": "2026-07-18 11:18:50 +0000"
+    "time": "2026-07-18 17:53:53 +0000"
   },
   "basePath": "",
   "book": {

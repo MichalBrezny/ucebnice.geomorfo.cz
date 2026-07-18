@@ -38,13 +38,17 @@
 
 
 
-<!-- MathJax 3. Kramdown (math_engine: mathjax) sází vzorce do \(...\) a \[...\],
-     což jsou výchozí oddělovače MathJaxu 3. Balíček mhchem umožňuje \ce{...}. -->
+<!-- MathJax 3. Kramdown (math_engine: mathjax) umí jen dvojite oddelovace a sazi
+     je do \(...\) a \[...\]. Jednoduche dolarove oddelovace nechava jako text,
+     proto je nize inline oddelovac navic - jinak by se promenne v textu
+     zobrazovaly doslova i s dolary. Balíček mhchem umožňuje \ce{...}. -->
 <script>
   MathJax = {
     loader: { load: ['[tex]/mhchem'] },
     tex: {
       packages: { '[+]': ['mhchem'] },
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true,
       processEnvironments: true
     },
@@ -2459,12 +2463,12 @@
   },
   "file": {
     "path": "_chapters/999-back/010-hlavni_zdroje.md",
-    "mtime": "2026-07-18 11:18:50 +0000",
+    "mtime": "2026-07-18 17:53:53 +0000",
     "type": "markdown"
   },
   "gitbook": {
     "version": "",
-    "time": "2026-07-18 11:18:50 +0000"
+    "time": "2026-07-18 17:53:53 +0000"
   },
   "basePath": "",
   "book": {

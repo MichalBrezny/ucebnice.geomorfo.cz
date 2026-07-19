@@ -121,9 +121,17 @@ Images go in `assets/obrazky/<topic>/`.
 
 **Cross-references** within a chapter use Markdown anchor links: `[text](#fig:name)` or `[text](#tab:name)`. Cross-chapter links use the relative path to the `.md` file.
 
+**Math** is written in TeX with two different delimiters, handled by two different stages:
+- `$$...$$` — display equations on their own line. Converted by **kramdown at build time** into `\[...\]`.
+- `$...$` — inline variables in running text (`$Re$`, `$\tau$`). Kramdown does **not** support single delimiters (it only knows `$$`), so these are processed by **MathJax in the browser** — that is why `inlineMath` with `$` is configured in `_includes/head.html`. Without it they would render literally, dollars and all.
+
+Because of the second point, **a dollar sign in prose is treated as a math delimiter**. Write `\$` for a literal dollar (`processEscapes` is on); otherwise two stray dollars in a paragraph will pair up and typeset the text between them as math.
+
+Chemical equations use the mhchem package: `$$\ce{CaCO3 + H2O + CO2 <=> Ca(HCO3)2}$$`.
+
 ## Plugins and rendering
 
 - **kramdown** with `parse_block_html: true` — raw HTML blocks inside Markdown are parsed. Use this for tables and figures.
-- **MathJax** — use `$$...$$` for display math, `$...$` for inline math.
+- **MathJax** 3 (`tex-chtml.js` from jsdelivr), loaded and configured in `_includes/head.html`. See **Math** under Key conventions for delimiters.
 - **jekyll-scholar** — APA citation style, locale `en`, bibliography source in `./_bibliography/`.
 - **jekyll-youtube** — embed YouTube videos with `{% youtube VIDEO_ID %}`.
